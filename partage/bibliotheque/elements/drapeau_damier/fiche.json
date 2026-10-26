@@ -1,0 +1,51 @@
+{
+ "nom": "drapeau_damier",
+ "version": 1,
+ "type": "accessoire",
+ "quoi": "",
+ "fichier": "drapeau_damier.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  1.035,
+  1.043,
+  0.1294
+ ],
+ "tris": 1584,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x1024",
+  "512x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "drapeau_damier",
+  "drapeau_tissu",
+  "fourreau",
+  "fourreau001",
+  "fourreau001_1",
+  "hampe",
+  "hampe001",
+  "hampe001_1",
+  "hampe001_2",
+  "marqueur_main",
+  "marqueur_pointe"
+ ],
+ "pivots": {
+  "drapeau_tissu": "origine = haut du bord de hampe (x=0,y=0,z=0,95) ; la toile part vers +X, 1,00 x 0,70 m, u=0 au bord de hampe, v=1 en haut"
+ },
+ "marqueurs": [
+  "marqueur_main",
+  "marqueur_pointe"
+ ],
+ "notes": "Drapeau a damier 10 x 7 cases (nombre plausible, non source) sur hampe courte en bois de 1,00 m (+ embout laiton, ruban de prise en bas). Toile = objet drapeau_tissu (grille 24x16, UV suivant la grille, double face) pour que le moteur la fasse flotter ; plis doux au repos. marqueur_main = prise en main.",
+ "recalage": null,
+ "octets_source": 716120,
+ "octets": 540392,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "le-mans-66/assets/blender/drapeau_damier.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

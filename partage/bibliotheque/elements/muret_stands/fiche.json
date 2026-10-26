@@ -1,0 +1,53 @@
+{
+ "nom": "muret_stands",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "muret_stands.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  20.02,
+  2.78,
+  0.62
+ ],
+ "tris": 2796,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "muret_stands",
+  "muret_stands_blocs",
+  "muret_stands_blocs001",
+  "muret_stands_blocs001_1",
+  "muret_stands_blocs001_2",
+  "muret_stands_blocs001_3",
+  "muret_stands_blocs001_4",
+  "muret_stands_fourreaux",
+  "muret_stands_fourreaux001",
+  "muret_stands_fourreaux001_1",
+  "muret_stands_numeros",
+  "muret_stands_numeros_1",
+  "muret_stands_numeros_2",
+  "panneau_stand",
+  "panneau_stand_1",
+  "panneau_stand_2",
+  "panneau_stand_3"
+ ],
+ "pivots": {
+  "panneau_stand": "pivot a la base du poteau, sur le fourreau x=-2.5, y=0.18, z=1.08"
+ },
+ "marqueurs": [],
+ "notes": "Muret de 20 m, 0.98 m de haut, 0.52 m d'epaisseur, face piste = y=0, trois blocs avec deux passages de 1.2 m (x=-5 et x=5), lisere blanc sur le dessus, quatre fourreaux a x=-7.5,-2.5,2.5,7.5, un panneau de stand (animable) dans le deuxieme.",
+ "recalage": null,
+ "octets_source": 2380180,
+ "octets": 2676376,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "le-mans-66/assets/blender/muret_stands.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

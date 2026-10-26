@@ -1,0 +1,42 @@
+{
+ "nom": "humain_pretre",
+ "version": 1,
+ "type": "personnage",
+ "quoi": "",
+ "fichier": "humain_pretre.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  1.0539,
+  1.6915,
+  0.4783
+ ],
+ "tris": 42086,
+ "os": 52,
+ "animations": [],
+ "textures": [
+  "2048x2048",
+  "512x512",
+  "1024x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "squelette",
+  "Human",
+  "Humandonitz_monk_robe",
+  "Humaneyebrow009",
+  "Humaneyelashes01",
+  "Humanlow-poly",
+  "Humanshoes01",
+  "Humanshort04"
+ ],
+ "notes": "Squelette Mixamo (noms mixamorig). Pose de repos : bras en A. perso.js du Mans 66 : poses en degrés par os.",
+ "recalage": null,
+ "octets_source": 31505064,
+ "octets": 12724320,
+ "licence": "CC0 (MakeHuman via MPFB2)",
+ "auteur": "MakeHuman",
+ "source": "rush/assets/blender",
+ "credit": "humain_pretre — MakeHuman (CC0 (MakeHuman via MPFB2))",
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

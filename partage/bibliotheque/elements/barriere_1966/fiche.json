@@ -1,0 +1,47 @@
+{
+ "nom": "barriere_1966",
+ "version": 1,
+ "type": "accessoire",
+ "quoi": "",
+ "fichier": "barriere_1966.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  10.0001,
+  1.275,
+  4.4
+ ],
+ "tris": 6076,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "barriere_1966",
+  "fils",
+  "herbe",
+  "lisses",
+  "marqueur_bord_droit",
+  "marqueur_bord_gauche",
+  "poteaux",
+  "poteaux001",
+  "poteaux001_1",
+  "talus"
+ ],
+ "pivots": {},
+ "marqueurs": [
+  "marqueur_bord_droit",
+  "marqueur_bord_gauche"
+ ],
+ "notes": "Module de 10 m : talus d'herbe (0,8 m de haut, profil periodique) et, devant (y=0), barriere de bois peinte en blanc : poteaux tous les 2 m (x=-4..4), 2 lisses de 19 cm, 2 brins de fil de fer en haut + 1 en bas. Aucun grillage moderne. Aux extremites (x=+-5) talus et lisses affleurent exactement : raccord bout a bout.",
+ "recalage": null,
+ "octets_source": 901860,
+ "octets": 826496,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "le-mans-66/assets/blender/barriere_1966.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

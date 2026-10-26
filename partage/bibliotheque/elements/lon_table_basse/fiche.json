@@ -1,0 +1,53 @@
+{
+ "nom": "lon_table_basse",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "lon_table_basse.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  1.1,
+  0.7065,
+  0.5773
+ ],
+ "tris": 14564,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x512",
+  "512x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "lon_table_basse",
+  "bouteille",
+  "capsule",
+  "cendre",
+  "cendrier",
+  "disque",
+  "etagere",
+  "etiquette",
+  "etiquette_disque",
+  "journal",
+  "megot",
+  "megot001",
+  "pieds",
+  "plateau",
+  "pochette_disque",
+  "tablier",
+  "verre",
+  "whisky"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "dims_m = axes Blender [x largeur, y profondeur, z hauteur] ; dims_three = axes three.js [x, y haut, z profondeur]. Table basse teck 1.10 x 0.55 x 0.42 (dessus a z=0.42), objets poses : cendrier cristal + megots, 2 verres (transmission) avec whisky, bouteille, journal plie (vierge), pochette + disque vinyle a moitie sorti.",
+ "recalage": null,
+ "octets_source": 822008,
+ "octets": 655132,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/lon_table_basse.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

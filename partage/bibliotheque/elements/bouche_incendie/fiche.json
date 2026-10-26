@@ -1,0 +1,39 @@
+{
+ "nom": "bouche_incendie",
+ "version": 1,
+ "type": "accessoire",
+ "quoi": "",
+ "fichier": "bouche_incendie.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  0.504,
+  0.745,
+  0.41
+ ],
+ "tris": 1200,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "256x256",
+  "64x64"
+ ],
+ "noeuds": [
+  "Scene",
+  "bouche_incendie",
+  "capuchons",
+  "corps",
+  "ecrous_acier"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Hydrant US 0,745 m : corps jaune ecaille/rouille, bonnet et capuchons rouges, ecrous pentagonaux, chaine. Pumper (grosse sortie) vers -Y.",
+ "recalage": null,
+ "octets_source": 180448,
+ "octets": 165912,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "fast-furious-nos/assets/blender/bouche_incendie.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

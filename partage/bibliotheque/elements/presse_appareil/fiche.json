@@ -1,0 +1,63 @@
+{
+ "nom": "presse_appareil",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "presse_appareil.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  0.3075,
+  0.245,
+  0.1589
+ ],
+ "tris": 9964,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "presse_appareil",
+  "boitier",
+  "boitier001",
+  "boitier001_1",
+  "boitier001_2",
+  "boitier001_3",
+  "boitier001_4",
+  "cordon_synchro",
+  "flash",
+  "flash001",
+  "flash001_1",
+  "flash001_2",
+  "flash001_3",
+  "flash001_4",
+  "flash001_5",
+  "flash001_6",
+  "flash001_7",
+  "marqueur_flash",
+  "objectif",
+  "objectif001",
+  "objectif001_1",
+  "objectif001_2",
+  "objectif001_3",
+  "objectif001_4",
+  "objectif001_5",
+  "poignee"
+ ],
+ "pivots": {},
+ "marqueurs": [
+  "marqueur_flash",
+  "poignee"
+ ],
+ "notes": "Reflex 35 mm noir/chrome, objectif vers +Z three.js, flash à poignée (réflecteur rond chromé + ampoule) sur platine côté +X (côté gauche du photographe), cordon synchro en spirale. 'marqueur_flash' = ouverture du réflecteur (bord avant), 'poignee' = prise en main du flash. Ensemble centré en X/Z, bas de la poignée à y=0. Pièces : boitier, objectif, flash, cordon_synchro.",
+ "recalage": null,
+ "octets_source": 2067260,
+ "octets": 1075392,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/presse_appareil.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

@@ -1,0 +1,43 @@
+{
+ "nom": "lon_bibliotheque",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "lon_bibliotheque.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  1.03,
+  1.9,
+  0.34
+ ],
+ "tris": 26014,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "lon_bibliotheque",
+  "cadre_photo",
+  "caisson",
+  "livres",
+  "photo",
+  "socle_trophee",
+  "trophee",
+  "trophee_anse",
+  "verre"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "dims_m = axes Blender [x largeur, y profondeur, z hauteur] ; dims_three = axes three.js [x, y haut, z profondeur]. Bibliotheque teck 1.00 x 0.32 x 1.90, 6 compartiments ; un seul maillage 'livres' (couleurs sommets, aucun texte) ; objets : trophee, cadre_photo (+ 'photo' vierge), verre (transmission). Dos a +Y.",
+ "recalage": null,
+ "octets_source": 1044420,
+ "octets": 547032,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/lon_bibliotheque.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

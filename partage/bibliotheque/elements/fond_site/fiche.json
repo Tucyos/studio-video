@@ -1,0 +1,219 @@
+{
+ "nom": "fond_site",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "fond_site.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  1040,
+  87.4771,
+  760
+ ],
+ "tris": 35398,
+ "os": 0,
+ "animations": [],
+ "textures": [],
+ "noeuds": [
+  "Scene",
+  "fond_site",
+  "batiments",
+  "batiments_1",
+  "batiments_2",
+  "batiments_3",
+  "batiments_4",
+  "broussailles",
+  "butte",
+  "cables_hautes_tensions",
+  "chateau_eau",
+  "chateau_eau_1",
+  "chateau_eau_2",
+  "chateau_eau_3",
+  "cloture",
+  "cloture_1",
+  "cloture_2",
+  "cloture_3",
+  "cloture_4",
+  "cloture_5",
+  "conteneurs",
+  "conteneurs_1",
+  "conteneurs_2",
+  "conteneurs_3",
+  "grue_mobile",
+  "grue_mobile_1",
+  "grue_mobile_2",
+  "grue_mobile_3",
+  "hangar_a",
+  "hangar_a_1",
+  "hangar_a_2",
+  "hangar_a_3",
+  "hangar_a_4",
+  "hangar_a_5",
+  "hangar_a_6",
+  "hangar_a_7",
+  "hangar_b",
+  "hangar_b_1",
+  "hangar_b_2",
+  "hangar_b_3",
+  "hangar_b_4",
+  "hangar_b_5",
+  "hangar_b_6",
+  "lampadaires",
+  "lampadaires_1",
+  "lampadaires_2",
+  "mat_radio",
+  "mat_radio_1",
+  "mat_radio_2",
+  "mat_radio_3",
+  "mat_radio_4",
+  "pylones",
+  "pylones_1",
+  "pylones_2",
+  "reservoirs",
+  "reservoirs_1",
+  "reservoirs_2",
+  "reservoirs_3",
+  "sol_terre",
+  "torchere",
+  "torchere_1",
+  "torchere_2",
+  "torchere_3",
+  "tour_essais",
+  "tour_essais_1",
+  "tour_essais_2",
+  "tour_essais_3",
+  "tour_essais_4",
+  "tour_essais_5"
+ ],
+ "pivots": {},
+ "marqueurs": [
+  {
+   "nom": "tour_essais",
+   "pos_m": [
+    70,
+    262,
+    0
+   ],
+   "h_m": 60.6,
+   "balises": "rouges (balise_rouge), 4 en haut, 4 a 30 m, 1 sur le paratonnerre (74 m), 1 au bout de la fleche"
+  },
+  {
+   "nom": "hangar_a_pignon",
+   "pos_m": [
+    -120,
+    200,
+    0
+   ],
+   "dims_m": [
+    84,
+    42,
+    19.5
+   ]
+  },
+  {
+   "nom": "hangar_b_voute",
+   "pos_m": [
+    218,
+    300,
+    0
+   ],
+   "dims_m": [
+    56,
+    70,
+    25
+   ],
+   "note": "l'ouverture en demi-ellipse fait face a -Y"
+  },
+  {
+   "nom": "chateau_eau",
+   "pos_m": [
+    -12,
+    335,
+    0
+   ],
+   "h_m": 44
+  },
+  {
+   "nom": "mat_radio_haubane",
+   "pos_m": [
+    -215,
+    292,
+    0
+   ],
+   "h_m": 86
+  },
+  {
+   "nom": "torchere",
+   "pos_m": [
+    -70,
+    306,
+    0
+   ],
+   "h_m": 45
+  },
+  {
+   "nom": "pylones_7",
+   "x_m": [
+    -330,
+    355
+   ],
+   "y_m": [
+    322,
+    352
+   ],
+   "h_m": 49.5
+  },
+  {
+   "nom": "cloture",
+   "y_m": 150,
+   "x_m": [
+    -270,
+    270
+   ],
+   "portail": [
+    -5,
+    12
+   ]
+  },
+  {
+   "nom": "lampadaires_sodium",
+   "y_m": 147,
+   "x_m": "tous les 60 m de -240 a 240 (sauf portail)"
+  },
+  {
+   "nom": "mats_projecteurs_5",
+   "pos_m": [
+    [
+     -48,
+     190
+    ],
+    [
+     22,
+     188
+    ],
+    [
+     -180,
+     215
+    ],
+    [
+     95,
+     225
+    ],
+    [
+     190,
+     262
+    ]
+   ]
+  }
+ ],
+ "notes": "horizon de silhouettes a 150-400 m cote +Y (y = 142 a 460), origine = centre de la zone de cascade. Un seul GLB (14 objets : hangar_a, hangar_b, batiments, tour_essais, reservoirs, chateau_eau, pylones + cables_hautes_tensions, mat_radio, cloture, lampadaires, conteneurs, grue_mobile, torchere, broussailles, butte, sol_terre). Contient son propre sol de terre (sol_terre : y 300..460 sur |x| < 500, et deux flancs |x| 300..500) qui abute EXACTEMENT sol_piste_lointain a y = 300 / x = +-300, meme teinte, sans recouvrement. Le grillage est un plan translucide (alpha 0,16, BLEND). Bords des broussailles : spheres a moitie enterrees (y three.js min = -1,5 m).",
+ "recalage": null,
+ "octets_source": 1671216,
+ "octets": 542728,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "tesla-roadster/assets/blender/fond_site.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 2
+}

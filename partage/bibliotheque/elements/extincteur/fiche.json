@@ -1,0 +1,59 @@
+{
+ "nom": "extincteur",
+ "version": 1,
+ "type": "accessoire",
+ "quoi": "",
+ "fichier": "extincteur.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  0.1773,
+  0.5495,
+  0.2497
+ ],
+ "tris": 6976,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "extincteur",
+  "buse",
+  "buse001",
+  "buse001_1",
+  "buse001_2",
+  "marqueur_buse",
+  "corps",
+  "corps001",
+  "corps001_1",
+  "corps001_2",
+  "corps001_3",
+  "corps001_4",
+  "corps001_5",
+  "corps001_6",
+  "corps001_7",
+  "corps001_8",
+  "corps001_9",
+  "corps001_10",
+  "poignee",
+  "tuyau"
+ ],
+ "pivots": {
+  "buse": "origine = prise en main sur la buse (axe vertical au repos, pointe vers le bas, accrochée au corps par deux colliers) ; le tuyau noir est un objet statique 'tuyau' qui ne suit PAS la buse"
+ },
+ "marqueurs": [
+  "marqueur_buse",
+  "poignee"
+ ],
+ "notes": "Extincteur à main années 70, 0,55 m : cylindre acier rouge (étiquette vierge, usure en pied), robinet laiton + manomètre, poignée fixe + levier, goupille à anneau, tuyau noir et buse conique. 'poignee' = main sur poignée/levier (haut du corps), 'marqueur_buse' (enfant de 'buse') = bout de la buse. Pièces : corps, tuyau, buse.",
+ "recalage": null,
+ "octets_source": 376220,
+ "octets": 270348,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/extincteur.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

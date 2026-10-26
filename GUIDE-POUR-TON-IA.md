@@ -51,6 +51,10 @@ Un studio local (Node.js, page web sur `localhost:5170`) qui fabrique des vidéo
   - `fiche.json` : famille et statut.
 
   Les `tt-*` sont des comptes TikTok copiés, les `crz-*` des exemples d'un autre logiciel (Creatorize), les autres viennent des vidéos de Noam. Les images et les vidéos n'y sont pas.
+- `partage/bibliotheque/` : **la bibliothèque 3D, 122 modèles prêts à l'emploi** (voitures, décors, personnages animés, mannequin avec 43 animations). Chaque élément contient un `.glb` allégé, `fiche.json` (taille réelle, nœuds, animations, licence), `planche.png` (4 vues) et `apercu.webp`. Les licences sont dans `CREDITS.md` : fait maison, CC0, et CC BY 4.0 pour les 3 Ford GT40, qu'il faut créditer.
+  - Pour que le studio la trouve, copie-la dans `C:/claude/studio-projets/_bibliotheque/`, ou change `BIB` dans `lib/bibliotheque.mjs`.
+  - Dans une scène : `await k.bib('nom')` (voir `moteur/moteur.md`).
+- **Pas de sons ni de musiques** : la sonothèque de Noam vient d'un pack d'un autre créateur, et ses musiques et extraits de memes ne sont pas à nous. Prends une banque libre (Freesound en CC0, la bibliothèque audio de YouTube…) et note les licences.
 - `skills/metiers/` et `skills/huashu/` : les fiches de pratiques par métier (avec repères chiffrés) et les règles « image figée », « storyboard » et « caméra ».
 - `roles/` : la consigne de chaque agent de l'équipe. `genres/` : un genre de vidéo = un fichier (court viral, documentaire, vulgarisation, fiction).
 - `moteur/` : le moteur des nouveaux projets (`kit.js` : caméra, textes, sous-titres, bibliothèque 3D, courbes ; mode d'emploi dans `moteur/moteur.md`).
@@ -58,7 +62,7 @@ Un studio local (Node.js, page web sur `localhost:5170`) qui fabrique des vidéo
 ## 3. Ce qui manque ou n'est pas fini (ne le cherche pas)
 **Absent du dépôt** (sur le PC de Noam, avec des chemins écrits en dur) :
 - `C:/claude/tiktok-motion` : les anciens projets, l'ancien moteur, `studio/audio.py` (mix) et les sources de plusieurs skills ;
-- `C:/claude/studio-projets` : les projets, la bibliothèque 3D (modèles .glb), les vidéos et images des DA ;
+- `C:/claude/studio-projets` : les projets, ainsi que les vidéos et images des DA (la bibliothèque 3D, elle, est copiée dans `partage/bibliotheque/`) ;
 - `C:/tiktok/chat/sfx` : la sonothèque ;
 - `C:/claude/tiktok-tracker` : la base de statistiques.
 

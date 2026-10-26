@@ -1,0 +1,199 @@
+{
+ "nom": "semi_tracteur",
+ "version": 1,
+ "type": "voiture",
+ "quoi": "",
+ "fichier": "semi_tracteur.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  2.62,
+  3.9,
+  6.573
+ ],
+ "tris": 52158,
+ "os": 0,
+ "animations": [],
+ "textures": [],
+ "noeuds": [
+  "Scene",
+  "semi_tracteur",
+  "bas_de_caisse",
+  "bavettes",
+  "carrosserie",
+  "carrosserie002",
+  "carrosserie002_1",
+  "carrosserie002_2",
+  "chassis",
+  "chassis_1",
+  "chassis_2",
+  "chassis_3",
+  "chassis_4",
+  "feux_avant",
+  "feux_avant_1",
+  "feux_avant_2",
+  "feux_avant_3",
+  "feux_avant_4",
+  "feux_chassis",
+  "feux_chassis_1",
+  "feux_chassis_2",
+  "garde_boue",
+  "grille_avant",
+  "interieur",
+  "interieur_1",
+  "interieur_2",
+  "joints",
+  "poignees",
+  "retros",
+  "retros_1",
+  "retros_2",
+  "roue_AR2D",
+  "roue_AR2D_1",
+  "roue_AR2D_2",
+  "roue_AR2D_3",
+  "roue_AR2D_int",
+  "roue_AR2D_int_1",
+  "roue_AR2D_int_2",
+  "roue_AR2D_int_3",
+  "roue_AR2G",
+  "roue_AR2G_1",
+  "roue_AR2G_2",
+  "roue_AR2G_3",
+  "roue_AR2G_int",
+  "roue_AR2G_int_1",
+  "roue_AR2G_int_2",
+  "roue_AR2G_int_3",
+  "roue_ARD",
+  "roue_ARD_1",
+  "roue_ARD_2",
+  "roue_ARD_3",
+  "roue_ARD_int",
+  "roue_ARD_int_1",
+  "roue_ARD_int_2",
+  "roue_ARD_int_3",
+  "roue_ARG",
+  "roue_ARG_1",
+  "roue_ARG_2",
+  "roue_ARG_3",
+  "roue_ARG_int",
+  "roue_ARG_int_1",
+  "roue_ARG_int_2",
+  "roue_ARG_int_3",
+  "roue_AVD",
+  "roue_AVD_1",
+  "roue_AVD_2",
+  "roue_AVD_3",
+  "roue_AVG",
+  "roue_AVG_1",
+  "roue_AVG_2",
+  "roue_AVG_3",
+  "visiere",
+  "vitres"
+ ],
+ "pivots": {
+  "roue_AR2D": [
+   -2.1,
+   0.52,
+   1.15
+  ],
+  "roue_AR2D_int": [
+   -2.1,
+   0.52,
+   0.83
+  ],
+  "roue_AR2G": [
+   -2.1,
+   0.52,
+   -1.15
+  ],
+  "roue_AR2G_int": [
+   -2.1,
+   0.52,
+   -0.83
+  ],
+  "roue_ARD": [
+   -0.75,
+   0.52,
+   1.15
+  ],
+  "roue_ARD_int": [
+   -0.75,
+   0.52,
+   0.83
+  ],
+  "roue_ARG": [
+   -0.75,
+   0.52,
+   -1.15
+  ],
+  "roue_ARG_int": [
+   -0.75,
+   0.52,
+   -0.83
+  ],
+  "roue_AVD": [
+   2.35,
+   0.52,
+   1.03
+  ],
+  "roue_AVG": [
+   2.35,
+   0.52,
+   -1.03
+  ]
+ },
+ "marqueurs": [
+  {
+   "nom": "toit_centre",
+   "pos_threejs": [
+    0.852,
+    3.9,
+    0
+   ],
+   "note": "point le plus haut de la carrosserie, sur l'axe"
+  },
+  {
+   "nom": "nez",
+   "pos_threejs": [
+    3.25,
+    1.085,
+    0
+   ]
+  },
+  {
+   "nom": "queue",
+   "pos_threejs": [
+    0.25,
+    2.464,
+    0
+   ]
+  },
+  {
+   "nom": "feux_avant",
+   "objet": "feux_avant",
+   "note": "matériaux émissifs led_blanche / feu_croisement / clignotant_orange"
+  },
+  {
+   "nom": "feux_arriere",
+   "objet": "feux_arriere",
+   "note": "matériau émissif feu_arriere_rouge"
+  }
+ ],
+ "notes": "Avant = Blender +X (three.js +X), gauche = +Y Blender (-Z three.js). Origine au sol, centre de l'emprise. Roues séparées (origine = centre de roue, axe Blender Y = Z three.js) : roue_AVG/AVD/ARG/ARD. Matériaux nommés : peinture_*, vitre_teintee (alpha BLEND), led_blanche / feu_croisement / feu_arriere_rouge / clignotant_orange (émissifs), pneu, *_jante, disque_frein, etrier. Aucun logo ni texte. Les dimensions incluent les rétroviseurs (largeur de carrosserie hors rétros : 2.34 m). Joints, poignées, feux, essuie-glaces sont des décalques posés à 2,5 à 11 mm de la tôle : prévoir camera.near >= 0.1 (0.3 pour les plans larges à 40-50 m) pour éviter le z-fighting. L'habitacle n'est visible qu'au-dessus de la ligne de caisse (plancher à hauteur de bas de vitre) : sièges, tableau de bord, volant. Rendu des métaux, jantes et vernis dépendant de l'environnement (envMap) de la scène three.js. Tracteur seul, sans remorque (aucune marque). 10 roues séparées : roue_AVG/AVD (essieu directeur), roue_ARG/ARD et roue_ARG_int/ARD_int (1er essieu moteur, jumelage), roue_AR2G/AR2D et roue_AR2G_int/AR2D_int (2e essieu) ; origine de chaque roue = son centre. Sellette, longerons, garde-boue (peinture), bavettes, durites spiralées, feux de gabarit orange sur le toit, feux rouges de châssis (objet feux_chassis).",
+ "recalage": {
+  "avant_source": "+x",
+  "decalage_m": [
+   0,
+   0,
+   0.0285
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 1400184,
+ "octets": 441336,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "tesla-roadster/assets/blender/semi_tracteur.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 2
+}

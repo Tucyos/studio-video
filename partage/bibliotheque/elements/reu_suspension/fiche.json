@@ -1,0 +1,59 @@
+{
+ "nom": "reu_suspension",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "reu_suspension.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  0.471,
+  1.2868,
+  0.471
+ ],
+ "tris": 5480,
+ "os": 0,
+ "animations": [],
+ "textures": [],
+ "noeuds": [
+  "Scene",
+  "reu_suspension",
+  "cable",
+  "lampe",
+  "ampoule",
+  "bague_douille",
+  "cage_anneau",
+  "cage_fil",
+  "dome",
+  "dome_1",
+  "dome_2",
+  "douille",
+  "marqueur_ampoule",
+  "serre_cable",
+  "rosace"
+ ],
+ "pivots": {
+  "cable": "origine = rosace de plafond (haut) ; longueur 0.95 vers -Z (bas)",
+  "lampe": "Empty a z=-0.95 (haut du dome) : regroupe dome, douille, ampoule ; deplacer/echelonner avec le cable pour changer la hauteur"
+ },
+ "marqueurs": [
+  "marqueur_ampoule"
+ ],
+ "notes": "dims_m = axes Blender [x largeur, y profondeur, z hauteur] ; dims_three = axes three.js [x, y haut, z profondeur]. Suspension industrielle ; ATTENTION origine au plafond (z=0 = rosace), la lampe pend vers -Z jusqu'a z=-1.21. Ampoule emissive (4.0).",
+ "recalage": {
+  "avant_source": "+z",
+  "decalage_m": [
+   0,
+   1.2868,
+   0
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 157616,
+ "octets": 82736,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/reu_suspension.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 2
+}

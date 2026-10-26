@@ -1,0 +1,41 @@
+{
+ "nom": "herbe_touffes",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "herbe_touffes.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  0.8878,
+  0.6407,
+  0.8772
+ ],
+ "tris": 396,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "herbe_touffes",
+  "touffe_0",
+  "touffe_1",
+  "touffe_2",
+  "touffe_3",
+  "touffe_4",
+  "touffe_5"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "6 touffes 'touffe_0'..'touffe_5' (0,22 / 0,30 / 0,38 / 0,45 / 0,52 / 0,60 m), chacune a l'origine du fichier (pied au centre), donc superposees : cloner puis positionner. 3 ou 4 cartes croisees, texture d'herbe generee (Alpha Clip, double face), assombrie au pied par couleurs de sommets. dims_m = enveloppe de l'ensemble.",
+ "recalage": null,
+ "octets_source": 579916,
+ "octets": 463708,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/herbe_touffes.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

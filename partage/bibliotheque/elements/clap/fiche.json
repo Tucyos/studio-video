@@ -1,0 +1,44 @@
+{
+ "nom": "clap",
+ "version": 1,
+ "type": "accessoire",
+ "quoi": "",
+ "fichier": "clap.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  0.308,
+  0.318,
+  0.034
+ ],
+ "tris": 828,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "clap",
+  "baton",
+  "planche",
+  "planche001",
+  "planche001_1",
+  "planche001_2",
+  "planche001_3",
+  "planche001_4"
+ ],
+ "pivots": {
+  "baton": "origine = charnière à gauche de la planche (x=-0,1375 m, y=0,29 m) ; ouverture = rotation autour de l'axe Z three.js : rotation.z positif = le bout droit monte"
+ },
+ "marqueurs": [],
+ "notes": "Claquette 30 x 25 cm debout, base à y=0 : ardoise noire à lignes blanches vierges, barre fixe + bâton à rayures noires/blanches (texture), charnière acier noir + axe laiton. Pièces : planche, baton.",
+ "recalage": null,
+ "octets_source": 686280,
+ "octets": 843956,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/clap.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

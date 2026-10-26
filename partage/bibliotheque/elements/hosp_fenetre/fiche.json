@@ -1,0 +1,59 @@
+{
+ "nom": "hosp_fenetre",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "hosp_fenetre.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  1.52,
+  1.6105,
+  0.16
+ ],
+ "tris": 3832,
+ "os": 0,
+ "animations": [],
+ "textures": [],
+ "noeuds": [
+  "Scene",
+  "hosp_fenetre",
+  "cadre",
+  "cadre_1",
+  "cadre_2",
+  "ouvrants",
+  "ouvrants_1",
+  "ouvrants_2",
+  "quincaillerie",
+  "quincaillerie_1",
+  "quincaillerie_2",
+  "store",
+  "store_1",
+  "store_2",
+  "store_3",
+  "store_4",
+  "store_5",
+  "store_6",
+  "store_7",
+  "vitrage"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Fenetre 1.4 x 1.4 m a deux vantaux fermes (dormant peint, appui interieur, poignee a levier, paumelles), allege a 0.9 m (origine au sol), dos du dormant contre y=0, profondeur 0.07 (appui jusqu a -0.16). Vitrage = alpha 0.11 (objet \"vitrage\"). Store venitien devant (y=-0.105) : 40 lames individuelles inclinees de 38 deg (bord exterieur haut), rails, rubans d echelle, cordons, tige d orientation a gauche, objet \"store\" (a masquer pour voir le vitrage).",
+ "recalage": {
+  "avant_source": "+z",
+  "decalage_m": [
+   0,
+   -0.7085,
+   -0.08
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 110504,
+ "octets": 48576,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/hosp_fenetre.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 2
+}

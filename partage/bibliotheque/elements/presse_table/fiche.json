@@ -1,0 +1,41 @@
+{
+ "nom": "presse_table",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "presse_table.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  2.8034,
+  0.9051,
+  1.6936
+ ],
+ "tris": 13753,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "presse_table",
+  "chaise_1",
+  "chaise_2",
+  "chaise_3",
+  "nappe"
+ ],
+ "pivots": {
+  "chaise_1..3": "origine au sol, centre de l'assise ; rotation autour de Y (three.js) pour la tourner ; elles regardent +Z (vers le public)"
+ },
+ "marqueurs": [],
+ "notes": "Axes three.js : +Z = côté public (avant), -Z = côté orateurs. Plateau 2,6 x 0,8 m centré à l'origine, dessus à 0,76 m, nappe vert foncé (feutre, plis procéduraux, ombrage de plis cuit en couleur de sommet) jusqu'au sol sur les 4 côtés ; 3 chaises en bois derrière (z three.js négatif), tournées vers +Z, légèrement désaxées. Taille X ~2,8 m à cause des plis.",
+ "recalage": null,
+ "octets_source": 1288524,
+ "octets": 838136,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/presse_table.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

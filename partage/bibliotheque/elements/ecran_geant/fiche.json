@@ -1,0 +1,48 @@
+{
+ "nom": "ecran_geant",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "ecran_geant.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  9.4,
+  11.3142,
+  6.25
+ ],
+ "tris": 6086,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "256x256",
+  "512x512",
+  "1024x576"
+ ],
+ "noeuds": [
+  "Scene",
+  "ecran_geant",
+  "ecran_acier",
+  "ecran_cadre",
+  "ecran_lest",
+  "ecran_passerelle",
+  "ecran_surface",
+  "ecran_tubes",
+  "marqueur_ecran"
+ ],
+ "pivots": {
+  "ecran_surface": "quad UV 0..1, materiau emissive_ecran (y remplacer l'image)"
+ },
+ "marqueurs": [
+  "marqueur_ecran"
+ ],
+ "notes": "Ecran video geant 8 x 4,5 m sur deux jambes treillis de 6 m (portique a z=6) + jambes de force arriere lestees. Face avant vers -Y (plan y~0), jambes derriere. Materiau 'emissive_ecran' (emission 2, texture d'emission par defaut en UV 0..1 sur l'objet 'ecran_surface' : remplacer l'image). marqueur_ecran au centre de la surface.",
+ "recalage": null,
+ "octets_source": 2489680,
+ "octets": 1345060,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "monza-2021/assets/blender/ecran_geant.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

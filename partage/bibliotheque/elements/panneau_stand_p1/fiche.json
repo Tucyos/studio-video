@@ -1,0 +1,51 @@
+{
+ "nom": "panneau_stand_p1",
+ "version": 1,
+ "type": "accessoire",
+ "quoi": "",
+ "fichier": "panneau_stand_p1.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  0.74,
+  1.06,
+  0.0813
+ ],
+ "tris": 2304,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512",
+  "1024x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "panneau_stand_p1",
+  "filet_et_rails",
+  "filet_et_rails001",
+  "filet_et_rails001_1",
+  "filet_et_rails001_2",
+  "lettres",
+  "manche",
+  "manche001",
+  "manche001_1",
+  "manche001_2",
+  "marqueur_centre_panneau",
+  "marqueur_main",
+  "planche"
+ ],
+ "pivots": {},
+ "marqueurs": [
+  "marqueur_centre_panneau",
+  "marqueur_main"
+ ],
+ "notes": "Idem panneau_stand_slow, lettres « P1 +34 ».",
+ "recalage": null,
+ "octets_source": 310160,
+ "octets": 346644,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "le-mans-66/assets/blender/panneau_stand_p1.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

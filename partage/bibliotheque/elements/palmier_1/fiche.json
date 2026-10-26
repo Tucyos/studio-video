@@ -1,0 +1,39 @@
+{
+ "nom": "palmier_1",
+ "version": 1,
+ "type": "accessoire",
+ "quoi": "",
+ "fichier": "palmier_1.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  3.8761,
+  14.3323,
+  3.6171
+ ],
+ "tris": 7794,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x512",
+  "512x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "palmier_1",
+  "palmes_seches",
+  "palmes_vertes",
+  "tronc"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Washingtonia robusta ~12 m au total ; origine au pied du tronc (x=y=0), couronne decalee de la courbure du tronc ; palmes en cartes alpha-cut (MASK 0.5, double face).",
+ "recalage": null,
+ "octets_source": 1969156,
+ "octets": 1441672,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "fast-furious-nos/assets/blender/palmier_1.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

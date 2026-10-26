@@ -1,0 +1,36 @@
+{
+ "nom": "sol_piste_lointain",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "sol_piste_lointain.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  600,
+  0,
+  600
+ ],
+ "tris": 240,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "sol_piste_lointain",
+  "sol"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "600 x 600 m, un seul materiau (meme motif d'asphalte, contraste reduit, 1024 px), rugosite constante 0,62, couleurs de sommets : asphalte pres du centre, terre sombre au-dela de ~250 m. Trou EXACT de 120 x 120 m (|x|, |y| < 60) pour sol_piste : memes UV monde/16, pas de recouvrement, pas de z-fighting. Il s'arrete a +-300 m : fond_site apporte son propre sol de terre (sol_terre) au-dela de y = 300 et x = +-300.",
+ "recalage": null,
+ "octets_source": 41768,
+ "octets": 234084,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "tesla-roadster/assets/blender/sol_piste_lointain.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

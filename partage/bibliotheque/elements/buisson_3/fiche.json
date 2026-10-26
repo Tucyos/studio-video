@@ -1,0 +1,46 @@
+{
+ "nom": "buisson_3",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "buisson_3.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  3.4697,
+  2.2319,
+  3.5337
+ ],
+ "tris": 2060,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "buisson_3",
+  "buisson_3_mesh",
+  "buisson_3_mesh_1",
+  "buisson_3_mesh_2"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Melange noisetier + ronce, vert plus sombre. Origine au pied.",
+ "recalage": {
+  "avant_source": "+z",
+  "decalage_m": [
+   0.0956,
+   0.2913,
+   -0.2288
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 1049928,
+ "octets": 825652,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/buisson_3.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

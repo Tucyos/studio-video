@@ -1,0 +1,44 @@
+{
+ "nom": "sol_piste",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "sol_piste.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  120,
+  0.015,
+  120
+ ],
+ "tris": 4680,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "2048x2048",
+  "1024x1024",
+  "256x256",
+  "1024x128"
+ ],
+ "noeuds": [
+  "Scene",
+  "sol_piste",
+  "asphalte",
+  "dalles_beton",
+  "marquages",
+  "taches",
+  "taches_1",
+  "taches_2"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "dalle 120 x 120 m, centree, z = 0. asphalte : maillage 2,5 m, texture couleur + rugosite 2048 px (JPEG) repetees tous les 16 m par UV (coordonnees monde / 16), couleurs de sommets COLOR_0 (teinte douce, multiplicative) pour casser la repetition. dalles_beton : 2 plages de dalles de 5 m affleurantes (x -50..-20, y -45..-25 et x 25..60, y 10..30), joints dans la texture, une teinte par dalle. rapiecage + gomme : taches non repetees, BLEND, z = 6-7 mm. marquages : peinture usee, BLEND, z = 15 mm (tirets axiaux y = -17,5, ligne en L, 8 places, zone hachuree, anneau, reperes, barre d'arret). Aucun chiffre ni lettre. Les 3 materiaux BLEND sont des decals : depthWrite = false dans three.js (GLTFLoader le fait), prevoir near >= 0,3 pour eviter tout z-fighting au-dela de 100 m.",
+ "recalage": null,
+ "octets_source": 2172676,
+ "octets": 8927240,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "tesla-roadster/assets/blender/sol_piste.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

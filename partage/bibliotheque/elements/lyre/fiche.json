@@ -1,0 +1,57 @@
+{
+ "nom": "lyre",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "lyre.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  0.461,
+  0.6847,
+  0.3739
+ ],
+ "tris": 10168,
+ "os": 0,
+ "animations": [],
+ "textures": [],
+ "noeuds": [
+  "Scene",
+  "lyre",
+  "base",
+  "base_1",
+  "base_2",
+  "base_3",
+  "base_4",
+  "fourche",
+  "fourche_1",
+  "fourche_2",
+  "tete",
+  "tete_1",
+  "tete_2",
+  "tete_3",
+  "tete_4",
+  "marqueur_faisceau"
+ ],
+ "pivots": {
+  "fourche": "axe vertical (pan), sur la couronne de la base, z=0.166 m",
+  "tete": "axe horizontal de la fourche (tilt), z=0.55 m, axe X"
+ },
+ "marqueurs": [
+  {
+   "nom": "marqueur_faisceau",
+   "parent": "tete",
+   "position": "centre de la lentille",
+   "convention": "three.js : faisceau = -Z local du noeud ; en Blender +Y local ; au repos le faisceau part vers three.js +Z (Blender -Y), tete horizontale"
+  }
+ ],
+ "notes": "Hiérarchie lyre > base, fourche > tete > marqueur_faisceau. Tilt = rotation de `tete` autour de son X local ; pan = rotation de `fourche` autour de Y three.js (vertical). Lentille émissive blanche (emission 8, KHR_materials_emissive_strength). Origine = centre de la base au sol (la tête dépasse de 4 cm vers l'arrière avec la poignée).",
+ "recalage": null,
+ "octets_source": 227236,
+ "octets": 89760,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "tesla-roadster/assets/blender/lyre.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 2
+}

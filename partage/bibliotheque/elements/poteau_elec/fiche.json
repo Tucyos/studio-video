@@ -1,0 +1,61 @@
+{
+ "nom": "poteau_elec",
+ "version": 1,
+ "type": "accessoire",
+ "quoi": "",
+ "fichier": "poteau_elec.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  2.4,
+  11.3037,
+  0.9422
+ ],
+ "tris": 2466,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "64x64",
+  "256x1024",
+  "32x32",
+  "256x256",
+  "128x128"
+ ],
+ "noeuds": [
+  "Scene",
+  "poteau_elec",
+  "ferrures",
+  "fut_bois",
+  "isolateurs",
+  "marqueur_fil_1",
+  "marqueur_fil_2",
+  "marqueur_fil_3",
+  "marqueur_fil_4",
+  "marqueur_fil_5",
+  "marqueur_fil_6",
+  "marqueur_fil_7",
+  "terre_cuivre",
+  "transformateur",
+  "traverse_basse",
+  "traverse_haute"
+ ],
+ "pivots": {},
+ "marqueurs": [
+  "marqueur_fil_1",
+  "marqueur_fil_2",
+  "marqueur_fil_3",
+  "marqueur_fil_4",
+  "marqueur_fil_5",
+  "marqueur_fil_6",
+  "marqueur_fil_7"
+ ],
+ "notes": "Poteau bois 11 m (pied enterre non modelise, z=0 au sol). Traverse haute 2,4 m (marqueurs 1-2 = isolateurs de phase gauche/droite, 3 = isolateur de sommet), traverse basse 1,5 m (4-5 = fils secondaires), 6 = bobine secondaire cote +X, 7 = cable telephone/cable cote -X. Traverses selon X ; transformateur cote -Y.",
+ "recalage": null,
+ "octets_source": 464976,
+ "octets": 406036,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "fast-furious-nos/assets/blender/poteau_elec.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

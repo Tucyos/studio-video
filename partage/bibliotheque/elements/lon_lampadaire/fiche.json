@@ -1,0 +1,48 @@
+{
+ "nom": "lon_lampadaire",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "lon_lampadaire.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  0.6742,
+  1.607,
+  1.1732
+ ],
+ "tris": 10292,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "256x256"
+ ],
+ "noeuds": [
+  "Scene",
+  "lon_lampadaire",
+  "abat_jour",
+  "ampoule",
+  "cable",
+  "chainette",
+  "culot_ampoule",
+  "fleuron",
+  "galon",
+  "lyre",
+  "marqueur_ampoule",
+  "pied_laiton",
+  "poignee_chainette"
+ ],
+ "pivots": {},
+ "marqueurs": [
+  "marqueur_ampoule"
+ ],
+ "notes": "dims_m = axes Blender [x largeur, y profondeur, z hauteur] ; dims_three = axes three.js [x, y haut, z profondeur]. Lampadaire laiton 1.60 m, origine centree sur le pied ; 'abat_jour' plisse creme (emission faible 0.45) et 'ampoule' (emission 4.0) = objets separes, regler dans three.js ; marqueur_ampoule a z=1.448 dans l'abat-jour ; le cable pose au sol part vers +Y/+X et deborde de la boite centrale.",
+ "recalage": null,
+ "octets_source": 540760,
+ "octets": 216064,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/lon_lampadaire.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

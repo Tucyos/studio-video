@@ -1,0 +1,38 @@
+{
+ "nom": "ligne_led_sol",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "ligne_led_sol.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  2,
+  0.045,
+  0.13
+ ],
+ "tris": 372,
+ "os": 0,
+ "animations": [],
+ "textures": [],
+ "noeuds": [
+  "Scene",
+  "ligne_led_sol",
+  "module",
+  "module_1",
+  "module_2",
+  "module_3",
+  "module_4"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Module de 2.000 m le long de X, origine au centre : à répéter avec un pas de 2.0 m (embouts noirs inclus dans les 2 m). Bande rouge émissive #ff1a14 (émission 18). Faisceaux de semelle de 13 cm de large, 5 cm de haut.",
+ "recalage": null,
+ "octets_source": 15836,
+ "octets": 9340,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "tesla-roadster/assets/blender/ligne_led_sol.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 2
+}

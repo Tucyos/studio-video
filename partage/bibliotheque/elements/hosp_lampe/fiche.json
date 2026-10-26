@@ -1,0 +1,64 @@
+{
+ "nom": "hosp_lampe",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "hosp_lampe.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  1.1905,
+  1.218,
+  1.209
+ ],
+ "tris": 8594,
+ "os": 0,
+ "animations": [],
+ "textures": [],
+ "noeuds": [
+  "Scene",
+  "hosp_lampe",
+  "applique",
+  "applique_1",
+  "applique_2",
+  "applique_3",
+  "applique_4",
+  "applique_5",
+  "applique_6",
+  "applique_7",
+  "marqueur_ampoule_applique",
+  "plafonnier",
+  "plafonnier_1",
+  "plafonnier_2",
+  "plafonnier_3",
+  "plafonnier_4",
+  "plafonnier_5",
+  "plafonnier_6",
+  "marqueur_ampoule"
+ ],
+ "pivots": {
+  "plafonnier": "origine = point de fixation au plafond (dans le GLB : x=0, y=-1.0, z=2.70, plafond type 2.70 m) ; la lampe pend vers -Z.",
+  "applique": "origine = centre de la platine murale, dos contre y=0 (dans le GLB : x=0.9, z=1.55) ; le bras part vers -Y."
+ },
+ "marqueurs": [
+  "marqueur_ampoule",
+  "marqueur_ampoule_applique"
+ ],
+ "notes": "Deux objets independants poses a leurs hauteurs reelles dans le meme GLB (a repositionner chacun a sa place) : \"plafonnier\" = plafonnier verre opale 0.42 m + galerie chromee + ampoule depolie (marqueur_ampoule = centre de l ampoule, enfant de plafonnier) ; \"applique\" = applique de chevet a bras articule + abat-jour conique incline (marqueur_ampoule_applique). Materiaux verre_opale / ampoule_depolie : emission a 0 par defaut (regler emissiveIntensity pour allumer).",
+ "recalage": {
+  "avant_source": "+z",
+  "decalage_m": [
+   -0.3863,
+   -1.482,
+   -0.6045
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 212836,
+ "octets": 88328,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/hosp_lampe.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 2
+}

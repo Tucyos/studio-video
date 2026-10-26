@@ -1,0 +1,50 @@
+{
+ "nom": "epicea_3",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "epicea_3.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  7.6345,
+  19.4667,
+  7.6401
+ ],
+ "tris": 5968,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x1024",
+  "512x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "epicea_3",
+  "epicea_3_lod0",
+  "epicea_3_lod0_1",
+  "epicea_3_lod0_2",
+  "epicea_3_lod1",
+  "epicea_3_lod1_1",
+  "epicea_3_lod1_2"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Deux objets epicea_3_lod0 (<= 8k tris) et epicea_3_lod1 (<= 900 tris), meme origine au pied du tronc. Feuillage Alpha Clip (MASK), double face. Epicea commun. Pied du tronc a z=0 (le tronc s'enfonce de 0,25 m sous le sol), couronne conique etroite, branches retombantes, bas du tronc degarni avec brindilles mortes. dims_m = largeur, profondeur, hauteur AU-DESSUS du sol. Le feuillage est une seule matiere (atlas d'aiguilles, Alpha Clip) et l'ecorce une autre : 2 primitives par LOD.",
+ "recalage": {
+  "avant_source": "+z",
+  "decalage_m": [
+   0.0484,
+   0.2667,
+   -0.0391
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 2084136,
+ "octets": 1267900,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/epicea_3.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

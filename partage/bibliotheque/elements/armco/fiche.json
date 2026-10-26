@@ -1,0 +1,38 @@
+{
+ "nom": "armco",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "armco.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  0.21,
+  1.124,
+  4.052
+ ],
+ "tris": 2456,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "armco",
+  "armco_boulons",
+  "armco_lisses",
+  "armco_poteaux"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Section de 4,0 m, y de 0 a 4 ; se pose bout a bout (copies decalees de 4,0 m en Y). Face avant (cote circulation) = plan x=0 regardant -X ; poteaux derriere, vers +X. Poteaux a y=0 et y=2 (pas de poteau a y=4) : raccord sans doublon ; eclissage (boulons) de part et d'autre de y=0/4. Double lisse : bas z=0,29-0,60, haut z=0,61-0,92. Poteaux 1,12 m.",
+ "recalage": null,
+ "octets_source": 676544,
+ "octets": 350072,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/armco.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

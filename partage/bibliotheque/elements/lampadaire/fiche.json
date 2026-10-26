@@ -1,0 +1,47 @@
+{
+ "nom": "lampadaire",
+ "version": 1,
+ "type": "accessoire",
+ "quoi": "",
+ "fichier": "lampadaire.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  3.3286,
+  9.3972,
+  0.62
+ ],
+ "tris": 2136,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "256x1024",
+  "256x256"
+ ],
+ "noeuds": [
+  "Scene",
+  "lampadaire",
+  "bras",
+  "embase",
+  "fut",
+  "lentille",
+  "marqueur_lampe",
+  "socle_beton",
+  "tete_cobra"
+ ],
+ "pivots": {
+  "origine": "pied du pole ; bras vers +X"
+ },
+ "marqueurs": [
+  "marqueur_lampe"
+ ],
+ "notes": "Cobra-head 9 m : fut galva conique, bras courbe de 2,4 m vers +X (glTF +X), lentille emissive_lampe sodium (orange). Origine au pied du pole (pas centre en X : le bras est a +X).",
+ "recalage": null,
+ "octets_source": 626184,
+ "octets": 478360,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "fast-furious-nos/assets/blender/lampadaire.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

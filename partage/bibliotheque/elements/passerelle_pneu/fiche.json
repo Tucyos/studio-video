@@ -1,0 +1,53 @@
+{
+ "nom": "passerelle_pneu",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "passerelle_pneu.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  28.1,
+  14.96,
+  13.92
+ ],
+ "tris": 26032,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x1024",
+  "512x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "passerelle_pneu",
+  "passerelle_pneu_escaliers",
+  "passerelle_pneu_escaliers001",
+  "passerelle_pneu_escaliers001_1",
+  "passerelle_pneu_escaliers001_2",
+  "passerelle_pneu_lettrage",
+  "passerelle_pneu_pneu",
+  "passerelle_pneu_pylones",
+  "passerelle_pneu_pylones001",
+  "passerelle_pneu_pylones001_1",
+  "passerelle_pneu_pylones001_2",
+  "passerelle_pneu_pylones001_3",
+  "passerelle_pneu_pylones001_4",
+  "passerelle_pneu_tablier",
+  "passerelle_pneu_tablier001",
+  "passerelle_pneu_tablier001_1",
+  "passerelle_pneu_tablier001_2",
+  "passerelle_pneu_tablier001_3"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Portee 25 m entre axes des pylones (x=+-12.5), tablier au-dessus de la piste, dessous a 6.3 m, dessus a 6.8 m, sommet du pneu a ~15 m. Le pneu (arc de cercle R=14.45 m, section ~1.8 x 2.2 m, sculptures de bande de roulement) est dans le plan XZ ; lettrage « 24 HEURES DU MANS » sur les deux flancs. Escaliers descendent vers +Y a chaque extremite (x=+-12.5). La piste passe sous le tablier le long de Y.",
+ "recalage": null,
+ "octets_source": 3147208,
+ "octets": 2913448,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "le-mans-66/assets/blender/passerelle_pneu.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

@@ -1,0 +1,51 @@
+{
+ "nom": "lon_fenetre",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "lon_fenetre.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  2.2843,
+  2.77,
+  0.5634
+ ],
+ "tris": 27372,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x256"
+ ],
+ "noeuds": [
+  "Scene",
+  "lon_fenetre",
+  "anneau",
+  "chassis",
+  "embrasse",
+  "fleuron_tringle",
+  "gland",
+  "gland_lien",
+  "quincaillerie",
+  "rideau_droit",
+  "rideau_gauche",
+  "rosace_mur",
+  "support_tringle",
+  "tringle",
+  "vitres"
+ ],
+ "pivots": {
+  "rideau_gauche": "origine au point d'accroche (haut du rideau, sur la tringle) ; petit balancement autour de X/Z",
+  "rideau_droit": "idem"
+ },
+ "marqueurs": [],
+ "notes": "dims_m = axes Blender [x largeur, y profondeur, z hauteur] ; dims_three = axes three.js [x, y haut, z profondeur]. Fenetre a guillotine 6/6, dormant 1.10 x 1.70, appui a z=0.80. Dos (cote exterieur) a y=0, embrasures de 0.24 de profondeur, chambranle et appui cote piece. 'vitres' = un maillage, UV planaire 0..1 sur toute la fenetre (cadre dormant), normale -Y. UV standard glTF (v=0 en haut du plan) : mettre texture.flipY = false pour une CanvasTexture/VideoTexture. Rideaux de velours vert tires : 'rideau_gauche' / 'rideau_droit' (objets separes, origine = point d'accroche sur la tringle y=-0.405, z=2.70, x=-/+0.78, utile pour un leger balancement) ; tringle laiton/bois a y=-0.40, z=2.74. Pas de mur : prevoir l'ouverture de 1.10 x 1.70 (+0.24 de profondeur) dans le mur ou un fond de nuit derriere les vitres.",
+ "recalage": null,
+ "octets_source": 898256,
+ "octets": 445340,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/lon_fenetre.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

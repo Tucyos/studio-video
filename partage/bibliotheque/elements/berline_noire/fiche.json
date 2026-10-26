@@ -1,0 +1,148 @@
+{
+ "nom": "berline_noire",
+ "version": 1,
+ "type": "voiture",
+ "quoi": "",
+ "fichier": "berline_noire.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  2.0998,
+  1.4529,
+  4.712
+ ],
+ "tris": 43010,
+ "os": 0,
+ "animations": [],
+ "textures": [],
+ "noeuds": [
+  "Scene",
+  "berline_noire",
+  "bas_de_caisse",
+  "carrosserie",
+  "carrosserie001",
+  "carrosserie001_1",
+  "carrosserie001_2",
+  "etriers",
+  "feux_arriere",
+  "feux_arriere_1",
+  "feux_arriere_2",
+  "feux_avant",
+  "feux_avant_1",
+  "feux_avant_2",
+  "feux_avant_3",
+  "grille_avant",
+  "interieur",
+  "interieur_1",
+  "interieur_2",
+  "interieur_3",
+  "joints",
+  "plaque",
+  "poignees",
+  "retros",
+  "retros_1",
+  "retros_2",
+  "retros_3",
+  "roue_ARD",
+  "roue_ARD_1",
+  "roue_ARD_2",
+  "roue_ARD_3",
+  "roue_ARD_4",
+  "roue_ARG",
+  "roue_ARG_1",
+  "roue_ARG_2",
+  "roue_ARG_3",
+  "roue_ARG_4",
+  "roue_AVD",
+  "roue_AVD_1",
+  "roue_AVD_2",
+  "roue_AVD_3",
+  "roue_AVD_4",
+  "roue_AVG",
+  "roue_AVG_1",
+  "roue_AVG_2",
+  "roue_AVG_3",
+  "roue_AVG_4",
+  "soubassement",
+  "soubassement_1",
+  "soubassement_2",
+  "toit_vitre",
+  "vitres"
+ ],
+ "pivots": {
+  "roue_ARD": [
+   -1.45,
+   0.347,
+   0.745
+  ],
+  "roue_ARG": [
+   -1.45,
+   0.347,
+   -0.745
+  ],
+  "roue_AVD": [
+   1.43,
+   0.347,
+   0.745
+  ],
+  "roue_AVG": [
+   1.43,
+   0.347,
+   -0.745
+  ]
+ },
+ "marqueurs": [
+  {
+   "nom": "toit_centre",
+   "pos_threejs": [
+    -0.748,
+    1.45,
+    0
+   ],
+   "note": "point le plus haut de la carrosserie, sur l'axe"
+  },
+  {
+   "nom": "nez",
+   "pos_threejs": [
+    2.35,
+    0.42,
+    0
+   ]
+  },
+  {
+   "nom": "queue",
+   "pos_threejs": [
+    -2.35,
+    0.651,
+    0
+   ]
+  },
+  {
+   "nom": "feux_avant",
+   "objet": "feux_avant",
+   "note": "matériaux émissifs led_blanche / feu_croisement / clignotant_orange"
+  },
+  {
+   "nom": "feux_arriere",
+   "objet": "feux_arriere",
+   "note": "matériau émissif feu_arriere_rouge"
+  }
+ ],
+ "notes": "Avant = Blender +X (three.js +X), gauche = +Y Blender (-Z three.js). Origine au sol, centre de l'emprise. Roues séparées (origine = centre de roue, axe Blender Y = Z three.js) : roue_AVG/AVD/ARG/ARD. Matériaux nommés : peinture_*, vitre_teintee (alpha BLEND), led_blanche / feu_croisement / feu_arriere_rouge / clignotant_orange (émissifs), pneu, *_jante, disque_frein, etrier. Aucun logo ni texte. Les dimensions incluent les rétroviseurs (largeur de carrosserie hors rétros : 1.85 m). Joints, poignées, feux, essuie-glaces sont des décalques posés à 2,5 à 11 mm de la tôle : prévoir camera.near >= 0.1 (0.3 pour les plans larges à 40-50 m) pour éviter le z-fighting. L'habitacle n'est visible qu'au-dessus de la ligne de caisse (plancher à hauteur de bas de vitre) : sièges, tableau de bord, volant. Rendu des métaux, jantes et vernis dépendant de l'environnement (envMap) de la scène three.js. ",
+ "recalage": {
+  "avant_source": "+x",
+  "decalage_m": [
+   0,
+   0,
+   0.002
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 1097908,
+ "octets": 333536,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "tesla-roadster/assets/blender/berline_noire.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 2
+}

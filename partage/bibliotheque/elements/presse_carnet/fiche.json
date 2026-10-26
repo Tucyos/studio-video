@@ -1,0 +1,48 @@
+{
+ "nom": "presse_carnet",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "presse_carnet.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  0.268,
+  0.0231,
+  0.198
+ ],
+ "tris": 3984,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512",
+  "1024x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "presse_carnet",
+  "carnet",
+  "carnet_1",
+  "carnet_2",
+  "carnet_3",
+  "carnet_4",
+  "carnet_5",
+  "stylo",
+  "stylo001",
+  "stylo001_1",
+  "stylo001_2"
+ ],
+ "pivots": {
+  "stylo": "origine = milieu du stylo, posé sur la page de droite (rotation libre)"
+ },
+ "marqueurs": [],
+ "notes": "Carnet à spirale ouvert posé à plat (dessous à y=0), pages lignées vierges + marge, trous de reliure ; stylo bille séparé. 3 Mo pour 4 k triangles : trois textures 1024 px.",
+ "recalage": null,
+ "octets_source": 3097892,
+ "octets": 2023636,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/presse_carnet.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

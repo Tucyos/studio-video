@@ -1,0 +1,38 @@
+{
+ "nom": "poubelle",
+ "version": 1,
+ "type": "accessoire",
+ "quoi": "",
+ "fichier": "poubelle.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  0.5,
+  0.99,
+  0.5
+ ],
+ "tris": 1440,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "256x512",
+  "32x32"
+ ],
+ "noeuds": [
+  "Scene",
+  "poubelle",
+  "corps",
+  "fond_interieur"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Poubelle de rue 1 m, d=0,5 : acier peint vert, cannelures, bande mediane, couvercle a ouverture ronde, ecailles, rouille, autocollants.",
+ "recalage": null,
+ "octets_source": 148488,
+ "octets": 143372,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "fast-furious-nos/assets/blender/poubelle.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

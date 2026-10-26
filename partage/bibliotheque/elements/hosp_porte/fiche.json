@@ -1,0 +1,54 @@
+{
+ "nom": "hosp_porte",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "hosp_porte.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  1.14,
+  2.19,
+  0.1795
+ ],
+ "tris": 11252,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "hosp_porte",
+  "cadre",
+  "cadre_1",
+  "cadre_2",
+  "cadre_3",
+  "cadre_4",
+  "cadre_5",
+  "porte_battant",
+  "porte_battant_1",
+  "porte_battant_2",
+  "porte_battant_3",
+  "porte_battant_4",
+  "porte_battant_5",
+  "porte_battant_6",
+  "porte_battant_7",
+  "porte_battant_8",
+  "porte_battant_9",
+  "porte_battant_10"
+ ],
+ "pivots": {
+  "porte_battant": "origine SUR l axe des gonds (x=-0.45, y=+0.01, z=0 Blender ; cote gauche vu de face). Rotation autour de Y three.js : rotation.y = +theta ouvre vers -Z three.js (vers le fond, loin de la camera) ; theta negatif ouvre vers la camera. Ouvre jusqu a ~100 deg."
+ },
+ "marqueurs": [],
+ "notes": "Bloc-porte d hopital 1976 : huisserie + chambranles des deux cotes (mur de 0.14 m centre sur y=0, ouverture 0.92 x 2.08 m, origine au sol au centre de l ouverture), vantail 0.90 x 2.05 x 0.04 m separe \"porte_battant\", vitrage arme (maille soudee en vraie geometrie), tole inox de bas de porte, poignee a levier + plaque alu des deux cotes, 3 gonds, gache. Dos du vantail (y>0) = couloir/arriere.",
+ "recalage": null,
+ "octets_source": 742332,
+ "octets": 408248,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/hosp_porte.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

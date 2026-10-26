@@ -1,0 +1,45 @@
+{
+ "nom": "pancarte_pub_1966_b",
+ "version": 1,
+ "type": "accessoire",
+ "quoi": "",
+ "fichier": "pancarte_pub_1966_b.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  6.1,
+  2.0535,
+  1.4119
+ ],
+ "tris": 1164,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512",
+  "1024x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "pancarte_pub_1966_b",
+  "cadre_et_supports",
+  "cadre_et_supports001",
+  "cadre_et_supports001_1",
+  "marqueur_centre",
+  "panneau_peint",
+  "panneau_peint001",
+  "panneau_peint001_1"
+ ],
+ "pivots": {},
+ "marqueurs": [
+  "marqueur_centre"
+ ],
+ "notes": "Panneau publicitaire de bord de piste, 6,00 x 1,50 m (bas a 0,45 m), 4 panneaux peints de 1,5 m : textes generiques « HUILE MOTEUR / PNEUS / CARBURANT / LE MANS 1966 » dans une texture peinte (2 images de 1024 x 512, bords de pinceau, planches, saleté, ecaillures), liteaux, couronnement, 4 poteaux et jambes de force a l'arriere. Face = y=0, poteaux vers +Y. Variante B : palette et ordre des textes propres.",
+ "recalage": null,
+ "octets_source": 964964,
+ "octets": 1105192,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "le-mans-66/assets/blender/pancarte_pub_1966_b.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

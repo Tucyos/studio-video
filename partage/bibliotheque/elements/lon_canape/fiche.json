@@ -1,0 +1,45 @@
+{
+ "nom": "lon_canape",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "lon_canape.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  2.2824,
+  0.8571,
+  0.9679
+ ],
+ "tris": 33404,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512",
+  "256x256",
+  "1024x768"
+ ],
+ "noeuds": [
+  "Scene",
+  "lon_canape",
+  "boutons",
+  "coussin_assise",
+  "coussin_assise001",
+  "oreiller",
+  "passepoil",
+  "pieds",
+  "plaid",
+  "structure"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "dims_m = axes Blender [x largeur, y profondeur, z hauteur] ; dims_three = axes three.js [x, y haut, z profondeur]. Chesterfield cuir oxblood capitonne 2.10 x 0.92 x 0.78 ; origine centree sur le canape seul (structure) ; 'plaid' tartan (simulation de tissu) pose sur l'accoudoir droit et qui deborde (dims_m = largeur totale avec plaid), 'oreiller' a gauche ; les 2 'coussin_assise' sont des objets separes.",
+ "recalage": null,
+ "octets_source": 2846968,
+ "octets": 1487228,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/lon_canape.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

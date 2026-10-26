@@ -1,0 +1,47 @@
+{
+ "nom": "arbre_2",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "arbre_2.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  19.4605,
+  18.0005,
+  15.9159
+ ],
+ "tris": 7944,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x1024",
+  "512x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "arbre_2",
+  "arbre_2_arbre",
+  "arbre_2_arbre_1",
+  "arbre_2_arbre_2"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Arbre de parc, pied du tronc a z=0 (enfonce de 0,25 m), une seule maille 'arbre_N_arbre' a 2 materiaux : feuilles (Alpha Clip = alphaTest 0,42, double face, couleurs de sommets) et ecorce. dims_m = largeur, profondeur, hauteur AU-DESSUS du sol. Vert de fin d'ete avec quelques feuilles jaunissantes.",
+ "recalage": {
+  "avant_source": "+z",
+  "decalage_m": [
+   -0.5572,
+   0.25,
+   -0.2697
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 1977432,
+ "octets": 1316664,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "monza-2021/assets/blender/arbre_2.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

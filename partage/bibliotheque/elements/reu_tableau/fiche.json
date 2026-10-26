@@ -1,0 +1,48 @@
+{
+ "nom": "reu_tableau",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "reu_tableau.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  1.43,
+  1.9417,
+  1.0697
+ ],
+ "tris": 1790,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x768",
+  "1024x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "reu_tableau",
+  "ardoise",
+  "brosse_dos",
+  "brosse_feutre",
+  "cadre",
+  "charniere",
+  "craie",
+  "craie001",
+  "fond",
+  "jambe_arriere",
+  "montants",
+  "patin",
+  "tablette"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "dims_m = axes Blender [x largeur, y profondeur, z hauteur] ; dims_three = axes three.js [x, y haut, z profondeur]. Tableau noir 1.20 x 0.90 sur chevalet a plat incline de 7 deg ; 'ardoise' = quad plan separe 1.20 x 0.90 (UV 0..1, normale -Y inclinee de 7 deg vers le haut), texture d'ardoise essuyee deja posee ; remplacer la texture par le plan du circuit. UV standard glTF (v=0 en haut du plan) : mettre texture.flipY = false pour une CanvasTexture/VideoTexture.",
+ "recalage": null,
+ "octets_source": 502460,
+ "octets": 645660,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/reu_tableau.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

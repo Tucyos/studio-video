@@ -1,0 +1,42 @@
+{
+ "nom": "reu_chaise",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "reu_chaise.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  0.459,
+  0.825,
+  0.4831
+ ],
+ "tris": 10056,
+ "os": 0,
+ "animations": [],
+ "textures": [],
+ "noeuds": [
+  "Scene",
+  "reu_chaise",
+  "assise",
+  "collier",
+  "dossier",
+  "equerre",
+  "patin",
+  "traverse",
+  "tube_cote",
+  "tube_dossier",
+  "vis"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "dims_m = axes Blender [x largeur, y profondeur, z hauteur] ; dims_three = axes three.js [x, y haut, z profondeur]. Chaise empilable 1970s : tube chrome, coque orange ; assise a z=0.45, face avant vers -Y.",
+ "recalage": null,
+ "octets_source": 276816,
+ "octets": 116060,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/reu_chaise.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 2
+}

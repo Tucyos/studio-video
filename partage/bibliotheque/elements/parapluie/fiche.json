@@ -1,0 +1,52 @@
+{
+ "nom": "parapluie",
+ "version": 1,
+ "type": "accessoire",
+ "quoi": "",
+ "fichier": "parapluie.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  0.9645,
+  1.0757,
+  0.9645
+ ],
+ "tris": 6238,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "parapluie",
+  "armature",
+  "armature001",
+  "armature001_1",
+  "armature001_2",
+  "armature001_3",
+  "armature001_4",
+  "canopee"
+ ],
+ "pivots": {
+  "parapluie": "origine = milieu de la poignée droite (crosse en J qui s'enroule vers +Z three.js), axe vertical ; ouvert, 8 baleines, rayon ~0,48 m, toile haute à 0,86 m"
+ },
+ "marqueurs": [],
+ "notes": "Toile noire (normal map de tissage) qui s'affaisse entre les baleines (bord festonné), baleines + tringles + coulisseau visibles dessous, manche et crosse en châtaignier vernis, embouts laiton. Pièces : canopee, armature.",
+ "recalage": {
+  "avant_source": "+z",
+  "decalage_m": [
+   0,
+   0.1229,
+   0
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 362864,
+ "octets": 285764,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/parapluie.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

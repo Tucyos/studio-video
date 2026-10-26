@@ -1,0 +1,50 @@
+{
+ "nom": "humain_pilote",
+ "version": 1,
+ "type": "personnage",
+ "quoi": "",
+ "fichier": "humain_pilote.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  1.0881,
+  1.7237,
+  0.4646
+ ],
+ "tris": 40625,
+ "os": 52,
+ "animations": [],
+ "textures": [
+  "2048x2048",
+  "512x512",
+  "1024x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "squelette",
+  "Human",
+  "Humaneyebrow001",
+  "Humaneyelashes01",
+  "Humanlow-poly",
+  "Humanshoes03",
+  "Humanshort02",
+  "Humanthegreatengineer_galactic_warrior_uniform"
+ ],
+ "notes": "Squelette Mixamo (noms mixamorig). Pose de repos : bras en A. perso.js du Mans 66 : poses en degrés par os.",
+ "recalage": {
+  "avant_source": "+z",
+  "decalage_m": [
+   0,
+   0.0236,
+   -0.128
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 11886952,
+ "octets": 9335364,
+ "licence": "CC0 (MakeHuman via MPFB2)",
+ "auteur": "MakeHuman",
+ "source": "rush/assets/blender",
+ "credit": "humain_pilote — MakeHuman (CC0 (MakeHuman via MPFB2))",
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

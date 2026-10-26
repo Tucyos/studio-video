@@ -1,0 +1,52 @@
+{
+ "nom": "distributeur_journaux",
+ "version": 1,
+ "type": "accessoire",
+ "quoi": "",
+ "fichier": "distributeur_journaux.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  1.39,
+  1.021,
+  0.455
+ ],
+ "tris": 3348,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512",
+  "256x256",
+  "64x64"
+ ],
+ "noeuds": [
+  "Scene",
+  "distributeur_journaux",
+  "bandeau_bleu",
+  "bandeau_jaune",
+  "bandeau_rouge",
+  "boite_bleu",
+  "boite_jaune",
+  "boite_rouge",
+  "ferrures_bleu",
+  "ferrures_jaune",
+  "ferrures_rouge",
+  "journal_bleu",
+  "journal_jaune",
+  "journal_rouge",
+  "vitre_bleu",
+  "vitre_jaune",
+  "vitre_rouge"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "3 distributeurs (bleu, rouge, jaune) cote a cote, pas de marque ni de texte reel ; vitres BLEND ; origine au centre de la rangee, faces vers -Y.",
+ "recalage": null,
+ "octets_source": 755044,
+ "octets": 687108,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "fast-furious-nos/assets/blender/distributeur_journaux.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

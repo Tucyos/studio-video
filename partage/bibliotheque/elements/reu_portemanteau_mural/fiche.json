@@ -1,0 +1,59 @@
+{
+ "nom": "reu_portemanteau_mural",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "reu_portemanteau_mural.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  0.92,
+  0.222,
+  0.1555
+ ],
+ "tris": 7384,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x256"
+ ],
+ "noeuds": [
+  "Scene",
+  "reu_portemanteau_mural",
+  "bouton_crochet",
+  "crochet",
+  "crochet_1",
+  "crochet_2",
+  "crochet_3",
+  "crochet_4",
+  "equerre",
+  "planche",
+  "rosace_crochet",
+  "tablette",
+  "vis"
+ ],
+ "pivots": {},
+ "marqueurs": [
+  "crochet_1",
+  "crochet_2",
+  "crochet_3",
+  "crochet_4"
+ ],
+ "notes": "dims_m = axes Blender [x largeur, y profondeur, z hauteur] ; dims_three = axes three.js [x, y haut, z profondeur]. Planche murale 0.90 x 0.13 avec 4 crochets laiton + tablette ; dos a y=0, centre en z=1.62 (hors sol : floor_z libre), crochet_n = bille au bout du crochet n (de gauche a droite).",
+ "recalage": {
+  "avant_source": "+z",
+  "decalage_m": [
+   0,
+   -1.555,
+   -0.0777
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 292104,
+ "octets": 208836,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/reu_portemanteau_mural.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

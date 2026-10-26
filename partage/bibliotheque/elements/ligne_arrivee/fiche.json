@@ -1,0 +1,81 @@
+{
+ "nom": "ligne_arrivee",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "ligne_arrivee.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  12,
+  5.87,
+  16.9831
+ ],
+ "tris": 1684,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512",
+  "1024x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "ligne_arrivee",
+  "drapeau_officiel",
+  "drapeau_officiel_1",
+  "drapeau_officiel_2",
+  "ligne_arrivee_axe",
+  "ligne_arrivee_enseignes",
+  "ligne_arrivee_enseignes_1",
+  "ligne_arrivee_enseignes_2",
+  "ligne_arrivee_estrade",
+  "ligne_arrivee_estrade001",
+  "ligne_arrivee_estrade001_1",
+  "ligne_arrivee_estrade001_2",
+  "ligne_arrivee_joints",
+  "ligne_arrivee_piste",
+  "ligne_arrivee_piste_1",
+  "ligne_arrivee_piste_2",
+  "ligne_arrivee_poteau",
+  "ligne_arrivee_poteau001",
+  "ligne_arrivee_poteau001_1",
+  "ligne_arrivee_poteau001_2",
+  "ligne_arrivee_poteau001_3",
+  "ligne_arrivee_poteau_visee",
+  "ligne_arrivee_poteau_visee001",
+  "ligne_arrivee_poteau_visee001_1",
+  "ligne_arrivee_poteau_visee001_2",
+  "marqueur_drapeau",
+  "marqueur_estrade",
+  "marqueur_ligne",
+  "marqueur_officiel",
+  "marqueur_poteau_arrivee"
+ ],
+ "pivots": {
+  "drapeau_officiel": "origine = poignee de la hampe (Blender 0.7, 5.3, 1.4 ; three.js 0.7, 1.4, -5.3), tenue par l'officiel au sol (marqueur_officiel). Agiter en tournant autour de Z (balancement) et X (haut/bas) en three.js."
+ },
+ "marqueurs": [
+  "marqueur_drapeau",
+  "marqueur_estrade",
+  "marqueur_ligne",
+  "marqueur_officiel",
+  "marqueur_poteau_arrivee"
+ ],
+ "notes": "Tronçon de piste de 12 m x 14 m (x=-6..6, y=-7..7), voie des stands cote +Y, ligne blanche de 0.3 m en x=0 sur toute la largeur, lignes de rive. Poteau d'arrivee cote +Y (panneau a damier surplombant la piste), poteau de visee cote -Y, estrade du starter HORS chaussee (x=2.9..4.7, y=7.6..9.0, a droite du poteau, plateau a 0.92 m), drapeau a damier separe (animable) tenu au bord de la ligne par l'officiel (marqueur_officiel au sol a (0.9, 5.6)). Le trottoir/voie des stands n'est pas inclus.",
+ "recalage": {
+  "avant_source": "+z",
+  "decalage_m": [
+   0,
+   0.12,
+   0.7915
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 3796376,
+ "octets": 3655216,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "le-mans-66/assets/blender/ligne_arrivee.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

@@ -1,0 +1,56 @@
+{
+ "nom": "feu_tricolore",
+ "version": 1,
+ "type": "accessoire",
+ "quoi": "",
+ "fichier": "feu_tricolore.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  6.5597,
+  6.5909,
+  0.664
+ ],
+ "tris": 3288,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "128x128",
+  "256x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "feu_tricolore",
+  "bouton_pieton",
+  "embase",
+  "marqueur_tete_1",
+  "marqueur_tete_2",
+  "plaque_bouton",
+  "poteau",
+  "potence",
+  "tete_1_boitier",
+  "tete_1_lentille_orange",
+  "tete_1_lentille_rouge",
+  "tete_1_lentille_vert",
+  "tete_1_visieres",
+  "tete_2_boitier",
+  "tete_2_lentille_orange",
+  "tete_2_lentille_rouge",
+  "tete_2_lentille_vert",
+  "tete_2_visieres"
+ ],
+ "pivots": {},
+ "marqueurs": [
+  "marqueur_tete_1",
+  "marqueur_tete_2"
+ ],
+ "notes": "Potence de 6,3 m vers +X, 2 tetes (face -Y) a 3 lentilles. Les 3 lentilles sont allumees dans le GLB (emission 5) : le moteur pilote emissiveIntensity de emissive_rouge / emissive_orange / emissive_vert (materiaux partages entre les 2 tetes). Origine au pied du poteau.",
+ "recalage": null,
+ "octets_source": 583712,
+ "octets": 407500,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "fast-furious-nos/assets/blender/feu_tricolore.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

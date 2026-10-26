@@ -1,0 +1,39 @@
+{
+ "nom": "reu_cendrier_pied",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "reu_cendrier_pied.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  0.344,
+  0.632,
+  0.344
+ ],
+ "tris": 5220,
+ "os": 0,
+ "animations": [],
+ "textures": [],
+ "noeuds": [
+  "Scene",
+  "reu_cendrier_pied",
+  "anneau_base",
+  "cendre",
+  "corps",
+  "megot",
+  "megot001",
+  "sable"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "dims_m = axes Blender [x largeur, y profondeur, z hauteur] ; dims_three = axes three.js [x, y haut, z profondeur]. Cendrier sur pied chrome 0.61 m, sable + megots.",
+ "recalage": null,
+ "octets_source": 141508,
+ "octets": 58264,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/reu_cendrier_pied.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 2
+}

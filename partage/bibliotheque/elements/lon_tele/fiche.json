@@ -1,0 +1,51 @@
+{
+ "nom": "lon_tele",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "lon_tele.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  0.8039,
+  1.1647,
+  0.5555
+ ],
+ "tris": 6552,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x512",
+  "256x256"
+ ],
+ "noeuds": [
+  "Scene",
+  "lon_tele",
+  "antenne",
+  "antenne_socle",
+  "bosse_arriere",
+  "bouton",
+  "cadran",
+  "cadre_grille",
+  "caisson",
+  "ecran",
+  "fentes",
+  "grille",
+  "lunette",
+  "pieds",
+  "plaque_commandes",
+  "plaquette",
+  "repere"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "dims_m = axes Blender [x largeur, y profondeur, z hauteur] ; dims_three = axes three.js [x, y haut, z profondeur]. Television 1970s en noyer sur pieds, meuble 0.78 x 0.52 x 0.80 (+ antenne : hauteur totale 1.165), origine centree sur le caisson ; 'ecran' = quad plan separe 0.44 x 0.335 (UV 0..1, normale -Y) a y=-0.2135 ; UV standard glTF (v=0 en haut du plan) : mettre texture.flipY = false pour une CanvasTexture/VideoTexture. haut-parleur a droite ; antenne d'interieur sur le dessus.",
+ "recalage": null,
+ "octets_source": 419820,
+ "octets": 368732,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/lon_tele.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

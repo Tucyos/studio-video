@@ -1,0 +1,40 @@
+{
+ "nom": "mat_led_rouge",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "mat_led_rouge.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  0.3,
+  3.005,
+  0.3
+ ],
+ "tris": 2500,
+ "os": 0,
+ "animations": [],
+ "textures": [],
+ "noeuds": [
+  "Scene",
+  "mat_led_rouge",
+  "pied",
+  "pied_1",
+  "pied_2",
+  "tube",
+  "tube_1",
+  "tube_2",
+  "tube_3"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Deux objets : `pied` (noir) et `tube` (diffuseur rouge translucide alphaMode BLEND + âme émissive rouge #ff1a14, émission 18 comme la rampe). Origine au sol au centre du pied.",
+ "recalage": null,
+ "octets_source": 58612,
+ "octets": 26628,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "tesla-roadster/assets/blender/mat_led_rouge.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 2
+}

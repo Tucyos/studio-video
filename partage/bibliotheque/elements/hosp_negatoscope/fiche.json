@@ -1,0 +1,62 @@
+{
+ "nom": "hosp_negatoscope",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "hosp_negatoscope.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  1,
+  0.8885,
+  0.1112
+ ],
+ "tris": 3838,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x256"
+ ],
+ "noeuds": [
+  "Scene",
+  "hosp_negatoscope",
+  "cable",
+  "cable_1",
+  "cable_2",
+  "caisson",
+  "caisson_1",
+  "caisson_2",
+  "caisson_3",
+  "caisson_4",
+  "caisson_5",
+  "caisson_6",
+  "ecran_radio",
+  "interrupteur",
+  "interrupteur_1",
+  "interrupteur_2",
+  "interrupteur_3",
+  "interrupteur_4",
+  "pinces",
+  "pinces_1",
+  "pinces_2"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Negatoscope mural 1.00 x 0.80 m, profondeur 0.10 m (dos contre y=0). Racine au sol ; le caisson est accroche a sa hauteur reelle : bas a z=1.05, haut a z=1.85, centre du panneau a z=1.45 (cable jusqu a z=1.94). \"ecran_radio\" = plan separe 0.92 x 0.72 m, UV 0..1 (u vers +X, v vers +Z), normale -Y, verre depoli EMISSIF (emission blanche 1.25 + emissiveMap de bandes) : pour afficher la radio, mettre la texture dans map ET emissiveMap (ou emissive = 0), sinon elle est lavee en blanc. Barre a pinces, interrupteur a bascule + voyant orange (emissif), cable secteur en haut a droite.",
+ "recalage": {
+  "avant_source": "+z",
+  "decalage_m": [
+   0,
+   -1.049,
+   -0.0556
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 205624,
+ "octets": 143020,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/hosp_negatoscope.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

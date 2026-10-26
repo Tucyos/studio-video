@@ -1,0 +1,59 @@
+{
+ "nom": "plateau_tournant",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "plateau_tournant.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  7.003,
+  0.2515,
+  7.003
+ ],
+ "tris": 13632,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "plateau_tournant",
+  "base",
+  "base_1",
+  "base_2",
+  "disque",
+  "disque_1",
+  "disque_2"
+ ],
+ "pivots": {
+  "disque": {
+   "origine_m": [
+    0,
+    0,
+    0.246
+   ],
+   "axe": "Z Blender = Y three.js : disque.rotation.y += w*dt ; l'origine est au centre, a la surface du plateau (z = 0,246 m), la voiture posee dessus se place en (0, 0, 0) dans le repere du disque"
+  }
+ },
+ "marqueurs": [
+  {
+   "nom": "centre_surface",
+   "pos_m": [
+    0,
+    0,
+    0.25
+   ]
+  }
+ ],
+ "notes": "diametre 7,00 m, hauteur 0,25 m. Objets : base (cuve fixe + anneau de LED blanches emissives sur le bord + jupe lumineuse basse, materiau led_blanche) et disque (noir brillant, rugosite 1024 px cuite avec micro-rayures, 3 rainures concentriques, moyeu metal). Le disque tourne, la base et les LED restent fixes. 192 segments, eventail de triangles au centre (pas de n-gone).",
+ "recalage": null,
+ "octets_source": 1515640,
+ "octets": 1011888,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "tesla-roadster/assets/blender/plateau_tournant.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

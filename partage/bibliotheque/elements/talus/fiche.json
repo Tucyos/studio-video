@@ -1,0 +1,44 @@
+{
+ "nom": "talus",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "talus.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  8,
+  3.0212,
+  20
+ ],
+ "tris": 5440,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "talus",
+  "talus_mesh"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Talus herbeux de 20 m le long de Y (y de -10 a +10), x de 0 (bord de la route, cote route = -X) a 8 m, hauteur 0 -> 2,3 m a x~6,2 puis plateau ~2,4-2,7 m, plaques de terre nue et de schiste (relief + texture 10 m x 10 m peinte, 2 repetitions sur les 20 m). Raccord strict en Y : se pose bout a bout (copies decalees de 20 m). Jupes sous le sol a z=-0,4 aux deux bords. dims_m z = hauteur max au-dessus du sol.",
+ "recalage": {
+  "avant_source": "+z",
+  "decalage_m": [
+   -4,
+   0.4,
+   0
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 2671724,
+ "octets": 1305464,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/talus.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

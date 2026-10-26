@@ -1,0 +1,38 @@
+{
+ "nom": "barriere",
+ "version": 1,
+ "type": "accessoire",
+ "quoi": "",
+ "fichier": "barriere.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  3.062,
+  0.82,
+  0.61
+ ],
+ "tris": 244,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x512",
+  "64x64"
+ ],
+ "noeuds": [
+  "Scene",
+  "barriere",
+  "corps_beton",
+  "poches_goupilles"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "K-rail beton type NJ (Caltrans 810 mm de haut, base 610, sommet 154), 3 m, long cote vers -Y, centre en X. Salete et traces de pneus au pied, rouille, ecailles. Les poches de levage sont des plaques sombres posees sur le dessus (pas de booleen).",
+ "recalage": null,
+ "octets_source": 819192,
+ "octets": 565652,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "fast-furious-nos/assets/blender/barriere.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

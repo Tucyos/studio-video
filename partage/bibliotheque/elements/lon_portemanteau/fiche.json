@@ -1,0 +1,53 @@
+{
+ "nom": "lon_portemanteau",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "lon_portemanteau.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  0.7967,
+  1.778,
+  0.6933
+ ],
+ "tris": 22256,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512",
+  "256x256",
+  "512x256",
+  "64x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "lon_portemanteau",
+  "bouton_manteau",
+  "col",
+  "crochet",
+  "crochet_1",
+  "crochet_2",
+  "crochet_bas",
+  "echarpe",
+  "franges",
+  "fut",
+  "manche",
+  "manteau",
+  "pied_courbe"
+ ],
+ "pivots": {},
+ "marqueurs": [
+  "crochet_1",
+  "crochet_2"
+ ],
+ "notes": "dims_m = axes Blender [x largeur, y profondeur, z hauteur] ; dims_three = axes three.js [x, y haut, z profondeur]. Porte-manteau bois courbe 1.78 m, origine centree sur le fut (manteau et echarpe debordent) ; 6 crochets hauts (manteau sur 30 deg, echarpe sur 150 deg), 4 bas ; crochet_1 (210 deg, avant-gauche) et crochet_2 (330 deg, avant-droit) = crochets libres, empties a la pointe (accrocher les casques a z-0.0).",
+ "recalage": null,
+ "octets_source": 1231312,
+ "octets": 685424,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/lon_portemanteau.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

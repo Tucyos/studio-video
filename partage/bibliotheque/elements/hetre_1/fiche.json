@@ -1,0 +1,50 @@
+{
+ "nom": "hetre_1",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "hetre_1.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  15.1164,
+  20.67,
+  13.9486
+ ],
+ "tris": 8031,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x1024",
+  "512x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "hetre_1",
+  "hetre_1_lod0",
+  "hetre_1_lod0_1",
+  "hetre_1_lod0_2",
+  "hetre_1_lod1",
+  "hetre_1_lod1_1",
+  "hetre_1_lod1_2"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Deux objets hetre_1_lod0 (<= 8k tris) et hetre_1_lod1 (<= 900 tris), meme origine au pied du tronc. Feuillage Alpha Clip (MASK), double face. Hetre commun, tronc gris lisse mousseux, couronne large et irreguliere en amas de feuilles vert frais clair/sombre. dims_m = largeur, profondeur, hauteur AU-DESSUS du sol. Le LOD1 est fait de 9 grosses touffes (cellule pleine de l'atlas) pour la meme silhouette.",
+ "recalage": {
+  "avant_source": "+z",
+  "decalage_m": [
+   0.0296,
+   0.25,
+   0.38
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 2335936,
+ "octets": 1514084,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/hetre_1.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

@@ -1,0 +1,57 @@
+{
+ "nom": "panneaux_pub",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "panneaux_pub.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  9.9952,
+  1,
+  0.2406
+ ],
+ "tris": 3978,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "128x128",
+  "1024x308"
+ ],
+ "noeuds": [
+  "Scene",
+  "panneaux_pub",
+  "marqueur_bord_droit",
+  "marqueur_bord_gauche",
+  "panneau_A",
+  "cadre_A",
+  "face_A",
+  "pieds_A",
+  "panneau_B",
+  "cadre_B",
+  "face_B",
+  "pieds_B",
+  "panneau_C",
+  "cadre_C",
+  "face_C",
+  "pieds_C"
+ ],
+ "pivots": {
+  "panneau_A": "(-3.333,0,0)",
+  "panneau_B": "(0,0,0)",
+  "panneau_C": "(3.333,0,0)"
+ },
+ "marqueurs": [
+  "marqueur_bord_gauche",
+  "marqueur_bord_droit"
+ ],
+ "notes": "Module de 10 m (pas_m 10) : 3 panneaux de 3.333 x 0.96 m (z 0.04 a 1.0), emboites bout a bout. panneau_A et panneau_B verts (#1d6b3a, #0f4a27) mots blancs inventes (AUTODROMO / MONZA ; GRAN PREMIO D'ITALIA / 1922), panneau_C rayures jaune et rouge avec etiquette MONZA. Chaque panneau = Empty (origine au sol, centre) + cadre alu + face imprimee (materiaux pub_A / pub_B / pub_C) + pieds. DATUM : face avant a y = -0.081 devant le plan y = 0 = pan avant du mur de grillage ; dos des panneaux a y = -0.03 ; pieds jusqu'a y = -0.30. Placer avec la meme origine que grillage.",
+ "recalage": null,
+ "octets_source": 845008,
+ "octets": 736116,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "monza-2021/assets/blender/panneaux_pub.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

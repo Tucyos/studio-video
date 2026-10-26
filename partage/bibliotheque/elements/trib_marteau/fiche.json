@@ -1,0 +1,44 @@
+{
+ "nom": "trib_marteau",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "trib_marteau.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  0.131,
+  0.1651,
+  0.2987
+ ],
+ "tris": 3120,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "trib_marteau",
+  "billot",
+  "marteau",
+  "marteau001",
+  "marteau001_1",
+  "poignee_pivot"
+ ],
+ "pivots": {
+  "marteau": "origine = bout du manche (poignée), au-dessus et vers -Z de la tête ; au repos : tête posée sur le billot, manche relevé de 22° vers -Z. Rotation autour de X three.js : rotation.x négatif = relève la tête, 0 = frappe sur le billot"
+ },
+ "marqueurs": [
+  "poignee_pivot"
+ ],
+ "notes": "Billot rond (érable) à l'origine, dessus à 0,0345 m ; marteau en palissandre avec deux bagues laiton. Repère 'poignee_pivot' enfant du marteau (= l'origine).",
+ "recalage": null,
+ "octets_source": 357928,
+ "octets": 442292,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/trib_marteau.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

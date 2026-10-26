@@ -1,0 +1,42 @@
+{
+ "nom": "haie_paille",
+ "version": 1,
+ "type": "accessoire",
+ "quoi": "",
+ "fichier": "haie_paille.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  10.0175,
+  0.7567,
+  0.9744
+ ],
+ "tris": 7660,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "haie_paille",
+  "bottes",
+  "ficelles",
+  "marqueur_bord_droit",
+  "marqueur_bord_gauche"
+ ],
+ "pivots": {},
+ "marqueurs": [
+  "marqueur_bord_droit",
+  "marqueur_bord_gauche"
+ ],
+ "notes": "Haie de bottes de paille de 10 m : 2 bottes de profondeur x 2 de hauteur (0,92 x 0,72 m), bottes de 0,91 x 0,46 x 0,36 m en appareil decale, ficelles sur la rangee avant. Demi-bottes aux extremites : bout a bout elles refont une botte entiere. Face avant = y=0, la haie s'etend vers +Y.",
+ "recalage": null,
+ "octets_source": 949964,
+ "octets": 487556,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "le-mans-66/assets/blender/haie_paille.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

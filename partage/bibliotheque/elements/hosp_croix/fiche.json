@@ -1,0 +1,52 @@
+{
+ "nom": "hosp_croix",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "hosp_croix.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  0.2,
+  0.35,
+  0.0207
+ ],
+ "tris": 2016,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "hosp_croix",
+  "accroche",
+  "montant",
+  "montant_1",
+  "montant_2",
+  "montant_3",
+  "traverse",
+  "traverse_1",
+  "traverse_2",
+  "traverse_3"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Croix murale en bois sombre verni (sans Christ), relief a gradins + filets clairs incrustes, joint a mi-bois visible, vis laiton au croisement. Dos plaque contre y=0, 0.018 m d epaisseur. Racine au sol ; la croix est accrochee a sa hauteur reelle : bas a z=1.65, haut a z=2.00 (decaler les enfants si besoin). Textures bois bakees (PNG 512, 3 images).",
+ "recalage": {
+  "avant_source": "+z",
+  "decalage_m": [
+   0,
+   -1.65,
+   -0.0103
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 923824,
+ "octets": 782628,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/hosp_croix.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

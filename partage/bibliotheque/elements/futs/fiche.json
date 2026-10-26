@@ -1,0 +1,40 @@
+{
+ "nom": "futs",
+ "version": 1,
+ "type": "accessoire",
+ "quoi": "",
+ "fichier": "futs.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  1.3566,
+  0.897,
+  1.4323
+ ],
+ "tris": 3576,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "64x64",
+  "256x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "futs",
+  "bondes",
+  "fut_bleu",
+  "fut_couche",
+  "fut_rouge"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "3 futs de 200 L (d=0,59 m, h=0,886 m) : bleu ecaille, rouge, rouille ; 1 couche ; cerceaux de roulage, bondes acier.",
+ "recalage": null,
+ "octets_source": 437380,
+ "octets": 410836,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "fast-furious-nos/assets/blender/futs.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

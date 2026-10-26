@@ -1,0 +1,56 @@
+{
+ "nom": "tecpro",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "tecpro.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  10,
+  1.219,
+  0.684
+ ],
+ "tris": 10976,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x256",
+  "64x64",
+  "128x128"
+ ],
+ "noeuds": [
+  "Scene",
+  "tecpro",
+  "bloc_1_bleu",
+  "bloc_2_rouge",
+  "bloc_3_bleu",
+  "bloc_4_rouge",
+  "bloc_5_bleu",
+  "bouchons_1",
+  "bouchons_2",
+  "bouchons_3",
+  "bouchons_4",
+  "bouchons_5",
+  "boulons_liaison",
+  "marqueur_bord_droit",
+  "marqueur_bord_gauche",
+  "platines_liaison"
+ ],
+ "pivots": {
+  "bloc_i_couleur": "centre bas de chaque bloc (x = -4, -2, 0, 2, 4)"
+ },
+ "marqueurs": [
+  "marqueur_bord_gauche",
+  "marqueur_bord_droit"
+ ],
+ "notes": "Module de 10 m (pas_m 10) : 5 blocs de 2.0 x 0.6 x 1.2 m (bleu, rouge, bleu, rouge, bleu), bout a bout (jeu 3 cm), plastique rotomoule avec 3 nervures, dessus bombe a bouchons, platines d'acier boulonnees aux joints (demi-platines aux deux bouts : elles se completent d'un module au suivant). Face piste = -Y, origine au sol au centre ; se pose devant le mur (y = -0.9 par exemple), jamais colle au grillage.",
+ "recalage": null,
+ "octets_source": 998384,
+ "octets": 621780,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "monza-2021/assets/blender/tecpro.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

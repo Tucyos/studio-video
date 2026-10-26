@@ -1,0 +1,40 @@
+{
+ "nom": "piste_mans_nuit",
+ "version": 1,
+ "type": "lieu",
+ "quoi": "Ligne droite des stands du Mans, la nuit sous la pluie (asphalte mouillé, stands, tribunes, ciel)",
+ "code": true,
+ "fichier": "piste_mans_nuit.js",
+ "fichiers": [
+  "piste_mans_nuit.js",
+  "source.js"
+ ],
+ "fonction": "piste_nuit",
+ "usage": "const { creer } = await import('/assets/bib/piste_mans_nuit/piste_mans_nuit.js'); const x = await creer(k, options)",
+ "convention": "mètres ; +Y en haut ; origine libre (voir les notes)",
+ "dims_m": [
+  3000,
+  19.375,
+  3000
+ ],
+ "tris": 1174,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "256x2048",
+  "128x128"
+ ],
+ "noeuds": [
+  "piste_nuit",
+  "ciel",
+  "reflets"
+ ],
+ "notes": "Fait par le créateur d’objets de la démo phase 5 (le-mans-66-equipe). Piste le long de Z ; option longueur (900 m).",
+ "octets_source": 36076,
+ "octets": 36076,
+ "licence": "fait maison (studio)",
+ "auteur": "",
+ "source": "C:/claude/studio-projets/le-mans-66-equipe/scenes/objets.js",
+ "credit": null,
+ "date": "2026-10-20"
+}

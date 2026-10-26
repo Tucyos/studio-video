@@ -1,0 +1,67 @@
+{
+ "nom": "gt40_mclaren",
+ "version": 1,
+ "type": "voiture",
+ "quoi": "Ford GT40 Mk II n°2 (McLaren / Amon), Le Mans 1966",
+ "fichier": "gt40_mclaren.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  1.7711,
+  1.0259,
+  4.0907
+ ],
+ "tris": 599111,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "2048x2048",
+  "1024x1024",
+  "1024x512",
+  "2048x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "voiture",
+  "caisse",
+  "Body_Sketch-BODY_0017",
+  "Body_Sketch-BODY_0017_1",
+  "Body_Sketch-BODY_0017_2",
+  "Body_Sketch-BODY_0017_3",
+  "Body_Sketch-BODY_0017_4",
+  "Body_Sketch-BODY_0017_5",
+  "Body_Sketch-BODY_0017_6",
+  "roue_ARD",
+  "Disk_Sketch-WHEELS_0003",
+  "Disk_Sketch-WHEELS_0003_1",
+  "Disk_Sketch-WHEELS_0003_2",
+  "roue_ARG",
+  "Disk_Sketch-WHEELS_0083",
+  "Disk_Sketch-WHEELS_0083_1",
+  "Disk_Sketch-WHEELS_0083_2",
+  "roue_AVD",
+  "Disk_Sketch-WHEELS_0006",
+  "Disk_Sketch-WHEELS_0006_1",
+  "roue_AVG",
+  "Disk_Sketch-WHEELS_0084",
+  "Disk_Sketch-WHEELS_0084_1",
+  "Disk_Sketch-WHEELS_0084_2"
+ ],
+ "notes": "Livrée refaite pour Le Mans 66 (tiktok-motion). Roues : nœuds séparés.",
+ "recalage": {
+  "avant_source": "-z",
+  "decalage_m": [
+   0,
+   0,
+   -0.1907
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 33298788,
+ "octets": 12871384,
+ "licence": "CC BY 4.0",
+ "auteur": "JEROLDINA (Sketchfab)",
+ "source": "https://sketchfab.com/3d-models/ford-gt40-mk-ii-0be4262997c24714b377ea7144d251e4",
+ "credit": "Ford GT40 Mk II n°2 (McLaren / Amon), Le Mans 1966 — JEROLDINA (Sketchfab) (CC BY 4.0) https://sketchfab.com/3d-models/ford-gt40-mk-ii-0be4262997c24714b377ea7144d251e4",
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

@@ -1,0 +1,40 @@
+{
+ "nom": "trophee",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "trophee.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  0.4179,
+  0.4502,
+  0.2441
+ ],
+ "tris": 8916,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "trophee",
+  "coupe",
+  "coupe001",
+  "coupe001_1",
+  "plaque",
+  "socle"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Coupe en argent à deux anses (cordon torsadé en relief) sur socle tourné en noyer avec plaque laiton vierge (face +Z three.js). Hauteur totale 0,45 m, mise à l'échelle depuis le modèle de 0,40 m.",
+ "recalage": null,
+ "octets_source": 367960,
+ "octets": 270072,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/trophee.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

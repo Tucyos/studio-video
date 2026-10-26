@@ -1,0 +1,47 @@
+{
+ "nom": "bottes_paille",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "bottes_paille.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  2.0923,
+  1.2424,
+  0.5755
+ ],
+ "tris": 5184,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "bottes_paille",
+  "bottes_paille_bottes",
+  "bottes_paille_bottes_1",
+  "bottes_paille_bottes_2",
+  "bottes_paille_ficelles"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "4 bottes de 1,0 x 0,5 x 0,4 m (2 au sol bout a bout, 1 au milieu, 1 au sommet), 2 ficelles chacune. Origine = centre de l'emprise au sol. Brins le long de x sur les cotes, aboutes visibles sur les bouts. A empiler / repeter bout a bout.",
+ "recalage": {
+  "avant_source": "+z",
+  "decalage_m": [
+   -0.0035,
+   0.0212,
+   0.0108
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 1376024,
+ "octets": 726168,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/bottes_paille.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

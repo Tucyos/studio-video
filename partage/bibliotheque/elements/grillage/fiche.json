@@ -1,0 +1,63 @@
+{
+ "nom": "grillage",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "grillage.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  10.0002,
+  4.5604,
+  2.1165
+ ],
+ "tris": 7988,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "128x128",
+  "64x256",
+  "256x1024",
+  "512x512",
+  "1024x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "grillage",
+  "boulons",
+  "cables",
+  "corniere_rive",
+  "jambes_force",
+  "maille",
+  "marqueur_bord_droit",
+  "marqueur_bord_gauche",
+  "marqueur_haut_poteau_1",
+  "mur_1",
+  "mur_2",
+  "mur_3",
+  "mur_4",
+  "platines_goussets",
+  "platines_mur",
+  "poteaux",
+  "sangles_maille",
+  "semelle",
+  "serre_cables"
+ ],
+ "pivots": {
+  "racine": "(0,0,0) centre en X, sol"
+ },
+ "marqueurs": [
+  "marqueur_bord_gauche",
+  "marqueur_bord_droit",
+  "marqueur_haut_poteau_1"
+ ],
+ "notes": "Module de 10 m (pas_m 10), x de -5 a +5, a repeter en X sans trou : 4 poteaux (x = -3.75, -1.25, 1.25, 3.75), 4 murs de 2.5 m (joint 1 cm), cables et maille continus jusqu'a x = +-5 (meme affaissement des deux cotes). Face piste = -Y. DATUM : le pan avant du mur de beton est le plan y = 0 (le mur va de y 0 a 0.5, 1.0 m de haut) ; poteaux de y 0.25, verticaux jusqu'a z 3.0 puis inclines de 25 deg vers -Y (haut a y -0.45, z 4.5) ; jambes de force a l'arriere (y jusqu'a 1.55). Maille = plan texture RGBA (alphaMode MASK, cutoff 0.35, double face), UV en metres (tuile 0.8 m) : les fils fins disparaissent par mipmap au-dela de ~10 m, prevoir alphaToCoverage (ou alphaTest 0.3) et eventuellement anisotropie 8. panneaux_pub se pose devant avec la meme origine.",
+ "recalage": null,
+ "octets_source": 1967188,
+ "octets": 1178520,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "monza-2021/assets/blender/grillage.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

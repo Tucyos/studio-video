@@ -1,0 +1,48 @@
+{
+ "nom": "pied_camera",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "pied_camera.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  1.1279,
+  1.7,
+  1.1927
+ ],
+ "tris": 8280,
+ "os": 0,
+ "animations": [],
+ "textures": [],
+ "noeuds": [
+  "Scene",
+  "pied_camera",
+  "tete_camera",
+  "tete_camera_1",
+  "tete_camera_2",
+  "tete_camera_3",
+  "tete_camera_4",
+  "tete_camera_5",
+  "tete_camera_6",
+  "tete_camera_7",
+  "trepied",
+  "trepied_1",
+  "trepied_2",
+  "trepied_3",
+  "trepied_4"
+ ],
+ "pivots": {
+  "tete_camera": "axe vertical du trépied (pan), z=1.255 m, origine X/Y = axe du trépied"
+ },
+ "marqueurs": [],
+ "notes": "Caméra de plateau (objectif, pare-soleil à fanions, viseur, batterie, poignées) sur trépied alu à étoile de maintien. L'objectif regarde -Y. Origine = axe du trépied au sol (pas le centre de l'emprise) pour que le pan tourne sur place. Voyant rouge émissif sur le corps.",
+ "recalage": null,
+ "octets_source": 183952,
+ "octets": 75852,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "tesla-roadster/assets/blender/pied_camera.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 2
+}

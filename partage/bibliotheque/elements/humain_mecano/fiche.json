@@ -1,0 +1,50 @@
+{
+ "nom": "humain_mecano",
+ "version": 1,
+ "type": "personnage",
+ "quoi": "",
+ "fichier": "humain_mecano.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  0.9927,
+  1.592,
+  0.4235
+ ],
+ "tris": 31228,
+ "os": 52,
+ "animations": [],
+ "textures": [
+  "2048x2048",
+  "512x512",
+  "1024x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "squelette",
+  "Human",
+  "Humaneyebrow004",
+  "Humaneyelashes01",
+  "Humanlow-poly",
+  "Humanmale_worksuit01",
+  "Humanshoes02",
+  "Humanshort01"
+ ],
+ "notes": "Squelette Mixamo (noms mixamorig). Pose de repos : bras en A. perso.js du Mans 66 : poses en degrés par os.",
+ "recalage": {
+  "avant_source": "+z",
+  "decalage_m": [
+   0,
+   0.0151,
+   -0.1144
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 13106604,
+ "octets": 13215848,
+ "licence": "CC0 (MakeHuman via MPFB2)",
+ "auteur": "MakeHuman",
+ "source": "rush/assets/blender",
+ "credit": "humain_mecano — MakeHuman (CC0 (MakeHuman via MPFB2))",
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

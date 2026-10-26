@@ -1,0 +1,46 @@
+{
+ "nom": "buisson_1",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "buisson_1.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  3.3718,
+  2.4405,
+  2.8332
+ ],
+ "tris": 1860,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "buisson_1",
+  "buisson_1_mesh",
+  "buisson_1_mesh_1",
+  "buisson_1_mesh_2"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Noisetier (1-2,5 m) : touffe dressee en vase de 11 tiges, feuilles rondes dentees. Un seul objet maillage, feuillage Alpha Clip double face, tiges en geometrie. Origine au pied.",
+ "recalage": {
+  "avant_source": "+z",
+  "decalage_m": [
+   -0.0824,
+   0.1582,
+   0.0607
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 1038036,
+ "octets": 820712,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/buisson_1.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

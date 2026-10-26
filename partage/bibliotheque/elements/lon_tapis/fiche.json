@@ -1,0 +1,38 @@
+{
+ "nom": "lon_tapis",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "lon_tapis.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  2.6315,
+  0.0186,
+  1.7066
+ ],
+ "tris": 11872,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x724",
+  "256x256"
+ ],
+ "noeuds": [
+  "Scene",
+  "lon_tapis",
+  "franges",
+  "tapis"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "dims_m = axes Blender [x largeur, y profondeur, z hauteur] ; dims_three = axes three.js [x, y haut, z profondeur]. Tapis persan 2.40 x 1.70 (+ franges de 0.06 a 0.09 de chaque bout en X), epaisseur 0.012 ; motif cuit en texture 1024 (UV 0..1 sur le champ), useure incluse.",
+ "recalage": null,
+ "octets_source": 1372324,
+ "octets": 860200,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/lon_tapis.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

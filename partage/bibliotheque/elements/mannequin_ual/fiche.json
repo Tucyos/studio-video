@@ -1,0 +1,207 @@
+{
+ "nom": "mannequin_ual",
+ "version": 1,
+ "type": "personnage",
+ "quoi": "Mannequin Quaternius et ses 43 animations (Universal Animation Library)",
+ "fichier": "mannequin_ual.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  1.9445,
+  1.8287,
+  0.3696
+ ],
+ "tris": 13744,
+ "os": 65,
+ "animations": [
+  {
+   "nom": "A_TPose",
+   "duree": 2.5
+  },
+  {
+   "nom": "Crouch_Fwd_Loop",
+   "duree": 2
+  },
+  {
+   "nom": "Crouch_Idle_Loop",
+   "duree": 2.933
+  },
+  {
+   "nom": "Dance_Loop",
+   "duree": 1
+  },
+  {
+   "nom": "Death01",
+   "duree": 2.4
+  },
+  {
+   "nom": "Driving_Loop",
+   "duree": 1.667
+  },
+  {
+   "nom": "Fixing_Kneeling",
+   "duree": 5.2
+  },
+  {
+   "nom": "Hit_Chest",
+   "duree": 0.333
+  },
+  {
+   "nom": "Hit_Head",
+   "duree": 0.433
+  },
+  {
+   "nom": "Idle_Loop",
+   "duree": 2.5
+  },
+  {
+   "nom": "Idle_Talking_Loop",
+   "duree": 2.933
+  },
+  {
+   "nom": "Idle_Torch_Loop",
+   "duree": 1.267
+  },
+  {
+   "nom": "Interact",
+   "duree": 2
+  },
+  {
+   "nom": "Jog_Fwd_Loop",
+   "duree": 0.933
+  },
+  {
+   "nom": "Jump_Land",
+   "duree": 1.267
+  },
+  {
+   "nom": "Jump_Loop",
+   "duree": 2.5
+  },
+  {
+   "nom": "Jump_Start",
+   "duree": 1.333
+  },
+  {
+   "nom": "PickUp_Table",
+   "duree": 0.833
+  },
+  {
+   "nom": "Pistol_Aim_Down",
+   "duree": 0.167
+  },
+  {
+   "nom": "Pistol_Aim_Neutral",
+   "duree": 0.167
+  },
+  {
+   "nom": "Pistol_Aim_Up",
+   "duree": 0.167
+  },
+  {
+   "nom": "Pistol_Idle_Loop",
+   "duree": 1.667
+  },
+  {
+   "nom": "Pistol_Reload",
+   "duree": 1.667
+  },
+  {
+   "nom": "Pistol_Shoot",
+   "duree": 0.633
+  },
+  {
+   "nom": "Punch_Cross",
+   "duree": 1
+  },
+  {
+   "nom": "Punch_Jab",
+   "duree": 0.867
+  },
+  {
+   "nom": "Push_Loop",
+   "duree": 2.667
+  },
+  {
+   "nom": "Roll",
+   "duree": 1.467
+  },
+  {
+   "nom": "Sitting_Enter",
+   "duree": 1.3
+  },
+  {
+   "nom": "Sitting_Exit",
+   "duree": 1.033
+  },
+  {
+   "nom": "Sitting_Idle_Loop",
+   "duree": 1.667
+  },
+  {
+   "nom": "Sitting_Talking_Loop",
+   "duree": 2.933
+  },
+  {
+   "nom": "Spell_Simple_Enter",
+   "duree": 0.533
+  },
+  {
+   "nom": "Spell_Simple_Exit",
+   "duree": 0.433
+  },
+  {
+   "nom": "Spell_Simple_Idle_Loop",
+   "duree": 2.1
+  },
+  {
+   "nom": "Spell_Simple_Shoot",
+   "duree": 0.5
+  },
+  {
+   "nom": "Sprint_Loop",
+   "duree": 0.667
+  },
+  {
+   "nom": "Swim_Fwd_Loop",
+   "duree": 1.333
+  },
+  {
+   "nom": "Swim_Idle_Loop",
+   "duree": 3.333
+  },
+  {
+   "nom": "Sword_Attack",
+   "duree": 1.533
+  },
+  {
+   "nom": "Sword_Idle",
+   "duree": 1.667
+  },
+  {
+   "nom": "Walk_Formal_Loop",
+   "duree": 1.333
+  },
+  {
+   "nom": "Walk_Loop",
+   "duree": 1.333
+  }
+ ],
+ "textures": [],
+ "noeuds": [
+  "Scene",
+  "Armature",
+  "Mannequin",
+  "Mannequin_1",
+  "Mannequin_2"
+ ],
+ "notes": "Les animations (marche, course, assis, conduite, réparation…) s'appliquent aux personnages Quaternius par nom d'os.",
+ "recalage": null,
+ "octets_source": 7618436,
+ "octets": 2037232,
+ "licence": "CC0 1.0",
+ "auteur": "Quaternius",
+ "source": "https://quaternius.com",
+ "credit": "Mannequin Quaternius et ses 43 animations (Universal Animation Library) — Quaternius (CC0 1.0) https://quaternius.com",
+ "date": "2026-10-20",
+ "moteur_min": 2
+}

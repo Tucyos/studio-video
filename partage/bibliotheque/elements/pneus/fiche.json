@@ -1,0 +1,36 @@
+{
+ "nom": "pneus",
+ "version": 1,
+ "type": "accessoire",
+ "quoi": "",
+ "fichier": "pneus.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  1.1425,
+  0.8972,
+  0.7771
+ ],
+ "tris": 7200,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "pneus",
+  "pneus_pile"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "4 pneus empiles (205/55R16 environ : d=0,63 m, largeur 0,23 m) + 1 debout, appuye sur le cote. Bande de roulement et flancs cuits dans la texture (sculptures peintes), section super-elliptique.",
+ "recalage": null,
+ "octets_source": 581392,
+ "octets": 428488,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "fast-furious-nos/assets/blender/pneus.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

@@ -1,0 +1,46 @@
+{
+ "nom": "passerelle",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "passerelle.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  65.36,
+  9.1512,
+  4.2
+ ],
+ "tris": 14856,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "256x256",
+  "128x128",
+  "512x512"
+ ],
+ "noeuds": [
+  "Scene",
+  "passerelle",
+  "passerelle_acier",
+  "passerelle_bardage",
+  "passerelle_enseigne",
+  "passerelle_grillage",
+  "passerelle_lettres_n",
+  "passerelle_lettres_s",
+  "passerelle_platelage",
+  "passerelle_socle",
+  "passerelle_tubes"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Passerelle pietonne treillis Warren de 40 m de portee (x -20..20), degagement sous la poutre >= 6,0 m, platelage a z=6,36, fermes a y=+-1,75. Tours d'extremite et escaliers (36 marches) qui descendent vers l'exterieur (x ~ +-22..33). Enseigne bleue + lettres AUTODROMO NAZIONALE MONZA sur les deux faces. La piste passe sous la portee, le long de Y.",
+ "recalage": null,
+ "octets_source": 2117564,
+ "octets": 1002732,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "monza-2021/assets/blender/passerelle.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

@@ -1,0 +1,84 @@
+{
+ "nom": "tour_chrono",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "tour_chrono.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  7.8,
+  19.4,
+  6.9
+ ],
+ "tris": 6898,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512",
+  "1024x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "tour_chrono",
+  "aiguille_heures",
+  "aiguille_minutes",
+  "marqueur_horloge",
+  "marqueur_tableau",
+  "tour_chrono_axe",
+  "tour_chrono_cabine",
+  "tour_chrono_cabine001",
+  "tour_chrono_cabine001_1",
+  "tour_chrono_cabine001_2",
+  "tour_chrono_enseignes",
+  "tour_chrono_fut",
+  "tour_chrono_fut001",
+  "tour_chrono_fut001_1",
+  "tour_chrono_fut001_2",
+  "tour_chrono_fut001_3",
+  "tour_chrono_fut001_4",
+  "tour_chrono_fut001_5",
+  "tour_chrono_fut001_6",
+  "tour_chrono_fut001_7",
+  "tour_chrono_graduations",
+  "tour_chrono_horloge",
+  "tour_chrono_horloge001",
+  "tour_chrono_horloge001_1",
+  "tour_chrono_tableau",
+  "tour_chrono_tableau001",
+  "tour_chrono_tableau001_1",
+  "tour_chrono_tableau001_2",
+  "tour_chrono_tableau001_3",
+  "tour_chrono_toit",
+  "tour_chrono_toit001",
+  "tour_chrono_toit001_1",
+  "tour_chrono_toit001_2",
+  "tour_chrono_toit001_3",
+  "tour_chrono_vitres"
+ ],
+ "pivots": {
+  "aiguille_heures": "origine = centre du cadran (Blender 0, 0.70, 13.9 ; three.js 0, 13.9, -0.70). Le cadran regarde +Z en three.js : tourner autour de Z local, sens horaire vu de face = rotation.z NEGATIF. Posee a 16 h (rotation.z = -120 deg).",
+  "aiguille_minutes": "idem, posee sur 12 (rotation.z = 0)"
+ },
+ "marqueurs": [
+  "marqueur_horloge",
+  "marqueur_tableau"
+ ],
+ "notes": "Tour de 5.6 x 4.6 m, 12.4 m (15.6 m avec l'ouvrage d'horloge, mat a 19.3 m). Facade au plan y=0. Grand tableau manuel 5.2 x 5.4 m (8 colonnes x 12 lignes de cartons, chiffres peints) devant le fut a z=3.35..8.75 ; cabine vitree z=9..12.2 ; cadran de 2.1 m a z=13.9. Texte generique uniquement.",
+ "recalage": {
+  "avant_source": "+z",
+  "decalage_m": [
+   0,
+   0.1,
+   2.25
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 3193956,
+ "octets": 3549380,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "le-mans-66/assets/blender/tour_chrono.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

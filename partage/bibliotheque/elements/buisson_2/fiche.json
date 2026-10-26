@@ -1,0 +1,46 @@
+{
+ "nom": "buisson_2",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "buisson_2.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  4.0917,
+  1.8031,
+  4.0024
+ ],
+ "tris": 1880,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "1024x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "buisson_2",
+  "buisson_2_mesh",
+  "buisson_2_mesh_1",
+  "buisson_2_mesh_2"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Roncier : cannes arquees qui retombent (haut. ~1,9 m, largeur ~4 m), feuilles composees dentees. Origine au pied.",
+ "recalage": {
+  "avant_source": "+z",
+  "decalage_m": [
+   -0.1927,
+   0.3798,
+   0.0768
+  ],
+  "remarque": "les coordonnées des pivots notées à la source sont dans l'ancien repère"
+ },
+ "octets_source": 1037356,
+ "octets": 820720,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "rush/assets/blender/buisson_2.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

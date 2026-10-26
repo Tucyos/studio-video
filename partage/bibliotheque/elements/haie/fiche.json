@@ -1,0 +1,39 @@
+{
+ "nom": "haie",
+ "version": 1,
+ "type": "decor",
+ "quoi": "",
+ "fichier": "haie.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0), centrée en X et Z",
+ "dims_m": [
+  10.0737,
+  1.7433,
+  1.5386
+ ],
+ "tris": 3744,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512",
+  "1024x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "haie",
+  "haie_corps",
+  "haie_corps_1",
+  "haie_corps_2"
+ ],
+ "pivots": {},
+ "marqueurs": [],
+ "notes": "Module de haie taillee de 10 m (x -5..5), 1,5 m de haut, 1,16 m de large, centre en y. Se pose bout a bout (le bruit de surface se raccorde). 2 materiaux : masse feuillue texturee (opaque) + cartes de feuilles Alpha Clip pour casser la silhouette.",
+ "recalage": null,
+ "octets_source": 1791780,
+ "octets": 1261636,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "monza-2021/assets/blender/haie.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}

@@ -1,0 +1,73 @@
+{
+ "nom": "officiel_drapeau",
+ "version": 1,
+ "type": "accessoire",
+ "quoi": "",
+ "fichier": "officiel_drapeau.glb",
+ "convention": "mètres ; +Y en haut ; l'avant regarde vers +Z (norme glTF, comme les décors Blender et les personnages) ; origine au sol (y = 0) (origine libre)",
+ "dims_m": [
+  2.235,
+  1.7867,
+  0.9738
+ ],
+ "tris": 4720,
+ "os": 0,
+ "animations": [],
+ "textures": [
+  "512x512",
+  "1024x1024"
+ ],
+ "noeuds": [
+  "Scene",
+  "officiel_drapeau",
+  "bras",
+  "chapeau",
+  "chapeau001",
+  "chapeau001_1",
+  "imper",
+  "imper_details",
+  "imper_details001",
+  "imper_details001_1",
+  "imper_details001_2",
+  "mains",
+  "marqueur_chapeau",
+  "marqueur_main_droite",
+  "drapeau_officiel_tissu",
+  "fourreau",
+  "hampe",
+  "hampe001",
+  "hampe001_1",
+  "hampe001_2",
+  "marqueur_pointe_hampe",
+  "marqueur_main_gauche",
+  "marqueur_tete",
+  "pantalon",
+  "souliers",
+  "souliers001",
+  "souliers001_1",
+  "tete",
+  "tete001",
+  "tete001_1"
+ ],
+ "pivots": {
+  "drapeau_officiel_tissu": "enfant de marqueur_main_droite (origine = haut du bord de hampe) ; toile 1,00 x 0,70 m, grille 24x16, u=0 au bord de hampe",
+  "marqueur_main_droite": "origine = la main qui tient la hampe a 0,12 m de son pied ; Z local = axe de la hampe, X local = direction de la toile"
+ },
+ "marqueurs": [
+  "marqueur_chapeau",
+  "marqueur_main_droite",
+  "marqueur_main_gauche",
+  "marqueur_pointe_hampe",
+  "marqueur_tete"
+ ],
+ "notes": "Commissaire de piste a l'arrivee (1,78 m), face a -Y, impermeable clair serre a la taille, pantalon sombre, souliers noirs, cheveux gris courts, visage simplifie. Marche de cote vers la voiture (jambe droite -X en avant), buste tourne de 22 deg. Bras droit (-X) tendu vers l'avant et le bas, tient la hampe (1 m) du drapeau a damier 10 x 7 ; bras gauche (+X) ecarte tient un chapeau de feutre (objet « chapeau »). Le drapeau est separe : hampe + fourreau + toile « drapeau_officiel_tissu » (grille 24x16, double face), tous enfants de l'empty marqueur_main_droite pour pouvoir animer la toile ou faire pivoter le bras/la hampe. Aucun logo ni marque.",
+ "recalage": null,
+ "octets_source": 2623072,
+ "octets": 1817736,
+ "licence": "fait maison (Blender, tiktok-motion)",
+ "auteur": "tiktok-motion",
+ "source": "le-mans-66/assets/blender/officiel_drapeau.glb",
+ "credit": null,
+ "date": "2026-10-20",
+ "moteur_min": 3
+}
