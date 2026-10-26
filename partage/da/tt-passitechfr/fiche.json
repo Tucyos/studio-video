@@ -1,0 +1,79 @@
+{
+ "createur": "@passitechfr",
+ "nom_du_compte": "Pas si Tech",
+ "lien": "https://www.tiktok.com/@passitechfr",
+ "genre": "da",
+ "origine": "Copiée de @passitechfr (TikTok)",
+ "auto": {
+  "titre": "Dessins cartoon au feutre sur fond blanc, une petite vignette centrée par idée",
+  "famille": "2D vectorielle",
+  "en_bref": [
+   "Chaque plan est un petit dessin façon bande dessinée (gros contour noir, couleurs en aplat) posé seul au milieu d'un écran entièrement blanc, avec beaucoup de vide autour.",
+   "La vidéo s'ouvre sur une grille de 4 cases colorées avec un titre en capitales manuscrites noires, qui reprend mot pour mot la phrase d'accroche dite.",
+   "Le rythme est rapide au début (un dessin toutes les 1 à 2 secondes, à chaque mot important), puis plus lent pour l'explication, où les dessins se remplacent sur le même fond blanc. Les coupes sont toujours franches, sans fondu.",
+   "La voix raconte du début à la fin sans s'arrêter : environ 178 mots par minute, voix présente 96 % du temps, pauses d'environ 0,4 s, mixage fort (-12,2 LUFS). Sous la voix, on entend probablement une musique très discrète et régulière (environ 129 BPM), et 3 petits bruitages tombent dans les pauses.",
+   "On la reconnaît à ce mélange : fond blanc vide, un seul dessin rigolo et littéral par mot clé, et un récit en « promesse puis mais » qui finit sur l'échec du projet."
+  ],
+  "tags": [
+   "dessin cartoon",
+   "fond blanc",
+   "pictogrammes",
+   "storytelling",
+   "inventions ratées",
+   "voix off rapide",
+   "faits historiques"
+  ],
+  "pour": "Les histoires courtes de projets, d'inventions ou d'idées ambitieuses qui ont échoué ou ne se sont jamais faits (tech, architecture, science, histoire), racontées comme une petite chronique factuelle : une date, un porteur de projet, la promesse, les obstacles, la chute.",
+  "look": {
+   "technique": "Illustrations 2D numériques au style « feutre / BD » : trait noir épais un peu irrégulier, couleurs en aplat, quelques ombres simples. Le style est le même sur tous les plans, ce qui laisse penser à des images générées ou dessinées selon un même modèle (outil exact non visible). Le montage est un simple enchaînement d'images fixes sur fond blanc, avec un seul zoom animé (zoom arrière sur la grille, images 124-159).",
+   "couleurs": "Fond blanc pur #FFFFFF partout (seule couleur de décor). Contours noirs #111111 sur tous les dessins. Bleu mer #2A6CB0 et bleu clair #8EC5E8 pour l'eau, les plans d'architecte et le navire. Fonds des cases de la grille d'accroche : jaune #F2E300, orange #F07A1E, bleu-vert #2F7FA0, bleu lavande #7EA6D8. Vert vif #3DB54A et marron #7A4A2A pour les vêtements des personnages. Gris #8A8F99 pour le ciel d'orage, la sphère et les métaux. Jaune éclair #FFE000 et rouge #D9302B en petites touches d'alerte (éclairs, drapeau, croix d'échec). Les couleurs vives restent dans le dessin, jamais dans le fond.",
+   "typo": "Titre d'accroche : capitales manuscrites façon BD (police « comic » à main levée, du genre Komika ou Patrick Hand en capitales), noires, sans contour, centrées en haut du cadre sur 3 lignes : « CES 4 INVENTIONS QUI DEVAIENT RÉVOLUTIONNER LE MONDE MAIS QUI ONT FLOP: », fixe pendant tout le premier plan (images 1-123). Étiquettes sous chaque case de la grille : même famille manuscrite, en minuscules et majuscules, noires, taille moyenne (« Biosphère 2 », « Hyperloop », « SeaOrbiter », « Space Shuttle VentureStar »). D'après les descriptions, il y a aussi des cartons d'un mot seul (« L'idée », « paraît », « bloque », « devenir ») et un petit « En 2002 » gris près du personnage, ainsi qu'un sous-titre d'un mot à la fois. Rien de tout cela n'est visible sur les images clés : à vérifier à l'écran avant de le reproduire.",
+   "rendu": "Plat et propre : aplats de couleur, trait noir épais, petites hachures ou ombres simples (vagues, plis des vêtements), aucune texture de papier, aucun dégradé de fond, aucune lumière réaliste. Le dessin occupe environ un tiers à la moitié de la largeur, au centre de l'écran, avec de grandes marges blanches en haut et en bas. Les vignettes peuvent être un dessin découpé (personnage, navire) ou une petite case carrée avec son propre décor (bateau dans l'orage avec éclairs).",
+   "personnages": "Personnages cartoon simples, souriants, avec une grosse tête et des lunettes rondes. Un vieil architecte aux cheveux gris, pull vert, pantalon marron, bras croisés. Un scientifique en blouse blanche, cheveux bruns et lunettes, qui tient un plan bleu, debout sur un petit bout de sol marron. Deux scientifiques en blouse dans une sphère, devant un écran de contrôle. Une foule de 12 à 15 personnages tous différents (couleur de peau, cheveux, t-shirts rouge, bleu, vert, orange), placés en cercle, avec des appareils photo et des flashs jaunes. Toujours en pied, de face ou de trois-quarts, posés sans décor.",
+   "decors": "Aucun décor : fond blanc uni. Le seul « décor » est intégré au dessin (bande de vagues bleues sous le navire, case carrée de ciel gris et de mer pour l'orage, sphère grise autour des scientifiques, trait bleu horizontal comme ligne de flottaison sous le SeaOrbiter). Seule exception : la grille d'accroche 2×2, avec une case de couleur par invention (dôme vert sur jaune, train Hyperloop sur orange, tour SeaOrbiter dans la mer, navette sur pas de tir).",
+   "mouvement": "Caméra fixe (86 % des plans), aucun panoramique, un seul zoom arrière (grille qui s'ouvre, images 124-159). 14 plans en 44 s : plan médian de 1,62 s, jamais sous 1 s. Premier plan de 4,1 s sur toute l'accroche, puis 9 plans courts de 1 à 2,2 s pendant l'exposition, puis des plans longs (6,6 s, 12,4 s, 5,2 s) où les dessins se remplacent sur place. Coupes franches calées sur l'attaque du mot (écart médian de 0 image). Le dessin apparaît 0 à 2 images après le nom concret, et 13 à 48 images après les mots abstraits (argent, « jamais », « mais »).",
+   "son": "Voix off française, débit rapide (178 mots/min), ton de récit factuel, presque sans respiration (pauses de 0,39 s en médiane, un seul silence de 0,3 s à 11,4 s). Voix humaine ou synthétique : non déterminé par les données (le nom « SeaOrbiter » est transcrit « C -Orbiter »). Voix forte et régulière : environ -11,7 dB, -12,2 LUFS au total. Musique probable du début à la fin, très basse (environ -35 dB hors voix), tempo régulier d'environ 129 BPM, à moitié percussive, avec un changement à 42,9 s (fin). 3 bruitages probables de timbre médium dans les pauses, à 6,2 s, 13 s et 35,2 s (le plus fort à 35,2 s, juste avant le passage sur « jamais »). Démarrage direct, sans intro."
+  },
+  "pour_refaire": [
+   "Écrire le texte en 8 à 9 phrases (environ 125 mots, 44 s) : accroche « Ces N [choses] qui devaient [promesse] mais qui ont complètement floppé », puis nom du sujet, date + porteur du projet, promesse (« L'idée paraît incroyable… »), fonctions (« doit permettre de… »), engouement (« attire l'attention, plusieurs études… »), « mais » + obstacle, échec (« ne démarre jamais »), et une chute « Il devait devenir…, mais il n'a finalement jamais… ».",
+   "Repérer dans le texte chaque nom concret, chaque date, chaque quantité et chaque mot de bascule (« mais », « jamais », argent) : chacun aura son dessin.",
+   "Dessiner (ou générer) toutes les vignettes dans le même style : cartoon au feutre, contour noir épais, aplats de couleurs vives, personnages à grosse tête et lunettes rondes, sans décor. Prévoir un symbole simple pour l'abstrait : tas de briques pour l'argent, cercle barré pour l'impossible, croix rouge pour l'échec.",
+   "Faire l'image d'accroche : grille 2×2 de cases carrées aux fonds de couleurs différentes (jaune, orange, bleu-vert, lavande), une invention par case, son nom en écriture manuscrite noire en dessous, et un titre en capitales manuscrites noires sur 3 lignes en haut, qui reprend la phrase dite.",
+   "Monter en 9:16 (1080×1920) sur fond blanc pur. Chaque dessin au centre, sur environ un tiers à la moitié de la largeur, avec de grandes marges blanches.",
+   "Voix et titre dès la première image. Garder la grille pendant toute la phrase d'accroche (environ 4 s) et couper juste après le dernier mot.",
+   "Faire un seul mouvement animé : un zoom arrière rapide (environ 1,2 s) sur la grille pour passer au sujet. Tout le reste en plans fixes, sans panoramique.",
+   "Pendant l'exposition (date, porteur, promesse), changer de dessin tous les 1 à 4 mots (plans de 1 à 2,2 s), jamais sous 1 s. Couper sur l'attaque du mot, à 2 images près, même au milieu d'une phrase (avant un adjectif, un nom de durée, un nom concret).",
+   "Pour « présenter / montrer » : personnage à gauche, objet à droite. Pour l'emphase (« immense », « incroyable ») : alterner la vue proche (personnage avec le plan) et une vue large de l'objet devenu monumental.",
+   "Pour une quantité vague (« plusieurs ») : une foule de 12 à 15 personnages tous différents, serrés au centre.",
+   "Pour l'explication et les obstacles : des plans longs (5 à 12 s) où l'on remplace le dessin central sur le même fond blanc, sans vraie coupe, environ un dessin par idée.",
+   "Placer l'image d'échec (croix rouge, cercle barré) sur le dernier « mais » ou juste après, et finir la vidéo dessus.",
+   "Mixer la voix fort (environ -12 LUFS), avec une musique régulière d'environ 129 BPM presque inaudible dessous. Ajouter 2 ou 3 petits bruitages de timbre médium dans les pauses, aux moments de bascule.",
+   "Ne garder que des coupes franches : aucun fondu, aucune transition animée. Pas de silence de plus de 0,4 s entre les phrases.",
+   "Vérifier à l'écran s'il faut ajouter un sous-titre d'un mot à la fois et les cartons d'un mot (« L'idée », « bloque ») : les descriptions les mentionnent, mais ils ne sont pas visibles sur les images clés."
+  ],
+  "apercu": [
+   "refs/r1/images/00062.jpg",
+   "refs/r1/images/00193.jpg",
+   "refs/r1/images/00285.jpg",
+   "refs/r1/images/00401.jpg",
+   "refs/r1/images/00464.jpg",
+   "refs/r1/images/00538.jpg",
+   "refs/r1/images/00777.jpg",
+   "refs/r1/images/01244.jpg"
+  ],
+  "regles": 26,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-passitechfr\\sources\\TikTok_7691639272146849045.mp4",
+    "duree": 44.05,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "le seaorbiter #seaorbiter #invention #technologie #histoire #viral ",
+    "vues": 112800,
+    "lien": "https://www.tiktok.com/@passitechfr/video/7691639272146849045"
+   }
+  ]
+ }
+}

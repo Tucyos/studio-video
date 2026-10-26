@@ -1,0 +1,82 @@
+{
+ "createur": "@pointderepli",
+ "nom_du_compte": "Point De Repli",
+ "lien": "https://www.tiktok.com/@pointderepli",
+ "genre": "da",
+ "origine": "Copiée de @pointderepli (TikTok)",
+ "auto": {
+  "titre": "Thriller de survie en infographie néon sur plan d'évacuation nocturne",
+  "famille": "2D vectorielle",
+  "en_bref": [
+   "Une histoire de survie racontée comme un plan d'évacuation qui s'anime. Tout se passe sur un fond presque noir avec une fine grille vert sombre. Les figurines sont des silhouettes blanches très simples, avec des schémas en traits fins et des pastilles vert néon.",
+   "En haut de l'écran, un bandeau reste affiché pendant toute la vidéo. Il ressemble à un panneau lumineux d'aéroport : une petite étiquette verte « T2 », un texte rouge-orange fait de points lumineux qui défile, et une horloge qui avance avec l'histoire (23:01, puis 23:12, puis 23:17).",
+   "Le rythme suit une alternance nette. Deux plans éclair ouvrent la vidéo, puis viennent de longs plans de 5 à 22 s. À l'intérieur de ces plans, l'information s'allume au fur et à mesure (tracés, surlignages, points). Vers la fin, les plans se raccourcissent fortement.",
+   "La voix est rapide (243 mots par minute), avec des phrases courtes et des pauses d'environ une demi-seconde. Une musique régulière (environ 129 BPM) reste bien en dessous de la voix, et des bruitages remplissent les pauses. Ils deviennent beaucoup plus forts dans les 10 dernières secondes.",
+   "Ce qui la rend reconnaissable : chaque mot dit s'affiche en sous-titre en lettres capitales grasses et serrées. Un mot sur deux est en vert néon, dans un cartouche sombre souligné de vert. Le code couleur est toujours le même : vert = actif ou sûr, rouge-orange = danger ou alerte, blanc = personnages.",
+   "La vidéo se termine sur une question posée directement au spectateur (« Tu refermes derrière toi ? »), puis sur « Abonne-toi pour la partie 2 »."
+  ],
+  "tags": [
+   "infographie",
+   "néon",
+   "survie",
+   "récit en série",
+   "silhouettes",
+   "plan d'évacuation",
+   "sous-titres cinétiques",
+   "fond noir"
+  ],
+  "pour": "Des récits de fiction sur la survie ou la fuite, dans un lieu réel décrit avec précision (aéroport, métro, centre commercial, stade, hôpital). Le personnage s'en sort grâce à sa connaissance des lieux et à des règles de survie. La forme en épisodes (partie 1, partie 2…) lui convient bien.",
+  "look": {
+   "technique": "Motion design en 2D vectorielle, probablement dans After Effects ou un outil équivalent. Les descriptions automatiques parlent parfois de « 3D », mais les images montrent des aplats et des traits vectoriels, avec une légère perspective sur certains schémas (plongée douce sur le plan des couloirs, vue en coupe du bâtiment). Le reste est fait de fichiers vectoriels animés : icônes, pictogrammes, avion dessiné au trait, portes, couloirs en rectangles emboîtés. Le format est vertical 9:16 (publié en 1080×1920).",
+   "couleurs": "Fond #0d0d0d à #1a1a1a (quasi noir), avec une grille fine vert très sombre et un vignettage. Vert néon #00ff99 (actif, sûr, information principale, un mot sur deux dans les sous-titres, pastilles d'étiquette, panneaux SORTIE, tracés de chemins). Rouge-orange #c85914 (alerte, danger, texte du bandeau à points lumineux, horloge, chiffres clés, cercles de foule, vols annulés, chronomètre de la batterie). Orange vif #ff6633 (gilet du personnage principal, avec bandes blanches). Blanc #ffffff (silhouettes, avion au trait, texte des sous-titres). Gris #666666 (architecture, murs, béton, systèmes éteints, rideaux de fer).",
+   "typo": "Sous-titres : sans-serif en capitales, très grasse et étroite (famille probable de type Bebas Neue, Oswald ou Anton). Ils sont centrés vers les deux tiers de la hauteur, dans un cartouche noir semi-transparent souligné d'un trait vert. Ils avancent par segments de 2 à 3 mots, en même temps que la voix, avec un mot en blanc et le mot accentué en vert (ex. « SUR TOUTES », « QUI RESSEMBLENT », « 90 MINUTES. »), ponctuation comprise. Titre de l'accroche : police à points lumineux (style panneau LED) en rouge-orange, sur deux lignes (« AEROPORT / FERME »), dans un cadre aux coins arrondis bordé d'orange, avec le sous-titre gras et serré en dessous. Bandeau du haut : texte défilant en police à points lumineux rouge-orange, horloge en chiffres blancs. Étiquettes : pastilles vertes aux coins arrondis avec texte blanc gras en capitales (« LÉO », « SANS GILET », « PORTE 30 »), plus une ligne d'info en petites capitales (« MÉCANICIEN AVION - 12 ANS ICI »). Tableau des vols et horloges en chasse fixe, style écran d'affichage. Les chiffres dits sont mis en avant (horloge 23:00, « 12 ANS », chronomètre 1:29:56).",
+   "rendu": "Aplats sans texture. Les éléments verts et orange émettent une lueur douce (portes, panneaux SORTIE, rectangle lumineux au bout du couloir). Les spots du plafond sont flous, les coins sont assombris. L'ambiance est celle d'un terminal de nuit ou d'un éclairage de secours : très sombre, avec seulement les éléments utiles éclairés. Les surlignages s'allument progressivement, les icônes passent du vert au rouge quand un système tombe en panne, et des cercles concentriques rouges servent de radar ou de zone de danger.",
+   "personnages": "Silhouettes blanches pleines, sans visage : tête ronde, corps arrondi, bras et jambes simples. Le héros se reconnaît à son gilet orange à bandes blanches réfléchissantes. On le présente en buste ou en pied à environ 40 % du cadre, avec une pastille de nom et une ligne d'info. La foule est faite de petites silhouettes grises ou blanches répétées, entourées de cercles rouges. Les poursuivants sont des silhouettes vues de dos, en très gros plan. Aucun trait du visage n'est visible.",
+   "decors": "Le lieu est reconstitué comme un plan technique : baie vitrée avec avion au trait derrière, alignement de rideaux de fer avec des icônes en en-tête (CAFÉ, PRESSE, BOUTIQUE…), plan de couloirs et d'escaliers avec chemins en pointillés, tableau des départs, salle obscure avec panneaux SORTIE verts et chronomètre de la batterie, vue en coupe du bâtiment et de la passerelle, porte isolée étiquetée « PORTE 30 », couloir en rectangles emboîtés qui fuient vers une porte lumineuse.",
+   "mouvement": "La caméra est surtout fixe ou bouge lentement (74 %). Il y a quelques zooms avant (16 %) et arrière (11 %), et une seule bascule rapide de point de vue (0,37 s) au lieu d'une coupe. Les transitions sont presque toutes des coupes franches (15 sur 18). Il y a 3 coupes douces, dont un fondu pour l'ellipse « une heure plus tard ». La vidéo compte 19 plans en 111,7 s, avec un plan médian de 5,13 s : deux plans éclair à l'ouverture (0,73 s et 0,27 s), de longs plans au milieu (11,9 / 14,87 / 22,63 s), puis des plans très courts au climax (1,53 s) et un dernier plan d'appel à l'action d'environ 5 s. La coupe tombe environ 3,5 images avant le premier mot de la nouvelle phrase. Dans les plans longs, l'information s'allume progressivement plutôt que de couper.",
+   "son": "Voix off en français, au présent, à la troisième personne, qui passe au « tu » à la fin. Le débit est très rapide (243 mots par minute, voix présente 79 % du temps), avec des pauses médianes de 0,52 s (jamais plus de 0,74 s avant la fin). On ne peut pas savoir si la voix est humaine ou synthétique. Elle est mixée vers −15 dB, pour un niveau global de −14,5 LUFS. Une musique est probable : tempo régulier d'environ 129 BPM, assez percussive (53 %), environ 11 dB sous la voix. Elle change à 109,8 s, sur l'appel à l'action. Le genre exact n'est pas mesuré. On repère 28 bruitages dans les pauses : clics et whooshs aigus pendant l'exposé, impacts graves et coups très forts dans le climax (entre 102,6 et 110,2 s). Le seul silence notable est de 1,23 s à 110,48 s, juste avant la fin."
+  },
+  "pour_refaire": [
+   "Écrire le texte : une première phrase d'accroche avec un lieu, un événement et un chiffre énorme, suivie d'une exception (« Toutes, sauf une. »). Ensuite, présenter le héros par un métier et un nombre d'années, puis dérouler les faits au présent, en phrases courtes, avec des chiffres précis (heures, minutes, numéros de porte, nombre de sorties).",
+   "Prévoir une rafale de fragments d'un ou deux mots pour le rebondissement (ex. « Sauf 1. Vol 406. Arrivé. Porte 31. »), une « Règle numéro 1 », puis un final avec une poursuite, une question au spectateur et « Abonne-toi pour la partie 2 ».",
+   "Enregistrer une voix rapide (environ 240 mots par minute), avec des pauses de 0,3 à 0,7 s seulement entre les phrases.",
+   "Préparer le décor de base en 9:16 : fond quasi noir avec une grille fine vert sombre et un vignettage. Ajouter le bandeau permanent du haut : pastille verte avec un code de lieu, texte à points lumineux rouge-orange qui défile avec l'état de l'alerte, horloge blanche à droite qui avance au fil du récit.",
+   "Définir la charte : vert #00ff99 pour le sûr ou l'actif, rouge-orange #c85914 pour le danger, orange #ff6633 pour l'accessoire du héros, blanc pour les silhouettes, gris #666666 pour l'architecture. Ajouter une lueur douce sur tout ce qui est vert ou orange.",
+   "Dessiner le héros en silhouette blanche sans visage, avec un seul accessoire de couleur. Dessiner la foule en silhouettes grises répétées.",
+   "Découper le texte en blocs d'idée de 1 à 5 phrases : un bloc = un plan, avec un schéma par bloc (plan du lieu, liste type interface, horloge, tableau, vue en coupe).",
+   "Ouvrir sur deux plans éclair de moins d'une seconde avec le titre en police à points lumineux dans un cadre orange arrondi (« AEROPORT / FERME »), puis enchaîner sur un premier plan de plus de 5 s.",
+   "Dans les plans longs (7 à 22 s), ne pas couper : faire apparaître chaque icône à quelques images du mot dit, allumer progressivement les tracés en pointillés et les zones surlignées, et multiplier les points pour traduire les quantités (4 sorties = 4 points, la foule qui « s'écrase » = des points qui se resserrent).",
+   "Présenter chaque personnage en buste (environ 40 % du cadre) avec une pastille verte pour son nom et une ligne d'info en petites capitales, puis revenir au plan moyen ou large.",
+   "Quand la voix cite un support d'information (tableau, alarme, boutiques, notification), le montrer comme une vraie interface du lieu : tableau des vols en chasse fixe, liste façon terminal, chronomètre de batterie.",
+   "Poser les sous-titres : capitales grasses et serrées, segments de 2 à 3 mots, alternance blanc / mot vert, cartouche sombre avec soulignement vert, aux deux tiers de la hauteur. Mettre en avant chaque chiffre dit.",
+   "Monter en coupes franches, environ 3 images avant le premier mot de chaque phrase. Couper parfois entre le sujet et le verbe pour relancer l'élan. Réserver le fondu à l'ellipse temporelle et utiliser une seule bascule de point de vue dans toute la vidéo.",
+   "Pour le climax, raccourcir les plans (environ 1,5 s), passer en très gros plan sur les silhouettes (60 à 80 % du cadre) et répéter le même motif quand la voix insiste (« derrière lui », « court »). Couloir en rectangles emboîtés, porte lumineuse, cercles radar rouges.",
+   "Mixer : musique régulière vers 129 BPM, environ 11 dB sous la voix, qui change sur l'appel à l'action. Placer des clics et whooshs dans les pauses, puis des impacts forts sur les 10 dernières secondes, un silence d'environ 1,2 s avant la fin, et un niveau final à −14,5 LUFS.",
+   "Finir sur un plan d'environ 5 s en style notification ou bouton (issue de secours, numéros de parties), avec la question au « tu » puis « Abonne-toi pour la partie 2 »."
+  ],
+  "apercu": [
+   "refs/r1/images/00027.jpg",
+   "refs/r1/images/00223.jpg",
+   "refs/r1/images/00408.jpg",
+   "refs/r1/images/00737.jpg",
+   "refs/r1/images/01390.jpg",
+   "refs/r1/images/02084.jpg",
+   "refs/r1/images/02880.jpg",
+   "refs/r1/images/03174.jpg"
+  ],
+  "regles": 23,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-pointderepli\\sources\\TikTok_7698420269177703713.mp4",
+    "duree": 111.7,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "Abonne toi pour la partie 2✈️ #avion #hallowen #histoire ",
+    "vues": 235000,
+    "lien": "https://www.tiktok.com/@pointderepli/video/7698420269177703713"
+   }
+  ]
+ }
+}

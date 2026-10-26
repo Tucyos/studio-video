@@ -1,0 +1,49 @@
+{
+ "titre": "Canal+ « Invisible »",
+ "createur": "Canal+ Sport",
+ "pays": "France",
+ "lien": "https://www.youtube.com/watch?v=qyS0WinZu64",
+ "compte": "Automobile",
+ "auto": {
+  "en_bref": [
+   "Le montage est nerveux. Les plans durent en moyenne moins de quatre secondes et presque aucun ne dépasse neuf secondes. On coupe environ deux fois et demie toutes les dix secondes, presque toujours par une coupe franche.",
+   "Au début, un plan large et fixe pose la phrase-titre. Ensuite vient un bloc accéléré. De temps en temps, un plan-éclair de quelques images relance le rythme. Les plans d'explication, eux, durent longtemps, parfois plus de dix secondes, pour laisser passer une phrase entière.",
+   "La caméra reste fixe ou très lente sur deux plans sur trois. Elle ne fait presque jamais de panoramique. Quand elle bouge, elle préfère reculer pour élargir le cadre. Pour changer d'angle sans couper, elle fait une bascule rapide, surtout dans l'accroche.",
+   "On alterne le plan large d'un lieu et le très gros plan d'un détail. On passe aussi du groupe à l'individu, avec un gros plan de visage. Les mots-clés s'affichent en blanc, en bas du cadre, un mot à la fois.",
+   "La voix est soutenue, mais elle ne parle que sur moins de la moitié du temps. Les pauses sont franches, parfois très longues. La vidéo se termine sans voix, sur de l'image seule. Le son est mixé à un niveau assez doux. Ce qui la rend reconnaissable : des coupes calées juste avant les mots, des phrases qui passent d'un plan à l'autre, et l'objet montré un peu avant d'être nommé."
+  ],
+  "tags": [
+   "rythme nerveux",
+   "coupes franches",
+   "plans-éclairs",
+   "caméra lente",
+   "gros plans",
+   "pauses longues"
+  ],
+  "pour": "Les sujets d'explication qui mêlent un lieu, des métiers et des chiffres, où l'on montre comment un travail d'équipe fonctionne en coulisses.",
+  "apercu": [
+   "refs/r1/images/00706.jpg",
+   "refs/r1/images/01112.jpg",
+   "refs/r1/images/02482.jpg",
+   "refs/r1/images/03641.jpg",
+   "refs/r1/images/05457.jpg",
+   "refs/r1/images/06730.jpg",
+   "refs/r1/images/08638.jpg",
+   "refs/r1/images/10554.jpg"
+  ],
+  "regles": 30,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\canal-invisible\\sources\\canal_invisible_pitstop.mp4",
+    "duree": 384.3,
+    "format": "16:9",
+    "langue": "fr"
+   }
+  ]
+ },
+ "genre": "inspiration",
+ "origine": "Copiée de Canal+ Sport (reportage « Invisible »)",
+ "famille": "Reportage filmé"
+}

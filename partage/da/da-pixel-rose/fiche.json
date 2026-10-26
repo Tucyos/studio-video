@@ -1,0 +1,30 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Koan)",
+ "id": "da-pixel-rose",
+ "titre": "Pixel rose lumineux sur fond anthracite",
+ "famille": "Pixel art",
+ "statut": "utilisée",
+ "compte": "Koan",
+ "skill": "da-pixel-rose",
+ "verdict": "Première vidéo Koan (« La poubelle »), puis remplacée ; reprise recolorée le 18/10 (DA pixel fin ambré).",
+ "utilisee": [
+  "La poubelle"
+ ],
+ "look": {
+  "couleurs": "fond #343434 uni, rose #FFBFEA, rose pâle #FFD7FB, rose vif #D365AF, ombre mauve #8A4A75",
+  "typo": "Montserrat 900 en capitales + VT323",
+  "rendu": "lueur (glow) sur tout : c'est la signature ; poussière de pixels roses ; archives VHS/CRT",
+  "mouvement": "transitions en « whip »"
+ },
+ "exemples": [
+  "exemples/01_c_s02.png",
+  "exemples/02_c_s08.png",
+  "exemples/03_c_s12.png",
+  "exemples/04_decors_contact.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/.claude/skills/da-pixel-rose/SKILL.md",
+  "C:/claude/tiktok-motion/studio/lib/da.js"
+ ]
+}

@@ -1,0 +1,21 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Koan)",
+ "id": "doodle-feutre",
+ "titre": "Dessin au feutre (doodle)",
+ "famille": "Papier et illustration",
+ "statut": "testée",
+ "compte": "Koan",
+ "verdict": "Essai des 11 accroches, non retenu.",
+ "look": {
+  "typo": "Ink Free",
+  "rendu": "gribouillis au feutre"
+ },
+ "exemples": [
+  "exemples/01_hook_doodle.mp4",
+  "exemples/02_planche_doodle.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/videos/Koan/_bibliotheque-da/README.md"
+ ]
+}

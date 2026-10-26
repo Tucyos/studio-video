@@ -1,0 +1,19 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Koan)",
+ "id": "diorama-tilt-shift",
+ "titre": "Diorama : maquette, lampe ambrée, tilt-shift",
+ "famille": "3D stylisée",
+ "statut": "testée",
+ "compte": "Koan",
+ "verdict": "Piste 2 du mood board de Death Note, non retenue.",
+ "look": {
+  "rendu": "maquette miniature, lampe d'appoint ambrée, flou de bascule (tilt-shift)"
+ },
+ "exemples": [
+  "exemples/01_piste2.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/studio/da/mood.html"
+ ]
+}

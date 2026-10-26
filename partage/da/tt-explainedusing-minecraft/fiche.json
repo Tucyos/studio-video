@@ -1,0 +1,80 @@
+{
+ "createur": "@explainedusing_minecraft",
+ "nom_du_compte": "Explained Using Minecraft",
+ "lien": "https://www.tiktok.com/@explainedusing_minecraft",
+ "genre": "da",
+ "origine": "Copiée de @explainedusing_minecraft (TikTok)",
+ "auto": {
+  "titre": "Récit-fable animé en 3D voxel façon Minecraft, sous-titré mot par mot",
+  "famille": "3D stylisée",
+  "en_bref": [
+   "Une notion d'histoire ou d'économie (ici la féodalité) est expliquée comme une petite histoire qui se passe sur un serveur Minecraft. Deux personnages ont un prénom : Richard, le premier arrivé qui possède tout, et Paul, le nouveau venu.",
+   "L'image est une animation 3D faite avec des blocs, dans un décor de ferme et de château ensoleillé : herbe verte, blé doré, pierre grise, bannières rouges. Des panneaux en bois et des écrans dans le décor affichent les mots-clés (« RICHARD'S LAND », « NOT FOR SALE », « FEUDALISM », « 1347 »).",
+   "Le montage est très rapide : environ 6 coupes toutes les 10 secondes, des plans de 1,5 s en moyenne, des plans flash de 0,2 à 0,3 s sur un seul mot, et des petits mouvements de caméra entre deux coupes. Il ne se passe jamais plus d'une seconde sans que l'image change.",
+   "Une voix off en anglais raconte sans pause du début à la fin (229 mots par minute, voix présente 94 % du temps). On entend un fond musical rythmé et discret à environ 112 BPM, et de petits bruitages (clics, whoosh) dans les rares respirations.",
+   "On la reconnaît à trois choses : le gros mot blanc unique au milieu de l'écran, la structure « exemple dans le jeu, puis vraie histoire, puis retour au jeu pour la chute », et le titre-formule « X explained using Minecraft »."
+  ],
+  "tags": [
+   "minecraft",
+   "voxel 3d",
+   "vulgarisation",
+   "histoire",
+   "économie",
+   "fable",
+   "sous-titres mot à mot",
+   "montage rapide"
+  ],
+  "pour": "Les notions abstraites d'histoire, d'économie, de politique ou de société (systèmes, rapports de pouvoir, mécanismes collectifs) qu'on peut rejouer comme une mini-histoire entre deux ou trois joueurs sur un serveur, avant de revenir à l'exemple réel avec une date ou un chiffre.",
+  "look": {
+   "technique": "Animation 3D de rendu dans l'univers Minecraft : blocs, personnages Steve et villageois, cultures, châteaux. Ce n'est pas une capture du jeu : on voit des ombres douces, des caméras libres (plongées, plans inclinés) et des accessoires sur mesure. L'outil probable est un logiciel d'animation Minecraft (Mine-imator) ou Blender avec des rigs Minecraft (déduction, l'outil n'est pas visible). Des cartes et des textes en 2D sont incrustés sur des panneaux ou des écrans dans le décor : carte d'Europe, « 1347 » en rouge, « WAGES ». Les sous-titres sont ajoutés au montage. Vidéo verticale native 9:16 (1080×1920 à la publication, 720×1280 analysé), 30 i/s, 76,8 s.",
+   "couleurs": "Ciel bleu clair #87CEEB, en fond permanent, avec des nuages blancs en blocs. Herbe verte #22AA22 à #5DBB3A, qui occupe le sol et la moitié basse de l'image. Blé et champs dorés #FFD700 à #D9B44A, la richesse et la récolte. Terre labourée brun foncé #5A3A22 et chemins de terre #9B7A4E. Pierre grise #808080 pour le château, le pouvoir du seigneur. Bois brun #8B4513 pour les panneaux, clôtures et structures. Rouge #DD1111 pour les bannières, les drapeaux et la date « 1347 » : marques du seigneur et dates clés. Bleu #0066CC pour les cartes d'Europe et l'eau d'irrigation. Vert émeraude vif pour les émeraudes, la monnaie. Blanc pur pour les sous-titres.",
+   "typo": "Sous-titres : sans-serif géométrique arrondie très grasse (de type Montserrat ou Poppins ExtraBold, famille probable), en blanc, avec une ombre ou un contour noir doux pour rester lisible sur tous les fonds. Sur les images, ils s'affichent UN mot à la fois, en minuscules, centrés horizontalement, à peu près à mi-hauteur de l'écran (les descriptions disent « centre-bas »). Chaque mot remplace le précédent au rythme de la voix. Aucune animation d'entrée n'est visible. Les données signalent des capitales sur le segment final, ce que les images clés ne montrent pas. Textes du décor : capitales serif noires gravées sur les panneaux en bois Minecraft (« RICHARD'S LAND », « NOT FOR SALE »), capitales sans-serif noires grasses sur un tableau blanc encadré de pierre (« FEUDALISM »), chiffres rouges gras au-dessus d'une carte (« 1347 »), panneaux « WAGES ».",
+   "rendu": "Plein jour, lumière de soleil franche, ombres douces sous les personnages et les blocs, légère profondeur de champ par endroits. Textures Minecraft d'origine en pixels : herbe, pierre, blé, bottes de foin, terre labourée. Effets de particules carrées : petites particules vertes ou brunes autour des personnages qui récoltent ou qui disparaissent (« poof » de mort sur l'image de 1347). Pas de filtre, pas de grain. Les couleurs sont saturées et joyeuses, même quand on parle de peste.",
+   "personnages": "Avatars Minecraft classiques, sans visage animé au-delà du skin. Richard, le seigneur : Steve à lunettes de soleil noires et chaîne en or, campé devant son panneau « RICHARD'S LAND ». Paul, le paysan : Steve standard (tee-shirt cyan, pantalon bleu), montré en train de bêcher, de tenir des émeraudes ou de faire des gestes. Les figurants paysans sont des villageois à chapeau de paille et tunique brune, ajoutés ou retirés pour montrer la population (nombreux, puis peu nombreux après la peste, puis à nouveau nombreux à la fin). On voit un personnage couronné en haut du château. Les mobs (zombies) et les chiens sont cités dans le texte mais pas visibles sur les images clés.",
+   "decors": "Un seul monde constant : une plaine d'herbe avec un château de pierre grise crénelé et des bannières rouges, une pyramide de bottes de foin, des parcelles de blé et de terre labourée irriguées par des rigoles d'eau, des chemins de terre, des clôtures rouges qui délimitent le terrain et un spawn sur dalle de pierre. Le décor reste le même pendant toute la vidéo. Seuls changent les figurants et les panneaux ou écrans incrustés (carte d'Europe, « 1347 », « WAGES ») quand on passe à l'histoire réelle.",
+   "mouvement": "47 plans en 76,8 s. Plan médian 1,47 s (p10 0,5 s, p90 3,2 s), 5,99 coupes toutes les 10 s, 14 plans de moins de 1 s (jusqu'à 0,23 s), 5 plans de plus de 3 s réservés au titre, à la définition et à la fin. Caméra : fixe ou lente 57 %, zoom arrière 26 %, zoom avant 13 %, panoramique 4 %. 23 bascules de caméra (2,99 toutes les 10 s, durée médiane 0,53 s, montée 0,2 s) servent à relancer un plan sans couper, avec le pic calé à 3 images ou moins du mot-clé. Les angles sont variés : plongées marquées, plans inclinés, contre-plongée légère sur Richard, vue d'oiseau pour la fin. Les transitions sont des coupes franches à 85 %, placées en moyenne 1 image avant le mot porteur, en milieu de phrase. Les quelques coupes douces sont regroupées sur la séquence de « la chaîne » (images 1068 à 1301). Aucun effet de transition. Le dernier quart ralentit (plans de 2,5 à 3,9 s) pour la partie histoire réelle.",
+   "son": "Voix off en anglais, narrative et posée mais très rapide : 229 mots par minute, 277 mots, voix présente 94 % du temps, pauses courtes et régulières (médiane 0,4 s), timbre assez clair (brillance d'environ 1 600 Hz). On ne peut pas dire si la voix est humaine ou de synthèse. La voix commence à la première image et va jusqu'à la dernière, sans intro muette. Musique de fond probable, très en dessous de la voix (fond à -28,7 dB contre -14 dB pour la voix, soit environ 14,7 dB d'écart), régulière et plutôt percussive (environ 112 BPM, régularité 0,92), sans changement de morceau. Le genre musical n'est pas identifiable. 16 bruitages probables dans les pauses (clics, whoosh et cloches aigus, quelques sons médiums), environ tous les 3 à 7 s. Mix fort à -14,2 LUFS. Une seule vraie suspension de la voix (environ 1,4 s) juste après « 1347 »."
+  },
+  "pour_refaire": [
+   "Écrire le script en anglais (ou dans la langue cible) en moins de 280 mots pour environ 75 s. Ouvrir directement sur la phrase-titre « [notion], explained using Minecraft. » sans aucune intro muette.",
+   "Construire la fable avec deux joueurs nommés par leur prénom : le premier arrivé ou le puissant (Richard) et le nouveau venu (Paul). Ancrer chaque règle du système dans une mécanique du jeu : spawn, blocs, récoltes, mobs, émeraudes.",
+   "Suivre la structure : situation de départ, puis le marché proposé (chiffres concrets : « half of every harvest », « three days a week »), la définition en une phrase (« That's [notion]. »), l'extension du système (la chaîne jusqu'au sommet), pourquoi on ne peut pas en sortir, l'événement qui renverse tout, puis « In real life… » avec une date et un chiffre, et enfin un retour à la fable pour la chute.",
+   "Enregistrer la voix d'une traite, rapide (environ 230 mots par minute), avec des pauses de 0,3 à 0,4 s seulement. Garder un seul vrai silence d'environ 1,4 s juste après la date clé.",
+   "Construire UN décor fixe en voxel Minecraft : plaine d'herbe, château de pierre grise à bannières rouges, champs de blé doré, terre labourée, rigoles d'eau, bottes de foin, chemins de terre, clôture qui délimite le terrain. Le garder pendant toute la vidéo.",
+   "Placer des panneaux et des écrans dans le décor avec les mots-clés en capitales (« RICHARD'S LAND », « NOT FOR SALE », le nom de la notion sur un tableau blanc encadré de pierre, la date en rouge au-dessus d'une carte, la revendication finale). Ils servent aussi à passer à l'histoire réelle, sans effet de transition.",
+   "Animer en 3D (Mine-imator ou Blender avec des rigs Minecraft) en plein soleil, ombres douces, couleurs saturées. Habiller le puissant d'un accessoire signe (lunettes noires et chaîne en or). Montrer les conséquences en ajoutant ou en retirant des villageois figurants, avec des particules carrées quand ils disparaissent.",
+   "Illustrer littéralement chaque nom ou verbe fort juste après qu'il est dit (de 1 à 22 images après) : la carte au mot « Europe », les figurants qui disparaissent au mot « killed », les émeraudes au mot « pay ».",
+   "Monter en coupes franches (environ 85 %), placées 1 image avant le mot porteur et en milieu de phrase (entre « the » et « lord », par exemple), pas sur la ponctuation. Viser environ 6 coupes toutes les 10 s et un plan médian d'environ 1,5 s.",
+   "Isoler les mots d'emphase (pronom, négation, prénom) dans des plans flash de 0,2 à 0,3 s. Changer de plan à chaque fois qu'un nouvel acteur devient sujet de la phrase.",
+   "Réserver les plans de plus de 3 s au titre, à la définition et à la conclusion, et les relancer avec au moins une bascule de caméra (environ 0,5 s, pic calé sur le mot-clé à 3 images près). Ralentir le dernier quart (plans de 2,5 à 4 s).",
+   "Varier les angles : plongées, plans inclinés, légère contre-plongée sur le puissant, plan large pour expliquer le système, plan resserré sur la date quand elle est dite, vue d'oiseau avec zoom arrière lent pour la chute.",
+   "Sous-titrer UN mot à la fois, en sans-serif arrondie extra-grasse blanche avec une ombre noire, centrée vers le milieu de l'écran, synchronisée au mot près.",
+   "Mixer à environ -14 LUFS : voix devant, musique rythmée discrète (environ 112 BPM) environ 15 dB sous la voix, petits clics et whoosh glissés dans les respirations toutes les 3 à 7 s.",
+   "Titre et description identiques, en minuscules : « [notion] explained using minecraft ». Pas de hashtags."
+  ],
+  "apercu": [
+   "refs/r1/images/00146.jpg",
+   "refs/r1/images/00401.jpg",
+   "refs/r1/images/00600.jpg",
+   "refs/r1/images/00891.jpg",
+   "refs/r1/images/01213.jpg",
+   "refs/r1/images/01451.jpg",
+   "refs/r1/images/01713.jpg",
+   "refs/r1/images/02009.jpg"
+  ],
+  "regles": 26,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-explainedusing-minecraft\\sources\\TikTok_7693361541143350546.mp4",
+    "duree": 76.81,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "feudalism explained using minecraft",
+    "vues": 4700000,
+    "lien": "https://www.tiktok.com/@explainedusing_minecraft/video/7693361541143350546"
+   }
+  ]
+ }
+}

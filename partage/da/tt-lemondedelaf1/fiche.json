@@ -1,0 +1,79 @@
+{
+ "createur": "@lemondedelaf1",
+ "nom_du_compte": "LeMondeDeLaF1",
+ "lien": "https://www.tiktok.com/@lemondedelaf1",
+ "genre": "da",
+ "origine": "Copiée de @lemondedelaf1 (TikTok)",
+ "auto": {
+  "titre": "Circuit 3D isométrique low-poly sur fond sombre, avec habillage d'infographie éditoriale",
+  "famille": "3D stylisée",
+  "en_bref": [
+   "On voit un petit circuit en 3D, en vue plongeante de trois quarts, avec des voitures de course simplifiées rouge et bleue posées sur un asphalte gris foncé, au milieu d'un écran bleu nuit très sombre.",
+   "Autour de la 3D, il y a une mise en page fixe de magazine : petit surtitre vert citron, gros titre blanc en majuscules en haut, étiquettes « 27 · TOI / 81 · ADVERSAIRE », sous-titres blancs en bas et une barre de progression vert citron en pied d'écran.",
+   "La caméra ne bouge jamais. Ce sont les voitures qui avancent sur la piste. Le montage n'utilise que des coupes franches, avec un plan par idée, d'environ 4 s, et jusqu'à 11 à 14 s quand on raconte une situation.",
+   "La voix est rapide (environ 213 mots par minute), parle presque sans arrêt, tutoie le spectateur et le met dans la voiture (« Imagine, tu es dans la voiture rouge »). Une musique rythmée discrète (environ 144 BPM) tourne en fond, et des clics, whooshs et impacts remplissent les petites pauses.",
+   "On la reconnaît au contraste entre le vert citron et le bleu nuit, au code couleur rouge = toi / bleu = adversaire, et au récit en duel fictif qui sert à expliquer une vraie stratégie."
+  ],
+  "tags": [
+   "3d isométrique",
+   "low-poly",
+   "infographie",
+   "f1",
+   "vulgarisation",
+   "fond sombre",
+   "vert citron",
+   "narration au tu"
+  ],
+  "pour": "Expliquer une stratégie ou une règle technique peu visible (sport, jeu, tactique) en la racontant comme un duel fictif entre deux protagonistes, montré sur une maquette 3D vue de haut.",
+  "look": {
+   "technique": "Scène 3D stylisée de type maquette (outil probable : Blender, Cinema 4D ou moteur temps réel, non confirmé), filmée par une caméra orthographique ou isométrique fixe en plongée de trois quarts. Les voitures sont des modèles low-poly déplacés image par image le long de la piste. Par-dessus, un habillage 2D vectoriel est monté dans un logiciel de motion design ou de montage (After Effects ou équivalent, probable) : titres, étiquettes, encadrés, sous-titres et barre de progression. Les tracés au sol (lignes de sortie des stands, libellés « SORTIE », « PIT LANE ») sont posés dans la scène.",
+   "couleurs": "Fond d'écran bleu nuit ardoise #1E232B à #252A33, qui sert de cadre à toute la mise en page. Fond de la zone 3D un peu plus clair, #2A3038 à #343A44 (vide autour du circuit). Asphalte gris foncé #3A4048 à #4A5A6A. Vertubes rouge et blanc en damier, #E8584F à #FF6B6B et #F0F0F0 (bords de piste). Pelouse intérieure de l'ovale gris-vert sarcelle #3F5A5C à #1A3A3A. Bâtiments des stands en blocs gris bleuté #5A6470. Voiture « toi » rouge #D9302F à #FF6B6B avec blanc. Voiture « adversaire » bleu #2F6BD9 à #4A9EFF avec blanc. Voiture de trafic gris clair et blanc. Accent vert citron #D7F25A à #CCFF66 pour le surtitre de série, le texte des annotations dans la 3D (« MISE EN TEMPÉRATURE »), l'encadré « BOX. BOX. » et la barre de progression. Textes principaux en blanc #FFFFFF, textes secondaires en gris #9AA3AD. Filet rouge à gauche de l'étiquette TOI et filet bleu à gauche de l'étiquette ADVERSAIRE. Les descriptions parlent aussi de jaune #FFFF66 et de vert #99FF66 pour les encadrés.",
+   "typo": "Sans-serif géométrique très grasse, de la famille Montserrat, Gilroy ou Poppins (probable). 1) Surtitre de série en haut à gauche, environ 9 % de la hauteur : « LA F1 INVISIBLE », petites capitales grasses espacées, vert citron. En face, en haut à droite : « STRATÉGIE / 02 », petit, gris, espacé. 2) Titre principal juste dessous, à gauche, en capitales extra-grasses blanches, très grand, sur 1 ou 2 lignes, sans contour ni ombre (« DÉPASSER SANS DOUBLER ? », « LA DÉCISION », « LES PNEUS FONT LE TEMPS », « DERRIÈRE TOI. »). Il est remplacé net à la coupe ou à chaque étape. 3) Sous-titre de contexte sous le titre, petites capitales grises espacées (« APRÈS LES ARRÊTS », « SUR LA PISTE, LA BLEUE EST ENCORE DEVANT », « MÊME VOIE DES STANDS », « LES POSITIONS ONT CHANGÉ », « CAS D'ÉCHEC / 02 », « LE DUEL SE JOUE AUSSI DANS LES STANDS »). 4) Étiquettes vers 70 % de la hauteur : petits cartouches sombres avec un filet de couleur à gauche, « 27 · TOI » et « 81 · ADVERSAIRE », qui deviennent « 1 · ROUGE » et « 2 · BLEUE » une fois les positions échangées. 5) Sous-titres de la voix vers 76 % de la hauteur, alignés à gauche, blanc gras en minuscules et majuscules, assez grands, par fragments de phrase de 3 à 6 mots qui défilent avec la voix (« et te retrouver devant. », « vite en température, »). 6) Pied de page vers 85 % : barre vert citron fine qui s'allonge au fil de la vidéo, avec dessous « DUEL FICTIF · STRATÉGIE RÉELLE » en petites capitales grises. 7) Encadré de décision : rectangle vert citron plein avec une icône et un texte noir en police monospace, « BOX. BOX. ». Animation des textes : remplacement net, aucune animation d'entrée visible.",
+   "rendu": "Rendu 3D propre et mat, façon maquette : aplats de couleur, ombrage doux, petites ombres portées sous les blocs, pas de texture réaliste, pas de reflets marqués et pas de flou de mouvement visible. La lumière est neutre et uniforme. Les vertubes forment un damier rouge et blanc, avec une ligne de départ en damier noir et blanc. La zone 3D est un grand bandeau horizontal qui occupe environ 20 à 75 % de la hauteur et se fond dans le fond sombre. Le nom de série est inscrit en petit au sol, au centre de l'ovale. Aucun grain ni effet de post-production visible.",
+   "personnages": "Pas d'humain. Les protagonistes sont les voitures : des monoplaces F1 low-poly, la rouge (« toi », n° 27) et la bleue (« adversaire », n° 81), plus une voiture grise et blanche pour le trafic. Ce sont des voitures génériques, sans marque lisible. Pilote : seulement un casque jaune visible dans le cockpit en gros plan.",
+   "decors": "Circuit fictif en forme d'ovale allongé avec une voie des stands. Les plans montrent tantôt le circuit entier (plan d'ouverture, « LE DUEL INVISIBLE », « LE MOMENT DÉCISIF »), tantôt un détail : un virage, une ligne droite, la sortie des stands avec ses lignes blanches et le libellé « SORTIE ». On voit aussi les garages des stands, en blocs gris bleuté alignés, une ligne de départ en damier et un cadre vert citron qui délimite une zone d'arrêt (« MÊME VOIE DES STANDS »). Autour du circuit, il n'y a rien : fond uni sombre.",
+   "mouvement": "Caméra entièrement fixe sur les 16 plans (pas de panoramique, d'inclinaison ni de zoom mesurés), toujours dans le même axe en plongée de trois quarts. On change de zone uniquement par la coupe. Le mouvement vient des voitures qui avancent ou changent de position et des tracés ou annotations qui s'ajoutent un par un. 16 plans en 90,9 s (1,65 coupe par 10 s), médiane 4 s, de 1,77 s à 13,83 s, aucun plan de moins de 1 s. 15 coupes franches sur 15, sans fondu ni effet. La coupe tombe environ 3 images avant le premier mot du plan suivant, ou dans le silence entre deux phrases.",
+   "son": "Voix off masculine ou féminine non déterminable, humaine ou de synthèse impossible à trancher avec les données. Ton de conteur pédagogique, tutoiement, impératifs. Débit rapide : 213 mots par minute de voix, 236 mots en 90 s, voix présente 73 % du temps, pauses médianes de 0,58 s (au plus 0,9 s en p90). Voix assez claire (brillance environ 1 580 Hz), niveau environ -22 dB. Musique probable en fond, très basse (environ -44 dB hors voix, soit environ 20 dB sous la voix), régulière (battement 0,94), plutôt percussive (63 %), autour de 143,6 BPM, avec des changements environ toutes les 2 à 13 s. Genre non déterminable. 46 bruitages probables dans les pauses de la voix : clics et whooshs aigus (forts vers 10 s, 22 s, 23 s et 49 s), impacts graves de type « boum », sons médiums, soit environ un toutes les 2 s. Silences très courts (0,3 à 0,74 s). Sonie globale -21,6 LUFS."
+  },
+  "pour_refaire": [
+   "Écris le texte en premier : une accroche paradoxale en 2 phrases (« tu peux dépasser une voiture sans jamais la doubler »), le nom du concept (« Ça s'appelle l'Undercut »), puis « Imagine, tu es dans… ». Mets en scène un duel fictif entre toi (rouge) et l'adversaire (bleu), déroule les étapes, puis « Mais attention, ce pari peut échouer », une liste de 3 risques, « Voilà pourquoi… » et une question finale à la 2e personne. Vise environ 230 à 240 mots pour 90 s.",
+   "Découpe le texte en 15 à 17 idées. Chaque idée devient un plan avec son titre de 2 à 5 mots repris de la voix (« QUATRE PNEUS NEUFS », « UN ARRÊT RATÉ »). Le premier titre et le dernier sont des questions.",
+   "Construis une seule scène 3D low-poly mate : circuit ovale avec voie des stands, vertubes en damier rouge et blanc, asphalte gris foncé, pelouse sarcelle sombre, garages en blocs gris bleuté, fond uni sombre. Ajoute une voiture rouge, une bleue et une grise pour le trafic.",
+   "Pose une caméra orthographique ou isométrique en plongée de trois quarts et ne change jamais son angle. Pour chaque plan, déplace-la seulement en translation ou cadre plus serré (circuit entier, virage, sortie des stands, gros plan où la voiture occupe environ 40 % de l'image quand on parle des pneus ou de la température).",
+   "Anime uniquement les objets : les voitures avancent ou changent d'ordre, les tracés et libellés au sol (« SORTIE », « MISE EN TEMPÉRATURE » en vert citron) apparaissent un par un. Pour une suite d'actions (freiner, passer, réaccélérer), place la voiture à l'entrée, au milieu puis à la sortie du virage dans le même plan.",
+   "Rends en 9:16 (1080×1920, 30 i/s). Place la 3D dans un bandeau d'environ 20 à 75 % de la hauteur, sur un fond d'écran bleu nuit #1E232B.",
+   "Monte le gabarit fixe : en haut à gauche, le surtitre de série en vert citron #D7F25A ; en haut à droite, la rubrique et le numéro (« STRATÉGIE / 02 ») en gris ; dessous, le gros titre blanc extra-gras en capitales, aligné à gauche, puis le sous-titre de contexte en petites capitales grises.",
+   "Ajoute vers 70 % de la hauteur les deux étiquettes protagonistes avec un filet coloré à gauche (« 27 · TOI » rouge, « 81 · ADVERSAIRE » bleu). Change-les quand la situation bascule (« 1 · ROUGE », « 2 · BLEUE »).",
+   "Mets les sous-titres de la voix juste dessous, en blanc gras, alignés à gauche, par fragments de 3 à 6 mots synchronisés sur la voix.",
+   "En pied de page, mets une barre de progression vert citron qui s'allonge du début à la fin, avec une signature fixe en petites capitales grises (« DUEL FICTIF · STRATÉGIE RÉELLE »). Laisse environ 14 % libres en bas pour l'interface de l'appli.",
+   "Sur le mot de la décision clé (« Box, box »), fais apparaître un encadré vert citron plein avec une icône et le texte noir en monospace.",
+   "Enregistre une voix rapide et continue (environ 210 mots par minute) qui tutoie le spectateur, avec des pauses de 0,5 à 0,6 s maximum entre les phrases.",
+   "Monte en coupes franches uniquement : un plan par idée, 4 s en médiane, jamais moins de 1,7 s, 11 à 14 s pour les mises en situation et la conclusion, 1,7 à 5 s par élément dans une énumération. Coupe environ 3 images avant le premier mot du plan, laisse « Imagine, », « Toi, » et « Voilà » sur le plan précédent, et dans un plan long change le titre à chaque étape au lieu de couper.",
+   "Mixe une musique rythmée vers 144 BPM environ 20 dB sous la voix. Place un bruitage (clic, whoosh ou impact grave) dans presque chaque pause de la voix. Vise -21 à -22 LUFS au final."
+  ],
+  "apercu": [
+   "refs/r1/images/00221.jpg",
+   "refs/r1/images/00706.jpg",
+   "refs/r1/images/00950.jpg",
+   "refs/r1/images/01220.jpg",
+   "refs/r1/images/01538.jpg",
+   "refs/r1/images/01831.jpg",
+   "refs/r1/images/02179.jpg",
+   "refs/r1/images/02519.jpg"
+  ],
+  "regles": 30,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-lemondedelaf1\\sources\\TikTok_7698252864820497697.mp4",
+    "duree": 90.87,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "Tout comprendre sur l’undercut#f1#3d #france#fyp",
+    "vues": 50400,
+    "lien": "https://www.tiktok.com/@lemondedelaf1/video/7698252864820497697"
+   }
+  ]
+ }
+}

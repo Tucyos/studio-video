@@ -1,0 +1,20 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Koan)",
+ "id": "typo-cinetique",
+ "titre": "Typographie cinétique",
+ "famille": "Écran et typographie",
+ "statut": "testée",
+ "compte": "Koan",
+ "verdict": "Essai des 11 accroches, non retenu.",
+ "look": {
+  "rendu": "le texte seul porte l'image"
+ },
+ "exemples": [
+  "exemples/01_hook_typo.mp4",
+  "exemples/02_planche_typo.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/videos/Koan/_bibliotheque-da/README.md"
+ ]
+}

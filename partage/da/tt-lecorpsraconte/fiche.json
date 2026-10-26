@@ -1,0 +1,81 @@
+{
+ "createur": "@lecorpsraconte",
+ "nom_du_compte": "lecorpsraconte",
+ "lien": "https://www.tiktok.com/@lecorpsraconte",
+ "genre": "da",
+ "origine": "Copiée de @lecorpsraconte (TikTok)",
+ "auto": {
+  "titre": "Schémas médicaux vectoriels blanc et bleu sur grille noire, avec un personnage plat et des étiquettes de terminal",
+  "famille": "2D vectorielle",
+  "en_bref": [
+   "On voit un dessin animé plat en 2D sur un fond noir quadrillé de fines lignes grises. Il y a un personnage simple (un homme âgé, chauve, avec des lunettes) et des schémas d'organes, comme un cerveau aux artères bleues. Tout est dessiné en blanc, en gris et en un seul bleu électrique.",
+   "Chaque mot important est dessiné à la lettre : la fourchette qui tombe, le sourire qui ne remonte que d'un côté, le téléphone avec le « 15 », le chronomètre. Des petites étiquettes en police de machine à écrire, encadrées, ajoutent le contexte, par exemple « DIMANCHE · 12:40 » ou « NOTÉ : 12:47 ».",
+   "Le rythme est calme, mais l'image ne reste jamais immobile. Les plans durent environ 4 s, la caméra recule doucement tout le temps, et de petites bascules de caméra relancent l'image toutes les 3 à 4 s. On ne trouve que deux plans éclairs, sur le moment-choc.",
+   "Une seule voix raconte vite (environ 215 mots par minute), avec des pauses très courtes. Une musique régulière d'environ 136 BPM joue en fond, nettement sous la voix. Quelques bruitages tombent dans les silences, et un gros impact grave ferme la vidéo.",
+   "Ce qui la rend reconnaissable : les sous-titres blancs en gras qui apparaissent mot à mot, avec le mot-clé en bleu ; les lettres géantes bleues d'un acronyme ; et la fin sur le mot-clé répété en très gros.",
+   "La structure est toujours la même : une promesse chiffrée, une petite scène de vie qui tourne mal, l'explication dans le corps, une méthode à retenir lettre par lettre, puis une phrase finale émouvante."
+  ],
+  "tags": [
+   "vulgarisation santé",
+   "2d vectorielle",
+   "fond noir quadrillé",
+   "accent bleu",
+   "sous-titres mot à mot",
+   "acronyme",
+   "storytelling",
+   "corps humain"
+  ],
+  "pour": "La vulgarisation médicale ou corporelle qui débouche sur un geste utile : reconnaître un symptôme, savoir réagir dans une urgence, comprendre ce qui se passe dans un organe. Ça marche surtout quand le sujet se résume en une règle facile à retenir (acronyme, chiffre, liste courte).",
+  "look": {
+   "technique": "Animation 2D vectorielle plate (formes simples, aplats, contours fins), probablement faite dans un logiciel d'animation vectorielle ou de motion design de type After Effects. Les mouvements de caméra (zooms, panoramiques, bascules) sont virtuels, appliqués sur les illustrations. Le personnage est un pantin découpé : tête, lunettes, bras et fourchette articulés, rotation du profil vers la face. Des effets graphiques s'ajoutent : ondes bleues concentriques à l'impact de la fourchette sur l'assiette, points bleus lumineux qui marquent la zone touchée (coin de la bouche, yeux), bande de lignes horizontales de type glitch en haut de l'image sur le plan du cerveau, traits blancs diagonaux de type pluie ou vitesse vers la fin. Selon la description, le cerveau du moment 10 serait en 3D, mais les images clés le montrent plat, en 2D.",
+   "couleurs": "Fond noir quasi pur #000000 à #0A0A0A, recouvert d'une grille fine gris foncé (~#2A2A2A à #3A3A3A) façon papier millimétré. Blanc #FFFFFF pour les sous-titres, les contours, l'assiette et les silhouettes. Un seul accent, un bleu électrique (~#3B8BFF, mesuré entre #0066FF et #0099FF) : mot-clé du sous-titre, artères, iris, points d'impact, lettres géantes, chiffre « 15 », aiguille du chronomètre. Peau gris très clair, presque blanc (~#E6E4DF). Pull bleu marine (~#1F2A44 à #2A4A7A) à petits points. Table et sol gris anthracite (~#1A1A1A) à fines rayures horizontales. Assiette beige clair (~#D8D2C4). Cerveau gris foncé (~#2B2B2B) à texture de points, contour blanc, sillons gris clair. Un rouge-rose (~#FF6B6B) est relevé dans les données pour l'artère bouchée (moments 8 et 9), mais il est non visible sur les images clés.",
+   "typo": "Sous-titres : sans-serif grotesque très grasse (type Inter Black, Helvetica Bold ou équivalent), en minuscules avec ponctuation, blanc pur, sans contour, sur une ou deux lignes, en haut-centre (environ 15 à 20 % depuis le haut de l'écran). Ils apparaissent mot par mot ou par petits groupes, au rythme de la voix. Le mot-clé passe en bleu (« le corps. », « l'heure. »). Étiquettes de contexte : police monospace en capitales, espacée, de type code ou terminal (« DIMANCHE · 12:40 », « PAROLE », « URGENCE », « TOUT DE SUITE », « NOTÉ : 12:47 », « EUROPE : 112 »), dans un petit cadre fin, blanc ou bleu, sur fond sombre. Encadrés de mot-clé en bas-centre (« UN SEUL CÔTÉ », « millions de neurones », « une phrase »). Lettres d'acronyme géantes, bleues et grasses (V, I, T, E), placées à gauche, avec un léger halo lumineux et un point bleu brillant au-dessus ; le mot complet s'affiche à côté dans une étiquette encadrée. Final : « VITE » en blanc, très gros, répété 6 fois au centre.",
+   "rendu": "Rendu plat sans ombres portées, aplats nets et contours fins. Les seules matières sont des trames de points (pull, cerveau) et des rayures horizontales (table). La lumière est graphique : petits halos lumineux bleus sur les points d'accent et les lettres géantes. Le fond noir quadrillé donne un aspect de schéma technique ou d'écran de laboratoire. On trouve aussi une bande de glitch horizontale ponctuelle et des traits diagonaux blancs en fin de vidéo (texture de pluie mentionnée dans les données, moments 18 et 19).",
+   "personnages": "Un personnage principal récurrent : homme âgé (« votre père »), chauve sur le dessus avec une couronne de cheveux gris, lunettes rectangulaires fines, yeux bleus, nez et rides tracés au trait fin, pull bleu marine à col en V. Le style est simple et un peu raide, avec une expression neutre. Le symptôme passe par une déformation localisée : bouche tordue d'un côté, marquée d'un point bleu. Les données mentionnent aussi un second personnage (une femme, moment 6), une grille de 7 à 8 personnages pendant l'acronyme, un profil blanc sans traits et une silhouette de corps humain blanche découpée en zones. Ces éléments sont non visibles sur les images clés, sauf le personnage principal.",
+   "decors": "Aucun décor réaliste : fond noir quadrillé partout. La scène de vie se résume à une table (bande sombre à rayures, bord blanc) avec une assiette et une fourchette. Les objets apparaissent isolés sur la grille quand on les nomme : cerveau, téléphone avec « 15 » et icône d'appel, chronomètre aux aiguilles bleues.",
+   "mouvement": "Format 9:16. 12 plans pour 62,8 s : plan médian 4,1 s, 1,75 coupe par 10 s, 9 plans sur 12 dépassent 3 s. Aucun plan fixe : zoom arrière lent dans 67 % des plans (de -1,4 à -2,4 %/s sur les plans de plus de 9 s), panoramiques dans 25 %, zoom avant dans 8 %. 13 bascules de caméra (environ 2 par 10 s, 0,4 s en médiane, montée en environ 5 images) relancent l'image sans couper, souvent 1 image après une coupe douce. Coupes calées sur l'attaque d'un mot (décalage médian 0 image). Coupes franches réservées aux ruptures : le choc « assiette », « boucher », l'appel au « 15 », la conclusion. Sur le choc, deux plans éclairs de 13 puis 26 images (très gros plan sur le visage), puis retour à un plan long de 9,5 s. Pendant l'acronyme, un bloc d'environ 4 s par lettre, toujours dans le même cadre. Plan final presque stable.",
+   "son": "Une seule voix off narrative, en français, rapide (215 mots par minute), au ton posé et grave, en adresse directe (« vous », « votre père »). Rien dans les données ne permet de dire si elle est humaine ou synthétique (non déterminé). Brillance de voix autour de 1 010 Hz. Les pauses sont courtes (0,5 s en médiane, 0,64 s au p90) et la voix occupe 87 % de la durée. Une musique est probable en fond : environ 136 BPM, battement très régulier (0,94), peu percussive (30 %), environ 4,7 dB sous la voix (voix -20 dB, fond -24,7 dB) ; son genre n'est pas identifiable. Bruitages relevés dans les pauses : un son médium à 3,9 s, des sons aigus (clic, whoosh ou cloche) à 6,9 s et 22,1 s, des impacts graves à 58,4 s et 61,2 s, puis un très gros impact grave à 61,9 s qui clôt la vidéo. Environ 0,9 s sans voix juste après « assiette » (images 243 à 268). Sonie intégrée : -20,5 LUFS."
+  },
+  "pour_refaire": [
+   "Écrire le texte selon cette structure : accroche chiffrée avec injonction (« X se reconnaît en 4 lettres. Apprenez-les maintenant. ») ; mini-scène du quotidien à la 2e personne (« Repas du dimanche. Votre père… ») ; fausse explication rassurante, puis démenti (« Tout le monde pense… Mais ce n'est pas… ») ; mécanisme dans le corps, avec un chiffre fort ; transition « On ne voit pas X. Donc on regarde Y. » ; méthode en acronyme (« V comme… », chaque lettre suivie d'une consigne et du signe à observer) ; « Pourquoi ? » avec une explication courte ; phrase finale émotionnelle. Compter environ 200 mots pour 60 s.",
+   "Enregistrer la voix rapide (environ 215 mots par minute), ton grave et posé, avec des pauses de 0,4 à 0,7 s entre les phrases et sans longue respiration. Garder environ 0,9 s de silence juste après le mot-choc.",
+   "Préparer le décor de base : canevas 1080×1920, fond #000000 avec une grille fine gris foncé, sans aucun autre décor. Palette limitée à blanc, gris, bleu marine et un seul bleu électrique (~#3B8BFF) pour tout ce qui est important.",
+   "Dessiner un personnage récurrent en vecteur plat, articulé (tête, yeux, bouche, bras), avec des trames de points sur les vêtements. Le symptôme se montre par une déformation localisée marquée d'un point bleu lumineux.",
+   "Dessiner les organes et objets en schémas plats : contour blanc, intérieur gris foncé tramé, éléments actifs (artères, aiguilles, chiffres) en bleu. Ajouter des ondes bleues concentriques sur chaque impact physique.",
+   "Ouvrir sur un seul plan de 4 s maximum, avec l'image symbole du sujet (ici, le cerveau) et l'accroche en sous-titres.",
+   "Monter en plans longs (environ 4 s, la majorité au-delà de 3 s, environ 1,75 coupe par 10 s), et couper exactement sur l'attaque du premier mot de chaque nouvelle phrase.",
+   "Faire bouger chaque plan : zoom arrière lent par défaut (-1,4 à -2,4 %/s sur les plans de plus de 9 s), quelques panoramiques, un seul zoom avant. Ne jamais laisser l'image plus de 8 s sans événement visuel.",
+   "Ajouter des bascules de caméra (environ 0,4 s, montée en environ 5 images, à peu près 2 par 10 s), dont une 1 image après chaque coupe douce, et 1 ou 2 à l'intérieur des plans longs plutôt que de couper.",
+   "Sur le moment-choc : deux plans éclairs (13 puis 26 images), dont un très gros plan sur le visage (environ 80 % de l'écran), puis coupe franche et retour à un plan long. Réserver les coupes franches au choc, aux changements de partie, à l'appel à l'action et à la conclusion.",
+   "Incruster les sous-titres mot par mot, en sans-serif très grasse, blanche, en minuscules, en haut-centre. Le mot porteur de sens passe en bleu ou dans un encadré en bas-centre. Ajouter des étiquettes monospace en capitales, encadrées, pour le contexte (jour, heure, mot de l'acronyme, numéro).",
+   "Pour l'acronyme : plan large dans un cadre fixe, un bloc d'environ 4 s par lettre ouvert par la même formule (« X comme… »). Lettre géante bleue avec halo, puis mot complet en étiquette, puis consigne et signe illustrés à la lettre. Couper vers la lettre suivante 7 à 14 images après qu'elle a été dite. Le dernier bloc est plus court (environ 2 s) et débouche sur l'action (téléphone, numéro, chronomètre).",
+   "Illustrer littéralement chaque nom concret, verbe d'action ou chiffre (bras levé puis redescendu, « 15 » sur un téléphone, horloge sur « heure »). Les mots abstraits passent par une expression du visage.",
+   "Fin : plan presque stable (zoom quasi nul, léger panoramique) sur la phrase émotionnelle, puis le mot-clé répété 6 fois en très gros blanc au centre pendant environ 2 s après la dernière phrase. Option : traits diagonaux blancs en fond.",
+   "Mixage : musique régulière d'environ 136 BPM, environ 5 dB sous la voix ; clics ou whooshs aigus dans les pauses du début ; impacts graves sur la fin, avec un gros boum final. Viser environ -20,5 LUFS intégrés."
+  ],
+  "apercu": [
+   "refs/r1/images/00176.jpg",
+   "refs/r1/images/00251.jpg",
+   "refs/r1/images/00298.jpg",
+   "refs/r1/images/00579.jpg",
+   "refs/r1/images/00850.jpg",
+   "refs/r1/images/01212.jpg",
+   "refs/r1/images/01399.jpg",
+   "refs/r1/images/01706.jpg"
+  ],
+  "regles": 26,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-lecorpsraconte\\sources\\TikTok_7696812367627275552.mp4",
+    "duree": 62.8,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "Un AVC se reconnaît en 4 lettres : VITE. Visage qui tombe d'un côté, ...",
+    "vues": 1700000,
+    "lien": "https://www.tiktok.com/@lecorpsraconte/video/7696812367627275552"
+   }
+  ]
+ }
+}

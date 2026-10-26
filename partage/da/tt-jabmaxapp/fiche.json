@@ -1,0 +1,79 @@
+{
+ "createur": "@jabmaxapp",
+ "nom_du_compte": "JabMax",
+ "lien": "https://www.tiktok.com/@jabmaxapp",
+ "genre": "da",
+ "origine": "Copiée de @jabmaxapp (TikTok)",
+ "auto": {
+  "titre": "Mannequins articulés sur fond nuit, schémas de technique annotés en rouge et vert",
+  "famille": "2D vectorielle",
+  "en_bref": [
+   "Deux mannequins sans visage, un crème et un gris, s'affrontent sur un fond presque noir quadrillé très finement. Leurs articulations sont marquées par des points rouges. On les voit soit de côté, en pied, soit de dessus, comme sur un schéma de tactique.",
+   "En haut à gauche, la phrase dite s'affiche en grosses capitales étroites couleur crème, avec la fin ou le mot-clé en rouge. Au-dessus, une petite étiquette de rubrique (carré rouge suivi de « PHILLY SHELL », « THE TRAP »…) est écrite en petites capitales espacées.",
+   "Le rythme est posé. Il y a environ 2 coupes toutes les 10 s, des plans d'environ 4 s en médiane et deux très longs plans (13,7 s en ouverture et 11,7 s pour la démonstration). La phrase passe souvent par-dessus la coupe.",
+   "Une seule voix en anglais parle vite (204 mots/min) et occupe 81 % du temps. Elle ne laisse que des pauses très courtes, dans lesquelles tombent de petits clics ou whooshes. Aucune musique n'est détectée et la vidéo finit sur 3 s de silence.",
+   "On reconnaît la DA à son code couleur. Le vert entoure la bonne zone, le rouge signale le danger ou l'impact. Des étiquettes techniques avec un trait de rappel, des cercles, des arcs et des pointillés annotent chaque geste, au moment où la voix le nomme."
+  ],
+  "tags": [
+   "mannequins",
+   "schéma annoté",
+   "fond sombre",
+   "typo condensée",
+   "rouge et vert",
+   "tutoriel sport",
+   "vue de dessus",
+   "plans longs"
+  ],
+  "pour": "Décomposer un geste technique ou une tactique en étapes (sports de combat, sports en général, posture, gestes d'un métier) avec une thèse contre-intuitive : « ce que vous croyez être X est en fait Y ».",
+  "look": {
+   "technique": "Animation de mannequins articulés en aplats légèrement dégradés. Les descriptions automatiques disent « 3D épurée low-poly », mais sur les images le rendu est très plat, proche d'un rig 2D vectoriel (After Effects ou Rive, par exemple, mais l'outil n'est pas visible). Deux points de vue alternent : de profil, deux corps en pied (images 1, 3, 6, 7), et de dessus (images 2, 4, 5). Par-dessus viennent des calques graphiques : halos lumineux, cercles, arcs, traits de rappel et étiquettes de texte.",
+   "couleurs": "Fond bleu-noir #14161C à #1A1A1A, avec un quadrillage fin à peine plus clair et une bande de sol plus sombre en bas sur les vues de profil. Le mannequin « protagoniste » est crème/beige #E8DFD3, avec les zones sombres des membres en taupe #8A7F74. L'adversaire est gris ardoise #4A4F5A, souvent semi-transparent. Le rouge #FF4444 (relevé jusqu'à #FF0000) sert aux points d'articulation, à l'impact, au danger, à la deuxième ligne du titre et à l'appel à l'action. Le vert #00CC44 sert de halo à la zone correcte et à l'étiquette « SHOULDER ». Le titre est crème/blanc cassé #F0E8DC. Les sous-étiquettes sont en gris #8A8F99. Les descriptions évoquent un orange #FF8800, qui n'est pas visible sur les images.",
+   "typo": "Titre : grotesque condensée très grasse, du type Bebas Neue, Anton ou Oswald Bold, tout en capitales, sans contour ni ombre. Il est aligné à gauche dans le tiers haut, tient sur 1 à 2 lignes et finit souvent par un point (« HAND OUT. », « IT TURNS / WITH IT. »). La ligne qui porte le mot-clé est entièrement rouge, l'autre est crème. Au-dessus du titre, une étiquette de rubrique : petit carré rouge plein, puis du texte en petites capitales très espacées, grises, d'aspect monospace (« ■ PHILLY SHELL », « ■ THE ROLL », « ■ THE TRAP », « ■ 2010 · MOSLEY VS MAYWEATHER »). Les annotations sur le corps sont en monospace, en capitales espacées, colorées selon le code (vert « SHOULDER », blanc « LEAD ARM », rouge « HAND OUT », « HE TURNS », « LOADED », « THE TURN »), avec en dessous une ligne grise plus petite (« COVERS CHIN », « COVERS BODY ») et un trait fin qui relie l'étiquette à la zone. Le titre change à chaque nouvelle phrase, sans couper le plan. L'animation d'entrée du texte n'est pas visible. Les règles parlent d'une petite ligne grise en bas de l'écran (repère temporel + mot-clé), mais elle n'apparaît sur aucune des images clés.",
+   "rendu": "Rendu plat et mat. Les corps ont un très léger dégradé de lumière. Les halos sont flous et lumineux (vert ou rouge) autour de la zone signalée. Les points d'articulation sont des disques rouges cerclés de sombre. L'adversaire est translucide ou sous-exposé pour laisser la priorité au protagoniste. Le fond porte un vignettage léger. Il n'y a ni texture ni grain visible. Sur la carte de fin, la scène est très assombrie et les mannequins ne sont plus que des fantômes.",
+   "personnages": "Deux mannequins anonymes, sans visage ni vêtements, avec des membres en segments et des articulations à points rouges. Le crème est celui qu'on corrige ou qui réussit, le gris est l'adversaire. Ils sont toujours face à face, à distance de garde. La même pose de base revient d'un plan à l'autre et seul le détail expliqué change (bras bas, épaule levée, rotation). Les descriptions parlent d'une « femme » pour le mannequin crème, ce que les images ne montrent pas.",
+   "decors": "Aucun décor : fond uni sombre avec une grille fine, et un sol suggéré par une bande plus sombre sur les vues de profil. En vue de dessus, la grille porte un axe en pointillés. Pas de ring ni de public.",
+   "mouvement": "Caméra fixe sur tous les plans (pan, tilt et zoom mesurés à 0 %). On change de point de vue (profil ↔ dessus, plan moyen ↔ plan rapproché sur le haut du corps) uniquement par des coupes franches, sans fondu. La vidéo compte 10 plans en 53 s : médiane 3,94 s, aucun plan de moins de 1 s, le plus court dure 1,57 s. Le plan d'ouverture fait 13,7 s, le plan de démonstration 11,7 s. Les phrases-chocs ont des plans de 1,5 à 2 s. Les coupes tombent 1 image après le début d'un mot, et 7 sur 9 en plein milieu d'une phrase. Dans les plans longs, l'illustration se renouvelle toutes les 50 à 120 images. La surbrillance apparaît sur le mot dit, entre 4 images avant et 7 images après.",
+   "son": "Une seule voix en anglais, sans qu'on puisse dire si elle est humaine ou de synthèse. Ton assuré et affirmatif, phrases courtes, tutoiement (« you », « your »). Débit de 204 mots/min, voix présente 81 % du temps, pauses médianes de 0,44 s (p90 0,64 s). Voix à environ −27 dB, fond à −62,6 dB, sonie intégrée de −26 LUFS. Pas de musique probable : un battement régulier à 123 BPM est détecté, mais à un niveau quasi nul (−67 dB), à confirmer. 23 bruitages probables tombent dans les pauses, surtout des sons aigus (clic, whoosh, cloche), plus quelques sons médium, et accompagnent l'arrivée des annotations. La vidéo finit sur un silence de 3,1 s, sur la carte d'appel à l'action."
+  },
+  "pour_refaire": [
+   "Écrire un script de 140 à 150 mots (environ 50 s) en phrases très courtes. Il ouvre sur un paradoxe en deux phrases, puis enchaîne thèse contre-intuitive, mécanisme, piège, coût avec un exemple daté réel, méthode lente et chute en formule.",
+   "Découper le script en rubriques (« PHILLY SHELL », « THE ROLL », « THE TRAP », « année · combat de référence ») qui serviront d'étiquettes au-dessus du titre.",
+   "Créer deux mannequins articulés en aplats : un crème #E8DFD3 pour le protagoniste, un gris ardoise #4A4F5A semi-transparent pour l'adversaire. Ajouter des points rouges #FF4444 sur chaque articulation. Pas de visage ni de vêtement.",
+   "Préparer une pose de base en garde, face à face, et deux points de vue fixes : profil en pied (3/4, plan moyen) et vue de dessus. Fond #14161C avec une grille fine et une bande de sol sombre.",
+   "Enregistrer la voix rapide (environ 200 mots/min) avec des pauses de moins d'une demi-seconde, sans musique, puis mixer autour de −26 LUFS.",
+   "Monter en 9:16 (1080×1920 ou 720×1280, 30 i/s). Le premier plan dure 12 à 14 s et porte l'accroche et toute l'exposition. Un second plan d'environ 11 s couvre la démonstration lente, vers les deux tiers. Le reste se fait en plans de 1,5 à 4 s, et les phrases-chocs prennent les plans les plus courts.",
+   "Couper en plein milieu des phrases, 1 image après le début d'un mot de liaison (« and », « the », « just »). Seules les fins de section coupent en fin de phrase. Uniquement des coupes franches, aucun mouvement de caméra.",
+   "Pour chaque phrase dite, afficher le titre en haut à gauche, en condensée grasse en capitales (type Bebas Neue/Anton), crème #F0E8DC, sur 1 ou 2 lignes, avec la ligne du mot-clé en rouge et un point final. Le remplacer à chaque nouvelle phrase, même sans coupe.",
+   "Au-dessus du titre, placer l'étiquette de rubrique : carré rouge plein puis petites capitales monospace espacées, en gris.",
+   "Quand la voix nomme une partie du corps, faire apparaître sur ce mot (à ±5 images) un halo vert pour la bonne zone (« SHOULDER / COVERS CHIN ») ou rouge pour la zone exposée ou l'erreur, avec une étiquette monospace, une ligne grise en dessous et un trait de rappel fin.",
+   "Annoter les mouvements : cercle rouge sur la main, arc rouge pour une rotation (« HE TURNS », « THE TURN »), pointillés pour la trajectoire d'un coup, flèche pour la charge (« LOADED »).",
+   "Dans les plans longs, renouveler l'illustration toutes les 50 à 120 images (nouvelle pose, nouveau halo) sans couper.",
+   "Placer un petit clic ou whoosh aigu dans les pauses, à l'arrivée de chaque annotation, et rien sous la voix.",
+   "Isoler la fin de la chute dans son propre plan (couper juste avant les 2 ou 3 derniers mots). Assombrir ensuite la scène presque au noir et afficher la carte de fin centrée : question en crème (« WHICH GUARD DO YOU USE? »), ordre en rouge (« COMMENT IT. »), puis l'étiquette « ■ FOLLOW FOR THE NEXT BREAKDOWN ». Tenir environ 3 s de silence."
+  ],
+  "apercu": [
+   "refs/r1/images/00206.jpg",
+   "refs/r1/images/00491.jpg",
+   "refs/r1/images/00686.jpg",
+   "refs/r1/images/00765.jpg",
+   "refs/r1/images/00844.jpg",
+   "refs/r1/images/00978.jpg",
+   "refs/r1/images/01438.jpg",
+   "refs/r1/images/01528.jpg"
+  ],
+  "regles": 27,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-jabmaxapp\\sources\\TikTok_7692869918290693407.mp4",
+    "duree": 53,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "The Infamous Philly Shell; made easy.  #boxing🥊 #phillyshell #boxingt...",
+    "vues": 977600,
+    "lien": "https://www.tiktok.com/@jabmaxapp/video/7692869918290693407"
+   }
+  ]
+ }
+}

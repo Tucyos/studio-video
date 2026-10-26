@@ -1,0 +1,91 @@
+{
+ "createur": "@jarditips",
+ "nom_du_compte": "JardiTips, Astuces Jardinage",
+ "lien": "https://www.tiktok.com/@jarditips",
+ "genre": "da",
+ "origine": "Copiée de @jarditips (TikTok)",
+ "auto": {
+  "titre": "Photos réalistes détourées sur fond beige, coupes de pot et plans d'appartement vus de dessus",
+  "famille": "3D réaliste",
+  "en_bref": [
+   "Ce sont des vidéos verticales d'environ 75 à 78 s. Elles mélangent trois sortes d'images. D'abord des plantes et des objets très réalistes, détourés sur un fond beige uni. Ensuite des scènes d'intérieur réalistes : entrée, couloir, salon, cuisine. Enfin des schémas simples : un plan d'appartement vu de dessus, ou une coupe de pot qui montre la terre et les racines.",
+   "Le montage change d'image toutes les 2 secondes environ, en coupe franche. Quand la voix explique une recette ou un mécanisme, l'image reste fixe plus longtemps, jusqu'à 12 ou 13 s. Entre deux phrases, on glisse parfois une image-éclair de 0,2 à 0,6 s.",
+   "Une seule voix en français parle presque sans arrêt, à 230-245 mots par minute, avec des pauses très courtes d'environ 0,4 s. Elle s'adresse au spectateur (« Vous… ») et utilise beaucoup de comparaisons de tous les jours : « comme une banane trop mûre », « comme du cacao sur un cappuccino ». Une musique très discrète tourne en fond. Quelques bruitages tombent dans les pauses.",
+   "On reconnaît le style aux sous-titres blancs très gras avec un contour sombre, en bas de l'écran, où un mot-clé passe en jaune. Les chiffres apparaissent en grandes étiquettes jaunes : « 20 MIN », « 1 CUILLÈRE », « 1 MOIS », « JOUR 10 ».",
+   "Chaque objet nommé apparaît à l'image au moment où il est dit. Chaque comparaison est montrée telle quelle : on voit vraiment la banane ou le cappuccino.",
+   "La vidéo se termine sur le résultat obtenu (plante redressée, pot sans moucherons), avec un plan fixe de 3 à 4 s."
+  ],
+  "tags": [
+   "plantes d'intérieur",
+   "astuce maison",
+   "photoréaliste",
+   "fond beige",
+   "schéma vue de dessus",
+   "sous-titres gras",
+   "voix off dense",
+   "avant-après"
+  ],
+  "pour": "Astuces pratiques de la maison (plantes, jardinage, ménage, petits problèmes du quotidien) racontées comme une petite enquête : un problème courant, l'explication du mécanisme caché, une recette chiffrée, puis le résultat. Le style marche aussi pour les listes « N choses qui… », qui s'appuient sur un plan de la maison.",
+  "look": {
+   "technique": "Les images sont photoréalistes et ressemblent à des images générées : des plantes et objets détourés, posés sur un fond beige uni, avec une fine ligne de sol dessinée. On voit aussi des scènes d'intérieur réalistes et des textures en macro (terre, cannelle). S'y ajoutent des schémas 2D vectoriels : un plan d'appartement vu de dessus en traits vert foncé, avec des pastilles jaunes numérotées. Il y a aussi des coupes de pot qui montrent la motte, les racines et les larves, et des vignettes photo incrustées (inserts). Les illustrations 2D plates (pots alignés, plante qui se fane, bassine bleue) dans le style des tutoriels sont décrites par l'analyse mais ne sont pas visibles sur les images clés. Pour l'animation, on voit des zooms et panoramiques sur des images fixes, de légers mouvements de caméra, des étiquettes qui apparaissent par-dessus, et des fondus du schéma vers l'image réelle. Les outils exacts ne sont pas visibles. Le plus probable : un générateur d'images photoréalistes, puis un logiciel de montage avec keyframes (CapCut, Premiere ou After Effects).",
+   "couleurs": "Fond beige crème, environ #E6DAC3 à #F5DEB3 : c'est le fond de tous les objets détourés et des schémas. Traits du plan en vert très foncé, environ #2F3B2A. Pastilles et zones des plantes sur le plan en jaune moutarde, environ #E8C14A / #F0E68C. Feuillage vert, de #2D5016 à #228B22. Pots en terre cuite, de #A0633A à #C65D3B, plus quelques pots noirs (#2F4F4F) ou jaunes. Terre et texture du sol en brun-noir, #3C2E1F / #1A0F08. Vinaigre de cidre en orange ambré, #FF9500. Bassine de la solution en bleu, #4169E1. Mot-clé des sous-titres et grandes étiquettes en jaune, environ #F2C12E / #FFD700. Sous-titres en blanc #FFFFFF avec contour sombre. Intérieurs aux tons chauds : parquet bois #8B7355 et murs clairs. Fin de r1 en lumière dorée.",
+   "typo": "Les sous-titres sont dans un sans-serif arrondi très gras, de type display (famille Lilita One / Fredoka Bold ou proche). Ils sont en blanc avec un contour ou une ombre sombre, centrés en bas, vers 75-80 % de la hauteur. Ils restent en minuscules, avec la ponctuation (« et ça continue. », « un mois entier ? »). Ils changent à chaque groupe de 2 à 4 mots, au rythme exact de la voix. Le mot fort du groupe passe en jaune (« elle a soif, » avec « soif » en jaune). Quantités, durées et doses s'affichent en grandes étiquettes en capitales jaunes très grasses, souvent en haut à droite : « 20 MIN », « O GOUTTE », « 1 CUILLÈRE », « 1 MOIS », « 1 PHALANGE », « JOUR 10/20/30 ». Le mot à marteler peut être répété en grille ou en superposition sur un plan court (« MOUCHERONS » ×7, « 1 CUILLÈRE » ×7). Sur les schémas, les textes sont répartis sur le plan.",
+   "rendu": "Les images sont propres et nettes, comme des photos produit en studio. La lumière est douce et diffuse, avec de petites ombres de contact. Les objets sont détourés sur le fond beige et posés sur une fine ligne d'horizon noire tracée à la main. Les coupes de pot sont pédagogiques : la terre est granuleuse, on voit racines, larves et billes de perlite. La macro de terre et de cannelle montre une matière très détaillée. Les intérieurs réalistes ont une profondeur de champ faible et une lumière de fenêtre naturelle, dorée à la fin de r1. Aucun grain, aucun effet de style marqué.",
+   "personnages": "Aucun personnage humain visible. Les « personnages » sont les plantes (langue de belle-mère, ZZ, plante araignée, aspidistra, fleur de lune, ficus), plus les moucherons dessinés en petites silhouettes noires autour de la plante et dans le verre. On ne voit que des mains-outils, sans corps : une fourchette qui gratte la terre, une cuillère qui saupoudre.",
+   "decors": "Fond beige uni pour les objets isolés. Plan d'appartement vu de dessus sur fond beige pour situer chaque plante. Intérieurs réalistes, sobres et lumineux : entrée avec commode blanche et baskets, couloir au parquet ancien, étagère de livres, cuisine avec fenêtre, salon avec canapé gris et lampe. Rebord de fenêtre pour le ficus en soucoupe de terre cuite. Macro de terreau.",
+   "mouvement": "Format 9:16 à 30 i/s. Plans de 2,1 s en médiane (entre 0,57-0,8 s et 5,9-7,3 s), soit 2,7 à 3,5 coupes par 10 s. Les coupes sont franches en majorité (20 sur 26 et 17 sur 21) et tombent sur l'attaque d'un mot, parfois juste après un mot-outil (« Les », « Comme », « Et ») pour que le nom arrive sur l'image nouvelle. On passe en coupe douce quand la phrase continue. La caméra reste fixe ou lente 52 à 73 % du temps, avec de petits zooms avant (push-in) sur l'objet nommé. Les mouvements rapides sont réservés aux plans de moins de 2 s. Au-delà de 5 s, la caméra reste sous 3,7 %/s. Les bascules (mouvement rapide de 0,4 à 0,55 s qui change de point de vue) démarrent juste après une coupe, et leur pic tombe sur le mot qui ouvre l'idée suivante. Dans un même plan, une bascule va du contexte au détail caché. Le schéma passe à l'image réelle par fondu, la vignette passe en plein écran par agrandissement. Des plans-éclairs muets sont glissés dans les respirations. Le dernier plan est fixe, dure 3 à 4 s, avec environ 40 images après le dernier mot.",
+   "son": "Une seule voix off en français, posée et complice, au ton de conteur un peu ironique (« Ah oui ça, elle voulait bien faire », « Adios, cappuccino »). On ne peut pas dire avec ces données si elle est humaine ou de synthèse. Débit : 245 et 229 mots par minute de voix, voix présente 91 % du temps, pauses médianes de 0,40 à 0,42 s, sans silence long avant la fin. La voix démarre dès l'image 1. Une musique probable tourne en boucle régulière : environ 99 BPM pour r1 et 129 BPM pour r2, avec un battement régulier (0,93) et une part percussive de 0,56. Elle est très basse, entre -40 et -47 dB hors voix, soit 20 à 26 dB sous la voix. Son genre n'est pas identifiable avec ces données. Les bruitages sont placés dans les pauses : 18 dans r1 et 6 dans r2, mélange de clics et whooshs aigus, de sons médiums et d'impacts graves. r1 se termine sur un fort son aigu vers 74,3 s, puis un silence de 1,2 s. Mixage final à environ -14,5 LUFS."
+  },
+  "pour_refaire": [
+   "Écrire un script de 270 à 280 mots (environ 75 s), qui commence par une question ou un constat adressé au spectateur avec « Vous » (« Vous avez réussi à tuer un cactus ? »). Ensuite : le constat qui ne marche pas, l'explication du mécanisme caché, la recette chiffrée (dose, durée), puis le résultat concret dans la dernière phrase. Des phrases très courtes, au moins une comparaison du quotidien par idée (« comme… »), et un aparté ironique.",
+   "Enregistrer la voix d'un seul trait, dense (environ 230 à 245 mots par minute de voix), avec des pauses de 0,4 s et pas plus de 0,6 s. Aucun blanc au début : le premier mot tombe sur l'image 1.",
+   "Découper le script en lignes et lister pour chaque ligne le nom concret, la comparaison et le chiffre à montrer. Chaque nom concret et chaque terme de comparaison doit avoir son image, au moment où il est dit ou juste avant.",
+   "Générer les images photoréalistes : plantes et objets isolés, détourés sur fond beige uni (environ #E6DAC3), éclairage studio doux, petite ombre de contact, fine ligne de sol noire tracée à la main. Ajouter des scènes d'intérieur réalistes et lumineuses pour situer, des coupes de pot pour montrer ce qui est caché sous la terre, et des macros de matière (terre, poudre).",
+   "Dessiner un plan d'appartement vu de dessus en traits vert foncé sur beige, avec des pastilles jaunes numérotées. S'en servir comme plan-chapitre de 1,1 à 1,7 s à chaque « Et de N » ou changement de lieu, puis passer à l'image réelle de la pièce par fondu ou coupe douce.",
+   "Pour comparer ou montrer une progression, aligner les objets en rangée, vus de face ou de dessus : pots, verres, tasses.",
+   "Monter en 9:16 à 30 i/s, avec des plans de 2 s environ et des coupes franches sur l'attaque d'un mot. Couper parfois juste après « Les », « Une », « Comme » ou « Et », pour que le nom tombe sur l'image nouvelle.",
+   "Garder un plan long et fixe ou lent (6 à 13 s, sous environ 3,7 %/s) pendant les explications et les étapes d'un protocole. Les mouvements rapides restent dans les plans de moins de 2 s.",
+   "Ajouter des push-in lents sur l'objet nommé, et 1 à 8 bascules de 0,4 à 0,55 s qui démarrent juste après une coupe, avec le pic calé sur le mot qui ouvre l'idée suivante. Dans un même plan, une bascule va du contexte au détail caché (« des bébés », « duvet blanc »).",
+   "Glisser 1 à 3 plans-éclairs muets de 6 à 17 images dans les respirations entre deux phrases.",
+   "Passer en coupe douce quand la phrase continue à cheval sur la coupe. Passer de l'abstrait (schéma, vignette) à l'image pleine par fondu ou agrandissement.",
+   "Sous-titrer mot à mot ou par groupes de 2 à 4 mots : sans-serif arrondi très gras, blanc avec contour sombre, centré en bas vers 75-80 % de la hauteur. Passer le mot-clé du groupe en jaune (environ #F2C12E).",
+   "Afficher chaque chiffre, durée ou dose dite en grande étiquette jaune en capitales grasses, souvent en haut à droite (« 20 MIN », « 1 MOIS », « JOUR 10 »). Sur un plan court, pouvoir répéter le mot-clé en grille (×7).",
+   "Changer d'image à chaque marqueur d'énumération ou de temps (« Et de deux », « 2 heures plus tard », « Le soir »), par une coupe, ou par une nouvelle étiquette sur un plan fixe.",
+   "Mixer avec une musique en boucle régulière (environ 100 à 130 BPM), très basse (20 à 26 dB sous la voix), plus des clics, whooshs et impacts dans les pauses. Finir sur un plan fixe de 3 à 4 s qui montre le résultat, garder environ 40 images après le dernier mot, puis normaliser à -14,5 LUFS."
+  ],
+  "apercu": [
+   "refs/r1/images/00333.jpg",
+   "refs/r1/images/01139.jpg",
+   "refs/r1/images/01502.jpg",
+   "refs/r1/images/01969.jpg",
+   "refs/r2/images/00148.jpg",
+   "refs/r2/images/00806.jpg",
+   "refs/r2/images/01246.jpg",
+   "refs/r2/images/01828.jpg"
+  ],
+  "regles": 26,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-jarditips\\sources\\TikTok_7698351619217296662.mp4",
+    "duree": 75.3,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "Tu as réussi à tuer un cactus ? Ces cinq plantes-là tiennent deux sem...",
+    "vues": 336400,
+    "lien": "https://www.tiktok.com/@jarditips/video/7698351619217296662"
+   },
+   {
+    "id": "r2",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-jarditips\\sources\\TikTok_7698350341930142998.mp4",
+    "duree": 78.2,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "Tu arroses, et un nuage de moucherons te saute au visage ? Ton verre ...",
+    "vues": 197400,
+    "lien": "https://www.tiktok.com/@jarditips/video/7698350341930142998"
+   }
+  ]
+ }
+}

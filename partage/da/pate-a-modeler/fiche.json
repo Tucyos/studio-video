@@ -1,0 +1,22 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Koan)",
+ "id": "pate-a-modeler",
+ "titre": "Pâte à modeler",
+ "famille": "3D stylisée",
+ "statut": "aimée",
+ "compte": "Koan",
+ "verdict": "« aimée : à garder pour un autre compte ou d'autres TikTok plus tard ».",
+ "look": {
+  "rendu": "argile bosselée avec empreintes de doigts, lumière chaude",
+  "mouvement": "animation à 12 images/s"
+ },
+ "exemples": [
+  "exemples/01_hook_pate.mp4",
+  "exemples/02_3_pate-a-modeler.png",
+  "exemples/03_planche_pate.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/videos/Koan/_bibliotheque-da/README.md"
+ ]
+}

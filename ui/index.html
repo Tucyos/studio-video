@@ -1,0 +1,276 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<title>Studio</title>
+<link rel="stylesheet" href="/__studio/studio.css">
+</head>
+<body>
+<!-- barre de navigation : 5 entrées, rangeable en icônes seules (bouton du haut ou Ctrl B ; rangée d'office dans l'éditeur), comme Creatorize -->
+<nav id="rail" aria-label="Navigation principale">
+  <div class="logo"><span class="nom">Studio</span><button id="bDeplier" class="ico" title="Ranger la barre (Ctrl B)" aria-label="Ranger la barre"><svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h16v16H4z M9 4v16 M16 10l-2 2 2 2"/></svg></button></div>
+  <button id="bChaine" class="chaine" title="Changer de chaîne"><span class="av" id="chaineAv">K</span><span class="t"><b id="chaineNom">Koan</b><small>TikTok</small></span></button>
+  <button class="lien" id="bRecherche" title="Chercher (Ctrl K)" aria-label="Chercher"><svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M11 4a7 7 0 1 1 0 14 7 7 0 0 1 0-14z M21 21l-5-5"/></svg><span class="t">Chercher <kbd>Ctrl K</kbd></span></button>
+  <a class="lien" href="#/accueil" data-g="accueil" title="Accueil" aria-label="Accueil"><svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 10.5 12 3l9 7.5V21h-6v-6H9v6H3z"/></svg><span class="t">Accueil</span></a>
+  <a class="lien" href="#/projets" data-g="projets" title="Projets" aria-label="Projets"><svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 5h16v14H4z M8 5v14 M16 5v14 M4 9h4 M4 15h4 M16 9h4 M16 15h4"/></svg><span class="t">Projets <em id="nProjets"></em></span><i class="point" id="pointEditeur" title="Un projet est ouvert dans l'éditeur"></i></a>
+  <a class="lien" href="#/niches" data-g="idees" title="Idées" aria-label="Idées"><svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 18h6 M10 21h4 M12 3a6 6 0 0 0-4 10.5c.7.7 1 1.5 1 2.5h6c0-1 .3-1.8 1-2.5A6 6 0 0 0 12 3z"/></svg><span class="t">Idées</span></a>
+  <a class="lien" href="#/styles" data-g="bibliotheque" title="Bibliothèque" aria-label="Bibliothèque"><svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 4h4v16H4z M10 4h4v16h-4z M16 5l3.5-1 2.5 15-3.5 1z"/></svg><span class="t">Bibliothèque</span></a>
+  <a class="lien" href="#/stats" data-g="stats" title="Statistiques" aria-label="Statistiques"><svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M4 20V10 M10 20V4 M16 20v-7 M22 20H2"/></svg><span class="t">Statistiques</span></a>
+  <span class="espace"></span>
+  <button class="lien" id="bNouveau" hidden><svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M12 5v14 M5 12h14"/></svg><span class="t">Nouveau projet</span></button>
+  <a class="lien" href="#/reglages" data-g="reglages" title="Connexions et réglages" aria-label="Connexions et réglages"><svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M10 14a4 4 0 0 0 5.7 0l3-3a4 4 0 0 0-5.7-5.7l-1 1 M14 10a4 4 0 0 0-5.7 0l-3 3a4 4 0 0 0 5.7 5.7l1-1"/></svg><span class="t">Connexions et réglages</span></a>
+</nav>
+
+<div id="app">
+  <!-- ======================= ÉDITEUR ======================= -->
+  <section class="page" data-page="editeur" id="editeur">
+    <!-- en-tête du projet : fil d'Ariane, version, onglets (Vidéo = l'éditeur), une seule action principale -->
+    <header id="entete">
+      <nav class="fil" aria-label="Fil d'Ariane"><a href="#/projets">Projets</a><span class="discret">›</span><b id="titre">Studio</b></nav>
+      <button id="bVersion" class="version" data-pop="popVersions" hidden title="Les versions de ce projet"></button>
+      <span id="ls" class="badge" hidden>lecture seule</span>
+      <button id="bCopierStudio" class="violet" hidden title="Copie le projet dans C:/claude/studio-projets pour pouvoir le modifier (l'original n'est jamais touché)">✎ Copier dans le studio</button>
+      <nav class="onglets-projet" id="ongletsProjet" aria-label="Le projet"><a href="#/editeur?o=video" data-o="video">Vidéo</a><a href="#/editeur?o=script" data-o="script">Script</a><a href="#/editeur?o=couverture" data-o="couverture">Couverture</a><a href="#/editeur?o=publier" data-o="publier">Publier</a><a href="#/editeur?o=resultats" data-o="resultats">Résultats</a></nav>
+      <span class="espace"></span>
+      <button id="tacheEtat" class="ico discret" title="Journal de la tâche en cours" data-pop="popTaches" hidden></button>
+      <span id="etat" class="discret" hidden></span>
+      <span id="chipStyle" class="chip masque-etroit" title="Style (direction artistique)"></span>
+      <span id="chipCompte" class="chip masque-etroit" title="Compte TikTok"></span>
+      <button class="ico" id="bRapport" title="Contrôles : la liste des problèmes" aria-label="Contrôles" data-pop="popControles"><svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M9 6h11 M9 12h11 M9 18h11 M4 6l1 1 2-2 M4 12l1 1 2-2 M4 18l1 1 2-2"/></svg></button>
+      <button class="ico" id="bScript" hidden>📝</button>
+      <button class="ico" id="bDossier" title="Ouvrir le dossier du projet" aria-label="Ouvrir le dossier"><svg class="i" viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h6l2 2h10v11H3z"/></svg></button>
+      <button id="bCreerV" class="primaire" hidden></button>
+      <button id="bExport" class="primaire">⤓ Exporter</button>
+    </header>
+    <section id="ongletProjet" hidden></section>
+
+    <aside id="gauche">
+      <div id="bandeau" class="bandeau" hidden></div>
+      <h3>Plans <span id="nbPlans" class="discret"></span></h3>
+      <ol id="plans"></ol>
+      <h3>Pipeline</h3>
+      <ul id="pipeline"></ul>
+      <button id="bUltra" class="violet" disabled title="Retouche plan par plan par Claude (phase 5)">✧ Ultra-retouche</button>
+    </aside>
+
+    <main id="centre">
+      <div id="vue">
+        <div id="scene">
+          <iframe id="cadre" title="aperçu"></iframe>
+          <canvas id="calque" width="1080" height="1920"></canvas>
+          <div id="depot" hidden>Lâcher ici : Claude placera le modèle à cet endroit</div>
+        </div>
+        <div id="chargement">Chargement de la scène…</div>
+      </div>
+      <div id="transport">
+        <button id="bPrec" title="Plan précédent">⏮</button>
+        <button id="bLire" title="Lecture (espace)">▶</button>
+        <button id="bSuiv" title="Plan suivant">⏭</button>
+        <span id="temps">0:00.00 / 0:00.00</span>
+        <span id="image" class="discret"></span>
+        <span id="planCourant" class="discret"></span>
+        <button class="ico" id="bBib" title="Bibliothèque : glisser un modèle sur l'aperçu" data-pop="popBib">📦</button>
+        <button class="ico" id="bCalques" title="Calques : zone sûre, tiers, boîtes, trajectoires, textes" data-pop="popCalques">◫</button>
+        <button class="ico" id="bCam" title="Caméra libre : tourner autour de la scène et copier le cadrage">🎥</button>
+        <button class="ico" id="bPhoto" title="Enregistrer cette image (PNG)">📷</button>
+        <button class="ico" id="bMuet" title="Couper le son">🔊</button>
+        <button class="ico" id="bBoucle" title="Lire en boucle (la plage choisie, sinon tout)">🔁</button>
+        <select id="qualite" title="Qualité de l'aperçu"><option value="">Plein</option><option value="draft">Léger</option></select>
+        <span id="vitesses"></span>
+      </div>
+    </main>
+
+    <section id="bas">
+      <div id="barreTl">
+        <span class="discret">Timeline · glisser une limite de plan, un mot ou un son (bords : rogner) · Maj + glisser : plage · Ctrl Z : annuler · Ctrl + molette : zoom</span>
+        <span class="espace"></span>
+        <span id="plage" class="discret"></span>
+        <button id="bSons" title="Le pack de sons : chercher, écouter, glisser sur la timeline" data-pop="popSons">🎵 Sons</button>
+        <button class="ico" id="bAimant" title="Aimant : coller aux mots, aux limites des plans et à la tête de lecture (Alt en glissant : sans)">🧲</button>
+        <button class="ico" id="zGrand" title="Timeline en grand">⬍</button>
+        <button class="ico" id="zMoins" title="Dézoomer (−)">－</button>
+        <button class="ico" id="zPlus" title="Zoomer (=)">＋</button>
+        <button class="ico" id="zTout" title="Toute la vidéo">⤢</button>
+      </div>
+      <canvas id="tl"></canvas>
+      <div id="bulle" hidden></div>
+    </section>
+
+    <aside id="droite">
+      <div class="claudeTete"><b>✳ Claude</b><span class="espace"></span>
+        <span class="segment" id="vueClaude"><button data-v="fil" class="actif">💬 Discussion</button><button data-v="historique">🕘 Historique</button></span>
+        <button class="ico" id="bNouvelleConv" title="Nouvelle conversation">＋</button></div>
+      <div id="figee" class="bandeau-v" hidden></div>
+      <div id="fil">
+        <div class="vide">
+          <p>Clique sur quelque chose dans l'aperçu (une voiture, un texte, un plan) ou choisis une plage sur la timeline, puis dis ce qu'il faut changer.</p>
+          <div class="encadre">Ce projet a <b>une session Claude Code</b> (ton abonnement) : elle se souvient de chaque retouche, chacune est vérifiée sur des images rendues et peut être annulée exactement (git). Le bouton ＋ repart de zéro.</div>
+        </div>
+      </div>
+      <div id="historique" hidden><p class="discret">Aucune demande pour l'instant. Chaque retouche apparaîtra ici avec ses fichiers modifiés, « Voir les changements » et « Annuler ».</p></div>
+      <div id="saisie">
+        <div id="lsClaude" class="bandeau" hidden>Ce projet est dans tiktok-motion : il s'ouvre en lecture seule. « ✎ Copier dans le studio » (en haut) pour que Claude puisse le modifier.</div>
+        <div id="etatClaude" hidden></div>
+        <div id="cible" class="chip cible" hidden></div>
+        <div id="suggestions"></div>
+        <textarea id="demande" rows="3" placeholder="Décris un changement, ou clique d'abord sur quelque chose dans l'aperçu…"></textarea>
+        <div class="ligneClaude">
+          <span class="segment" id="portee"><button data-p="selection">Sélection</button><button data-p="plan">Plan</button><button data-p="video" class="actif">Vidéo entière</button></span>
+          <span class="espace"></span><button class="ico" title="Aide : ce que Claude peut faire ici">?</button>
+        </div>
+        <div class="ligneClaude">
+          <select id="modele"><option>Opus 5.5</option><option>Sonnet 5.5</option><option>Haiku 5.5</option></select>
+          <select id="effort"><option>Effort bas</option><option selected>Effort moyen</option><option>Effort haut</option></select>
+          <span class="espace"></span>
+          <button id="bAppliquer" class="primaire" disabled title="Phase 4">Appliquer</button>
+        </div>
+      </div>
+    </aside>
+
+    <!-- volets ouverts par les boutons (calques, sons, contrôles, tâches) et barre de la caméra libre -->
+    <div id="popVersions" class="pop" hidden></div>
+    <div id="popCalques" class="pop" hidden>
+      <div class="popTete"><b>Calques</b><span class="espace"></span><button class="ico" data-ferme>✕</button></div>
+      <label><input type="checkbox" id="kZone"> Zone sûre TikTok (iPhone)</label>
+      <label><input type="checkbox" id="kTiers"> Grille des tiers</label>
+      <label><input type="checkbox" id="kBoites"> Boîtes des textes et des sujets</label>
+      <label><input type="checkbox" id="kTraj"> Trajectoires des sujets (plan en cours)</label>
+      <label><input type="checkbox" id="kProb" checked> Problèmes de l'instant (en rouge)</label>
+      <hr>
+      <label><input type="checkbox" id="kSousTitres" checked> Sous-titres</label>
+      <label><input type="checkbox" id="kTextes" checked> Tous les textes 2D</label>
+      <p class="discret">Dessinés par-dessus l'aperçu : jamais dans l'export.</p>
+    </div>
+    <div id="popBib" class="pop large" hidden>
+      <div class="popTete"><b>📦 Bibliothèque</b><span class="espace"></span><a href="#/bibliotheque">tout voir</a><button class="ico" data-ferme>✕</button></div>
+      <input id="qBib" placeholder="Chercher (ex. tribune, barrière, pilote)">
+      <p class="discret">Glisser un modèle sur l'aperçu : il est copié dans le projet et Claude le place à cet endroit, dans le plan en cours.</p>
+      <div id="bibs" class="bibs"></div>
+    </div>
+    <div id="popSons" class="pop large" hidden>
+      <div class="popTete"><b>🎵 Ton pack de sons</b><span class="espace"></span><button class="ico" data-ferme>✕</button></div>
+      <input id="qSons" placeholder="Chercher (ex. pluie, impact, moteur)">
+      <p class="discret">Survol : écoute. Glisser un son sur la timeline : il s'ajoute à cet instant (−20 dB).</p>
+      <ul id="sons"></ul>
+    </div>
+    <div id="popControles" class="pop tiroir" hidden>
+      <div class="popTete"><b>📋 Contrôles</b><span class="espace"></span><button class="ico" data-ferme>✕</button></div>
+      <p id="resume" class="discret"></p>
+      <ul id="controles"></ul>
+    </div>
+    <div id="popTaches" class="pop large" hidden>
+      <div class="popTete"><b>Tâche en cours</b><span class="espace"></span><button id="bAnnuler" disabled>Annuler la tâche</button><button class="ico" data-ferme>✕</button></div>
+      <pre id="journal"></pre>
+    </div>
+    <div id="barreCam" hidden><b>🎥 Caméra libre</b><span class="discret">glisser : tourner · clic droit : déplacer · molette : avancer</span><code id="ligneCam"></code><button id="bCopier">Copier ce cadrage</button><button id="bCamFin">Revenir à la caméra du plan</button></div>
+  </section>
+
+  <!-- ======================= LES AUTRES PAGES (remplies par pages.js) ======================= -->
+  <section class="page" data-page="accueil"></section>
+  <section class="page" data-page="projets"></section>
+  <section class="page" data-page="styles"></section>
+  <section class="page" data-page="lot"></section>
+  <section class="page" data-page="niches"></section>
+  <section class="page" data-page="memoire"></section>
+  <section class="page" data-page="bibliotheque"></section>
+  <section class="page" data-page="couvertures"></section>
+  <section class="page" data-page="rendus"></section>
+  <section class="page" data-page="stats"></section>
+  <section class="page" data-page="reglages"></section>
+</div>
+
+<!-- fenêtres -->
+<dialog id="dExport">
+  <h2>Exporter la vidéo</h2>
+  <label class="champ">Nom du fichier <input id="eNom"></label>
+  <p class="discret" id="eInfo"></p>
+  <label><input type="checkbox" checked disabled> Version finale (1080×1920, H.264, avec le son)</label>
+  <label><input type="checkbox" id="eTel" checked> Version téléphone (720×1280, moins de 30 Mo)</label>
+  <label><input type="checkbox" id="eIphone"> Version iPhone (2 passes, 4 700 kb/s)</label>
+  <label><input type="checkbox" id="eCouv"> Couverture (PNG)</label>
+  <label><input type="checkbox" id="eSrt"> Sous-titres (.srt) à côté de la vidéo</label>
+  <label><input type="checkbox" id="ePlage"> Seulement la plage choisie <span id="ePlageTxt" class="discret"></span></label>
+  <div id="eProgres" class="progres" hidden><div></div><span></span></div>
+  <div class="boutons"><button id="eFermer">Fermer</button><button id="eAnnuler" hidden>Annuler l'export</button><button id="eLancer" class="primaire">Exporter</button></div>
+</dialog>
+<dialog id="dConstruire">
+  <h2>Construire la vidéo en équipe</h2>
+  <p class="discret">Un directeur découpe la voix en sections, puis un constructeur par section travaille <b>en parallèle</b> (chacun ne peut modifier que son fichier), vérifie sur des images rendues et corrige. Un commit par agent : tout s'annule d'un clic.</p>
+  <div class="deux">
+    <label class="champ">Genre <select id="cGenre"><option value="">Libre</option></select></label>
+    <label class="champ">Ton <input id="cTon" list="cTons" placeholder="ex. sérieux et sourcé, ou décris le tien"></label>
+  </div>
+  <datalist id="cTons"><option value="sérieux et sourcé"><option value="divertissant"><option value="provocateur"><option value="familier, un peu vulgaire, pour faire réagir"><option value="calme et poétique"><option value="suspense"></datalist>
+  <div id="cEquipe" class="equipe-genre"></div>
+  <div class="deux">
+    <label class="champ">Fin <select id="cFin"><option value="boucle">Boucle (retombe sur le début)</option><option value="plan-large">Plan large tenu</option></select></label>
+    <label class="champ">Coupes <select id="cCoupes"><option value="seches">Sèches permises</option><option value="liees">Liées, sans coupe sèche</option></select></label>
+  </div>
+  <label class="champ">Direction (facultatif) <textarea id="cDirection" rows="2" placeholder="Ce que tu veux voir : rythme, images fortes, ce qu'il faut appuyer…"></textarea></label>
+  <div class="niveaux" id="cMode">
+    <button data-n="auto" class="actif"><b>Automatique</b><span>l'équipe va jusqu'au bout sans t'attendre</span></button>
+    <button data-n="choisis"><b>Je choisis</b><span>tu valides le découpage avant la construction</span></button>
+  </div>
+  <div class="niveaux" id="cNiveau">
+    <button data-n="standard" class="actif"><b>Standard</b><span>chaque constructeur vérifie sa section sur des images</span></button>
+    <button data-n="verifie"><b>Vérifié</b><span>+ contrôle complet et une ronde de corrections</span></button>
+    <button data-n="soigne"><b>Soigné</b><span>+ un polisseur repasse chaque section</span></button>
+    <button data-n="ultra"><b>Ultra</b><span>+ relecteur aveugle ; le polisseur traite ses remarques</span></button>
+  </div>
+  <div class="deux">
+    <label class="champ">Budget <select id="cBudget"></select></label>
+    <label class="champ">Agents en même temps <select id="cMax"><option>2</option><option selected>3</option><option>4</option></select></label>
+  </div>
+  <p class="discret" id="cBudgetInfo"></p>
+  <p class="discret" id="cInfo"></p>
+  <div class="boutons"><button id="cAnnuler">Annuler</button><button id="cLancer" class="primaire">Construire</button></div>
+</dialog>
+<dialog id="dBib" class="large"><div class="boutons haut"><b id="bTitre"></b><span class="espace"></span><button id="bAjouter" class="primaire">Ajouter au projet</button><button id="bFermer">Fermer</button></div>
+  <div class="bibFiche"><img id="bPlanche" alt="planche de test"><div id="bInfos"></div></div></dialog>
+<dialog id="dStyle">
+  <h2 id="sTitre">Copier une DA</h2>
+  <p class="discret">1 à 7 vidéos de référence par DA (le même créateur, le même format). Le studio les découpe à 30 images par seconde, mesure les coupes, la durée des plans, la caméra, la voix (Whisper) et le son ; Haiku décrit chaque plan ; Opus écrit une page de règles chiffrées, chaque règle avec ses preuves (vidéo, n° d'image, mot). Le studio vérifie chaque preuve et met de côté ce qui ne tient pas. On reprend le rythme, le cadrage et la grammaire, jamais les personnages ni l'identité visuelle.</p>
+  <label class="champ">Nom de la DA <input id="sNom" placeholder="ex. Explications 3D voitures"></label>
+  <div id="sQui"><div class="deux"><label class="champ">Créateur <input id="s_createur" placeholder="ex. le nom de sa chaîne"></label><label class="champ">Pays <input id="s_pays" placeholder="ex. Angleterre"></label></div>
+    <div class="deux"><label class="champ">Lien (sa chaîne) <input id="s_lien" placeholder="https://www.tiktok.com/@…"></label><label class="champ">Pour le compte <select id="s_compte"><option>Automobile</option><option>Koan</option><option>les deux</option></select></label></div>
+    <label class="champ">C'est <select id="s_genre"><option value="da">une DA (un style à suivre)</option><option value="inspiration">une inspiration (des idées seulement)</option></select></label></div>
+  <label class="champ">Vidéos (depuis ton ordinateur) <input type="file" id="sFichiers" accept="video/*" multiple></label>
+  <label class="champ">… ou liens (TikTok, YouTube, Instagram…) ou chemins sur le disque, un par ligne <textarea id="sChemins" rows="3" placeholder="C:\claude\tiktok-motion\videos\Automobile\pitstop\refs\tiktok_ref.mp4"></textarea></label>
+  <pre id="sJournal" class="journal"></pre>
+  <div class="boutons"><button id="sAnnuler">Fermer</button><button id="sLancer" class="primaire">Lancer la copie</button></div>
+</dialog>
+<dialog id="dFicheDA">
+  <h2>Fiche de la DA</h2>
+  <label class="champ">Nom (générique : ce qu'on voit, pas le nom d'un compte) <input id="fd_titre"></label>
+  <div class="deux"><label class="champ">C'est <select id="fd_genre"><option value="da">une DA</option><option value="inspiration">une inspiration</option></select></label><label class="champ">Famille <select id="fd_famille"></select></label></div>
+  <div class="deux"><label class="champ">Créateur <input id="fd_createur"></label><label class="champ">Pays <input id="fd_pays"></label></div>
+  <div class="deux"><label class="champ">Lien <input id="fd_lien" placeholder="https://…"></label><label class="champ">Pour le compte <select id="fd_compte"><option></option><option>Automobile</option><option>Koan</option><option>les deux</option></select></label></div>
+  <label class="champ">Mots-clés (séparés par des virgules) <input id="fd_tags" placeholder="ex. humour, chiffres géants"></label>
+  <label class="champ">Tes notes <textarea id="fd_notes" rows="4" placeholder="Ce que tu aimes, ce qu'il ne faut pas reprendre…"></textarea></label>
+  <div class="boutons"><button id="fdAnnuler">Annuler</button><button id="fdOk" class="primaire">Enregistrer</button></div>
+</dialog>
+<dialog id="dTexte"><div class="boutons haut"><b id="tTitre"></b><span class="espace"></span><button id="tFermer">Fermer</button></div><div id="tCorps" class="md"></div></dialog>
+<dialog id="dNouveau">
+  <h2>Nouveau projet</h2>
+  <label class="champ">Titre <input id="nTitre" placeholder="ex. Pourquoi Senna a perdu à Monaco en 1988"></label>
+  <div class="deux">
+    <label class="champ">Compte <select id="nEspace"><option>Koan</option><option>Automobile</option></select></label>
+    <label class="champ">Style <select id="nStyle"></select></label>
+    <label class="champ">Format <select id="nFormat"><option>9:16</option><option>16:9</option></select></label>
+    <label class="champ">Durée visée <select id="nDuree"><option value="45">45 s</option><option value="60" selected>1 min</option><option value="80">1 min 20</option><option value="120">2 min</option></select></label>
+  </div>
+  <div class="segment" id="nMode"><button class="actif" data-m="claude">Claude écrit le script</button><button data-m="moi">J'ai un script</button></div>
+  <textarea id="nScript" rows="4" placeholder="Un sujet, ex. : la photo d'arrivée du Mans 1966 (ensuite, demande à Claude d'écrire le script)"></textarea>
+  <label class="champ">Consignes pour Claude (facultatif) <textarea id="nDirection" rows="2" placeholder="Ton, personnages, ce qu'il faut appuyer, style de caméra…"></textarea></label>
+  <p class="discret">Crée le dossier du projet (structure du cahier §3, avec un historique git) dans C:/claude/studio-projets/. Ensuite, dans le pipeline de l'éditeur : Voix, Nettoyer, Caler, Construire, Mixer, Exporter.</p>
+  <div class="boutons"><button id="nAnnuler">Annuler</button><button id="nCreer" class="primaire">Créer le projet <kbd>Ctrl Entrée</kbd></button></div>
+</dialog>
+<dialog id="dPalette"><input id="pQ" placeholder="Chercher un projet, un plan, une page, une action…"><ul id="pListe"></ul></dialog>
+<dialog id="dVideo"><div class="boutons haut"><b id="vTitre"></b><span class="espace"></span><button id="vDossier">Ouvrir le dossier</button><button id="vFermer">Fermer</button></div><video id="vLecteur" controls></video><img id="vImage" alt=""></dialog>
+
+<audio id="voix" preload="auto"></audio>
+<div id="toast" hidden></div>
+<script type="module" src="/__studio/pages.js"></script>
+<script type="module" src="/__studio/studio.js"></script>
+</body>
+</html>

@@ -1,0 +1,26 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Koan)",
+ "id": "ardoise",
+ "titre": "Ardoise : pixel bleu, accent corail",
+ "famille": "Pixel art",
+ "statut": "utilisée",
+ "compte": "Koan",
+ "verdict": "Méritocratie (remplace Nuit d'encre).",
+ "utilisee": [
+  "meritocratie"
+ ],
+ "look": {
+  "couleurs": "fond ardoise #1B2830, grille #243642 ou brume lagon ; bleus #0F4C5C / #2A9DB0 / #7FD6E3 / #D9F4F7 ; corail #FF7B5C = l'idée à retenir",
+  "mouvement": "des lignes qui se détachent et s'envolent"
+ },
+ "exemples": [
+  "exemples/01_cover.png",
+  "exemples/02_planche.png",
+  "exemples/03_stills_quad.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/videos/Koan/meritocratie/docs/da.md",
+  "C:/claude/tiktok-motion/studio/lib/ardoise.js"
+ ]
+}

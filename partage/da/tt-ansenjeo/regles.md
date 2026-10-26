@@ -1,0 +1,50 @@
+# Style « tt-ansenjeo »
+
+Tiré de 3 référence(s) : r1 = TikTok_7696972526034914573.mp4 (30.4 s, 9:16, en) ; r2 = TikTok_7696259565997804813.mp4 (38.43 s, 9:16, en) ; r3 = TikTok_7696970369915178253.mp4 (51.4 s, 9:16, nn). Le 20/10/2026.
+Mesuré par le code : plan médian 15.2 s / 0.53 s / 1.65 s ; coupes par 10 s 0.33 / 2.6 / 2.92 ; bascules de caméra par 10 s 0.66 / 0.52 / 2.92 (durée médiane 2.34 s / 2.13 s / 0.77 s) ; 750 mots/min / null mots/min / null mots/min ; voix sur 0 % / 0 % / 0 % de la durée ; -19 LUFS / -17.6 LUFS / -16.6 LUFS.
+Non mesuré : niveau de la musique sous la voix (pistes séparées nécessaires) ; fondus (décrits par Haiku). Caméra : estimation approximative.
+On reprend le rythme, le cadrage et la grammaire ; jamais les personnages ni l'identité visuelle des références. Images numérotées à 30 i/s (planches dans refs/rN/planches/).
+
+| ID | règle | valeur | déclencheur | preuves (vidéo#image « mot ») | méthode | confiance | exceptions |
+|---|---|---|---|---|---|---|---|
+| R01 | Ouvrir sur un long plan d'installation, sans coupe | 1er plan de 6 s (180 images) à 24.3 s (729 images) | début de la vidéo | r1#1 « — » (plan 1-180, 6 s) ; r2#1 « — » (plan 1-545, 18.17 s) ; r3#1 « — » (plan 1-729, 24.3 s) | mesure | haute | — |
+| R02 | Finir sur un long plan stable après la dernière coupe | 5.23 s à 5.33 s (157 à 160 images), jusqu'à 24.4 s | après la dernière coupe franche | r2#994 « — » (plan 994-1153, 5.33 s) ; r3#1386 « — » (plan 1386-1542, 5.23 s) ; r1#181 « — » (plan 181-912, 24.4 s) | mesure | haute | — |
+| R03 | Mettre une rafale de 4 micro-plans juste avant le plan final | r2 : 0.3 / 0.17 / 0.53 / 0.23 s ; r3 : 0.23 / 0.17 / 0.2 / 0.23 s (5 à 16 images) | juste avant le plan de fin | r2#957 « — », r2#966 « — », r2#971 « — », r2#987 « — » ; r3#1361 « — », r3#1368 « — », r3#1373 « — », r3#1379 « — » | mesure | moyenne | r1 : 2 plans seulement, pas de rafale |
+| R04 | Glisser des plans-éclairs de 5 images (0.17 s) entre deux plans | 0.17 s = 5 images ; plan_p10 0.17 s (r3), 0.23 s (r2) | changement d'angle par coupe franche | r3#730 « — » (730-734) ; r3#917 « — » (917-921) ; r3#1022 « — » (1022-1026) ; r2#966 « — » (966-970) | mesure | moyenne | r1 : le plan le plus court dure 6 s |
+| R05 | Cadence de coupe dans la partie montée | 2.6 (r2) à 2.92 (r3) coupes/10 s | après le plan d'ouverture | r2#546 « — », r2#571 « — », r2#586 « — » ; r3#730 « — », r3#735 « — », r3#809 « — » | mesure | moyenne | r1 : 0.33 coupe/10 s |
+| R06 | Durées en deux groupes : beaucoup de plans de moins de 1 s et quelques plans de plus de 3 s | r2 : 7 plans < 1 s et 3 plans > 3 s sur 11, médiane 0.53 s ; r3 : 7 plans < 1 s et 5 plans > 3 s sur 16, médiane 1.65 s | toute la partie montée | r2#897 « — » (0.37 s) ; r2#586 « — » (10.37 s) ; r3#1361 « — » (0.23 s) ; r3#1144 « — » (5.27 s) | mesure | moyenne | r1 : 2 plans, tous les deux > 3 s |
+| R07 | Relancer l'image par un événement (coupe ou bascule) toutes les 1 à 3 s, même dans un plan long | moment médian 1.1 s (r2), 1.54 s (r3), 3 s (r1) | plan de plus de 3 s | r1#52 « — » ; r2#627 « — » ; r3#426 « — », r3#517 « — » | mesure | haute | r1 moment 192-912 : 24.03 s sans nouvel événement |
+| R08 | Caméra fixe ou lente par défaut | part « fixe ou lent » : 1 (r1), 1 (r2), 0.88 (r3) | tout plan | r1#1 « — » ; r2#1 « — » ; r3#1 « — » | mesure | haute | r3 plan 809-916 (zoom arrière) et plan 1144-1301 (zoom avant) |
+| R09 | Changer de point de vue sans couper, avec une bascule de caméra dans les plans longs | 2 (r1), 2 (r2), 15 (r3) bascules ; 0.66 / 0.52 / 2.92 bascules par 10 s | plan long de plus de 3 s | r1#56 « — » (52-62) ; r2#638 « — » (627-719) ; r3#432 « — » (426-456) | mesure | haute | — |
+| R10 | Durée et montée d'une bascule | durée médiane 2.34 s (r1), 2.13 s (r2), 0.77 s (r3) ; montée médiane 1.48 s (r1), 0.65 s (r2), 0.23 s (r3) | chaque bascule | r1#277 « — » (192-320, 4.3 s) ; r2#770 « — » (742-776, 1.17 s) ; r3#589 « — » (585-595, 0.37 s) | mesure | haute | — |
+| R11 | Enchaîner les bascules en accélérant puis en ralentissant | écarts entre bascules en r3 : 3.03 → 1.37 → 0.9 → 0.4 → 0.9 → 3.53 s | longue séquence d'ouverture | r3#426 « — », r3#517 « — », r3#558 « — », r3#585 « — », r3#597 « — », r3#624 « — » | mesure | basse | r1 et r2 : seulement 2 bascules espacées |
+| R12 | Lancer une bascule juste après une coupe franche | coupe@735 → pic 737 ; coupe@809 → pic 811 ; coupe@922 → pic 924 ; coupe@1144 → pic 1147 (r3) ; coupe@181 → bascule dès 192 (r1) | coupe franche | r3#737 « — » ; r3#811 « — » ; r3#924 « — » ; r3#1147 « — » ; r1#192 « — » | mesure | moyenne | r2 : coupe@586 puis bascule à 627 |
+| R14 | Dans les plans longs, faire tourner la caméra lentement autour du sujet | rotation lente et continue, d'environ 30° jusqu'à 360° | plan long | r1#52 « — » (environ 30°) ; r1#192 « — » (360° lent) ; r2#627 « — » ; r3#624 « — » | observation | haute | — |
+| R15 | Format vertical | 9:16, 720×1280, 30 i/s | tout le projet | r1#1 « — » ; r2#1 « — » ; r3#1 « — » | mesure | haute | — |
+| R16 | Ouvrir en plan très large (vue de dessus ou paysage) | vue de dessus très large ou vue large de paysage | premier plan | r1#1 « — » (vue de dessus très large) ; r2#1 « — » (vue large paysage) ; r3#1 « — » (vue de dessus très large) | observation | haute | — |
+| R17 | Changer d'échelle par paliers, à la coupe : large → gros plan → macro → retour au large | r2 : gros plan à 897, très gros plan macro à 908, retour au large à 966 ; r3 : plan moyen à 1144, gros plan à 1302, aérien très large à 1386 | coupe franche | r2#897 « — », r2#908 « — », r2#966 « — » ; r3#1144 « — », r3#1302 « — », r3#1386 « — » | observation | moyenne | r1 : pas de gros plan |
+| R18 | Terminer sur le cadre le plus large de la vidéo | dernier plan en vue large ou aérienne très large | dernier plan | r2#994 « — » ; r3#1386 « — » | observation | moyenne | r1 : fin en plan moyen à large |
+| R19 | Un seul titre court (2 à 3 mots, qui nomme ce qu'on voit) affiché du début à la fin | petit corps, sans serif, une seule couleur unie | toute la vidéo | r1#1 « — » (titre de 3 mots) ; r2#1 « — » (titre de 2 mots) ; r3#1 « — » (titre de 2 mots) | observation | haute | r3 1302-1385 : titre remplacé par une interface |
+| R20 | Laisser le titre à la même place, sans animation, à travers coupes et bascules | une position fixe (bas-centre, bas-gauche ou haut-centre selon la vidéo) | coupe ou bascule | r1#52 « — » ; r2#546 « — » ; r3#730 « — » | observation | haute | — |
+| R21 | Superposer une couche de texte monospace très petit (code, données) pour les moments de transformation | durée d'apparition : 0.37 s (r1 181-191), 0.3 s (r2 957-965), 1.97 s (r3 1302-1360) | passage de l'image « naturelle » à la couche technique | r1#181 « — » ; r2#957 « — » ; r3#1302 « — » | observation (durées : mesure) | haute | — |
+| R22 | Faire disparaître la couche texte en fondu progressif plutôt qu'à la coupe | dissolution progressive sur plusieurs secondes | sortie de la couche technique | r1#295 « — » ; r1#501 « — » ; r3#1368 « — » | observation | moyenne | r2 : couche quittée par une coupe franche à 966 |
+| R23 | Ajouter sous le titre une ligne technique et un numéro d'image ou timecode | ligne de petit texte sous le titre | toute la vidéo | r2#1 « — » | observation | basse | r1 et r3 : titre seul |
+| R24 | N'utiliser que deux transitions : coupe franche et bascule de caméra ; ni fondu ni effet | coupes : 1 (r1), 10 (r2), 15 (r3) ; bascules : 2 (r1), 2 (r2), 15 (r3) | tout changement de point de vue | r1#181 « — » ; r2#546 « — » ; r3#730 « — » ; r3#432 « — » | mesure (fondus non mesurés, absence observée) | haute | r1#1 : apparition progressive à l'ouverture |
+| R25 | Faire entrer une nouvelle couche ou un nouvel univers par une coupe franche nette | coupe sèche, sans transition | changement de nature de l'image | r1#181 « — » (grille numérique) ; r2#957 « — » (code) ; r3#1302 « — » (interface) | observation | haute | — |
+| R26 | Pendant une bascule, faire évoluer peu à peu une couche (éclairage, opacité, superposition) | variation continue sur toute la bascule | bascule de caméra | r1#192 « — » ; r2#742 « — » ; r3#768 « — » ; r3#1084 « — » | observation | haute | — |
+| R27 | Pas de voix : le sens passe par le titre à l'écran et par l'image | mots : 1 (r1), 0 (r2), 0 (r3) ; part_de_voix 0 partout | toute la vidéo | r1#901 « you » ; r2#1 « — » ; r3#1 « — » | mesure | haute | r1#901 « you » (mot isolé) |
+| R28 | Ne pas caler les coupes sur la parole | coupe_moins_mot_images_median 720 ; coupes_a_2_images_d_un_mot 0 | coupe franche | r1#181 « — » (coupe) ; r1#901 « you » | mesure | basse | r2 et r3 : pas mesurable (aucun mot) |
+| R29 | Montrer dans chaque plan ce que le titre nomme | l'objet nommé reste visible dans 100 % des moments décrits | chaque plan | r1#1 « — » ; r2#1 « — » ; r2#897 « — » ; r3#1 « — » ; r3#1386 « — » | observation | haute | — |
+| R30 | Niveau sonore intégré du mixage | -19 LUFS (r1), -17.6 LUFS (r2), -16.6 LUFS (r3) | mixage final | r1#1 « — » ; r2#1 « — » ; r3#1 « — » | mesure | haute | musique sous la voix non mesurée |
+
+## À vérifier (preuve ou valeur non retrouvée par le contrôle)
+
+| ID | règle | valeur | déclencheur | preuves | méthode | confiance | exceptions | problème |
+|---|---|---|---|---|---|---|---|---|
+| R13 | Zoom rare et modéré, seulement sur des plans d'au moins 3.6 s | zoom_pct -14.03 % en 3.6 s (r3 809-916) ; +9.2 % en 5.27 s (r3 1144-1301) ; 12.92 % sur 24.4 s (r1 181-912) ; vitesse de zoom au plus 3.9 %/s | plan long qui découvre ou rapproche une structure | r3#809 « — » ; r3#1144 « — » ; r1#181 « — » | mesure | moyenne | r2 : zoom_pct 0 sur les 11 plans | ⚠ valeur « zoom_pct -14.03 % en 3.6 s (r3 809-916) ; +9.2 % en 5.27 s (r3 1144-1301) ; 12.92 % sur 24.4 s (r1 181-912) ; vitesse de zoom au plus 3.9 %/s » : -14.03, 9.2, 12.92 introuvable(s) dans les mesures |
+
+## Retenu depuis le studio (défaut -> cause -> correction)
+
+| ID | règle | valeur | déclencheur | preuves | méthode | confiance | exceptions |
+|---|---|---|---|---|---|---|---|
+

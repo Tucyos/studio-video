@@ -1,0 +1,15 @@
+{
+  "_": "Adaptateur du projet tiktok-motion videos/Automobile/le-mans-66 (lu par check.mjs). Chemins relatifs au dossier du projet.",
+  "page": "scenes/film.html",
+  "shutter": 0.5,
+  "mots": "docs/timing.json",
+  "voix": "out/stem_voice.wav",
+  "bruitages": "out/stem_fx_duck.wav",
+  "gain_bruitages_db": 13,
+  "mix": "out/mix_14.wav",
+  "sujets": { "n1": "DBG.W.CAR.n1.grp", "n2": "DBG.W.CAR.n2.grp", "n5": "DBG.W.CAR.n5.grp" },
+  "sol": 0,
+  "traj": true,
+  "plan_max": 2,
+  "boucle": true
+}

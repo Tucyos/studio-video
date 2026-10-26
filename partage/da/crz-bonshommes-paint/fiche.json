@@ -1,0 +1,21 @@
+{
+ "genre": "da",
+ "origine": "Exemple montré par le créateur de Creatorize (chaîne g russ)",
+ "id": "crz-bonshommes-paint",
+ "titre": "Bonshommes bâtons façon Paint",
+ "famille": "2D vectorielle",
+ "statut": "exemple",
+ "verdict": "Style « MS Paint stick figures » (comment marche le Soleil, Everest, fosse océanique). Référence : « The Paint Explainer ».",
+ "look": {
+  "couleurs": "fond blanc, cercles rouges dessinés à la main, mots en bleu gras cerné de noir",
+  "typo": "titre noir « THE PROBLEM »",
+  "rendu": "volontairement simple et satirique, comme dessiné dans Paint ; photos réelles insérées"
+ },
+ "exemples": [
+  "exemples/01_c_113m50.jpg"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/recherches/creatorize/SYNTHESE.md",
+  "C:/claude/tiktok-motion/recherches/creatorize/frames/haiku_frames_cours.md"
+ ]
+}

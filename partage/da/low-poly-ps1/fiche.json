@@ -1,0 +1,25 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (CTRL)",
+ "id": "low-poly-ps1",
+ "titre": "3D low-poly volontairement « mal faite » façon PS1",
+ "famille": "3D stylisée",
+ "statut": "utilisée",
+ "compte": "CTRL",
+ "verdict": "V4 livrée après les retours de Noam (« pas la 3D pixel de Landa/Truman »).",
+ "utilisee": [
+  "CTRL/15h"
+ ],
+ "look": {
+  "rendu": "peu de polygones, facettes, sommets aimantés sur une grille, petites textures non lissées en mapping affine, sans effet pixel",
+  "mouvement": "personnages à 12 i/s, caméra à 30 i/s"
+ },
+ "exemples": [
+  "exemples/01_cover.png",
+  "exemples/02_contact.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/videos/CTRL/concept-compte.md",
+  "C:/claude/tiktok-motion/videos/CTRL/15h/etat.md"
+ ]
+}

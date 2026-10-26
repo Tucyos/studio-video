@@ -1,0 +1,20 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Koan)",
+ "id": "bd-tramee",
+ "titre": "BD tramée en couleur façon Spider-Verse",
+ "famille": "Papier et illustration",
+ "statut": "testée",
+ "compte": "Koan",
+ "verdict": "Essai des 11 accroches, non retenu.",
+ "look": {
+  "rendu": "points de trame, décalages CMJN, onomatopées (« KRAAASH »)"
+ },
+ "exemples": [
+  "exemples/01_hook_bd.mp4",
+  "exemples/02_planche_bd.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/videos/Koan/_bibliotheque-da/README.md"
+ ]
+}

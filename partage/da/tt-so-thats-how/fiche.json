@@ -1,0 +1,90 @@
+{
+ "createur": "@so.thats.how",
+ "nom_du_compte": "so.thats.how",
+ "lien": "https://www.tiktok.com/@so.thats.how",
+ "genre": "da",
+ "origine": "Copiée de @so.thats.how (TikTok)",
+ "auto": {
+  "titre": "Écorché 3D d'un objet du quotidien, façon studio produit, avec étiquettes techniques et sous-titres mot à mot en badges",
+  "famille": "3D réaliste",
+  "en_bref": [
+   "Un appareil de la maison (lave-vaisselle, machine à laver) est rendu en 3D propre, comme une photo de catalogue. Il est posé sur un fond uni sombre : anthracite ou bleu nuit. La caméra entre ensuite dedans, le coupe en deux ou le rend transparent pour montrer comment il marche.",
+   "Il n'y a presque pas de coupes : 6 ou 7 plans pour 100 à 158 s. Le rythme vient d'une caméra 3D qui change de point de vue à chaque phrase, environ toutes les 2,6 à 2,8 s. Sur les grandes explications, elle fait parfois un seul long mouvement de 15 à 25 s.",
+   "Une voix off anglaise très rapide (220 à 227 mots par minute) enchaîne des phrases courtes et affirmatives. Les pauses durent environ une demi-seconde. Dessous passent une musique rythmée très discrète (117 à 123 BPM) et des petits bruitages (whoosh, clic, boum) dans les blancs.",
+   "Les sous-titres s'affichent mot par mot, en petit, en bas au centre, en blanc. Le mot-clé est mis en valeur dans un badge arrondi bleu ou orange. Dans la scène 3D, de minuscules étiquettes techniques en capitales à chasse fixe nomment les pièces : « ENZYMES », « UPSIDE DOWN », « SOCK TRAP ».",
+   "Chaque vidéo suit le même déroulé : un fait qui surprend, puis le mécanisme étape par étape, puis « la partie bizarre », puis les erreurs à éviter, puis les bons gestes. Elle se termine toujours sur un carton noir « So. That's. How »."
+  ],
+  "tags": [
+   "3d produit",
+   "vue éclatée",
+   "comment ça marche",
+   "vulgarisation",
+   "électroménager",
+   "sous-titres badges",
+   "caméra continue",
+   "voix off rapide"
+  ],
+  "pour": "Expliquer le fonctionnement caché d'un objet ou d'un appareil du quotidien (mécanisme, cycle, physique simple) et finir par des conseils pratiques d'utilisation.",
+  "look": {
+   "technique": "Rendu 3D de type visualisation produit, avec un logiciel 3D généraliste (outil exact non visible). L'objet est modélisé proprement avec des matières simplifiées. On l'anime ensuite : paniers qui se remplissent, bras qui tournent, tambour qui tourne, porte qui s'ouvre. On ajoute des systèmes de particules : gouttes et pluie blanches, bulles bleues, miettes de nourriture rouges, orange et jaunes, vapeur. On utilise des coupes et des parois transparentes en verre pour voir l'intérieur, par exemple le tambour transparent avec ressorts et bloc de béton boulonné. Quelques écrans d'interface 2D sont incrustés (chrono « 0:01 », « 40° 1400 », écrans bleus de données). Le montage et les sous-titres animés sont faits ensuite dans un logiciel de montage ou de motion design.",
+   "couleurs": "Fond : anthracite #1A1A1A / #2F2F2F (lave-vaisselle), ou dégradé bleu nuit #1A3A52 → bleu ardoise plus clair (machine à laver). Objet : blancs et gris clairs #FFFFFF, #E8E8E8, #D3D3D3, métal gris #808080 / #C0C0C0, acier bleuté #B0C4DE. Eau, gouttes, bulles : bleu ciel #87CEEB / #A8D8EA. Saleté et nourriture : orange #D97E42, rouge tomate #FF6347, jaune pâle #FFFF99. Linge et petits accents : corail #FF6B4A / #FF9A76. Chaleur : virage progressif de la teinte vers orange et rouge. Interfaces et données : bleu #0066CC, noir #000000. Badges des sous-titres : bleu vif (environ #1E6FE0 à #4A90E2) et orange (environ #E8701A). Mot d'accent du carton final : jaune #FFFF00 ou or #FFD700.",
+   "typo": "Sous-titres : sans-serif grotesque arrondie en gras, de la famille Inter ou SF Pro (probable). Elle est en blanc avec une légère ombre portée, sans contour épais, en petite taille, en bas au centre (vers 75 % de la hauteur). Les mots arrivent un par un ou par deux. Le mot-clé, ou le mot en cours (karaoké), est posé dans un badge rectangulaire aux coins arrondis, bleu ou orange, avec le texte blanc. En r2, le mot qui précède reste blanc sans badge, et un mot secondaire peut avoir un badge bleu pâle. Titre d'ouverture : nom de l'objet en sans-serif gras blanc dès l'image 1, en haut au centre en taille moyenne (« Dishwasher ») ou en haut à gauche en très grand (« Washing machine. »). Étiquettes dans la scène 3D : capitales à chasse fixe très petites (type monospace), en bleu clair ou blanc, avec un fin trait de rappel vers la pièce (« UPSIDE DOWN », « HEATER – USES MOST POWER », « SOCK TRAP », « ENZYMES » à côté d'une petite icône hexagonale orange). Chrono : chiffres à chasse fixe blancs ou gris. Carton final : « So. / That's. / How » centré, très gros, sans-serif gras blanc ; le dernier mot peut être jaune.",
+   "rendu": "Éclairage de studio doux, avec ombres légères et reflets nets sur le chrome et le verre. Un point lumineux fait parfois un halo (lampe en haut de la cuve). Les matières sont lisses, presque sans texture : plastique mat, métal brossé simple, verre transparent bleuté, linge en volumes simplifiés à facettes. L'image reste propre, sans grain ni bruit. Il y a un léger flou de profondeur sur les gros plans. Les particules (gouttes, vapeur, miettes) sont des sphères ou des éclats lumineux. Les zooms extrêmes servent aux changements d'échelle : du micro (miettes, enzymes) au macro (plusieurs machines en vue isométrique, scène urbaine stylisée blanche).",
+   "personnages": "Aucun personnage ni aucune main visible : l'objet est le seul « acteur ». Les vêtements, la vaisselle et la nourriture servent de figurants.",
+   "decors": "Pas de pièce réaliste. L'objet flotte sur un fond uni ou en dégradé (anthracite, bleu nuit) avec parfois un sol réfléchissant bleuté. Pour les explications à grande échelle, on voit des rangées de machines identiques en vue isométrique ou des volumes blancs stylisés (bâtiments) baignés de particules. On voit aussi des inserts plein écran d'un téléphone ou d'une interface sur fond noir.",
+   "mouvement": "Format 9:16, 30 images/s. On compte très peu de coupes (0,3 à 0,6 par 10 s, 6 à 7 plans). Le rythme vient des bascules de caméra continues : 2 à 2,5 par 10 s. Chacune dure 1 à 1,7 s et atteint son pic en environ 0,55 s, calé sur le mot-clé à une image près. Il n'y a jamais de panoramique pur : la caméra zoome (surtout en arrière) ou reste quasi fixe, avec de légères rotations autour de l'objet. Ouverture : fondu depuis le noir, objet entier vu de face, puis plongée à l'intérieur en moins de 3 s. Une tirade dense est couverte par une seule bascule de 15 à 25 s. Les énumérations sont rythmées par une bascule courte par élément (0,4 à 0,7 s). Les coupes franches sont réservées aux ruptures (passage à une interface 2D, nouvelle partie) et placées 1 à 2 images avant le mot. Un plan éclair de 7 images peut séparer les explications des conseils. On entre dans le carton final par une coupe douce juste après « So ».",
+   "son": "Voix off en anglais, ton affirmatif et complice, phrases très courtes (« Splash. », « Yes, concrete. », « Clear, done. »). Débit de 219 à 227 mots par minute, voix présente 77 à 78 % du temps, pauses médianes de 0,5 s (90 % sous 0,64 s). Humaine ou synthétique : non déterminable dans les données. Brillance moyenne de la voix vers 1 540 à 1 610 Hz. Musique de fond probable, au battement très régulier : 117,5 BPM (r1) et 123 BPM (r2), plutôt percussive (environ 75 %). Elle reste très basse, 15 à 17,5 dB sous la voix (fond à -30 / -32 dB, voix à -14,7 dB). On repère 44 (r1) et 59 (r2) bruitages probables dans les pauses de la voix : aigus (clic, whoosh, tintement), médiums et graves (impact, boum). Les bruitages sous la voix n'ont pas pu être mesurés. Mixage final à -14,7 LUFS. Environ 2 s de silence ou de fin après le dernier « how. »."
+  },
+  "pour_refaire": [
+   "Écrire le texte en anglais simple, en phrases de 3 à 12 mots. Commencer par un fait contre-intuitif sur l'objet (« Your washing machine doesn't wash by spinning. It washes by dropping. »). Ajouter si possible une promesse de fin (« by the end, you'll know why… ») puis « Here's how. ». Dérouler ensuite le mécanisme dans l'ordre du cycle. Placer une « weird part » ou une « strangest part? », puis une ou deux erreurs à éviter, puis « So here's the right way » avec des conseils à l'impératif. Finir par une récap en phrases symétriques et « So that's how. ». Viser 300 à 450 mots pour 100 à 160 s.",
+   "Enregistrer ou générer une voix off rapide (environ 220 mots par minute), sans pause de plus de 0,6 s entre les phrases. Laisser environ 2,3 à 2,6 s entre le dernier « how. » et la dernière image.",
+   "Modéliser l'objet en 3D propre, de style catalogue, avec matières lisses et simplifiées (blanc, gris, chrome, verre bleuté). Prévoir une version en coupe ou à parois transparentes pour montrer les pièces cachées (bras, pompe, filtre, tambours, ressorts, contrepoids).",
+   "Poser l'objet sur un fond uni anthracite (#1A1A1A) ou en dégradé bleu nuit (#1A3A52), avec un éclairage studio doux et un halo ponctuel. Pas de décor réaliste ni de personnage.",
+   "Préparer les systèmes de particules qui illustrent les mots abstraits : gouttes et pluie blanches, bulles bleu ciel (#87CEEB), miettes orange, rouges et jaunes pour la saleté, vapeur blanche. Prévoir aussi un virage de teinte vers l'orange et le rouge pour « chaud » ou « chauffer ».",
+   "Monter le plan d'ouverture : fondu depuis le noir, objet entier vu de face, titre du nom de l'objet en sans-serif gras blanc en haut dès l'image 1. Puis plonger à l'intérieur avant 3 s (images 65 à 87).",
+   "Découper le texte en moments d'environ 2,6 à 2,8 s. À chaque nouvelle phrase, faire une bascule de caméra (zoom ou légère rotation, jamais un panoramique pur) de 1 à 1,7 s. Mettre le pic à environ 0,55 s, sur le mot-clé, à une image près.",
+   "Montrer littéralement chaque nom concret au moment où il est dit (sock, splash, jacket, arms). Passer en vue en coupe dès qu'on nomme une pièce interne (door, drums). Pour un verbe à l'impératif, montrer l'objet en train de faire l'action (bras qui tournent, porte qui s'ouvre).",
+   "Couvrir la tirade explicative la plus dense par une seule longue bascule de 15 à 25 s, par exemple un dézoom continu du très gros plan au plan large. Pour une surprise ou une conséquence, changer d'échelle de façon extrême en un seul mouvement : rangée de machines puis gros plan du hublot, ou miettes puis scène urbaine.",
+   "Pour une énumération dite d'un souffle (« the rice, the sauce, the cheese »), donner une bascule courte de 0,4 à 0,7 s à chaque élément.",
+   "Insérer des écrans d'interface 2D (chrono, température, vitesse, voyant) sur les mots de mesure ou d'état. Entrer et sortir de ces écrans par une coupe franche placée 1 à 2 images avant le mot. Garder les coupes franches pour ces ruptures de support et les changements de partie. Possibilité d'un plan éclair de 7 images sans voix entre explications et conseils.",
+   "Ajouter dans la 3D de petites étiquettes techniques en capitales à chasse fixe, avec un trait de rappel (« HEATER – USES MOST POWER », « SOCK TRAP »), en bleu clair ou blanc, très petites.",
+   "Sous-titrer mot à mot en bas au centre : sans-serif grasse blanche avec ombre légère, en petite taille. Mettre le mot-clé ou le mot en cours dans un badge arrondi bleu (environ #1E6FE0) ou orange (environ #E8701A).",
+   "Mixer : voix à -14,7 LUFS intégrés, musique rythmée régulière vers 117 à 123 BPM, 15 à 17 dB sous la voix. Placer des bruitages courts (whoosh, clic, petit impact grave) dans les pauses de la voix, environ un toutes les 2 à 3 s.",
+   "Clôturer par une coupe douce placée 2 à 4 images après « So ». Afficher un carton noir avec « So. / That's. / How » centré en très gros sans-serif gras blanc, le dernier mot pouvant être jaune (#FFFF00 / #FFD700). Tenir le carton environ 2,5 s puis couper."
+  ],
+  "apercu": [
+   "refs/r1/images/00118.jpg",
+   "refs/r1/images/01306.jpg",
+   "refs/r1/images/02172.jpg",
+   "refs/r1/images/02700.jpg",
+   "refs/r2/images/00435.jpg",
+   "refs/r2/images/01495.jpg",
+   "refs/r2/images/02821.jpg",
+   "refs/r2/images/04156.jpg"
+  ],
+  "regles": 27,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-so-thats-how\\sources\\TikTok_7696650856803994900.mp4",
+    "duree": 100.73,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "How does a dishwasher actually work? 🍽️ It uses less water than your ...",
+    "vues": 3400000,
+    "lien": "https://www.tiktok.com/@so.thats.how/video/7696650856803994900"
+   },
+   {
+    "id": "r2",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-so-thats-how\\sources\\TikTok_7697393838922534150.mp4",
+    "duree": 158.1,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "Your washing machine doesn’t wash by spinning. It washes by dropping....",
+    "vues": 392300,
+    "lien": "https://www.tiktok.com/@so.thats.how/video/7697393838922534150"
+   }
+  ]
+ }
+}

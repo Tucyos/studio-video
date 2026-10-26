@@ -1,0 +1,85 @@
+{
+ "auto": {
+  "en_bref": [
+   "Le rythme est calme côté montage : très peu de coupes, de longs plans, et un cœur d'explication filmé en une seule prise continue.",
+   "La caméra donne le tempo avec de petites bascules rapides, un changement de point de vue toutes les 2 à 3 secondes, sans couper. Entre deux bascules, la prise principale reste presque immobile. Quand la caméra bouge d'ensemble, elle recule, jamais elle n'avance.",
+   "On alterne vues larges, vues de dessus et très gros plans sur la pièce dont on parle. Les coupes sont réservées aux changements de partie et tombent sur un mot.",
+   "À l'écran, des sous-titres blancs de 1 à 4 mots en bas, calés sur la voix. Les chiffres importants s'affichent en grand et en couleur, à part. Selon la vidéo, on ajoute des titres de chapitre et des étiquettes sur les pièces.",
+   "La voix démarre dès la première image avec une question ou une affirmation surprenante. Elle est rapide, presque sans pause, et le son est fort. La vidéo, en vertical, finit sur une phrase adressée au spectateur. Sa marque : une explication dense, filmée en continu, rythmée par la caméra plus que par le montage."
+  ],
+  "tags": [
+   "explication",
+   "plan long",
+   "caméra mobile",
+   "voix rapide",
+   "vertical"
+  ],
+  "pour": "Elle sert le mieux les sujets techniques à expliquer étape par étape autour d'un objet ou d'une machine, comme une voiture, ses pièces et ses astuces.",
+  "apercu": [
+   "refs/r1/images/00476.jpg",
+   "refs/r1/images/01004.jpg",
+   "refs/r1/images/01994.jpg",
+   "refs/r1/images/02588.jpg",
+   "refs/r2/images/00267.jpg",
+   "refs/r2/images/01132.jpg",
+   "refs/r2/images/01792.jpg",
+   "refs/r2/images/02169.jpg"
+  ],
+  "regles": 30,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\tiktok-motion\\videos\\Automobile\\pitstop\\refs\\tiktok_ref.mp4",
+    "duree": 97.48,
+    "format": "9:16",
+    "langue": "en"
+   },
+   {
+    "id": "r2",
+    "video": "C:\\claude\\tiktok-motion\\videos\\Automobile\\tesla-roadster\\refs\\modele_en.mp4",
+    "duree": 82.71,
+    "format": "9:16",
+    "langue": "en"
+   }
+  ]
+ },
+ "genre": "da",
+ "origine": "Tes vidéos (Automobile)",
+ "id": "da-auto",
+ "titre": "3D réaliste façon retransmission sportive",
+ "famille": "3D réaliste",
+ "statut": "validée",
+ "compte": "Automobile",
+ "skill": "da-auto",
+ "verdict": "DA de base du compte auto : radar « parfait », Bugatti v6 finale, Rush, Tesla, Le Mans 66 publiés. Les règles de rythme copiées de deux références 3D (pit stop, Tesla) y sont jointes.",
+ "utilisee": [
+  "tesla-roadster",
+  "radar",
+  "bugatti",
+  "rush",
+  "cout-f1",
+  "fast-furious-nos",
+  "le-mans-66",
+  "monza-2021",
+  "pitstop"
+ ],
+ "look": {
+  "couleurs": "fond #07090C, jaune « broadcast » #FFD23F, rouge #E10600 (impact et danger seulement), vert #2BD47D, sépia archive #2A1E14 → #E9D7B4",
+  "typo": "Montserrat 900 italique, Inter 700, JetBrains Mono",
+  "rendu": "Three.js matériaux physiques + vernis, ACES, décors cuits dans Blender, foules MakeHuman, voitures Sketchfab ; trois régimes : 3D réaliste, données en surimpression, 2D illustrée figée (flash blanc 2 images) quand on entre dans la tête du pilote",
+  "mouvement": "caméras de retransmission, rembobinage VHS, étiquette « RECONSTITUTION 3D »"
+ },
+ "exemples": [
+  "exemples/01_Le_Mans_66_-_couverture.png",
+  "exemples/02_tesla_couverture.png",
+  "exemples/03_radar_couverture.png",
+  "exemples/04_pitstop_couverture.png",
+  "exemples/05_bugatti_couverture.png",
+  "exemples/06_couverture.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/.claude/skills/da-auto/SKILL.md",
+  "C:/claude/tiktok-motion/videos/Automobile/grosjean/BRIEF-CLAUDE-CODE.md"
+ ]
+}

@@ -1,0 +1,31 @@
+{
+ "genre": "da",
+ "origine": "Exemple montré par le créateur de Creatorize (chaîne g russ)",
+ "id": "crz-enquete-tableau-indices",
+ "titre": "Enquête true crime : mannequins et tableau d'indices",
+ "famille": "3D stylisée",
+ "statut": "exemple",
+ "verdict": "Deuxième jour de la « semaine des styles » de Creatorize (un meurtre sous-traité cinq fois, vidéo LgpWOqPjQPg) : le look Investigation enrichi d'un tableau d'indices copié d'un tutoriel After Effects.",
+ "look": {
+  "couleurs": "nuit, bureaux sombres, ville éclairée derrière les vitres ; mannequins de couleur par rôle (rose, bleu, vert, crème) ; tableau gris-bleu, fil rouge entre les photos",
+  "typo": "étiquettes noires inclinées en capitales blanches (« KEPT MOST OF IT », « PASSED IT DOWN »), sommes en grand (« ¥270,000 UP FRONT »)",
+  "rendu": "mannequins sans visage, brillants, éclairés par une lumière froide ; tableau d'indices avec photos-silhouettes, fil rouge, cercles et soulignés jaunes ; documents (carte d'identité caviardée) en gros plan ; vraies vidéos réparties dans le film",
+  "mouvement": "caméra qui avance avec intention, éclairage dramatique mais lisible, sujet bien détaché du fond"
+ },
+ "exemples": [
+  "exemples/01_indices_LgpW_1098.png",
+  "exemples/02_indices_LgpW_1086.png",
+  "exemples/03_indices_LgpW_1110.png",
+  "exemples/04_indices_LgpW_1266.png",
+  "exemples/05_indices_LgpW_1302.png",
+  "exemples/06_indices_LgpW_1314.png",
+  "exemples/07_indices_LgpW_1326.png",
+  "exemples/08_indices_LgpW_1338.png",
+  "exemples/09_indices_LgpW_1350.png",
+  "exemples/10_indices_LgpW_1422.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/recherches/creatorize/SYNTHESE.md",
+  "C:/claude/tiktok-motion/recherches/creatorize/frames/haiku_frames_cours.md"
+ ]
+}

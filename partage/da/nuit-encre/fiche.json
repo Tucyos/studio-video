@@ -1,0 +1,32 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Koan)",
+ "id": "nuit-encre",
+ "titre": "Nuit d'encre : décor 3D sombre, lampe froide, pixel os",
+ "famille": "3D stylisée",
+ "statut": "utilisée",
+ "compte": "Koan",
+ "verdict": "Livrée sur Death Note, Manipulés, Parents (« c'est la DA nuit qu'il veut ») ; plus tard « le bleu nuit ne marchait pas ».",
+ "utilisee": [
+  "death-note",
+  "manipules",
+  "parents"
+ ],
+ "look": {
+  "couleurs": "fond #05070B, os #E8E2D4, acier #8FA0BE, rouge #C2352B deux fois seulement",
+  "typo": "Playfair sur noir",
+  "rendu": "décor 3D avec une lampe froide, faisceau et poussière ; brume d'encre tramée en gros pixels de 8 px ; extraits d'anime ou de télé étalonnés bleu-noir",
+  "mouvement": "dissolution en pixels"
+ },
+ "exemples": [
+  "exemples/01_cover.png",
+  "exemples/02_cover.png",
+  "exemples/03_cover.png",
+  "exemples/04_piste1.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/videos/Koan/death-note/decoupage.md",
+  "C:/claude/tiktok-motion/studio/lib/nuit3d.js",
+  "C:/claude/tiktok-motion/studio/lib/nuit.js"
+ ]
+}

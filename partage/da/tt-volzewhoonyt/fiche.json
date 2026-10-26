@@ -1,0 +1,81 @@
+{
+ "createur": "@volzewhoonyt",
+ "nom_du_compte": "Blacky Volz",
+ "lien": "https://www.tiktok.com/@volzewhoonyt",
+ "genre": "da",
+ "origine": "Copiée de @volzewhoonyt (TikTok)",
+ "auto": {
+  "titre": "Conte dystopique en machinima Roblox, narré en voix off rapide",
+  "famille": "3D stylisée",
+  "en_bref": [
+   "Une histoire courte en voix off à la première personne (« I live on floor one »). Elle est illustrée par des scènes tournées avec des avatars de style Roblox : des personnages en blocs, une tête ronde orange et les visages Roblox classiques (bouche ouverte de peur, larmes).",
+   "Le monde est sombre et oppressant : des couloirs bleu nuit, des néons froids, des panneaux rouges « NO ASCENT », des gardes masqués avec une lumière rouge et des rangées d'éléments identiques. Le héros, orange, est souvent seul face à cette masse.",
+   "Le rythme est très nerveux. On change de plan toutes les 1,5 s environ, avec des rafales de micro-plans sur les mots forts et des mouvements de caméra rapides à l'intérieur des plans. Les plans longs sont réservés à l'ouverture, aux révélations et à la fin.",
+   "La voix parle sans arrêt (266 mots par minute, voix présente du début à la fin). Une musique régulière d'environ 112 BPM reste en dessous de la voix. De petits bruitages aigus (clic, whoosh, cloche) tombent dans les rares pauses.",
+   "Le sous-titre est fait d'un seul mot blanc en gras, centré, qui apparaît à l'instant exact où il est dit. Les informations clés sont écrites dans le décor (panneaux, numéros d'étage, écrans de surveillance) plutôt que dans des titres ajoutés par-dessus l'image.",
+   "Ce qui la rend reconnaissable : la phrase d'accroche « In this world, every… », une règle absurde de société, un mystère, un retournement, puis une libération collective qui reprend en écho l'image du début."
+  ],
+  "tags": [
+   "roblox",
+   "machinima",
+   "dystopie",
+   "storytime",
+   "voix off",
+   "sous-titres mot à mot",
+   "montage nerveux",
+   "twist"
+  ],
+  "pour": "Les fictions courtes de type « monde avec une règle absurde » (dystopie, mystère, conte social) racontées à la première personne, avec un enjeu familial, un secret du système, un retournement et une fin collective.",
+  "look": {
+   "technique": "Captures 3D en temps réel dans un moteur de jeu à avatars en blocs, très probablement Roblox Studio (style des avatars, des visages et des accessoires visibles sur les images). C'est du machinima : on construit des décors, on pose et on anime des avatars, puis on filme avec une caméra libre animée (zooms, montées, bascules). Le modèle qui a décrit la vidéo pense qu'un plan aérien urbain (ouverture, images 91-208) a pu être généré par IA, sans certitude. Le montage est vertical en 9:16 (fichier publié en 1080×1920, mesures faites en 720×1280 à 30 i/s).",
+   "couleurs": "Fond dominant noir et bleu nuit (#0A0F1E à #1E2A4A) pour les couloirs, cages d'escalier et salles. Orange avatar (#E8742A à #FF6600) pour la peau du héros et des civils : c'est la couleur de l'humain et de l'individu. Rouge cheveux, rouge des panneaux et LED (#B01E28 à #CC0000) pour l'interdit, la surveillance (lumières rouges sur les masques, LED sous les écrans) et le danger. Gris et blanc (#888888, #CCCCCC, #EDEDED) pour les uniformes et les masques des gardes : l'anonymat et le système. Jaune vif (#F2D21B à #FFFF00) pour les numéros d'étage lumineux (« 1 », « 0 ») : l'enjeu chiffré. Bleu froid (#9BB0FF, néons) pour la lumière d'ambiance. Rayures de danger orange et noir (#E89A1C / #000000) au sol. Blanc (#FFFFFF) pour les sous-titres.",
+   "typo": "Sous-titres : un seul mot à la fois, en minuscules comme il est dit (« uniform », « quiet », « guard's », « into »). Sans-serif arrondi et gras (type Montserrat ou Poppins Bold/ExtraBold, famille probable), blanc, avec une fine ombre ou un contour sombre pour rester lisible. Le mot est centré horizontalement, à environ 65-70 % de la hauteur de l'écran (sur les images, il est sous le centre, pas tout en bas), en taille moyenne. Il apparaît sans animation visible, à l'image exacte où il est prononcé, puis il est remplacé par le mot suivant. Textes du décor : panneaux en capitales sans-serif blanches sur rouge (« NO ASCENT », « STAY ON YOUR FLOOR »), numéros de porte (« 1-01B »), murs d'écrans « FLOOR 159,035 • LIVE » en petites capitales blanches avec un point rouge, chiffres d'étage jaunes lumineux, et liste « CAUGHT GOING UP » (décrite comme monospace et administrative). Aucun titre plaqué sur l'image n'est visible.",
+   "rendu": "Rendu jeu vidéo low-poly, peu détaillé, éclairage nocturne contrasté : néons blancs-bleus en barres, halos, lumière faible et teintée (passages rouges, un passage vert décrit). Textures simples et un peu bruitées (tissu des uniformes, sol à rayures de danger). Légère profondeur de champ et flou sur les arrière-plans. Lumières émissives (LED rouges, chiffres jaunes, écrans). Aucun grain ni filtre ajouté visible.",
+   "personnages": "Avatars Roblox en blocs. Le héros et sa famille ont une peau orange, des cheveux roux ou rouges en mèches et des visages Roblox expressifs (bouche ouverte de peur, sourcils tristes avec larmes, sourire en coin pour la mère). Vêtements simples : t-shirt gris, chemise à carreaux, gilet rouge. Les gardes sont identiques : grande tête-casque blanche arrondie avec une fente noire et une LED rouge sur le front, uniforme gris foncé avec une bande rouge et un gilet tactique. Ils sont multipliés en rangées pour créer une masse. Les masques sont aussi montrés seuls, accrochés par centaines.",
+   "decors": "Une tour-monde : couloirs d'habitation sombres avec des portes numérotées (« 1-01B »), une cage d'escalier avec un grand panneau rouge « NO ASCENT » et des néons, un ascenseur avec un indicateur d'étage jaune (« 1 », puis « 0 »), le sol à rayures de danger orange et noir, une salle souterraine avec des rangées de masques sur des crochets, un mur d'écrans de surveillance (chaque écran montre une cage d'escalier, « FLOOR xxx,xxx • LIVE »), un écran ou mur avec une liste de noms « CAUGHT GOING UP », et des vues très larges de la tour et de la ville de nuit pour l'ouverture et la fin.",
+   "mouvement": "Plans courts : médiane de 1,47 s, p10 de 0,3 s, p90 de 2,5 s, soit 6,65 coupes par 10 s et 109 plans en 162 s. 94 % de coupes franches, coupées sur l'attaque d'un mot (écart médian de 0 image). 63 % des plans sont fixes ou lents, 22 % en zoom arrière, 13 % en zoom avant. Zooms avant rapides (35 à 50 %/s) sur les chiffres et les lieux. Environ 2 bascules par 10 s (mouvement rapide de 0,65 s sans coupe), lancées 8 à 20 images après la coupe. Rafales de micro-plans (5 à 8 images) sur les mots-clés. Plans de plus de 3 s réservés à l'ouverture, aux révélations et à la fin. Chaîne de 3 bascules sans coupe pour le final.",
+   "son": "Voix off en anglais, à la première personne, ton de conteur tendu. Débit très rapide (266 mots/min), voix sur 100 % de la durée, presque sans silence (3 silences de 0,3 s). Les dialogues sont rapportés dans la même voix (« Dad, it's me! », « Grab him! »). Voix claire (brillance de 1 826 Hz). Humaine ou synthétique : non déterminable avec ces données. Musique probable, régulière (112 BPM, battement stable à 0,93, plutôt percussive à 67 %), sans changement sur toute la vidéo, mixée environ 8 dB sous la voix (voix à -17,5 dB, fond à -25,9 dB). Genre : non mesuré. 26 bruitages probables dans les pauses de la voix, surtout aigus (clic, whoosh, cloche), plus quelques bruits médiums. Les onomatopées (« Ding! », « Crunch! ») sont dites par la voix. Sonie finale : -16,9 LUFS."
+  },
+  "pour_refaire": [
+   "Écrire un script de 700 à 750 mots à la première personne. Ouverture : « In this world, every person… » suivie d'un chiffre démesuré (« One million floors tall »). Ensuite : la règle, les gardiens, le drame familial, l'indice, l'enquête, la révélation, le retournement, puis une libération collective qui reprend le chiffre du début.",
+   "Enregistrer ou générer la voix d'une seule traite, à environ 266 mots/min, sans pause de plus de 0,3 s. Dire les onomatopées (« Ding! », « Crunch! ») et les répliques des personnages dans la même voix.",
+   "Construire les décors dans Roblox Studio (ou un moteur équivalent à avatars en blocs) : couloirs sombres numérotés, cage d'escalier avec un panneau rouge d'interdiction, ascenseur avec un compteur d'étage jaune, sol à rayures de danger, salle secrète, mur d'écrans.",
+   "Écrire les informations clés dans le décor plutôt qu'en titre : panneaux (« NO ASCENT »), numéros d'étage, écrans « LIVE », liste de noms à l'écran.",
+   "Créer un héros orange expressif (visages Roblox de peur ou de tristesse) et des antagonistes identiques et masqués, avec un détail lumineux rouge, dupliqués en rangées.",
+   "Éclairer de nuit : base noir et bleu nuit, néons blancs-bleus, accents rouges pour le danger, jaune pour les chiffres, orange réservé aux humains.",
+   "Tourner chaque phrase en plusieurs plans : plans très larges avec de petites silhouettes pour l'échelle, gros plans de visage pour l'émotion, très gros plans d'objet (masque, LED, chiffre) sur le mot qui le nomme.",
+   "Monter en 9:16 avec un plan médian d'environ 1,5 s. Couper sur l'attaque du mot qui porte l'image suivante, même au milieu d'une phrase (« has a / floor guard »).",
+   "Sur les énumérations et le climax, passer en rafale : un plan par mot ou par groupe de 2 mots (0,2 à 0,67 s). Isoler les mots-clés dans des micro-plans de 5 à 8 images.",
+   "Ajouter environ 2 bascules de caméra par 10 s (0,65 s, lancées 8 à 20 images après la coupe) et des zooms avant rapides sur les chiffres ou les lieux. Garder la majorité des plans fixes ou lents.",
+   "Réserver les plans de plus de 3 s à l'ouverture du monde, aux révélations (nouveau garde, liste) et à la fin. Laisser 9 à 13 images sans mot juste avant une phrase-choc.",
+   "Donner à chaque onomatopée répétée son propre événement visuel (coupe, puis bascule, environ toutes les 0,5 s). Finir sur 3 bascules enchaînées sans coupe.",
+   "Ajouter les sous-titres mot à mot : un mot en minuscules, sans-serif gras blanc avec une ombre sombre, centré à environ 2/3 de la hauteur, calé à l'image près sur la voix.",
+   "Mixer : une musique régulière d'environ 112 BPM environ 8 dB sous la voix, des bruitages aigus (whoosh, clic, cloche) uniquement dans les micro-pauses, un export à environ -17 LUFS.",
+   "Titre de publication : une phrase-concept courte avec un emoji d'alerte (modèle : « Everyone Lives In One Tower ⚠️ »)."
+  ],
+  "apercu": [
+   "refs/r1/images/00376.jpg",
+   "refs/r1/images/00922.jpg",
+   "refs/r1/images/01719.jpg",
+   "refs/r1/images/02431.jpg",
+   "refs/r1/images/02885.jpg",
+   "refs/r1/images/03416.jpg",
+   "refs/r1/images/04101.jpg",
+   "refs/r1/images/04555.jpg"
+  ],
+  "regles": 26,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-volzewhoonyt\\sources\\TikTok_7697412221164342542.mp4",
+    "duree": 162.33,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "Everyone Lives In One Tower ⚠️",
+    "vues": 2000000,
+    "lien": "https://www.tiktok.com/@volzewhoonyt/video/7697412221164342542"
+   }
+  ]
+ }
+}

@@ -1,0 +1,21 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Koan)",
+ "id": "hd-2d",
+ "titre": "HD-2D façon Octopath (et Lego)",
+ "famille": "3D stylisée",
+ "statut": "rejetée",
+ "compte": "Koan",
+ "verdict": "Vendetta, 19/10 : « horribles » à côté des images de référence.",
+ "look": {
+  "rendu": "sprites pixel dans un décor 3D avec profondeur de champ (HD-2D) ; variante briques Lego"
+ },
+ "exemples": [
+  "exemples/01_hook_hd2d.png",
+  "exemples/02_hook_lego.png",
+  "exemples/03_planche_styles.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/videos/Koan/vendetta/etat.md"
+ ]
+}

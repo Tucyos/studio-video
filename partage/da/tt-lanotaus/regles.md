@@ -1,0 +1,50 @@
+# Style « tt-lanotaus »
+
+Tiré de 1 référence(s) : r1 = TikTok_7696128503632235808.mp4 (60.49 s, 9:16, fr). Le 20/10/2026.
+Mesuré par le code : plan médian 1.37 s ; coupes par 10 s 5.62 ; bascules de caméra par 10 s 1.49 (durée médiane 0.4 s) ; 274 mots/min ; voix sur 96 % de la durée ; -19.4 LUFS.
+Non mesuré : niveau de la musique sous la voix (pistes séparées nécessaires) ; fondus (décrits par Haiku). Caméra : estimation approximative.
+On reprend le rythme, le cadrage et la grammaire ; jamais les personnages ni l'identité visuelle des références. Images numérotées à 30 i/s (planches dans refs/rN/planches/).
+
+| ID | règle | valeur | déclencheur | preuves (vidéo#image « mot ») | méthode | confiance | exceptions |
+|---|---|---|---|---|---|---|---|
+| R01 | Garder des plans courts : viser une durée médiane de plan d'environ 41 images | médiane mesurée 1.37 s (≈41 images) ; p10 0.33 s (≈10 images) ; p90 3.7 s (≈111 images) | toute la vidéo | r1#240 « 90 » (plan 240-280 = 1.37 s) ; r1#330 « est » | mesure | basse | plan 30 de 5 s (1510-1659) |
+| R03 | Dans une énumération, donner un plan par élément, coupé sur le mot, d'environ 13 à 19 images | plans 20-23 mesurés à 0.5 / 0.53 / 0.43 / 0.63 s (15 / 16 / 13 / 19 images) ; 14 plans de moins de 1 s en tout | liste de mots d'action ou de termes séparés par des virgules | r1#829 « Sprint, » ; r1#845 « freinage, » ; r1#861 « saut, » ; r1#873 « demi » | mesure | basse | — |
+| R04 | Réserver les plans longs (plus de 3 s) aux phrases d'explication chiffrée, au début et au verdict | 7 plans de plus de 3 s (4.17 / 3.33 / 3.7 / 3.67 / 4.43 / 3.67 / 5 s) | chiffre développé, ouverture, conclusion | r1#481 « Résultat, » ; r1#585 « Un » ; r1#1357 « Et » ; r1#1510 « Alors, » | mesure | basse | — |
+| R05 | Pendant un comptage visuel, enchaîner des micro-plans de 5 à 17 images, même sans voix | plans 9-14 mesurés à 0.27 / 0.37 / 0.17 / 0.57 / 0.33 / 0.27 s ; moments 10, 13 et 14 sans aucun mot | chiffre qui s'incrémente à l'écran | r1#437 « 17 » ; r1#446 « terrains » ; r1#459 « basket. » | mesure | basse | — |
+| R06 | Finir sur des plans courts, le dernier ne durant que le temps du dernier mot | 2 derniers plans 1.07 s et 0.47 s (14 images) | phrase de chute finale | r1#1785 « physique, » ; r1#1806 « foot. » | mesure | basse | — |
+| R07 | Laisser la caméra fixe (ou presque) dans la grande majorité des plans | 83 % des plans « fixe ou lent » | par défaut | r1#585 « Un » (plan 581-691 fixe) ; r1#1043 « Sauf » (plan 1042-1151 fixe) | mesure | basse | — |
+| R11 | Remplacer certaines coupes par une bascule de caméra rapide (changement de point de vue sans couper) | 9 bascules, 1.49 par 10 s ; durée médiane 0.4 s (12 images) ; montée médiane 0.13 s (4 images) | relance à l'intérieur d'une même idée | r1#1212 « tu » (pic 1211) ; r1#1310 « et » (pic 1308) | mesure | basse | — |
+| R12 | Caler le pic de la bascule sur le mot-révélation qui suit une virgule | pic à 1 ou 2 images du mot | « …une arme, l'intensité » ; « …il abandonne » | r1#729 « 'intensité. » (pic 728) ; r1#1751 « avant » (pic 1751) | mesure | basse | la bascule 1736-1762 dure 0.9 s, plus du double de la médiane |
+| R13 | Montrer en vue zénithale tout ce qui compare des surfaces, des distances ou des positions | moments 1-2, 7-14, 16, 38-39 en vue de dessus | comparaison spatiale ou chiffre de surface | r1#287 « 48 » ; r1#437 « 17 » ; r1#1785 « physique, » | observation | basse | — |
+| R14 | Montrer en plan moyen face caméra l'état du sujet (fatigue, attente, chrono) | moments 3, 6, 25, 26 décrits « plan moyen, vue de face » | phrase sur ce que ressent ou subit le sujet | r1#147 « basketeurs » ; r1#998 « lambda » ; r1#1076 « chrono » | observation | basse | — |
+| R15 | Montrer en plan moyen de profil, avec suivi, chaque action physique | moments 20-23 et 34-37 décrits « vue latérale, tracking » | verbe ou nom d'action | r1#829 « Sprint, » ; r1#876 « -tour. » ; r1#1740 « abandonne » | observation | basse | — |
+| R16 | Composer pour un cadre vertical, avec les textes en haut ou en bas et le sujet au centre | 9:16, 576×1024 (mesure source) ; position des textes d'après les descriptions | toute la vidéo | r1#1 « Un » ; r1#829 « Sprint, » | mesure + observation | basse | — |
+| R17 | Dans une énumération d'actions, afficher un seul mot en capitales en haut de l'écran, le même que celui qui est dit | un mot par plan, environ 160 px d'après les descriptions | chaque élément d'une liste | r1#829 « Sprint, » ; r1#845 « freinage, » ; r1#861 « saut, » | observation | basse | — |
+| R18 | Afficher des sous-titres mot à mot en bas d'écran sur les phrases d'accroche | mots en bas, un par un (moments 2-3) | ouverture et premières phrases | r1#20 « terrain » ; r1#128 « pourtant, » ; r1#178 « détruits. » | observation | basse | n'apparaît plus après les premiers moments, où l'on passe aux mots-clés |
+| R19 | Faire défiler à l'écran chaque chiffre dit, en compteur qui monte jusqu'à la valeur annoncée | X4 → X17 ; 0.1 → 4.0 KM ; 364 → 1000+ ; timers qui défilent | chiffre ou quantité dans la phrase | r1#437 « 17 » ; r1#552 « km » ; r1#899 « 1000 » | observation | basse | — |
+| R20 | Poser la question en titre en haut, avec le mot-clé dans une couleur d'accent plus grande | mot-clé environ 140 px contre environ 120 px pour le reste, d'après les descriptions | question posée au spectateur | r1#351 « souffrir » | observation | basse | — |
+| R21 | Annoncer chaque nouvelle partie par un titre-carton (« Résultat », « Le verdict ») qui apparaît sur le mot de liaison | carton visible à partir de 473, mot dit à 481 (8 images d'avance) | mot de liaison (« Résultat », « Alors, le verdict ») | r1#481 « Résultat, » ; r1#1526 « verdict. » | mesure (images) + observation | basse | — |
+| R22 | Écrire la phrase de conclusion en bas, en entier, avec le sujet et le verbe | « AU BASKET, IL SOUFFRE » / « AU FOOT : IL ABANDONNE » | conclusion comparative | r1#1708 « souffre. » ; r1#1740 « abandonne » | observation | basse | — |
+| R23 | Couper franc presque partout ; pas de fondu | 31 coupes franches sur 34 ; fondus non mesurés et aucun décrit | par défaut | r1#126 « Et » ; r1#1223 « Au » | mesure | basse | 3 coupes douces (219, 422, 446) |
+| R24 | Garder la coupe douce pour enchaîner deux étapes du même décor pendant une accumulation | coupes douces à 219, 422, 446 | même décor, suite d'un comptage ou d'un ajout | r1#219 « mec » ; r1#446 « terrains » | mesure | basse | — |
+| R25 | Caler chaque coupe sur le début d'un mot, à 2 images près | écart coupe − mot médian 0 image ; 79 % des coupes à 2 images ou moins d'un mot | chaque coupe | r1#481 « Résultat, » (coupe 481) ; r1#1510 « Alors, » (coupe 1510) ; r1#845 « freinage, » (coupe 844) | mesure | basse | 21 % hors tolérance, par exemple les coupes 463 et 473 posées dans un passage sans voix |
+| R26 | Couper au milieu d'une phrase pour opposer deux termes : l'image change sur le second terme | coupe à 1722 entre « Au » (1720) et « foot » (1725) ; coupe à 430 avant « c'est 17 » | opposition ou révélation d'un chiffre | r1#1725 « foot, » ; r1#437 « 17 » | mesure | basse | — |
+| R27 | Une idée = un moment d'environ 33 images ; illustrer chaque mot-clé par une image littérale le temps du mot | 39 moments, médiane 1.1 s (≈33 images) | chaque mot-clé (action, chiffre, état) | r1#829 « Sprint, » (le sujet court) ; r1#1708 « souffre. » (posture courbée) | mesure + observation | basse | — |
+| R28 | Voix très dense, presque continue, qui démarre dès la première image | 274 mots/min de voix ; voix présente 96 % du temps ; premier mot à l'image 1 | toute la vidéo | r1#1 « Un » ; r1#1393 « match » | mesure | basse | moments 10, 13 et 14 sans voix (comptage) |
+| R29 | Pauses courtes entre les phrases : ne jamais laisser plus d'environ 15 images de silence | pause médiane 0.38 s (≈11 images) ; p90 0.5 s (15 images) | fin de phrase | r1#407 « un » ; r1#1541 « Le » | mesure | basse | — |
+| R30 | Mixer le son autour de -19 LUFS | -19.4 LUFS ; musique sous la voix non mesurée | export final | r1#1 « Un » | mesure | basse | — |
+
+## À vérifier (preuve ou valeur non retrouvée par le contrôle)
+
+| ID | règle | valeur | déclencheur | preuves | méthode | confiance | exceptions | problème |
+|---|---|---|---|---|---|---|---|---|
+| R02 | Couper souvent, à une cadence régulière sur toute la durée | 5.62 coupes par 10 s ; 35 plans en 60.49 s | toute la vidéo | r1#126 « Et » ; r1#692 « Mais » ; r1#1660 « Notre » | mesure | basse | — | ⚠ valeur « 5.62 coupes par 10 s ; 35 plans en 60.49 s » : 60.49 introuvable(s) dans les mesures |
+| R08 | Placer un zoom arrière de 6 à 11 % sur les plans de mise en situation ou de résultat | 14 % des plans en zoom arrière ; zoom_pct mesuré de -5.87 à -11.47 % | présentation d'un personnage, d'un résultat chiffré | r1#194 « Alors, » (-11.47 %) ; r1#219 « mec » (-6.08 %) ; r1#481 « Résultat, » (-11.47 % sur 3.33 s) | mesure | basse | les descriptions disent « zoom avant continu » pour le plan 481-580, alors que la mesure donne un zoom arrière | ⚠ valeur « 14 % des plans en zoom arrière ; zoom_pct mesuré de -5.87 à -11.47 % » : -5.87, -11.47 introuvable(s) dans les mesures |
+| R09 | Garder le zoom avant pour un seul geste d'élan, court et rapide | 3 % des plans ; plan 21 à +5.9 % (13.62 %/s) sur 0.43 s | action vers le haut (saut) | r1#861 « saut, » | mesure | basse | — | ⚠ valeur « 3 % des plans ; plan 21 à +5.9 % (13.62 %/s) sur 0.43 s » : 5.9 introuvable(s) dans les mesures |
+| R10 | Pas de panoramique comme mouvement de plan ; un déplacement latéral seulement couplé à un zoom, sur une action | 0 plan classé panoramique ; seul le plan 20 a un pan de -16.67 % avec un zoom de -5.87 % | action de freinage ou d'arrêt | r1#845 « freinage, » | mesure | basse | — | ⚠ valeur « 0 plan classé panoramique ; seul le plan 20 a un pan de -16.67 % avec un zoom de -5.87 % » : -16.67, -5.87 introuvable(s) dans les mesures |
+
+## Retenu depuis le studio (défaut -> cause -> correction)
+
+| ID | règle | valeur | déclencheur | preuves | méthode | confiance | exceptions |
+|---|---|---|---|---|---|---|---|
+

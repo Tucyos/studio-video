@@ -1,0 +1,99 @@
+{
+ "createur": "@archibald.media",
+ "nom_du_compte": "Archibald",
+ "lien": "https://www.tiktok.com/@archibald.media",
+ "genre": "da",
+ "origine": "Copiée de @archibald.media (TikTok)",
+ "auto": {
+  "titre": "Infographie pixel art rouge et noir sur grille de points",
+  "famille": "Pixel art",
+  "en_bref": [
+   "Des vidéos verticales sur fond noir : des petites icônes en pixel art (tour de centrale, crâne, usine, trône, petits personnages) dessinées en rouge, blanc et gris, avec une fine grille de points et des pixels rouges dispersés.",
+   "Le texte occupe le haut de l'écran sur deux étages. En haut, une phrase en grosses lettres blanches, avec un mot en rouge. Juste en dessous, un mot-clé ou un chiffre en police pixel rouge, en capitales espacées (« 40 ANS », « 3 VIES », « LE CHARBON ? »).",
+   "Les plans sont plutôt longs (3 à 8 s en médiane) et l'image vit à l'intérieur de chaque plan : des éléments apparaissent un par un, des compteurs défilent, des grilles se remplissent. Sur le mot choc, deux ou trois plans très courts s'enchaînent.",
+   "Une voix très rapide (environ 245 mots par minute) parle presque sans arrêt dès la première image. On l'entend avec une musique rythmée discrète (107 à 136 BPM), environ 14 dB plus bas que la voix, et des petits bruitages (clics, whoosh, impacts) dans les respirations.",
+   "On reconnaît le style à sa palette rouge, noir et blanc, à ses cartes « MAIS ATTENDEZ. » en plein écran, à ses chiffres énormes et à sa fin en suspens, coupée net, qui renvoie à la vidéo suivante."
+  ],
+  "tags": [
+   "pixel art",
+   "rouge et noir",
+   "infographie",
+   "vulgarisation",
+   "chiffres",
+   "rétro 8 bits",
+   "voix rapide",
+   "contre-intuitif"
+  ],
+  "pour": "La vulgarisation scientifique, historique ou de société qui démonte une idée reçue avec des chiffres : comparaisons de risques, ordres de grandeur, échelles de temps, proportions et pourcentages.",
+  "look": {
+   "technique": "Animation 2D en pixel art (sprites et icônes à basse résolution agrandis sans lissage), montée dans un logiciel de motion design (outil exact non visible, probablement de type After Effects). Par-dessus viennent des calques de texte, des grilles et des graphiques animés : barres, courbes, panneaux, compteurs. Ponctuellement, on voit un élément photo ou 3D retouché : en ouverture de r2, une vue aérienne photo-réaliste d'une ville portuaire, teintée de rouge, avec un cube rouge en 3D posé dedans. Les descriptions automatiques parlent parfois de « 2D vectorielle » ou de « 3D », mais les images clés montrent bien du pixel art.",
+   "couleurs": "Fond noir quasi pur, #000000 à #0A0A0A, avec une grille de points gris très sombre (~#1A1A1A). Rouge vif signal (~#E02020 / #FF2020 / #CC3333) pour les objets principaux, les mots-clés en police pixel, les mots mis en avant dans les titres et les chiffres. Rouge sombre (~#8B1A1A / #6A1515) pour les foules et silhouettes de second plan. Rouge clair (~#FF6666) pour certains accents et chiffres. Blanc (#FFFFFF) pour les titres, les cartes de pivot et les personnages mis en avant. Gris (~#555555 à #666666, #CCCCCC) pour la fumée, les panneaux tramés, les graphiques et les caméras. Couleurs d'appoint rares : doré (~#CC9933) pour des objets en r2, vert (~#00AA00) sur des écrans en r2, ocre (~#F5DEB3) et brun (~#8B6F47) pour des décors en r3.",
+   "typo": "Deux familles de police. 1) Une grotesque très grasse (type Arial Black, Helvetica Bold ou Inter ExtraBold, famille exacte non visible), blanche, centrée en haut de l'écran. Elle sert à la phrase d'accroche ou de contexte (« Ce cube », « 26 vies de 80 ans, bout à bout », « Et ses déchets ? »), et un mot ou un chiffre y passe en rouge (« TOUS », « 80 ans », « 1786 »). 2) Une police bitmap pixel, en capitales rouges très espacées (type Press Start 2P, nom exact non visible), placée juste sous le titre ou au centre. Elle sert au mot-clé, au chiffre ou à la question (« D'UN COUP. », « LE CHARBON ? », « 40 ANS », « 3 VIES »), parfois enfermée dans un cadre rouge façon tampon (« TCHERNOBYL »). Les cartes de pivot sont en grotesque grasse blanche en très grand, centrées (« MAIS ATTENDEZ. »), avec un léger dédoublement rouge et cyan sur les bords (aberration chromatique). Les chiffres sont très grands (~80-90 px sur 1024) et l'unité fait environ la moitié. Animations : apparition au mot prononcé, compteurs qui défilent, texte qui rétrécit puis s'efface, titre conservé d'un plan à l'autre. Aucun sous-titre mot à mot n'est visible sur les images clés.",
+   "rendu": "Pixels nets sans anticrénelage. Tramage (dithering) en damier pour les fumées, les dégradés et les panneaux gris. Vignettage sombre sur les bords. Pixels rouges isolés semés comme des particules. Lumière simulée par des cônes de projecteur rouges en pixels tramés, au-dessus d'un personnage (r3). Effet de pixelisation croissante (r1). Coins de viseur rouges autour d'une scène (r3). Assombrissement progressif jusqu'au noir, écran qui rougit puis se dissout. Aucune matière réaliste en dehors de la photo teintée de r2.",
+   "personnages": "Petits sprites en pixel art, de face, sans visage détaillé : un personnage-repère en chemise blanche à bande rouge et pantalon sombre, qui lève la main, éclairé par un projecteur (r3). Des foules et silhouettes humaines rouge sombre, sans détails, alignées en rangées ou en cercles. Des figures historiques identifiables à un accessoire : roi à couronne et sceptre, personnage à bougie, femme en robe blanche aux cheveux roux (r3). Des silhouettes blanches minimalistes en rang (r1). Pas de personnage dans les plans purement chiffrés.",
+   "decors": "Pas de décor réaliste : un vide noir à grille de points, avec au besoin une ligne de sol horizontale segmentée rouge et blanc (r3). Les objets symboles sont isolés au centre : tour de refroidissement avec symbole radioactif, usine à cheminées, trône, pyramide, conteneurs, carte de France en contour. On trouve aussi des panneaux gris tramés façon écran rétro, qui contiennent des pixels rouges, et des grilles, tableaux et courbes. Exception : la vue aérienne de ville teintée de rouge en ouverture de r2.",
+   "mouvement": "Caméra fixe par défaut, avec une dérive très lente d'environ 6 % (zoom avant ou arrière, léger tilt) sur les plans longs. En r3 seulement, il y a des bascules de caméra rapides (0,37 s), des zooms avant (10 % des plans) et arrière (20 %). Uniquement des coupes franches, aucun fondu enchaîné : les transitions se font dans le plan (texte qui rétrécit, fond qui noircit, écran qui se dissout, grille qui grandit). Plan médian de 2,97 à 7,9 s, de 0,84 à 2,57 coupes par 10 s, un plan long de 20 à 30 s pour la démonstration, 2 à 3 plans de moins de 1,1 s sur le mot choc. Premier changement avant 1,4 s, coupes en milieu de phrase, plan final muet de 13 à 14 images.",
+   "son": "Voix française seule à l'écran (humaine ou de synthèse : non mesuré), très rapide (242 à 246 mots par minute), quasi continue (73 à 88 % du temps), ton de conteur complice qui tutoie ou vouvoie le public (« Rendez-vous compte », « regardez »). Pauses courtes : médiane de 0,43 à 0,66 s, jamais plus de 0,9 s. Musique probable sous la voix : battement très régulier (0,93-0,94), 136 BPM (r1, r2) et 107,7 BPM (r3), à moitié percussive. Le fond est environ 13 à 14 dB sous la voix (voix ~ −16 dB, fond ~ −30 dB). Entre 20 et 27 bruitages probables par vidéo, dans les pauses : surtout médiums, aussi des aigus (clic, whoosh, cloche) et quelques impacts graves. Genre exact de la musique : non mesuré. Sonie finale de −14,5 à −15 LUFS."
+  },
+  "pour_refaire": [
+   "Écrire un script de 260 à 360 mots (75 à 120 s). Ouvrir sur une phrase chiffrée contre-intuitive dite dès l'image 1 (« Il existe une énergie 800 fois plus meurtrière que le nucléaire. »). Évoquer ensuite l'image que le public a en tête (« vous pensez sûrement à ça »), puis la retourner avec des pivots « Sauf que… », « Mais attendez… », « Faux ». Terminer sur une question, puis une phrase suspendue qui annonce la suite.",
+   "Enregistrer la voix à environ 245 mots par minute, avec des pauses de 0,4 à 0,7 s et aucun silence au-delà de 0,9 s.",
+   "Préparer le fond commun : 1080×1920, 30 i/s, noir #000000, grille de points gris très sombre, vignettage, quelques pixels rouges isolés semés au hasard.",
+   "Dessiner en pixel art un objet symbole par idée (centrale, crâne, usine, trône, pyramide, personnage), avec seulement rouge vif, rouge sombre, blanc et gris, en tramage pour fumées et dégradés. Le centrer seul dans le cadre.",
+   "Poser les deux étages de texte en haut de l'écran : la phrase de contexte en grotesque très grasse blanche (un mot en rouge), et dessous le mot-clé ou le chiffre en police pixel rouge, en capitales espacées. Faire apparaître le texte d'accroche dès la première image.",
+   "Afficher chaque mot-clé en capitales au moment exact où il est dit, et chaque chiffre en très grand avec son unité à environ la moitié de sa taille. Afficher chaque question avec son « ? ». Garder le titre en haut quand on coupe à l'intérieur d'une même idée.",
+   "Sur chaque pivot (« Sauf que », « Mais attendez »), insérer une carte plein écran : texte blanc gras centré sur fond noir, léger dédoublement rouge et cyan.",
+   "Pour les passages chiffrés, construire une composition en modules (panneaux, grilles, barres, courbes) qui se remplit élément par élément au rythme de la voix. Faire défiler un compteur quand la voix décrit une progression (1 → 26 PERSONNES, 0 AN → 78 ANS, 25 % → 35 %).",
+   "Monter en coupes franches uniquement : premier changement de plan avant 1,4 s, plan médian de 3 à 8 s, un plan de 20 à 30 s pour la démonstration principale (relancé par des apparitions internes), une coupe par élément dans les énumérations, et 2 à 3 plans de moins de 1,1 s sur le mot choc.",
+   "Couper au milieu des phrases, jamais sur la pause de fin. Montrer l'objet nommé au plus tard une quinzaine d'images après le mot, et montrer aussitôt ce que la voix désigne (« ça », « regardez »).",
+   "Animer à l'intérieur des plans plutôt qu'entre eux : texte qui rétrécit et s'efface, fond qui s'assombrit jusqu'au noir, écran qui rougit puis se dissout. Caméra fixe avec une dérive lente d'environ 6 % sur les plans de plus de 4 s.",
+   "Changer franchement d'échelle à la coupe entre deux idées (plan large → très gros plan). Dans un même décor, préférer une bascule de caméra rapide (~0,4 s) à la coupe.",
+   "Mixer une musique rythmée très régulière (107 à 136 BPM) environ 14 dB sous la voix, et placer 20 à 27 petits bruitages (clics, whoosh, impacts) dans les pauses de la voix.",
+   "Finir sur une phrase suspendue (« Et vous allez voir que… »), couper 12 à 16 images après le dernier mot et ajouter un plan muet de 13 à 14 images. Exporter autour de −14,5 à −15 LUFS."
+  ],
+  "apercu": [
+   "refs/r1/images/00289.jpg",
+   "refs/r1/images/01487.jpg",
+   "refs/r1/images/03033.jpg",
+   "refs/r2/images/00123.jpg",
+   "refs/r2/images/01560.jpg",
+   "refs/r2/images/03146.jpg",
+   "refs/r3/images/00204.jpg",
+   "refs/r3/images/00927.jpg"
+  ],
+  "regles": 28,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-archibald-media\\sources\\TikTok_7692112798662315286.mp4",
+    "duree": 118.42,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "Le nucléaire est moins dangereux que tu ne le crois. #science #vulgar...",
+    "vues": 747100,
+    "lien": "https://www.tiktok.com/@archibald.media/video/7692112798662315286"
+   },
+   {
+    "id": "r2",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-archibald-media\\sources\\TikTok_7692490480222768406.mp4",
+    "duree": 118.42,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "Tous les déchets nucléaires dangereux tiennent dans un cube de 16 mèt...",
+    "vues": 530500,
+    "lien": "https://www.tiktok.com/@archibald.media/video/7692490480222768406"
+   },
+   {
+    "id": "r3",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-archibald-media\\sources\\TikTok_7697352273902488854.mp4",
+    "duree": 73.97,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "Il n'y a que 26 personnes entre vous et Jules César. Et toute l'histo...",
+    "vues": 410500,
+    "lien": "https://www.tiktok.com/@archibald.media/video/7697352273902488854"
+   }
+  ]
+ }
+}

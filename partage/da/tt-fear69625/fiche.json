@@ -1,0 +1,81 @@
+{
+ "createur": "@fear69625",
+ "nom_du_compte": "Fear",
+ "lien": "https://www.tiktok.com/@fear69625",
+ "genre": "da",
+ "origine": "Copiée de @fear69625 (TikTok)",
+ "auto": {
+  "titre": "Bonshommes 3D à grosse tête noire dans des pièces de maison, avec une jauge de patience",
+  "famille": "3D stylisée",
+  "en_bref": [
+   "Des petits bonshommes en 3D simple, avec une grosse tête ronde toute noire, deux yeux blancs lumineux, un pull de couleur et des jambes très fines, vivent des scènes de famille dans une chambre, une cuisine ou devant une porte.",
+   "Au-dessus du héros, une petite jauge en forme de batterie (rouge, orange, jaune) montre sa patience : elle est presque pleine avec les autres et se vide à la maison.",
+   "Le montage est très rapide : environ une image nouvelle toutes les 2 secondes, toujours en coupe sèche, avec une caméra immobile. Chaque phrase dite a son plan.",
+   "Une voix off française parle vite et sans s'arrêter (environ 259 mots par minute) sur une musique de fond régulière (environ 117 BPM), avec de petits bruitages (clics, whoosh, boums) dans les courtes pauses.",
+   "Les sous-titres sont en grosses capitales blanches au milieu de l'écran, avec un mot-clé en orange. Quand on parle de science, on passe sur un fond noir avec des néons roses, puis on revient à la maison.",
+   "On la reconnaît à ces bonshommes noirs aux yeux blancs, à la jauge-batterie et au tutoiement (« tu », « tes parents ») sur un sujet de psychologie du quotidien."
+  ],
+  "tags": [
+   "3d stylisée",
+   "bonhomme tête noire",
+   "psychologie",
+   "famille",
+   "jauge de patience",
+   "sous-titres capitales",
+   "voix off rapide",
+   "néon"
+  ],
+  "pour": "De la psychologie et de la vulgarisation scientifique sur la vie de tous les jours (relations parents-ados, émotions, réactions qu'on ne comprend pas chez soi), racontée au « tu » à partir d'une scène que le spectateur reconnaît, puis d'une explication sur le cerveau ou une étude.",
+  "look": {
+   "technique": "3D stylisée avec des formes simples (cylindres, cubes, sphères), sans doute faite dans un logiciel 3D type Blender (outil non visible, c'est une hypothèse). On le voit aux ombres douces au sol, à la tache de lumière de la fenêtre sur le plancher et aux reflets sur les têtes. Le modèle qui a décrit les moments parle de « 2D vectoriel plat », mais les images clés montrent bien du volume et de la lumière 3D. Les interfaces (jauge-batterie, compteur « × 822 », bulles « ! », étiquettes du split-screen) sont ajoutées par-dessus en 2D au montage. Les plans sont fixes, avec de petites boucles d'animation d'environ 8 images (expression, pulsation).",
+   "couleurs": "Murs vert-de-gris pâle ≈ #9CBA9E / #7FAF9C (couleur de la maison) ; plafond et ombres brun-rose ≈ #8A5E58 ; parquet brun ≈ #7A5240 ; porte et murs clairs beige-crème ≈ #E8D4A2 / #F2E6D0 ; héros (l'ado) en pull bleu électrique ≈ #3D7BFF / #4A90E2 avec un halo bleu ; parent ou autre personnage en pull vert d'eau ≈ #56AB91, avec un autre en orange ≈ #E07A3A sur le split-screen ; têtes noir pur #000000, yeux blancs #FFFFFF ; mot-clé des sous-titres orange-jaune ≈ #F5A623 ; jauge : segments rouge ≈ #E04E48, orange ≈ #F5A623, jaune ≈ #F2C94C sur un cadre noir ; tableau mural en dégradé rose-violet-orange ≈ #E891AD → #F5A623 ; scènes « science » : fond noir #000000, néon rouge-rose ≈ #FF2D55 / #FF1493, grille violette au sol ; fond du titre d'ouverture bleu nuit ≈ #141A2E ; étiquettes du split-screen à contour vert ≈ #7ED321 (« avec tout le monde ») et rouge ≈ #E04E48 (« avec tes parents »).",
+   "typo": "Une sans-serif géométrique très grasse (type Montserrat ExtraBold, Poppins Black ou The Bold Font ; la police exacte n'est pas visible), toujours en CAPITALES. Elle est blanche avec une légère ombre ou un fin contour sombre pour rester lisible, et un ou deux mots-clés sont mis en orange ≈ #F5A623 (« MÈRE », « L'AIMES », « VIOLENTES. »). La ponctuation dite est gardée (« PAS. », « À LA MAISON, », « ET EUX… »). Les blocs font 1 à 4 mots sur 1 ou 2 lignes, centrés horizontalement, à peu près au milieu de l'écran ou un peu plus bas (entre 55 % et 65 % de la hauteur). Chaque bloc s'affiche au moment où il est dit, sans animation d'entrée visible. Le mot-chute est en dernier bloc et plus gros. Les chiffres sont écrits en chiffres, en grand et en orange (« × 822 » qui monte vers 1000). Le titre d'ouverture fait 2 lignes en haut (ligne 1 blanche, ligne 2 orange), et les étiquettes en pilule avec contour coloré se placent en haut à gauche de chaque demi-écran. On voit aussi un texte secondaire plus petit au-dessus de la scène (« …MAIS PLUS FORT », en orange).",
+   "rendu": "Lumière douce et chaude d'intérieur : plafonnier rond, lumière de fenêtre qui fait une tache claire au sol, ombres légères. Les matières sont mates et lisses, sans texture. Les têtes noires ont un liseré lumineux (rim light), jaune-orange ou bleu selon la lumière autour. Les yeux sont deux ovales blancs qui brillent. Les scènes « science » sont sombres, façon synthwave : anneau néon rouge-rose qui brille, grille violette en perspective au sol, sphères roses brillantes. Le flou de profondeur sur certains plans est décrit mais non visible sur les images clés.",
+   "personnages": "Bonshommes sans visage dessiné : une grosse sphère noire comme tête, deux yeux blancs brillants (qui changent : ronds, plissés, en amande), un torse en bloc avec un pull de couleur unie, des bras fins, des jambes noires très fines et de petits pieds ronds. Le héros (« tu », l'ado) est toujours en bleu électrique avec un halo bleu. Le parent (la mère) est en pull vert d'eau. Les amis ou inconnus portent d'autres couleurs (orange, bleu, vert). Ils ne parlent pas : tout passe par la posture (assis au bureau, debout dans l'encadrement de la porte, face à face) et par la forme des yeux. On ne voit ni genre marqué ni cheveux.",
+   "decors": "Une maison simple et récurrente : chambre d'ado (lit avec couverture rose-violet, bureau, chaise, plafonnier rond, porte blanche ouverte sur un couloir sombre, tableau mural en dégradé), cuisine (îlot bleu à plan de travail blanc, suspensions rondes, fenêtre sur un ciel de nuit étoilé, placards rouges), et un mur vert pâle nu avec une porte blanche, qui sert de décor refrain (début, milieu, fin). On passe parfois dans un espace abstrait noir avec néons, une grille, des sphères ou un graphique en barres (« fréquence / intensité »). Ouverture en split-screen haut/bas sur fond bleu nuit, avec deux scènes comparées.",
+   "mouvement": "Caméra fixe dans chaque plan, sans panoramique ni zoom mesuré. Seulement 4 « bascules » rapides de caméra sans coupe (environ 0,58 s), juste après l'attaque du mot-chute. Transitions uniquement en coupes franches. 28 plans en 59 s : plan médian de 2,04 s (entre 1,07 et 3,03 s), 4,58 coupes toutes les 10 s, coupe sur l'attaque d'un mot. Les plans éclairs (moins d'1 s) servent aux amorces (« Le pire, ») et les plans longs (plus de 3 s) aux explications clés. À l'intérieur des plans, il y a de petites boucles d'animation (yeux, pulsation des néons, compteur qui monte).",
+   "son": "Voix off française au tutoiement, rapide et presque continue : 259 mots par minute, voix présente 82 % du temps, 208 mots en 59 s. Ton posé, explicatif, un peu complice. On ne peut pas dire si la voix est humaine ou de synthèse avec ces données. Elle commence dès l'image 1 et finit juste après le dernier mot. Musique de fond probable sur toute la vidéo : environ 117,5 BPM, battement très régulier (0,93), assez peu percussive (0,31), un seul changement vers 57,9 s. Le son s'appelle « original sound » et l'artiste indiqué est « slowedrai » (le genre exact n'est pas déterminé). Le fond est environ 3,8 dB sous la voix (voix ≈ -20,4 dB, fond ≈ -24,2 dB). 18 bruitages probables, tous dans les pauses : des aigus (clics, whoosh, petite cloche ; le plus fort à 16,9 s) et des graves (impacts, boums, surtout de 44 à 56 s). Silences courts : 0,44 s en médiane, 0,6 s au maximum habituel. Sonie globale de -19,8 LUFS."
+  },
+  "pour_refaire": [
+   "Écrire un script de 55 à 60 s (environ 200 à 210 mots) au « tu » : une question d'accroche, une scène que tout le monde reconnaît en phrases très courtes, un retournement (« C'est pas que… C'est ton cerveau. C'est prouvé. »), une explication scientifique avec un âge ou un chiffre, puis une chute finale qui pique.",
+   "Découper le script en une phrase ou une proposition par plan (environ 2 s chacun). Garder un plan éclair de moins d'1 s pour l'amorce d'une révélation (« Le pire, ») et un plan de plus de 3 s pour la phrase d'explication clé.",
+   "Enregistrer ou générer une voix off française rapide (environ 260 mots par minute), presque sans pause (silences d'environ 0,4 s). Elle commence dès la première image.",
+   "Modéliser les personnages en 3D simple : tête sphère noire mate, deux yeux blancs lumineux qui peuvent changer de forme, torse en bloc avec un pull de couleur unie, membres très fins noirs. Le héros est toujours en bleu électrique ≈ #3D7BFF, le parent en vert d'eau ≈ #56AB91.",
+   "Construire 2 ou 3 décors de maison réutilisables (chambre avec lit, bureau et porte ; cuisine avec îlot et suspensions ; mur vert pâle avec une porte seule) : murs vert-de-gris, parquet brun, plafond brun-rose, lumière chaude douce et tache de soleil au sol.",
+   "Faire un décor « science » à part : fond noir, anneau ou formes en néon rouge-rose ≈ #FF2D55, grille violette au sol, sphères brillantes, graphiques simples. On y passe par coupe franche quand on dit « cerveau », « circuit » ou « mesuré », puis on revient à la maison.",
+   "Ouvrir sur un split-screen sur fond bleu nuit : titre-question en 2 lignes en haut (blanc puis orange), deux scènes comparées l'une au-dessus de l'autre, avec des étiquettes en pilule à contour vert (« AVEC TOUT LE MONDE ») et rouge (« AVEC TES PARENTS »).",
+   "Rendre chaque plan en caméra fixe, cadré surtout en plan large qui montre toute la pièce. Utiliser le plan moyen en appoint, et passer en plan serré ou isoler le héros dans le vide sur les amorces et les chutes. Centrer et garder une composition symétrique sur les plans d'exposition.",
+   "Illustrer chaque phrase au sens propre et montrer l'image dès la coupe, avant que le mot-clé soit dit : une porte pour « porte », un groupe pour « potes », deux personnages face à face pour « disputes », un circuit néon pour « circuit de la récompense ».",
+   "Ajouter en 2D au-dessus du héros la jauge-batterie de patience (cadre noir, segments rouge, orange, jaune) : presque pleine avec les autres, réduite à un seul segment rouge à la maison. Ajouter les compteurs en gros chiffres orange (« × 822 » qui monte jusqu'à 1000) avec de petites bulles « ! ».",
+   "Monter en 9:16, uniquement en coupes franches, en coupant sur l'attaque du premier mot de chaque phrase (à 2 images près). Dans une énumération (« Avec tes potes… Avec tes profs… »), donner un plan à chaque élément.",
+   "Sur le mot-chute, remplacer la coupe par une bascule rapide de caméra (environ 0,5 s) qui commence juste après l'attaque du mot, par exemple « À la maison, / tu lâches tout. ».",
+   "Sous-titrer en capitales sans-serif très grasses, blanches avec une ombre légère, au centre ou un peu plus bas. Blocs de 1 à 4 mots qui s'affichent au moment où ils sont dits, un mot-clé en orange ≈ #F5A623, le mot-chute plus gros en dernier bloc, les chiffres en chiffres, et les répliques citées (« T'AS MANGÉ ? ») seules dans un plan court.",
+   "Revenir au décor refrain (mur vert, porte, personnage seul) au début, au milieu et pour le plan final.",
+   "Mixer une musique de fond régulière d'environ 117 BPM, environ 4 dB sous la voix, et placer des clics, whooshs et boums seulement dans les pauses de la voix. Viser environ -20 LUFS au total."
+  ],
+  "apercu": [
+   "refs/r1/images/00127.jpg",
+   "refs/r1/images/00366.jpg",
+   "refs/r1/images/00581.jpg",
+   "refs/r1/images/00894.jpg",
+   "refs/r1/images/01069.jpg",
+   "refs/r1/images/01299.jpg",
+   "refs/r1/images/01530.jpg",
+   "refs/r1/images/01713.jpg"
+  ],
+  "regles": 28,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-fear69625\\sources\\TikTok_7696965999802715425.mp4",
+    "duree": 59,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "Pourquoi tu t’énerves plus vite avec tes parents qu’avec les autres ?...",
+    "vues": 2100000,
+    "lien": "https://www.tiktok.com/@fear69625/video/7696965999802715425"
+   }
+  ]
+ }
+}

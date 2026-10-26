@@ -1,0 +1,21 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Koan)",
+ "id": "maison-de-poupee",
+ "titre": "Maison de poupée en coupe",
+ "famille": "3D stylisée",
+ "statut": "testée",
+ "compte": "Koan",
+ "verdict": "Essai des 11 accroches (17-18/10) ; l'idée des pièces en coupe a été reprise en pixel (DA pixel fin ambré).",
+ "look": {
+  "rendu": "diorama miniature la nuit, pièces éclairées, flou de maquette"
+ },
+ "exemples": [
+  "exemples/01_hook_maison.mp4",
+  "exemples/02_2_maison-en-coupe.png",
+  "exemples/03_planche_maison.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/videos/Koan/_bibliotheque-da/README.md"
+ ]
+}

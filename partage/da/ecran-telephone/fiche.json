@@ -1,0 +1,21 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Koan)",
+ "id": "ecran-telephone",
+ "titre": "Écran du téléphone (faux système, conversations)",
+ "famille": "Écran et typographie",
+ "statut": "testée",
+ "compte": "Koan",
+ "verdict": "Essai des 11 accroches ; l'idée a été reprise dans « Message relu ».",
+ "look": {
+  "rendu": "faux système de téléphone, conversations de famille"
+ },
+ "exemples": [
+  "exemples/01_hook_ecran.mp4",
+  "exemples/02_4_ecran-du-telephone.png",
+  "exemples/03_planche_ecran.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/videos/Koan/_bibliotheque-da/README.md"
+ ]
+}

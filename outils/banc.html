@@ -1,0 +1,63 @@
+<!doctype html><meta charset="utf-8"><style>html,body{margin:0;background:#15171b}</style>
+<canvas id="c"></canvas>
+<script type="importmap">{"imports":{"three":"/node_modules/three/build/three.module.js","three/addons/":"/node_modules/three/examples/jsm/"}}</script>
+<script type="module">
+// banc d'essai de la bibliothèque : mesure un modèle (boîte, nœuds nommés, os, triangles, textures) et le rend seul à taille réelle,
+// à côté d'une silhouette de 1,80 m et d'une grille de 1 m (face, profil, dessus, 3/4). Utilisé par outils/admettre.mjs.
+import * as THREE from '/node_modules/three/build/three.module.js';
+import { GLTFLoader } from '/node_modules/three/examples/jsm/loaders/GLTFLoader.js';
+import { MeshoptDecoder } from '/node_modules/three/examples/jsm/libs/meshopt_decoder.module.js';
+import { KTX2Loader } from '/node_modules/three/examples/jsm/loaders/KTX2Loader.js';
+import { RoomEnvironment } from '/node_modules/three/examples/jsm/environments/RoomEnvironment.js';
+const S = 1600, c = document.getElementById('c');
+const renderer = new THREE.WebGLRenderer({ canvas: c, antialias: true, preserveDrawingBuffer: true });
+renderer.setSize(S, S, false); renderer.toneMapping = THREE.ACESFilmicToneMapping; renderer.setScissorTest(true);
+const scene = new THREE.Scene(); scene.background = new THREE.Color('#2a2d33');
+scene.environment = new THREE.PMREMGenerator(renderer).fromScene(new RoomEnvironment(), .04).texture;
+const sun = new THREE.DirectionalLight('#fff', 2); sun.position.set(-3, 6, -4); scene.add(sun, new THREE.HemisphereLight('#cfd8e6', '#30281f', .6));
+const gl = new GLTFLoader().setMeshoptDecoder(MeshoptDecoder).setKTX2Loader(new KTX2Loader().setTranscoderPath('/node_modules/three/examples/jsm/libs/basis/').detectSupport(renderer));
+let objet = null, aide = null, hum = null, derniere = null;
+
+function mesure(root) {
+  root.updateMatrixWorld(true);
+  const box = new THREE.Box3(), v = new THREE.Vector3(), noeuds = {}, tex = new Set(); let tris = 0, os = 0, skinned = 0;
+  root.traverse(o => {
+    if (o.isBone) os++;
+    if (o.isSkinnedMesh) skinned++;
+    // un dôme de ciel (face intérieure, BackSide) ne compte pas dans la taille de l objet
+    if (o.isMesh && [o.material].flat()[0]?.side !== THREE.BackSide) { const p = o.geometry.attributes.position; tris += (o.geometry.index ? o.geometry.index.count : p.count) / 3;
+      // boîte exacte des sommets (pose de repos pour les personnages)
+      for (let i = 0; i < p.count; i++) box.expandByPoint(v.fromBufferAttribute(p, i).applyMatrix4(o.matrixWorld));
+      for (const m of [o.material].flat()) for (const k of ['map', 'normalMap', 'roughnessMap', 'metalnessMap', 'emissiveMap', 'aoMap']) if (m[k]?.image) tex.add(`${m[k].image.width}x${m[k].image.height}`); }
+    if (o.name && !o.isBone) { let k = o.name, i = 1; while (k in noeuds) k = `${o.name}#${++i}`; noeuds[k] = o.getWorldPosition(new THREE.Vector3()).toArray().map(x => +x.toFixed(4)); }   // noms en double : numérotés dans l'ordre du fichier
+  });
+  return { min: box.min.toArray().map(x => +x.toFixed(4)), max: box.max.toArray().map(x => +x.toFixed(4)), dims: box.getSize(v).toArray().map(x => +x.toFixed(4)), tris: Math.round(tris), os, skinned, noeuds, textures: [...tex] };
+}
+// élément « code » : creer(k, options) d'un module, construit avec le vrai kit du moteur (le dossier du banc contient moteur/ et project.json)
+const construire = async url => { const K = await import('/moteur/kit.js'), mod = await import(url), groupe = new THREE.Group();
+  const o = await mod.creer({ ...K, groupe, t0: 0, t1: 1, id: 'banc' }, {}); if (o && o !== groupe) groupe.add(o); o?.update?.(1, 1); return groupe; };
+window.mesurerCode = async url => ({ ...mesure(await construire(url)), animations: [] });
+window.mesurer = async url => { const g = await gl.loadAsync(url); return { ...mesure(g.scene), animations: g.animations.map(a => ({ nom: a.name, duree: +a.duration.toFixed(3) })) }; };
+window.charger = async url => {
+  if (objet) scene.remove(objet, aide);
+  objet = url.endsWith('.js') ? await construire(url) : (await gl.loadAsync(url)).scene; scene.add(objet);
+  const m = derniere = mesure(objet), [dx, dy, dz] = m.dims, R = Math.max(dx, dy, dz, 1.8);
+  aide = new THREE.Group(); scene.add(aide);
+  const grille = new THREE.GridHelper(Math.ceil(R * 3), Math.ceil(R * 3), '#8a8f99', '#4a4f58'); grille.position.y = -.001; aide.add(grille);
+  // silhouette de 1,80 m (capsule grise), posée au sol à gauche de l'objet
+  hum = new THREE.Mesh(new THREE.CapsuleGeometry(.22, 1.36, 6, 16), new THREE.MeshStandardMaterial({ color: '#9aa3ae', roughness: .8 }));
+  hum.position.set(m.min[0] - .6, .9, (m.min[2] + m.max[2]) / 2); aide.add(hum);
+  return m;
+};
+// 4 vues dans une planche 1600×1600 : face (depuis l'avant, +Z), profil (+X), dessus (avant en haut), 3/4 avant
+window.planche = (lieu = false) => {
+  const b = new THREE.Box3(new THREE.Vector3(...derniere.min), new THREE.Vector3(...derniere.max)).union(new THREE.Box3().setFromObject(hum)); if (lieu) b.intersect(new THREE.Box3(new THREE.Vector3(-30, -2, -30), new THREE.Vector3(30, 20, 30))); const ctr = b.getCenter(new THREE.Vector3()), R = b.getSize(new THREE.Vector3()).length() / 2 * 1.15, h = S / 2;
+  const vues = [[new THREE.Vector3(0, 0, 1), 0, h], [new THREE.Vector3(1, 0, 0), h, h], [new THREE.Vector3(0, 1, 0), 0, 0], [new THREE.Vector3(1, .6, 1).normalize(), h, 0]];
+  for (const [d, x, y] of vues) {
+    const cam = new THREE.OrthographicCamera(-R, R, R, -R, .01, R * 10); cam.position.copy(ctr).addScaledVector(d, R * 4);
+    if (d.y === 1) cam.up.set(0, 0, 1); cam.lookAt(ctr);
+    renderer.setViewport(x, y, h, h); renderer.setScissor(x, y, h, h); renderer.render(scene, cam);
+  }
+};
+window.SCENE = { from: 0, to: 0, sub: 1 }; window.seek = () => true; window.READY = Promise.resolve(true);
+</script>

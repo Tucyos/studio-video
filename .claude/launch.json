@@ -1,0 +1,14 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "studio",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [
+        "studio.mjs",
+        "C:/claude/studio-projets/le-mans-66-equipe"
+      ],
+      "port": 5170
+    }
+  ]
+}

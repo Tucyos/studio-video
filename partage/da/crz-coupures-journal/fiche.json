@@ -1,0 +1,23 @@
+{
+ "genre": "da",
+ "origine": "Exemple montré par le créateur de Creatorize (chaîne g russ)",
+ "id": "crz-coupures-journal",
+ "titre": "Collage de coupures de journal",
+ "famille": "Collage",
+ "statut": "exemple",
+ "verdict": "Style « Vox », look « Press » (histoire de l'imprimerie). Référence : les vidéos de Vox.",
+ "look": {
+  "couleurs": "papier crème, découpes en gravure ou demi-teinte grise, tampons rouges",
+  "typo": "étiquettes à la machine à écrire, bandeaux noirs en capitales, écriture manuscrite rouge",
+  "rendu": "une page de journal grand format, coupures collées ; scribe à la bougie en encre sépia",
+  "mouvement": "finit sur une boucle parfaite"
+ },
+ "exemples": [
+  "exemples/01_c_080m35.jpg",
+  "exemples/02_c_168m45.jpg"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/recherches/creatorize/SYNTHESE.md",
+  "C:/claude/tiktok-motion/recherches/creatorize/frames/haiku_frames_cours.md"
+ ]
+}

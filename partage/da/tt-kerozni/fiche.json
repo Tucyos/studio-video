@@ -1,0 +1,80 @@
+{
+ "createur": "@kerozni",
+ "nom_du_compte": "Kerozni",
+ "lien": "https://www.tiktok.com/@kerozni",
+ "genre": "da",
+ "origine": "Copiée de @kerozni (TikTok)",
+ "auto": {
+  "titre": "Maquette 3D réaliste qui se construit pièce par pièce, avec étiquettes techniques en pastilles",
+  "famille": "3D réaliste",
+  "en_bref": [
+   "Un objet du quotidien (ici un ascenseur) est reconstruit en 3D réaliste, à partir de sa version la plus simple (une boîte en bois pendue à une corde). On ajoute ensuite une pièce par problème à résoudre, dans une cour en briques sous un ciel bleu.",
+   "Chaque nouvelle pièce est nommée par une étiquette blanche arrondie en capitales noires (SAFETY BRAKE, COUNTERWEIGHT…), avec un trait qui pointe vers l'objet. Les sous-titres blancs et gras défilent un mot à la fois sous le centre de l'image.",
+   "Le rythme est très serré : un plan toutes les 1,6 s en médiane, et il se passe quelque chose à l'image au moins toutes les ~1,4 s. La caméra recule presque toujours lentement et bascule souvent pour montrer une autre partie du système.",
+   "La voix (en anglais) est rapide et quasi continue (227 mots/min, présente 90 % du temps). Elle suit toujours la même boucle : « But… » (le problème), « So… » (la solution), « That's the… » (le nom de la pièce).",
+   "Le mix est fort (-15,7 LUFS). Une musique rythmée à environ 144 BPM est probable, très en dessous de la voix, et de petits bruitages aigus (clics, whooshs) tombent dans les pauses.",
+   "Le style se reconnaît à la fin en boucle : toutes les étiquettes réapparaissent ensemble, puis une rafale de plans remonte jusqu'à « a box on a rope »."
+  ],
+  "tags": [
+   "3d réaliste",
+   "vulgarisation",
+   "mécanique",
+   "étiquettes",
+   "sous-titres mot à mot",
+   "évolution d'un objet",
+   "zoom arrière",
+   "voix rapide"
+  ],
+  "pour": "Expliquer comment fonctionne un objet ou un système technique du quotidien (ascenseur, machine, mécanisme de sécurité) en racontant son évolution. On part de la version la plus naïve, puis on ajoute une pièce pour chaque problème rencontré.",
+  "look": {
+   "technique": "Scène 3D modélisée et animée, avec un rendu réaliste. Les données parlent de « photogrammétrie » pour les façades, mais ce n'est pas vérifiable. Le moteur exact n'est pas visible : un moteur temps réel ou un logiciel 3D classique sont possibles. Les foules sont faites en copiant le même personnage plusieurs fois. Les étiquettes et les sous-titres sont ajoutés en 2D au montage (pastilles plates avec trait et point d'ancrage, collées sur l'objet). Format 9:16, mesuré en 576×1024 à 30 i/s (source publiée en 1080×1920).",
+   "couleurs": "Décor : briques rouge-orangé #C85D3C, pierre beige #D8C4A8 / #E8D7C6, ciel bleu #87CEEB très présent (avec un dégradé vers #4A90E2 en vue de dessus), nuages blancs. Structure : bois clair #8B7355 / #D8BF9F pour la tour et la boîte. Couleurs vives réservées aux pièces mécaniques, pour qu'on les repère : ressorts turquoise #20B2AA, moteur rose-saumon #FFB6C1 avec rouleau turquoise, poulie rouge #DC143C avec moyeu noir #1C1C1C, accents et ressorts amortisseurs jaunes #FFD700, portes et mécanisme bleus #4A90E2, métal gris #708090 / #808080, bandes de danger jaune et noir sur le contrepoids. Guirlande de fanions pastel (rose, bleu, vert, jaune) en décor. Textes : blanc pur pour les sous-titres, pastilles blanches ou gris clair avec texte noir ou gris foncé pour les étiquettes. Icône ronde rouge avec une croix blanche pour signaler une absence.",
+   "typo": "Sous-titres : sans-serif bold à bout rond, proche de Montserrat ou Poppins Bold (famille probable). Blanc, en minuscules sauf majuscule de début de phrase, avec une ombre portée sombre et diffuse (pas de contour net visible). Centrés horizontalement vers 70 % de la hauteur, juste sous le centre. Un mot ou un groupe court à la fois (« the safety », « a wheel », « the motor »), qui change toutes les ~6-7 images, sans animation d'entrée visible. Étiquettes : capitales sans-serif bold et plus petites (SAFETY BRAKE, COUNTERWEIGHT, GOVERNOR, MACHINE BRAKE, DOOR INTERLOCK, STEEL ROPES, BUFFERS) dans une pastille arrondie blanche ou gris clair, avec un trait fin qui finit par un point sur la pièce. Elles sont placées dans le tiers haut, près de l'objet, et apparaissent juste après « That's the… ».",
+   "rendu": "Rendu réaliste et lumineux, en lumière de jour, avec ombres douces et ciel nuageux. Matières détaillées : briques et joints, pierre usée, planches de bois veinées, sol en terre et en pavés, métal légèrement brillant. Les pièces mécaniques sont un peu « jouet » : formes simples, couleurs franches, contrastées avec le décor réaliste. Flou de mouvement visible sur les déplacements rapides (moment 19). Petite profondeur de champ sur certains gros plans (fond légèrement flou derrière le moteur). Pas de grain ni de filtre visible.",
+   "personnages": "Personnage 3D réaliste qui sert d'échelle et de « passager » : homme chauve ou aux cheveux courts, t-shirt gris imprimé, short gris, baskets blanches. Il est debout dans la boîte, puis copié plusieurs fois pour remplir la cabine (« fill the box with people »). D'autres silhouettes passent dans la cour. Un personnage tombe dans la cage quand la boîte n'est pas là (image « there »). Animations simples, pas de visage expressif ni de dialogue.",
+   "decors": "Une cour intérieure urbaine unique, gardée tout le film : façades en briques et pierre avec fenêtres anciennes, arbres et plantes en pots (pots turquoise), fanions pastel tendus, mouettes dans le ciel. Au centre, une tour-échafaudage en bois qui grandit : rails dentés noirs, poulie en haut, contrepoids, portes sur grille bleue. Quand une pièce est présentée seule (moteur, poulie, ressorts amortisseurs), elle est sortie de son décor : sol pavé ou plancher bois, mur neutre derrière.",
+   "mouvement": "Caméra virtuelle toujours en mouvement. Zoom arrière lent par défaut (71 % des plans), d'autant plus rapide que le plan est court (environ -1,3 à -7 %/s sur les plans de plus de 3 s, -25 à -35 %/s sur les plans de moins de 1 s). Zoom avant pour isoler une pièce, panoramiques latéraux, mouvements tournants autour d'un objet. Bascules de caméra fréquentes (4,6 par 10 s, d'environ 0,5 s, montée sèche en 0,2 s), souvent lancées 1 image après une coupe. Vue de dessus écrasée pour la chute et le vide. Plan large ou aérien après chaque détail. Montage : 31 plans en 62 s (médiane 1,6 s, entre 0,57 s et 8,27 s). Coupes calées sur l'attaque des mots, franches aux changements d'étape et douces ailleurs. Aucun effet de transition. Finale : rafale de micro-plans de 5 images, puis un plan tenu de 2,6 s.",
+   "son": "Voix off en anglais, débit très rapide (227 mots/min), présente 90 % du temps, pauses courtes et régulières (médiane 0,42 s, aucune de plus de 0,5 s sauf avant la phrase finale). Ton factuel et sec. Phrases courtes en séquence problème / solution / nom. Voix humaine ou de synthèse : non déterminé. Timbre plutôt clair (brillance mesurée 1637 Hz). Musique probable sous la voix : rythmée et percussive (part percussive 0,71), environ 144 BPM, battement très régulier (0,94), niveau bas (environ -29,5 dB hors voix, fond environ 7,6 dB sous la voix), sans changement de morceau. Genre exact : non mesuré. 24 bruitages probables dans les pauses, surtout aigus (clics, whooshs, cloches) aux bascules et à l'arrivée des étiquettes, plus quelques impacts graves (30 s, 56,5 s) et un fort accent en toute fin (62,1 s). Master fort : -15,7 LUFS."
+  },
+  "pour_refaire": [
+   "Écrire le script en boucle problème → solution → nom : partir de la version la plus naïve de l'objet (« If you hang a box from a rope, you've built an elevator. »), puis enchaîner « But [problème]. » / « So [solution]. » / « That's the [nom technique]. ». Viser environ 210 mots pour environ 60 s.",
+   "Finir par une question rhétorique qui reprend la peur du départ (« And the rope everyone's scared of snapping? »), une réponse rassurante, puis une phrase-boucle qui revient à l'ouverture (« It had all started with a box on a rope. »).",
+   "Construire un seul décor 3D réaliste en lumière de jour (cour en briques, ciel bleu nuageux, végétation, petits détails vivants comme des fanions ou des oiseaux) et le garder tout le film. Faire « grandir » l'objet au centre, une pièce à la fois.",
+   "Modéliser les pièces mécaniques en formes simples et en couleurs vives différentes (turquoise, rose, rouge, jaune, bleu) pour qu'elles se détachent du décor bois et brique. Ajouter un personnage réaliste neutre comme échelle, et le copier pour les foules.",
+   "Animer chaque verbe d'action (snaps, flicks, bites, slams, drifts down) et caler la vitesse de caméra sur le verbe (lent sur « slowly drifts down »). Montrer l'objet nommé à l'image où il est dit (écart observé de -8 à +11 images).",
+   "Pour chaque plan : zoom arrière lent par défaut, plus rapide sur un plan court. Isoler une nouvelle pièce en gros plan, sans décor ; après un détail, élargir sur une vue d'ensemble ou aérienne. Passer en vue de dessus écrasée pour une chute ou une absence (ajouter l'icône ronde rouge avec croix blanche).",
+   "Relancer chaque plan de plus de ~3 s par une bascule de caméra interne (environ 0,5 s, montée sèche de 0,2 s), au moins toutes les ~1,4 s. Utiliser la bascule pour révéler une autre partie du même système, et placer son pic sur le mot d'une question rhétorique (« snaps? »).",
+   "Enregistrer une voix off rapide et continue (environ 227 mots/min), avec des pauses de 0,3 à 0,5 s maximum entre les phrases.",
+   "Monter en mêlant environ 1 plan sur 5 de moins de 1 s (mots-chocs) et 1 sur 5 de plus de 3 s (explications), médiane autour de 1,6 s. Caler chaque coupe sur l'attaque d'un mot, à l'image près. Coupe franche aux changements d'étape (« So… », « Down in the pit… »), coupe douce ailleurs, aucun effet de transition.",
+   "Couper 7 à 9 images après chaque « But » pour que le problème démarre sur un plan neuf. Lancer une bascule de caméra 1 image après la coupe.",
+   "Sous-titrer mot à mot : sans-serif bold arrondie (type Montserrat ou Poppins Bold), blanc avec ombre portée sombre, centrée vers 70 % de la hauteur, un mot ou un groupe court qui change toutes les ~6-7 images.",
+   "Sur « That's the… », couper ou basculer 0 à 4 images après et afficher l'étiquette : capitales bold noires dans une pastille blanche arrondie, avec un trait fin et un point posé sur la pièce, placée en haut près de l'objet.",
+   "Avant la conclusion, montrer un plan large d'environ 1 s avec toutes les étiquettes affichées en même temps. Puis faire défiler les objets du début dans l'ordre inverse (acier → roue → boîte → corde) en rafale de micro-plans de 5 images, et finir sur un plan tenu d'environ 2,6 s.",
+   "Mixer : musique rythmée d'environ 144 BPM très basse sous la voix, clics et whooshs aigus dans les pauses sur les bascules et étiquettes, quelques impacts graves sur les moments-clés, accent final. Master autour de -15,7 LUFS."
+  ],
+  "apercu": [
+   "refs/r1/images/00111.jpg",
+   "refs/r1/images/00325.jpg",
+   "refs/r1/images/00536.jpg",
+   "refs/r1/images/00743.jpg",
+   "refs/r1/images/00860.jpg",
+   "refs/r1/images/01105.jpg",
+   "refs/r1/images/01292.jpg",
+   "refs/r1/images/01713.jpg"
+  ],
+  "regles": 26,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-kerozni\\sources\\TikTok_7696478317414731030.mp4",
+    "duree": 62.57,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "How elevators evolved from a box on a rope 🤔 #elevator #science ",
+    "vues": 462700,
+    "lien": "https://www.tiktok.com/@kerozni/video/7696478317414731030"
+   }
+  ]
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "createur": "@pixels.stories.fr",
+ "nom_du_compte": "Pixels Stories FR",
+ "lien": "https://www.tiktok.com/@pixels.stories.fr",
+ "genre": "da",
+ "origine": "Copiée de @pixels.stories.fr (TikTok)",
+ "auto": {
+  "titre": "Récit historique en pixel art d'écran de surveillance rose et noir",
+  "famille": "Pixel art",
+  "en_bref": [
+   "Une histoire vraie racontée en une minute, tout en pixel art magenta et rose sur fond noir violacé. On a l'impression de regarder un écran de surveillance des années 80 : un cadre fixe en surimpression avec une étiquette de série en haut à gauche, une horloge en haut à droite et des coins en équerre.",
+   "Chaque phrase devient une image simple et littérale : un globe, une carte radar, un satellite, des dossiers « СЕКРЕТНО », une horloge, un téléphone, une boîte. Les mots s'affichent un ou deux à la fois au moment où ils sont dits, dans une police pixel blanche, avec le mot important en magenta.",
+   "Le montage est très rapide : un plan dure en moyenne 1,5 s, environ un tiers des plans font moins d'une seconde, et chaque mot-choc (« total », « tout », « années ») a un plan à lui seul. La caméra reste presque toujours fixe, avec de lents zooms avant au début de chaque nouvelle étape.",
+   "La voix off est rapide et presque continue (215 mots par minute, voix présente 72 % du temps), avec des phrases très courtes. Dessous, une musique rythmée à environ 123 BPM, et des bruitages aigus (clics, cloches) dans les petites pauses.",
+   "Ce qui la rend reconnaissable : la bichromie magenta sur noir, le cadre d'interface avec horloge, les textes en cyrillique dans le décor, et la chute ironique de la fin (« Sa récompense ? Un blâme. »)."
+  ],
+  "tags": [
+   "pixel art",
+   "histoire vraie",
+   "guerre froide",
+   "magenta",
+   "interface rétro",
+   "storytelling",
+   "voix off rapide",
+   "faits historiques"
+  ],
+  "pour": "Les anecdotes historiques vraies, avec une tension et un retournement : espionnage, guerre froide, catastrophes évitées de justesse, décisions individuelles qui ont tout changé, secrets d'État révélés plus tard.",
+  "look": {
+   "technique": "Tout est en pixel art, avec une trame de points (dithering) et des lignes de balayage. Ce n'est pas de la 3D réaliste, même si les descriptions automatiques parlent de « 3D » : sur les images clés, globe, carte, satellite et horloge sont dessinés en pixels. Outils probables (non visibles) : un logiciel de pixel art (type Aseprite) ou des images générées puis pixellisées, animées dans un logiciel de montage ou de motion design (After Effects ou équivalent) avec des zooms numériques, des tracés animés (trajectoires, croix X, lignes de date) et des compteurs. Un cadre d'interface identique reste en surimpression sur toute la vidéo.",
+   "couleurs": "Palette presque bichrome. Fond noir violacé ≈ #140A1A à #1A0A2E (espace, mers, fond d'écran). Magenta vif ≈ #FF1493 à #E8288A (territoires visés, trajectoires, mot clé du sous-titre, contour du globe, étiquette de série, coins du cadre). Rose poudré ≈ #F0C0DC / #FFB6D9 (dossiers papier, cadran d'horloge, nuages, continents secondaires). Violet-gris ≈ #3D1A3D à #6B4D7F (dégradés, ombres, boîtier de l'horloge, sol). Blanc ≈ #FFFFFF (texte des sous-titres, grande date, chiffres, points des missiles, aiguilles). Un rouge foncé ≈ #8B0000 est cité pour la sirène (non visible sur les images clés). Règle : le magenta signale toujours ce qui compte (cible, menace, mot clé).",
+   "typo": "Polices bitmap/pixel uniquement. (1) Sous-titres : police pixel sans empattement, grasse et épaisse, en CAPITALES, blanche, avec le mot clé en magenta (« ET SES CHEFS », « CE SERAIT DES », « DE MISSILES. »). Un à trois mots par écran, centrés horizontalement, entre 60 et 70 % de la hauteur environ, de taille moyenne. Les mots apparaissent au moment où ils sont prononcés et la ponctuation est gardée (« 1983, », « MISSILES. »). Sur certains plans le sous-titre est entièrement magenta avec un contour sombre, posé sur l'objet (« PENDANT DES » sur le dossier). (2) Grands chiffres et dates : police pixel type afficheur, blanche, en très grand en haut de l'écran (« 26.09.1983 », « 294 » sur la carte, « +10 MIN » en magenta sous l'horloge). (3) Étiquettes du décor : police monospace pixel fine, petite, blanche ou magenta, souvent en cyrillique ou en russe translittéré (« СТАРТ 1 », « КАМЕРА ОКО », « ДЕЛО », « СЕКРЕТНО », « MOSCOU », « KREMLIN », « ÉTAT MAJOR », « SERPOUKHOV 15 », « SATELLITE OKO »). (4) Tableau de bord bas : petits libellés en colonnes avec chiffres et histogramme magenta. (5) Pour une question, le mot seul suivi de « ? » (« RÉCOMPENSE ? »).",
+   "rendu": "Pixels nets et visibles, à basse résolution assumée. Trame de points pour les dégradés (halo du globe, faisceau du satellite, ciel). Lignes de balayage horizontales et légère texture d'écran cathodique (nette sur le plan du satellite et du sol). Lumières simples : halos magenta autour du globe, petits éclats blancs en étoile sur les cibles, fond étoilé fait de points. Pas de lumière réaliste ni de matière photo. Effets cités : scintillement des chiffres, pulsation lumineuse, pixellisation puis dépixellisation d'un visage, givre sur le mot « froide », explosion en particules, croix X tracée en deux traits.",
+   "personnages": "Très peu de personnages. Le héros apparaît surtout comme une photo d'identité sur un dossier (portrait petit, en rose et noir), et à deux moments comme un visage en gros plan pixellisé (« quelque chose cloche », « il signale »). Ailleurs, on voit des silhouettes simples (chefs, commandants) ou une main stylisée qui manipule des cubes de pixels en ouverture. Pas de mascotte ni de personnage récurrent dessiné en pied.",
+   "decors": "Une famille de décors qui reviennent pour faire écho : globe terrestre de profil avec halo et territoire visé en magenta ; carte polaire en vue radar (cercles concentriques, rayons, villes en points) ; satellite pixel avec faisceau tramé au-dessus de la Terre ; vue d'écran de caméra satellite (« КАМЕРА ОКО ») avec cibles entourées de crochets ; organigramme vertical (tour du Kremlin, bâtiment « ÉTAT MAJOR », poste « SERPOUKHOV 15 ») relié par une ligne ; horloge murale ronde à cadran rose ; dossiers cartonnés « ДЕЛО » tamponnés « СЕКРЕТНО » sur un bureau, devant un mur violet ; intérieur à colonnes éclairé en rose ; téléphone à cadran rose ; boîte/coffre rose ; ciel avec nuages et reflet du soleil. Le cadre d'interface reste par-dessus tous ces décors : étiquette de série en haut à gauche, horloge numérique en haut à droite avec le lieu (« 00:14:49 MOSCOU »), ou l'année et le lieu en fin de vidéo (« 1984 ARCHIVES » d'après l'image), et quatre coins en équerre magenta.",
+   "mouvement": "Caméra fixe ou très lente dans 85 % des plans, aucun panoramique mesuré. Zoom avant lent d'environ 6 % par plan (2 à 5 % par seconde) pour ouvrir chaque étape (enjeu, protocole, décompte, fin). Deux bascules de caméra courtes (environ 0,4 s) au moment du nom et de la nationalité, dont une rotation de la pile de dossiers qui enchaîne « officier » et « soviétique » sans couper. Coupes franches presque partout (37 sur 38), avec une seule coupe douce quand on passe de la carte au bunker. Plan médian 1,53 s, environ 6 coupes par tranche de 10 s, 13 plans de moins de 1 s sur 39, seulement 2 plans de plus de 3 s (réservés aux phrases d'exposition). Coupes calées sur le début d'un mot (écart médian 1 image). Animations internes plutôt que coupes : les trajectoires se tracent, les compteurs montent, les aiguilles avancent, les dossiers se déplient.",
+   "son": "Voix off française, rapide (215 mots par minute de voix, 163 mots en 62,7 s), présente 72 % du temps, avec des phrases très courtes et souvent sans verbe (« Minuit passé. », « Pas cinq. », « Un blâme. »). On ne peut pas savoir avec les données si c'est une voix humaine ou une synthèse vocale. La voix est assez claire (brillance mesurée vers 1 650 Hz), mixée vers -20,6 LUFS. Musique probable en fond, environ 7 dB sous la voix (fond vers -28 dB), à environ 123 BPM avec un battement très régulier (0,93) et plutôt percussive (62 %). Elle change à 41,9 s, 48,9 s et 60,9 s, ce qui correspond à la bascule « Il attend / 10 minutes », à la révélation et à la fin. Le genre exact n'est pas mesuré. Il y a 29 bruitages probables dans les pauses : des sons aigus (clics, whoosh, cloches) et quelques impacts graves. Ils sont très forts entre 43 et 47 s, pendant le décompte de l'horloge. Les silences sont courts, entre 0,3 et 0,6 s, avec au plus 1,1 s à 48,2 s (après « Rien n'explose ») et 1 s à la toute fin."
+  },
+  "pour_refaire": [
+   "Écrire le texte en phrases de 2 à 12 mots, environ 160 mots pour 60 s : accroche-promesse, puis date et contexte, personnage (nom, fonction, nationalité), alerte, montée de l'enjeu, doute, décision, attente avec décompte, révélation, conséquence, chute ironique sous forme de question et réponse en deux mots.",
+   "Enregistrer ou générer une voix off française rapide (environ 215 mots par minute de voix), avec des pauses de 0,3 à 0,6 s seulement entre les phrases, et la mixer vers -20,6 LUFS.",
+   "Préparer le cadre d'interface fixe en 9:16 : étiquette de série magenta en haut à gauche (« HISTOIRE VRAIE | N°01 »), horloge numérique blanche en haut à droite avec le lieu en petit dessous, quatre coins en équerre magenta, fond noir violacé ≈ #140A1A avec quelques points d'étoiles.",
+   "Fixer la palette : noir violacé, magenta ≈ #FF1493 pour tout ce qui compte, rose poudré ≈ #FFB6D9 pour le papier et les cadrans, violet-gris pour les ombres, blanc pour le texte. Aucune autre couleur, sauf un rouge foncé ponctuel pour une alarme.",
+   "Fabriquer chaque image en pixel art à basse résolution, avec trame de points pour les dégradés et lignes de balayage légères. Un seul sujet centré par image.",
+   "Pour chaque phrase, montrer littéralement le nom concret dit (satellite, missile, nuages), 0 à 7 images après le mot. Traduire chaque mot abstrait par un objet-symbole : décision → téléphone, récompense → boîte, erreur → croix X, froid → givre.",
+   "Choisir la taille de plan selon le sujet : plan large (globe, carte radar) quand on parle d'un lieu, gros plan (dossier, visage, objet) quand on parle d'une personne ou d'un objet. Ajouter des étiquettes en cyrillique ou en langue locale dans le décor pour faire « document authentique ».",
+   "Faire revenir les mêmes décors pour relier les étapes : horloge pour le temps, intérieur à colonnes pour l'attente, dossiers pour le personnage (au début et à la fin).",
+   "Monter en coupes franches avec un plan médian d'environ 46 images (1,5 s). Isoler chaque mot-choc (quantité, menace, chute) dans un plan à lui de 15 à 20 images. Garder les plans de plus de 3 s pour une phrase d'information complète.",
+   "Caler chaque coupe sur le début d'un mot, à 2 images près. Quand une phrase commence par un petit mot (Puis, Au, Mais, Alors, Un), le laisser démarrer sur le plan précédent et couper 1 à 6 images après.",
+   "Combler chaque pause de voix par un plan d'appoint muet de 7 à 17 images (gros plan, effet de givre, croix X).",
+   "Garder la caméra fixe et ouvrir chaque nouvelle étape par un zoom avant lent d'environ 6 % sur le plan. Mettre une bascule courte (environ 13 images, montée de 5 images) sur le nom du personnage et sur sa nationalité, au lieu de couper. Une seule coupe douce, quand on passe de la vue d'ensemble au lieu précis.",
+   "Pour un décompte ou une énumération, rester dans le même plan et faire avancer le graphique : aiguilles, « +10 MIN » puis « +15 MIN », compteur de missiles, zones qui s'allument.",
+   "Incruster les sous-titres mot à mot, synchronisés avec la voix : police pixel grasse en capitales, blanche avec le mot clé en magenta, 1 à 3 mots, centrés vers 60-70 % de la hauteur. Dates et nombres en chiffres, en très grand en haut quand le nombre est l'enjeu. Pour une question, le mot seul suivi de « ? ».",
+   "Poser une musique rythmée vers 123 BPM environ 7 dB sous la voix, qui change au moment de l'attente, de la révélation et de la fin. Ajouter des clics, cloches et whoosh aigus dans les pauses, plus forts pendant le décompte. Finir sur un plan muet de 41 images avec zoom avant d'environ 6 % et un carton « HISTOIRE VRAIE » magenta sur fond noir."
+  ],
+  "apercu": [
+   "refs/r1/images/00164.jpg",
+   "refs/r1/images/00331.jpg",
+   "refs/r1/images/00559.jpg",
+   "refs/r1/images/00878.jpg",
+   "refs/r1/images/01077.jpg",
+   "refs/r1/images/01376.jpg",
+   "refs/r1/images/01611.jpg",
+   "refs/r1/images/01820.jpg"
+  ],
+  "regles": 28,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-pixels-stories-fr\\sources\\TikTok_7697702243134410016.mp4",
+    "duree": 62.73,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "Histoire Vraie N°1. 26 septembre 1983.  Cinq missiles américains appa...",
+    "vues": 342200,
+    "lien": "https://www.tiktok.com/@pixels.stories.fr/video/7697702243134410016"
+   }
+  ]
+ }
+}

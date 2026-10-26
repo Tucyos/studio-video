@@ -1,0 +1,49 @@
+# Style « tt-leo-le-rabbin »
+
+Tiré de 1 référence(s) : r1 = TikTok_7693611425251462432.mp4 (74.21 s, 9:16, fr). Le 20/10/2026.
+Mesuré par le code : plan médian 1.83 s ; coupes par 10 s 4.85 ; bascules de caméra par 10 s 0.81 (durée médiane 1 s) ; 283 mots/min ; voix sur 97 % de la durée ; -17.5 LUFS.
+Non mesuré : niveau de la musique sous la voix (pistes séparées nécessaires) ; fondus (décrits par Haiku). Caméra : estimation approximative.
+On reprend le rythme, le cadrage et la grammaire ; jamais les personnages ni l'identité visuelle des références. Images numérotées à 30 i/s (planches dans refs/rN/planches/).
+
+| ID | règle | valeur | déclencheur | preuves (vidéo#image « mot ») | méthode | confiance | exceptions |
+|---|---|---|---|---|---|---|---|
+| R02 | Garder une cadence de coupe soutenue et régulière : une idée de phrase par moment | 4.85 coupes / 10 s ; 41 moments, médiane 1.77 s (53 i) | chaque nouvelle proposition de la voix | r1#55 « a » (coupe 54) ; r1#114 « y » (coupe 112) ; r1#179 « Pas » (coupe 174) | mesure | basse | — |
+| R03 | Ne monter qu'en coupes franches (cut sec), sans fondu ni enchaîné | 36 coupes sur 36 de type « franche » | toute coupe | r1#719 « Maintenant, » (franche@719) ; r1#1888 « Bientôt » (franche@1888) | mesure | basse | — |
+| R04 | Dans une énumération, consacrer un plan très court à chaque élément | 5 plans < 1 s ; éléments de liste à 19 i (0.63 s) et 14 i (0.47 s) | liste de noms enchaînés par la voix | r1#1083 « bagagins, » (plan 1082-1100) ; r1#1106 « routes, » (plan 1101-1114) | mesure | basse | les plans 1288-1292 et 2198-2226 sont courts sans être des éléments de liste |
+| R05 | Réserver les plans longs (plus de 3 s) aux phrases de définition ou d'enchaînement causal, surtout dans le dernier tiers | 4 plans > 3 s : 4.03 s, 3.77 s, 3.83 s, 4.3 s ; 3 d'entre eux se suivent entre les images 1660 et 2016 | phrase explicative longue (« qui… », « puis… ») | r1#1347 « fabrique » (plan 1316-1436) ; r1#1761 « troisième. » (plan 1660-1772) ; r1#1905 « possède » (plan 1888-2016) | mesure | basse | — |
+| R06 | Insérer un plan flash juste avant la phrase-chute qui nomme le concept | 5 i (0.17 s), plan 1288-1292, suivi d'un plan de 23 i (0.77 s) | phrase de conclusion (« c'est ça le… ») | r1#1290 « 'est » ; r1#1299 « capitalisme. » | mesure | basse | — |
+| R07 | Caler la coupe sur l'attaque d'un mot, à 2 images près | écart coupe/mot médian 0.5 i ; 78 % des coupes à 2 i ou moins d'un mot | toute coupe | r1#493 « Ce » (coupe 493) ; r1#719 « Maintenant, » (coupe 719) ; r1#2145 « Devraient » (coupe 2145) | mesure | basse | r1#893 « ripare » (coupe 883, 10 i plus tôt) ; r1#2024 « Il » (coupe 2017) |
+| R08 | Laisser le premier mot de la phrase suivante démarrer 0 à 2 images avant la coupe, pour que l'image arrive sur un mot déjà lancé | écarts relevés : 111→112, 645→645, 836→837, 1149→1151, 1287→1288, 1611→1612 | fin de phrase et début de la suivante | r1#111 « tout » ; r1#836 « Le » ; r1#1611 « Le » | mesure | basse | r1#1653 « Donc » (coupe 1660, 7 i après) |
+| R10 | Remplacer environ une coupe sur six par une bascule de caméra (changement rapide de point de vue sans couper) | 6 bascules ; 0.81 / 10 s ; durée médiane 1 s (30 i) ; montée médiane 0.5 s (15 i) ; étendue de 0.43 s à 1.5 s | changement de point de vue à l'intérieur d'une même action | r1#849 « pointe, » (bascule 845-857, pic 849) ; r1#1275 « payer. » (bascule 1271-1284) | mesure | basse | — |
+| R11 | Déclencher la bascule au milieu d'une phrase, juste après le sujet, pour que la seconde moitié de la phrase arrive dans le nouveau point de vue | bascules qui commencent aux images 604, 845 et 1453, sur le 2e segment de la phrase | phrase « sujet + action » | r1#605 « à » (Léo passe une semaine / à construire) ; r1#845 « se » (Le gars / se pointe) ; r1#1454 « 'a » (Le serveur n / 'a jamais) | mesure | basse | r1#1205 « Chacun » et r1#1962 « Et » (bascules en début de phrase) |
+| R12 | Faire glisser lentement le décor vers la droite pour le révéler (observation non confirmée par la mesure) | — | plans de décor large | r1#968 « Léo » ; r1#1169 « planifié » | observation | basse | la mesure donne un pan de 0 % sur 36 plans sur 37 |
+| R13 | Monter en vertical | 9:16, 576 × 1024, 30 i/s | tout le film | r1#1 « Le » | mesure | basse | — |
+| R14 | Cadrer en plan moyen ou large, en légère plongée ou en vue aérienne, pour montrer un système entier plutôt qu'un individu | — | par défaut | r1#59 « serveur » (vue aérienne) ; r1#1944 « serveur. » (plan large aérien) | observation | basse | r1#652 « d » et r1#734 « produit » (gros plan sur le protagoniste, à l'annonce de sa propriété exclusive) |
+| R15 | Garder le même décor sur 3 à 5 plans de suite et ne changer que son état (constructions, ajouts, symboles) | plans 112-440 (5 plans) dans le même paysage | développement d'une même situation | r1#121 « partagé » ; r1#212 « magasins, » ; r1#255 « terre. » | observation | basse | — |
+| R16 | Sous-titrer la voix mot par mot, en sans-serif épais, en bas au centre ; réduire la taille du texte dans la seconde moitié | — | toute parole | r1#3 « capitalisme » ; r1#59 « serveur » ; r1#1406? — | observation | basse | à partir du moment 15 (image 837), sous-titres décrits comme « petits » |
+| R17 | Afficher le titre en grand, en haut du cadre, au premier plan, à la phrase-chute et au dernier plan | 3 apparitions : images 1-53, 1288-1315 et 2198-2226 | ouverture, définition, clôture | r1#3 « capitalisme » ; r1#1299 « capitalisme. » | observation | basse | — |
+| R18 | Représenter une notion abstraite (règle, droit, salaire) par une couche de petit texte dense qui s'accumule par-dessus l'image | — | mot désignant une règle ou un contrat | r1#479 « règle. » ; r1#522 « toi, » ; r1#921 « payé » | observation | basse | — |
+| R19 | Ajouter des compteurs chiffrés façon interface, en haut du cadre, qui montent ou descendent en même temps que le récit | — | phrase sur l'argent ou l'accumulation | r1#1552 « paie » ; r1#1587 « FK. » ; r1#1761 « troisième. » | observation | basse | — |
+| R20 | Passer d'une ambiance lumineuse à une autre (jour → nuit, extérieur → intérieur sombre) par une simple coupe franche, sans fondu | coupes franches aux images 1437 et 2017 | changement de partie du raisonnement | r1#1439 « Le » ; r1#2024 « Il » | observation (type de coupe mesuré) | basse | — |
+| R21 | Finir sur un plan titre muet, juste après la question finale | 29 i (0.97 s), images 2198-2226, aucun mot | question finale de la voix | r1#2196 « ? » | mesure | basse | — |
+| R22 | Montrer l'objet nommé dans le plan, à au plus 11 images du mot | écarts mot → image décrite : 11 i, 0 i, 1 i | chaque nom concret prononcé | r1#59 « serveur » (image 70) ; r1#182 « 'usines » (image 182) ; r1#212 « magasins, » (image 213) | observation | basse | — |
+| R23 | Traduire une négation ou une absence en ajoutant un symbole barré (croix) sur l'objet | — | « pas de… », « rien » | r1#179 « Pas » ; r1#212 « magasins, » | observation | basse | — |
+| R24 | Traduire un pluriel ou une abondance par la répétition du même objet en rangées | — | mot au pluriel dans une liste | r1#1083 « bagagins, » ; r1#1106 « routes, » | observation | basse | — |
+| R25 | Quand un personnage est nommé, le placer au centre du cadre dans les 1 à 3 images qui suivent | écarts relevés : 579→581, 968→969, 1895→1898 | prénom prononcé | r1#579 « Léo » ; r1#968 « Léo » ; r1#1895 « Léo » | observation | basse | — |
+| R26 | Illustrer une durée ou un effort par une construction qui avance étape par étape dans le plan | — | « 3 jours », « une semaine », « construire » | r1#296 « jours » ; r1#309 « construire » ; r1#610 « construire » | observation | basse | — |
+| R27 | Faire parler la voix presque sans interruption et à un débit rapide | 283 mots/min de voix ; voix présente 97 % du temps ; 338 mots | tout le film | r1#1777 « Les » ; r1#1811 « couvrent » | mesure | basse | 2198-2226 sans voix (plan de fin) |
+| R28 | Limiter les pauses entre phrases à environ 12-13 images ; ne jamais laisser de silence long | pause médiane 0.39 s (≈12 i) ; p90 0.42 s (≈13 i) | fin de phrase | r1#160 « vide. » ; r1#179 « Pas » | mesure | basse | — |
+
+## À vérifier (preuve ou valeur non retrouvée par le contrôle)
+
+| ID | règle | valeur | déclencheur | preuves | méthode | confiance | exceptions | problème |
+|---|---|---|---|---|---|---|---|---|
+| R01 | Tenir la plupart des plans autour de 55 images et les garder dans une fourchette de 23 à 113 images | médiane 1.83 s (55 i) ; p10 0.77 s (23 i) ; p90 3.77 s (113 i) ; 37 plans pour 74.21 s | durée par défaut de tout nouveau plan | r1#1 « Le » (plan 1-53, 1.77 s) ; r1#1777 « Les » (plan 1773-1887, 3.83 s) | mesure | basse | — | ⚠ valeur « médiane 1.83 s (55 i) ; p10 0.77 s (23 i) ; p90 3.77 s (113 i) ; 37 plans pour 74.21 s » : 74.21 introuvable(s) dans les mesures |
+| R09 | Garder la caméra fixe ou presque ; un mouvement réel doit rester inférieur à environ 6 % du cadre sur tout le plan | 37 plans sur 37 « fixe ou lent » ; le seul mouvement mesuré : pan 5.56 % (1.87 %/s), zoom −2.98 % (plan 352-440) | par défaut | r1#393 « vider. » (plan 352-440) | mesure | basse | r1#696 « termine » (zoom décrit sur le gros plan, mais 0 % mesuré) | ⚠ valeur « 37 plans sur 37 « fixe ou lent » ; le seul mouvement mesuré : pan 5.56 % (1.87 %/s), zoom −2.98 % (plan 352-440) » : 5.56 introuvable(s) dans les mesures |
+| R29 | Mixer la voix autour de −17.5 LUFS intégrés | −17.5 LUFS ; musique sous la voix non mesurée | mixage final | r1#1 « Le » | mesure | basse | — | ⚠ valeur « −17.5 LUFS ; musique sous la voix non mesurée » : 17.5 introuvable(s) dans les mesures |
+
+## Retenu depuis le studio (défaut -> cause -> correction)
+
+| ID | règle | valeur | déclencheur | preuves | méthode | confiance | exceptions |
+|---|---|---|---|---|---|---|---|
+

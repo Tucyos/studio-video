@@ -1,0 +1,81 @@
+{
+ "createur": "@leedeclic",
+ "nom_du_compte": "Ledéclic",
+ "lien": "https://www.tiktok.com/@leedeclic",
+ "genre": "da",
+ "origine": "Copiée de @leedeclic (TikTok)",
+ "auto": {
+  "titre": "Illustrations vectorielles plates en clair-obscur, avec un titre-thème fixe en haut et des sous-titres à mot surligné",
+  "famille": "2D vectorielle",
+  "en_bref": [
+   "Des dessins plats et simples, sans relief, avec un léger grain : un œil, un téléphone, une silhouette noire sous un cône de lumière, un verre, des cartes de couleur, puis un petit personnage façon dessin animé dans une pièce beige.",
+   "En haut de l'écran, le thème reste affiché du début à la fin : « LE VIOLET », avec en dessous une petite question en italique « (couleur des psychopathes ?) ». En bas, les sous-titres sont blancs et en gras, avec un mot clé coloré en orange ou en violet.",
+   "Le rythme est rapide : un nouveau plan toutes les 2,35 s environ, et une voix qui débite environ 240 mots par minute. Les coupes sont presque toutes franches, avec 3 flashs très courts de 5 à 7 images.",
+   "La caméra ne bouge presque pas. C'est le dessin lui-même qui s'anime : les couleurs changent, le liquide d'un verre passe du rouge au bleu puis au violet, une tête se fissure, des cartes se mettent à flotter.",
+   "Il y a une musique de fond régulière (environ 108 battements par minute), très présente sous la voix, et des petits bruitages dans les pauses, dont un gros « whoosh » ou clic juste avant la fin.",
+   "Ce qui la rend reconnaissable : une seule couleur-thème qui sert de fil rouge à toute la vidéo (le violet), le fond sombre et granuleux, et une question posée au spectateur à la fin."
+  ],
+  "tags": [
+   "2d vectorielle",
+   "flat design",
+   "clair-obscur",
+   "grain",
+   "sous-titres surlignés",
+   "psychologie",
+   "vulgarisation",
+   "couleur-thème"
+  ],
+  "pour": "La vulgarisation de psychologie ou de « fait troublant » autour d'une idée reçue (test, légende internet, trait de personnalité) qui se termine par une question personnelle au spectateur (« et toi ? »).",
+  "look": {
+   "technique": "Illustration 2D vectorielle plate (formes pleines, dégradés simples, contours rares), animée en motion design. Les outils ne sont pas visibles : les plus probables sont Illustrator ou Figma pour le dessin et After Effects pour l'animation. Les éléments animés sont des changements de teinte, des formes qui grandissent ou se fragmentent, et des objets qui apparaissent ou flottent. Le plan de la pyramide des années a été décrit comme un rendu 3D simple (non visible sur les images clés). Le fichier est en 9:16 (576×1024 analysé, source 1080×1920) à 30 i/s.",
+   "couleurs": "Fond principal noir chaud ou anthracite #121212 à #1a1a1a, avec un léger vignettage. Couleur-thème violet #8b5cf6 à #9933ff : le mot « VIOLET » du titre, la carte lumineuse, le liquide, le t-shirt du personnage, le dégradé de fond du téléphone (#b366d9 vers #6b4cc4). Accent orange #f5a03c à #e8892b pour le mot surligné des sous-titres et le tampon « 1947 ». Rouge #d63a2f à #d93838 pour l'alerte (carte « VIOLET = PSYCHOPATHE », cœur, verdict « JAMAIS PROUVÉ »). Beige sable #c9b48a pour le cône de lumière (projecteur). Brun foncé #2e2620 pour les fonds des scènes historiques. Gris bleuté #4a7c99 pour l'iris. Dans la partie « personnage » : papier peint beige rayé #e8e0d6, table brun-rouge #8a5a44, peau #f2d6c0, cheveux brun foncé #2b211c, joues roses. Polaroïds : ciel bleu #4a90e2, maison rouge #c94e23. Blanc #ffffff pour le texte.",
+   "typo": "Une grotesque sans empattement, moderne, en gras ou extra-gras (famille probable : Inter, Satoshi ou Manrope ; non identifiable avec certitude). Titre fixe en haut, centré, vers 13-15 % de la hauteur : « LE » en blanc et « VIOLET » en violet #8b5cf6, en capitales grasses. Juste dessous, une ligne en italique gris clair, petite et entre parenthèses : « (couleur des psychopathes ?) ». Sous-titres centrés vers 70-75 % de la hauteur, en gras blanc, sur 1 à 2 lignes, sans contour. Un mot clé par phrase est coloré (orange #f5a03c pour « couleur préférée », « troublantes », « psychopathe », « à ta place » ; violet pour « cache » ; rouge-orangé pour « légende »). Sur fond clair, le sous-titre passe en texte noir dans un rectangle blanc. Les sous-titres sont découpés et calés sur la diction (R18 : 1 à 3 mots par moment de diction ; les images montrent des groupes allant jusqu'à 2 lignes). Des étiquettes en capitales grasses nomment les concepts (« TEST DES COULEURS », « IMMATURE », « JAMAIS PROUVÉ »). Les dates sont écrites en chiffres dans un tampon orange penché, avec contour en double trait façon tampon encreur (« 1947 »). L'animation d'entrée des sous-titres n'est pas visible sur les images fixes.",
+   "rendu": "Aplat mat, sans ombre portée réaliste. Grain ou bruit fin sur toute l'image et vignettage léger qui assombrit les bords. La lumière est mise en scène par un cône beige façon projecteur sur fond sombre (scènes 1947 et test). Halo lumineux (glow) violet autour de la carte « cachée ». Reflets simples : point blanc dans l'œil, filet blanc sur le bord du verre. Craquelures blanches dessinées pour figurer la glace. Fins vaisseaux rouges dans le blanc de l'œil. Texture de tampon encreur sur la date.",
+   "personnages": "Deux registres. 1) Silhouettes noires pleines, anonymes : un homme assis à une table, de profil, avec un seul œil rond blanc (le psychothérapeute) ; une main ; une tête noire de profil plongée dans le verre ; une foule de silhouettes en pied. 2) Après la coupe « Pourtant », un personnage cartoon simple, de face, coupé à la taille derrière une table : tête ronde, cheveux bruns courts, joues roses, petits yeux, sourire ou yeux fermés, t-shirt violet puis orange. Il représente le spectateur (« toi »). Pas de décor détaillé autour de lui.",
+   "decors": "Fond noir uni et granuleux pour les gros plans d'objets (œil, carte, verre). Pièce sombre brune éclairée par un cône de lumière beige pour la partie historique (1947, test). Fond dégradé violet derrière un téléphone noir (interface de réseau social inventée : pseudo « @verite_choc », carte rouge « VIOLET = PSYCHOPATHE », cœur « 2,1 M »). Pyramide des années (2026 → 1947), décrite mais non visible sur les images clés. Pour la partie « toi » : papier peint beige à rayures verticales, table en bois brun au premier plan, dé blanc, polaroïds flottants (gâteau d'anniversaire, maison rouge, mer et soleil, nuage). Fin : nuancier de 8 carrés de couleur.",
+   "mouvement": "Caméra quasi fixe (88 % des plans fixes ou lents, aucun panoramique). Il y a seulement un zoom avant léger (92-133) et deux zooms arrière légers (368-437, 629-680). Le mouvement vient de l'intérieur du dessin : teintes qui glissent (yeux bleus qui deviennent violets, liquide rouge → bleu → violet), forme qui grandit jusqu'à remplir environ 90 % du cadre, tête qui se fragmente, cartes qui flottent ou orbitent, bulle qui pulse. 24 plans en 54,6 s (4,21 coupes / 10 s). Plan médian 2,35 s, p10 0,23 s, p90 3,43 s. 21 coupes franches sur 23, 2 fondus réservés aux changements d'univers (images 92 et 253). Coupes sur l'attaque d'un mot (écart médian 0 image), avec le premier mot de la phrase suivante qui démarre 0 à 2 images avant la coupe. 3 flashs de 5 à 7 images, dont un carton-verdict muet « JAMAIS PROUVÉ » (1210-1216). Plan long de 8 s pour l'énumération rouge / bleu / violet. Les 2 derniers plans sont plus longs (3,37 s et 3,43 s).",
+   "son": "Voix off en français, très rapide (240 mots par minute de voix), présente 86 % du temps, ton de conteur qui pose des questions (« Et c'est peut-être la tienne », « Alors, c'est quoi la tienne ? »), avec un tutoiement direct. Les mesures ne permettent pas de dire si la voix est humaine ou de synthèse. Brillance de la voix d'environ 1447 Hz. Une musique est probable : battement très régulier (0,93) à environ 108 BPM, 33 % de part percussive, aucun changement de musique détecté. Le fond est quasiment au niveau de la voix (voix -8,9 dB, fond -9,7 dB). Le genre musical n'est pas identifiable. Le mix est fort (-10,6 LUFS). 15 bruitages probables dans les pauses de la voix, de timbre médium, plus un aigu (clic ou whoosh) à 35,55 s, et un gros impact à 52,85 s puis un aigu très fort à 53,85 s, juste avant la fin. Pauses courtes entre les phrases (médiane 0,46 s, p90 0,54 s) et un silence final de 1,65 s à 52,94 s, sur le « ? »."
+  },
+  "pour_refaire": [
+   "Écrire un script d'environ 190 mots pour environ 55 s, en phrases courtes et au tutoiement. Structure : accroche choc au conditionnel + « Et c'est peut-être la tienne/toi » → « ça ressemble à une légende d'internet, mais… » → origine datée (personne, pays, année) → ce que dit la théorie → énumération en 3 temps (A, B, puis « les deux en même temps ») → retournement « Sauf que personne n'a jamais réussi à le prouver » → « Pourtant… » ramené au spectateur → question finale « Alors, c'est quoi le/la tien(ne) ? ».",
+   "Choisir une couleur-thème unique liée au sujet (ici le violet #8b5cf6) et la faire revenir dans chaque plan : objet, liquide, vêtement, halo, mot du titre.",
+   "Préparer un gabarit 1080×1920 avec le titre fixe en haut (« LE + MOT-THÈME » en grotesque extra-grasse, mot-thème en couleur-thème) et la question en italique gris entre parenthèses en dessous. Ajouter un grain et un vignettage léger permanents.",
+   "Dessiner en vectoriel plat, en deux univers : (a) fond noir ou brun sombre, silhouettes noires et cône de lumière beige pour l'enquête et l'histoire ; (b) personnage cartoon simple devant un papier peint beige rayé et une table brune pour la partie « toi ». Passer de (a) à (b) au mot « Pourtant ».",
+   "Pour chaque phrase, illustrer le nom concret au moment où il est dit, et traduire chaque idée abstraite en un objet simple : légende → téléphone avec faux post viral ; hasard → dé ; réalité → porte ; souvenirs → polaroïds ; esprit → tête dans un verre.",
+   "Dans les plans d'explication, centrer un seul objet qui occupe 60 à 80 % du cadre. Alterner les échelles d'un moment à l'autre (gros plan → large → plan moyen).",
+   "Animer à l'intérieur du plan plutôt que couper : glisser les teintes, remplir ou vider un liquide, faire grandir une forme jusqu'à environ 90 % du cadre sur le mot de révélation, fragmenter une forme sur une phrase négative.",
+   "Pour une énumération, garder un seul plan fixe (jusqu'à 8 s) et faire une étape visuelle par élément, sans coupe : rouge, puis bleu, puis mélange violet.",
+   "Poser une étiquette en capitales grasses sur l'objet pour nommer un test, un trait ou un verdict. Écrire les dates en chiffres dans un tampon encreur orange penché.",
+   "Sous-titres en gras blanc, centrés vers 72 % de la hauteur, découpés en petits groupes calés sur la diction, avec 1 mot clé par phrase en orange (#f5a03c) ou en couleur-thème. Sur fond clair, placer le texte noir dans un rectangle blanc.",
+   "Monter avec un plan médian d'environ 2,3 s (environ 70 images), en dépassant rarement 3,4 s, avec des coupes franches sur l'attaque d'un mot. Laisser démarrer le premier mot de la phrase suivante 0 à 2 images avant la coupe.",
+   "Insérer 2 à 3 flashs de 5 à 7 images : sur un mot charnière, et un carton-verdict muet de 7 images (texte blanc sur cartouche rouge, par ex. « JAMAIS PROUVÉ ») juste après la phrase choc.",
+   "Réserver les fondus aux 1 ou 2 changements d'univers visuel. Garder un élément d'ancrage (même silhouette, même verre, même personnage) sur 3 à 4 plans de suite.",
+   "Son : voix off très rapide (environ 240 mots par minute), pauses de 0,4 à 0,5 s entre les phrases, musique régulière autour de 108 BPM mixée presque au niveau de la voix, petits bruitages dans les pauses, gros impact puis whoosh aigu juste avant la fin. Viser un niveau final autour de -10,5 LUFS.",
+   "Boucler : le dernier plan (environ 3,4 s, plus long) reprend un visuel du début (le nuancier) et se termine sur un « ? » isolé à l'écran, avec un silence d'environ 1,6 s."
+  ],
+  "apercu": [
+   "refs/r1/images/00065.jpg",
+   "refs/r1/images/00228.jpg",
+   "refs/r1/images/00331.jpg",
+   "refs/r1/images/00548.jpg",
+   "refs/r1/images/00722.jpg",
+   "refs/r1/images/01136.jpg",
+   "refs/r1/images/01253.jpg",
+   "refs/r1/images/01485.jpg"
+  ],
+  "regles": 25,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-leedeclic\\sources\\TikTok_7696437104099822880.mp4",
+    "duree": 54.6,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "Les psychopathes auraient tous la même couleur préférée… 🟪 Et c'est p...",
+    "vues": 3000000,
+    "lien": "https://www.tiktok.com/@leedeclic/video/7696437104099822880"
+   }
+  ]
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "createur": "@potatocrimesofficial",
+ "nom_du_compte": "Potato Crimes",
+ "lien": "https://www.tiktok.com/@potatocrimesofficial",
+ "genre": "da",
+ "origine": "Copiée de @potatocrimesofficial (TikTok)",
+ "auto": {
+  "titre": "Satire d'actualité en 3D cartoon « toon » avec décors-panneaux et compteurs de prix",
+  "famille": "3D stylisée",
+  "en_bref": [
+   "Ce sont des petits films d'animation en 3D façon dessin animé (personnages aux gros yeux ronds, couleurs vives, ombres en aplats) qui racontent un fait d'actualité politique sous forme de fable ironique.",
+   "Le rythme est très rapide : un plan dure en moyenne 0,67 s, aucun ne dépasse 3 s, et la caméra fait des zooms brusques ou des bascules (environ 4 toutes les 10 s) pour relancer sans couper.",
+   "Une voix off raconte sans presque jamais s'arrêter (259 mots par minute, voix présente 96 % du temps), en anglais, sur un ton faussement neutre qui finit en chute ironique. On entend probablement une musique rythmée très basse (≈129 BPM) et quelques bruitages courts dans les pauses.",
+   "Chaque idée est montrée littéralement : le mot-clé est écrit en grosses capitales dans le décor (panneau « STRAIT OF HORMUZ », bouton « IRAN », pancarte « I.O.U. DIESEL », citerne « EMPTY »), et les prix s'emballent sur des compteurs géants jaunes.",
+   "Ce qui la rend reconnaissable : des caricatures de dirigeants qui changent de costume selon la situation (casque de chantier, chapeau de fête), un « citoyen moyen » en sweat vert qui subit les conséquences, de petits sous-titres jaune pâle au milieu bas de l'image, et une fin sur un carton noir silencieux."
+  ],
+  "tags": [
+   "satire politique",
+   "3d cartoon",
+   "toon shading",
+   "actualité expliquée",
+   "montage rapide",
+   "compteur de prix",
+   "voix off dense",
+   "ironie"
+  ],
+  "pour": "Expliquer en 60 à 75 s une chaîne de cause à effet d'actualité (décision politique → crise → impact sur le portefeuille du spectateur), avec un angle satirique et une chute ironique",
+  "look": {
+   "technique": "Animation 3D stylisée : modèles simples aux formes arrondies, rendu en ombrage « toon » (2 à 3 tons d'aplat, ombres douces), perspective et volumes réels visibles sur les images (pompe à essence, citerne, bureau). L'analyse automatique a parlé de « 2D vectorielle », mais les images clés montrent clairement de la 3D. Outils probables : un logiciel 3D avec shader toon (Blender ou équivalent), non confirmé. Les textes du décor (panneaux, pancartes, compteurs) sont modélisés ou plaqués comme des objets de la scène. Montage avec sous-titres automatiques. Vertical 9:16 (720×1280), environ 30 images/s (2193 images pour 73 s).",
+   "couleurs": "Palette saturée de type jouet, sur ciel clair. Bleu ciel ≈#5DB3E8 (ciel, eau, fond dominant) ; bleu marine ≈#1F3A7A (costume du dirigeant, panneau de prix, drapeau) ; rouge vif ≈#E0403A (cravate, pompe, bouton « IRAN », mot « EMPTY », casquette, pancartes d'alerte) ; jaune d'or ≈#F5C842 (cheveux caricaturés, chiffres des prix sur fond sombre, casque de chantier) ; vert panneau routier ≈#2E9E5B (panneau « STRAIT OF HORMUZ ») ; vert sweat ≈#3FA36B (le citoyen) ; bois caramel ≈#C8874A (bureau présidentiel) ; crème/ivoire ≈#F3E6C8 (rideaux, sable) ; gris clair ≈#D3D3D3 (cheveux vieillis, citerne métal) ; bleu roi ≈#2F5DB8 (texte « I.O.U. DIESEL », panneau diesel) ; rose ≈#FF69B4 (cadeaux, ambiance anniversaire) ; noir #000000 (carton final seulement). Rôles : rouge = danger, alerte, interdiction ; jaune sur fond sombre = argent et prix ; vert/bleu = décor neutre.",
+   "typo": "1) Mots dans le décor : sans-serif très grasse en CAPITALES, un peu arrondie ou géométrique (famille probable : Futura Bold, Montserrat ExtraBold, Fredoka Bold ; non confirmé), blanc sur vert (panneau routier), blanc sur rouge (bouton), bleu sur blanc (pancarte), rouge sur métal (EMPTY). Entre 1 et 4 mots, centrés et cadrés serrés pour dominer l'image. 2) Compteurs de prix : chiffres jaunes très gras style afficheur (« $98.40 », « 2.21 ») sur fond bleu nuit ou noir, en haut de l'image, qui montent en continu pendant le plan. 3) Sous-titres : très petits (environ 3 % de la hauteur de l'image), sans-serif semi-grasse, blanc à jaune pâle avec un léger contour ou une ombre sombre, centrés horizontalement vers 70 % de la hauteur (et non tout en bas). Sur les images, ils s'affichent par groupes de 2 ou 3 mots (« to bomb Iran », « also known as », « in forty years ») ; d'après les mesures, la synchro est faite mot à mot, sans animation d'entrée visible. 4) Carton final : petit texte pâle sur fond noir.",
+   "rendu": "Ombrage toon propre, sans grain ni texture. Matières lisses et mates (plastique, bois simplifié, métal gris uni). Lumière de jour vive et frontale, ombres courtes et douces. Peu ou pas de contours noirs sur les objets 3D. Décors simplifiés mais lisibles (rayons de supermarché avec étiquettes de prix, citerne rivetée, pompe à essence). Un flou d'arrière-plan est décrit sur certains gros plans (cadeaux flous derrière le visage). Aucun effet de type glitch ou filtre visible.",
+   "personnages": "Caricatures rondes en 3D : grosses têtes, grands yeux blancs ronds à pupille noire, nez arrondi, peau hâlée, mains à 4 ou 5 doigts épais. 1) Le dirigeant caricaturé : cheveux jaune-orange en volute, costume bleu marine, cravate rouge. Il change d'accessoire selon le rôle : casque de chantier jaune pour vider la réserve, chapeau de fête pour l'anniversaire, tenue militaire verte. Il vieillit d'un plan à l'autre (cheveux gris, rides) pour dire « plus tard » ou « épuisé ». 2) L'autre dirigeant : chauve, teint pâle, yeux fermés et sourire satisfait, chapeau de fête bleu et jaune. 3) Le citoyen moyen, qui représente le spectateur : cheveux bruns en épis, sweat vert à capuche, pantalon de pyjama rayé bleu et blanc, chaussures jaunes. Il réagit de façon exagérée (mains sur la tête, bouche ouverte devant le prix). 4) Des métiers-types : routier barbu en chemise à carreaux rouge avec casquette rouge, soldats, serveur. Expressions très lisibles, gestes amples, poses de réaction.",
+   "decors": "Lieux-symboles immédiatement reconnaissables, chacun associé à un mot du texte : bureau présidentiel (rideaux crème, drapeaux, sceau étoilé sur le bureau) ; détroit avec panneau routier vert géant, navires et plage ; station-service avec pompe rouge et afficheur de prix ; supermarché aux étiquettes de prix multipliées ; citerne de réserve d'urgence marquée « EMPTY » ; calendrier « NOVEMBER / ELECTION DAY » ; salle de fête avec gâteau, bougies et cadeaux ; bâtiment officiel devant une foule ; pancartes « NO RUSSIAN OIL », « SANCTIONS », « HELP WANTED: PRESIDENT OF UKRAINE ». Ciel bleu presque toujours présent.",
+   "mouvement": "Caméra : fixe ou lente 61 % du temps, zoom arrière 24 %, zoom avant 14 %, panoramique 1 %. 30 bascules de caméra (4,1 par 10 s) : départ sec (montée ≈3 images), glissement court (≈17 images), pic calé sur le mot accentué. Montage : 88 plans en 73 s (11,9 coupes par 10 s), médiane 0,67 s, maximum 2,83 s, 58 plans sous 1 s. 78 coupes franches pour 9 coupes douces, réservées au changement d'échelle dans un même décor. Les coupes tombent sur un mot (écart médian d'1 image). Rafales de micro-plans (5 à 10 images) pour détacher une formule mot par mot. Alternance des échelles plan moyen → gros plan → plan large. Effets animés dans le plan : chiffres qui grimpent, documents qui tombent, cadeaux qui pleuvent, jauge qui se remplit. Fin : fondu au noir puis carton noir de 20 images.",
+   "son": "Voix off en anglais, débit très rapide (259 mots/min), quasi continue (96 % du temps), niveau ≈-14,4 dB, timbre plutôt clair (brillance ≈1611 Hz). Pauses courtes et régulières (médiane 0,4 s). Voix humaine ou synthétique : non déterminable avec ces données. Ton de conteur pince-sans-rire, phrases construites en « So… / And… / Well… ». Musique probable : pulsation régulière ≈129 BPM (régularité 0,93), surtout percussive (78 %), très basse sous la voix (fond ≈-28,2 dB, partie harmonique ≈-36,6 dB). Changements musicaux vers 46,9 s, 48,9 s et 70,9 s. Genre exact : non déterminable. Bruitages dans les pauses : 11 détectés, surtout aigus (clic, whoosh ou cloche), à 3,5 s, 5,9 s, 16 s, 23,8 s, 45,8 s, 61,2 s, et un impact très fort à 72,3 s sur la fin. Silences : 0,33 s à 5,7 s, puis 1,37 s à la fin (carton noir). Intensité globale : -13,4 LUFS."
+  },
+  "pour_refaire": [
+   "Écrire le script en une chaîne causale de 250 à 300 mots (≈70 s) : phrase-accroche paradoxale qui résume tout → retour en arrière daté (« Back in [mois]… ») → avertissement ignoré → « Well, they did. » → conséquence pour le spectateur (« you ») → tentative de solution absurde → chiffre qui ridiculise le résultat → rebondissement → chute ironique adressée au spectateur.",
+   "Repérer dans chaque phrase le mot-clé (lieu, état, montant, interdiction, date) et prévoir pour lui un objet du décor portant ce mot en CAPITALES grasses (panneau, bouton, pancarte, citerne, calendrier).",
+   "Modéliser les personnages en 3D toon : grosses têtes, grands yeux ronds, couleurs franches. Prévoir des variantes d'accessoires (casque, chapeau de fête, tenue militaire) et des versions vieillies pour le personnage principal, plus un « citoyen moyen » qui représente le spectateur (à dessiner vous-même, ne pas copier celui du créateur).",
+   "Construire une bibliothèque de décors-symboles simples sous ciel bleu (bureau officiel, station-service, supermarché, site industriel, salle de fête, bâtiment officiel) en rendu toon : lumière de jour, aplats, pas de texture.",
+   "Enregistrer la voix off d'un trait, au débit très rapide (≈260 mots/min), ton neutre et sec. Pauses de 0,4 s maximum, sauf 14 à 15 images de silence juste avant chaque chute ironique (« Well they did », « And it was a lovely call »).",
+   "Découper le montage en plans courts : médiane ≈0,67 s (20 images à 30 i/s), jamais plus de 3 s. Réserver les plans de 2 à 3 s aux phrases narratives complètes, dites d'un souffle.",
+   "Caler chaque coupe à 1 ou 2 images d'un mot. Isoler les mots-chocs (pays, montant, verbe-pivot) dans un plan à eux seuls de 7 à 22 images, et monter les formules ironiques en rafale de 3 micro-plans de 5 à 10 images.",
+   "Alterner les échelles d'un plan au suivant (plan moyen buste frontal → gros plan sur le mot écrit → plan large). Revenir régulièrement au plan moyen frontal du personnage principal.",
+   "Ajouter dans les plans environ 4 bascules de caméra toutes les 10 s (départ en 3 images, glissement de ≈17 images), avec le pic sur le mot accentué. Utiliser surtout des zooms arrière pour révéler l'ampleur (gros plan sur « EMPTY » puis toute la citerne) et des zooms avant pour faire lire un panneau.",
+   "Pour tout ce qui parle d'argent, animer un compteur de prix jaune très gras en haut de l'image, qui grimpe pendant tout le plan (par ex. de $0.00 à $450.14), et faire réagir le citoyen moyen de façon exagérée.",
+   "Montrer littéralement chaque nom concret ou verbe d'action au moment où il est dit (« dropped » = des documents qui tombent, « birthday » = des bougies qu'on souffle, « present » = une pluie de cadeaux).",
+   "Couper presque toujours en coupe franche. Garder les coupes douces pour passer d'une échelle à une autre dans un même décor.",
+   "Incruster les sous-titres en petit (≈3 % de la hauteur), sans-serif semi-grasse blanc ou jaune pâle avec une ombre fine, centrés vers 70 % de la hauteur, par groupes de 1 à 3 mots synchronisés sur la voix.",
+   "Mixer la voix vers -14 dB, une musique à pulsation régulière (≈130 BPM) très en dessous (vers -28 dB), et des bruitages aigus courts (whoosh, clic) seulement dans les pauses. Viser environ -13 LUFS au total.",
+   "Terminer par un fondu au noir et un carton noir de 20 images, sans voix, avec la dernière phrase en petit texte pâle. Placer un bruitage fort pile sur la fin."
+  ],
+  "apercu": [
+   "refs/r1/images/00166.jpg",
+   "refs/r1/images/00378.jpg",
+   "refs/r1/images/00594.jpg",
+   "refs/r1/images/00882.jpg",
+   "refs/r1/images/01086.jpg",
+   "refs/r1/images/01415.jpg",
+   "refs/r1/images/01686.jpg",
+   "refs/r1/images/02087.jpg"
+  ],
+  "regles": 24,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-potatocrimesofficial\\sources\\TikTok_7696273583672249608.mp4",
+    "duree": 73.09,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "Trump ran America out of oil… and now he's making deals with Putin to...",
+    "vues": 2300000,
+    "lien": "https://www.tiktok.com/@potatocrimesofficial/video/7696273583672249608"
+   }
+  ]
+ }
+}

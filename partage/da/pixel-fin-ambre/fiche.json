@@ -1,0 +1,30 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Koan)",
+ "id": "pixel-fin-ambre",
+ "titre": "Pixel fin ambré, décors en coupe",
+ "famille": "Pixel art",
+ "statut": "validée",
+ "compte": "Koan",
+ "verdict": "18/10 : « la DA de base en ambre, avec un pixel plus fin » ; Noam valide le niveau de détail mais veut « plus de trucs, pas qu'une personne ». Variante menthe non retenue.",
+ "utilisee": [
+  "ordre-de-naissance",
+  "procrastination"
+ ],
+ "look": {
+  "couleurs": "la grammaire du pixel rose, recolorée en ambre (ou menthe) sur anthracite",
+  "rendu": "pixel fin (1 pixel = 9 px) avec formes ombrées et tramage ; chaque lieu est une maison de poupée en coupe"
+ },
+ "exemples": [
+  "exemples/01_cover.png",
+  "exemples/02_hook_base_ambre_hd.mp4",
+  "exemples/03_planche_base_ambre_hd.png",
+  "exemples/04_cover.png",
+  "exemples/05_planche_base_menthe.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/videos/Koan/_bibliotheque-da/README.md",
+  "C:/claude/tiktok-motion/videos/Koan/ordre-de-naissance/scenes/pixfin.js",
+  "C:/claude/tiktok-motion/videos/Koan/ordre-de-naissance/scenes/da_base.js"
+ ]
+}

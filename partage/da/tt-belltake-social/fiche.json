@@ -1,0 +1,89 @@
+{
+ "createur": "@belltake.social",
+ "nom_du_compte": "Belltake Social",
+ "lien": "https://www.tiktok.com/@belltake.social",
+ "genre": "da",
+ "origine": "Copiée de @belltake.social (TikTok)",
+ "auto": {
+  "titre": "Illustration éditoriale à plat, façon dossier d'enquête : documents, étiquettes de prix, cartes et cartons rouges numérotés",
+  "famille": "Papier et illustration",
+  "en_bref": [
+   "On dirait un dossier d'enquête illustré qu'on feuillette. Les fonds sont couleur papier (gris beige) ou presque noirs. Dessus, il y a des dessins au trait, des étiquettes de prix en papier, des tampons rouges, des cartes vues du dessus et des formulaires.",
+   "Le texte est un sous-titre en gros caractères à empattements, en gras, placé dans le bas de l'écran. Les mots s'ajoutent un par un. Un seul mot-clé passe en rouge (ou en orange saumon sur fond noir), et chaque chiffre a sa propre étiquette en papier en haut de l'écran.",
+   "Deux rythmes coexistent. La version liste (« Step 1 » à « Step 13 », 2 min 45) enchaîne de nombreux plans très courts et des plans longs qui zooment doucement. Chaque étape s'ouvre sur un carton rouge plein écran avec un énorme chiffre crème. La version explication (56 s) garde presque toujours le même plan, qui glisse lentement.",
+   "La voix, en anglais, est rapide (206 à 253 mots par minute) et parle les trois quarts du temps. Elle est posée sur une musique régulière à 112-118 BPM, avec des petits clics et whooshs dans les pauses. Le mixage est autour de −17 LUFS.",
+   "Ce qui la rend reconnaissable : le chiffre-choc du début, le mot rouge dans le sous-titre, le carton rouge « STEP N » et la petite ligne de source en police machine à écrire sur chaque étiquette. Le ton est froid et ironique, et chaque affirmation est sourcée dans la description."
+  ],
+  "tags": [
+   "illustration éditoriale",
+   "infographie",
+   "économie de guerre",
+   "cartons numérotés",
+   "sous-titres mot à mot",
+   "papier",
+   "data-journalisme"
+  ],
+  "pour": "Les explications chiffrées et sourcées sur l'argent derrière l'actualité (géopolitique, guerre, industrie, finance, retraites) : comparer des coûts, suivre des flux d'argent, montrer qui profite. Ça marche en liste satirique d'étapes (« comment gagner de l'argent avec X ») comme en démonstration courte à partir d'un seul calcul.",
+  "look": {
+   "technique": "Illustration 2D vectorielle animée (outil probable : After Effects ou équivalent, non visible). Elle est mélangée avec des éléments qui ont l'air en 3D : conteneurs, drones vus du dessus, explosions décrites comme « 3D rendu ». Sur les images clés, tout a un rendu plat : aplats et contours au trait. Les objets sont des découpes posées sur un fond : barils noirs avec un nom de compagnie au pochoir, étiquettes de prix comme des tickets de caisse, tampon « RECORD », règle graduée verticale avec des années (1970 à 2000) et le gros chiffre « 2006 », annotations manuscrites (« grandchildren », « great-grandc »). Les cartes sont des infographies vues du dessus. Les formulaires et documents sont des faux papiers (« THE GREAT TRUST », « How should your savings be invested? »). La caméra est virtuelle : zooms et glissements dans une grande composition.",
+   "couleurs": "Version claire (r1) : fond papier gris beige ~#C9C4BA à #D8D3C8 ; documents crème ~#F5F5DC ; texte et barils noir ~#1E1E1E / #333333 ; rouge brique d'accent ~#C0392B (montants, tampons, mot-clé du sous-titre) ; surlignage jaune ~#FFFF00 sur les termes d'argent des documents ; doré ~#FFD700 pour une médaille ou un sceau. Cartons de chapitre : fond rouge brique plein ~#BF3326 (décrit #DC143C), texte crème ~#F5EFE3. Carte de Gaza : gris foncé ~#2F4F4F avec des bâtiments gris ~#696969. Version sombre (r2) : fond anthracite chaud ~#2B2826 / #1A1A1A, mer noire striée de traits blancs, dessins au trait blanc ~#FFFFFF, doré sable ~#C9A961 ; explosions rouge ~#FF5533, orange ~#FF8833, jaune pâle ~#FFDD77 et crème, contour noir ; mot-clé du sous-titre en orange saumon ~#E8735A. Carte claire de r2 : blanc cassé ~#E8E8E0 avec encre ~#333333.",
+   "typo": "Sous-titres : serif à empattements très gras, à fort contraste (famille probable proche de Recoleta, Tiempos ou Source Serif en Black, non vérifiable). Noir sur fond clair, blanc sur fond sombre, sans contour. Sur les cartons rouges, le sous-titre (« Step one: », « Step twelve: ») est noir avec un fin contour blanc. Le sous-titre est aligné à gauche ou centré, vers 65-75 % de la hauteur (au-dessus de la zone basse), sur 1 ou 2 lignes. Les mots s'ajoutent un par un ; un seul mot-clé est en rouge brique (r1, ex. « great-grandkids », « re… ») ou en orange saumon (r2, ex. « hundred »), parfois en gras (« hunt »). Cartons de chapitre : « STEP » en sans-serif gras, en capitales crème, souligné d'un trait, en haut à gauche ; le numéro en sans-serif extra-gras géant, crème, à droite (il occupe environ un tiers de la hauteur). Repère permanent : « STEP 5 » ou « STEP 8 » en petite sans-serif noire grasse, en capitales, en haut à droite. Étiquettes de prix (r2) : rectangle crème avec un intitulé en serif petit (« Sting interceptor drone », « Yolka, Russia's interceptor drone »), le montant en serif gras rouge (« ≈ $2,000 ») ou noir (« price not public »), et une ligne de source en police machine à écrire minuscule (« no warhead · Euronews, 2026 »). Montants en serif rouge à côté des objets (« $27.7 bn » à « $59.1 bn »). Tampon « RECORD » en capitales rouges détourées et inclinées. Annotations en écriture manuscrite cursive.",
+   "rendu": "Rendu plat et éditorial : aplats, traits d'encre réguliers, ombres simples sous les objets. Le fond papier est uni, peut-être légèrement texturé (non visible clairement). Les explosions sont stylisées en fleurs d'aplats (rouge, orange, crème) cernées de noir, avec des débris carrés et des petits traits de vitesse. Sur fond sombre, de la pluie ou des traits de vitesse blancs en diagonale. Les cartes claires ont des cratères en ellipses grises, des troncs noirs et un tracé de front en zigzag noir épais. Les documents reçoivent un surlignage jaune et des tampons. D'après les descriptions, effet glitch et scintillement sur les cartons « STEP 13 » et « LAST STEP » (texte presque illisible). Le carton « STEP 1 » et le carton « STEP 12 » visibles sur les images clés sont propres, sans glitch.",
+   "personnages": "Aucun personnage humain visible. Les humains sont seulement évoqués par la voix (« the nurse, the teacher, the man who drives the bus ») ou par leurs papiers (formulaire de retraite). Les sujets sont des objets : missiles, drones vus du dessus ou de profil, navires en silhouette, barils, conteneurs.",
+   "decors": "Pas de décor réaliste : de grandes surfaces abstraites. Fond papier gris beige pour les objets et les documents ; mer noire striée vue en plongée ou de face (r2) ; cartes infographiques vues du dessus (côtes, Kyiv, Crimée, Gaza avec silhouettes de bâtiments, ligne de front) ; plaine claire criblée de cratères ; pleins écrans rouges pour les chapitres ; formulaires et infographies (« Who profits most from war? ») en fin de vidéo.",
+   "mouvement": "Version liste (r1) : 56 plans, médiane 1,05 s, des plans très courts (p10 0,3 s) et des plans longs (p90 9,47 s), environ 3,3 coupes et 2,8 bascules de caméra toutes les 10 s. La caméra fait surtout des zooms arrière lents (41 %) ; sinon fixe ou lente (39 %), zoom avant (16 %), panoramique (4 %). Sur les plans longs, le zoom reste sous ~8 %/s. Version explication (r2) : 8 plans, médiane 3,3 s, dont un plan de 32,9 s ; 88 % fixe ou lent, avec des panoramiques horizontaux réguliers et un zoom très lent (~1 %/s). Bascules de caméra (glissement brusque dans le même décor) : départ rapide en 0,2 s puis ralenti, 0,4 à 0,6 s au total, lancées 0 à 1 image avant un mot. Coupe franche presque toujours (48 sur 55 et 7 sur 7). La coupe douce sert quand une phrase continue d'un plan à l'autre. Les coupes tombent 0 à 1 image avant un mot, et l'image d'un nom concret arrive dans les 5 images qui suivent ce mot.",
+   "son": "Voix off en anglais, ton posé, froid et ironique. On ne sait pas si c'est une voix humaine ou une voix de synthèse. Débit rapide : 253 mots/min (r1), 206 mots/min (r2). Elle parle environ 75 % du temps, avec des pauses courtes (médiane 0,44 à 0,64 s). Le texte de r1 est écrit en vers rimés, façon rap (« son / run », « price / … », hashtag #rap). Musique probable sous la voix, battement très régulier : 117,5 BPM et 56 % de percussions (r1) ; 112,3 BPM (r2). Fond 11,4 dB sous la voix en r1, seulement 5,2 dB en r2 (musique plus présente). Bruitages dans les pauses : 108 en r1, surtout des aigus (clics, whooshs, cloches) et des médiums ; 16 en r2, dont un impact grave à 46,6 s. Sonie intégrée −17,3 et −17,2 LUFS. r2 démarre sur ~2 s sans voix ; les deux vidéos finissent sur quelques secondes de silence vocal (3,55 s en r1)."
+  },
+  "pour_refaire": [
+   "Écrire le texte avant tout. Une accroche d'une seule phrase, un chiffre ou une question qui provoque (« So you want money from war? », « That missile cost about $2 million. »). Ensuite, des phrases très courtes et sèches, au ton ironique, avec un chiffre sourcé presque à chaque phrase. Option : une liste numérotée « Step 1… Step N… Last step? », éventuellement rimée. Finir par une phrase qui retourne la situation contre le spectateur ou qui boucle (« Odds are you're one of us. », « …and the sum starts again. »). Lister toutes les sources dans la description.",
+   "Enregistrer la voix en anglais à 200-250 mots/min, ton calme et détaché, pauses de 13 à 19 images (jamais plus de ~26). La voix doit occuper environ 75 % de la durée. Premier mot avant 2,1 s.",
+   "Créer un projet 576×1024 (ou 1080×1920), 30 i/s, format 9:16.",
+   "Choisir la palette selon le sujet : fond papier gris beige ~#C9C4BA avec noir et rouge brique ~#C0392B, ou fond anthracite ~#2B2826 avec traits blancs, doré ~#C9A961 et orange saumon ~#E8735A. Une seule couleur d'accent par vidéo.",
+   "Dessiner les éléments en illustration plate. Objets cernés d'un trait noir ou blanc ; documents crème ; étiquettes de prix (intitulé en serif, montant en serif gras rouge, ligne de source en police machine à écrire) ; tampons rouges inclinés ; annotations manuscrites ; cartes vues du dessus. Explosions en fleurs d'aplats rouge, orange et crème, cernées de noir. Pas de personnages.",
+   "Poser chaque scène comme une grande composition dans laquelle la caméra virtuelle se promène. Tout ce qui parle de lieux, de trajectoires ou de quantités se montre en vue de dessus, la carte remplissant le cadre.",
+   "Pour la version liste, créer le carton de chapitre : plein écran rouge ~#BF3326, « STEP » en sans-serif grasse en capitales crème soulignée en haut à gauche, numéro géant en sans-serif extra-grasse crème à droite. Couper sur ce carton juste après le mot « Step » et le garder 18 à 22 images (0,6-0,73 s). Le premier mot de la consigne peut déborder sur le carton ; couper juste avant le deuxième mot. Ajouter du glitch et du scintillement de plus en plus fort sur les derniers cartons.",
+   "Après chaque carton, enchaîner sur un plan long (4,5 à 10 s) avec un mouvement lent et continu, sans dépasser ~8 %/s de zoom. Dans la version liste, terminer ces plans plus larges qu'au départ (zoom arrière dominant).",
+   "Entre les plans longs, glisser des plans très courts (moins de 30 images) et éviter les durées moyennes. Placer un événement (coupe ou bascule) environ toutes les 40 à 94 images.",
+   "Remplacer à peu près une coupe sur deux par une bascule de caméra dans le même décor : départ rapide en 6 images puis ralenti, 14 à 19 images au total, lancée 0 à 1 image avant le mot qui ouvre l'idée suivante.",
+   "Couper 0 à 1 image avant un mot, en coupe franche. Réserver la coupe douce au cas où une phrase continue d'un plan à l'autre.",
+   "Faire apparaître l'image de chaque nom concret ou chiffre entre 1 image avant et 5 images après le mot. Sur le mot d'impact, passer en très gros plan : l'objet ou le texte remplit le cadre. Quand un mot déjà illustré revient, réutiliser son image en rappel.",
+   "Sous-titrer toute la voix en serif très gras, dans le bas de l'écran, sur 1 ou 2 lignes, en ajoutant les mots un par un. Mettre un seul mot-clé par phrase dans la couleur d'accent (et le verbe d'action en gras). Garder un petit repère « STEP N » en haut à droite pendant tout le chapitre.",
+   "Afficher chaque chiffre ou montant à part du sous-titre : étiquette encadrée en haut au centre, montant rouge à côté de l'objet, ou tampon (« 13 YEARS »).",
+   "Mixer avec une musique à battement régulier vers 112-118 BPM, 5 à 11 dB sous la voix. Ajouter des clics et whooshs aigus et quelques impacts graves dans les pauses. Viser −17 LUFS. Finir sur un plan fixe ou lent de 6 à 10 s, la voix s'arrêtant 2 à 8 s avant la dernière image."
+  ],
+  "apercu": [
+   "refs/r1/images/00379.jpg",
+   "refs/r1/images/01801.jpg",
+   "refs/r1/images/02857.jpg",
+   "refs/r1/images/03974.jpg",
+   "refs/r2/images/00074.jpg",
+   "refs/r2/images/00414.jpg",
+   "refs/r2/images/01264.jpg",
+   "refs/r2/images/01407.jpg"
+  ],
+  "regles": 29,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-belltake-social\\sources\\TikTok_7697617141012499734.mp4",
+    "duree": 165.43,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "So you want money from war? Sources: RTX Q4 2021 earnings call (Motle...",
+    "vues": 736200,
+    "lien": "https://www.tiktok.com/@belltake.social/video/7697617141012499734"
+   },
+   {
+    "id": "r2",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-belltake-social\\sources\\TikTok_7696546098407558422.mp4",
+    "duree": 56.7,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "The $2 million answer Sources: Pentagon officials via Politico (2023)...",
+    "vues": 673600,
+    "lien": "https://www.tiktok.com/@belltake.social/video/7696546098407558422"
+   }
+  ]
+ }
+}

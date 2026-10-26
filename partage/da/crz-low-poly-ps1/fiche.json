@@ -1,0 +1,28 @@
+{
+ "genre": "da",
+ "origine": "Exemple montré par le créateur de Creatorize (chaîne g russ)",
+ "id": "crz-low-poly-ps1",
+ "titre": "Shorts 3D low-poly rétro façon PS1",
+ "famille": "3D stylisée",
+ "statut": "exemple",
+ "verdict": "Style « Low-poly shorts », look « Bright » (turbo, survivre sur Vénus). Images : aperçu de l'outil dans la vidéo FpHBK2NAc6Y.",
+ "look": {
+  "rendu": "modèles low-poly libres, visages animés, looks « bright », « moody » et un look rétro avec post-traitement",
+  "mouvement": "vertical, environ 1 min, animations complexes"
+ },
+ "exemples": [
+  "exemples/01_lowpoly_0070.png",
+  "exemples/02_lowpoly_0079.png",
+  "exemples/03_lowpoly_0082.png",
+  "exemples/04_lowpoly_0780.png",
+  "exemples/05_lowpoly_0786.png",
+  "exemples/06_lowpoly_0792.png",
+  "exemples/07_lowpoly_0798.png",
+  "exemples/08_lowpoly_0831.png",
+  "exemples/09_lowpoly_0843.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/recherches/creatorize/SYNTHESE.md",
+  "C:/claude/tiktok-motion/recherches/creatorize/frames/haiku_frames_cours.md"
+ ]
+}

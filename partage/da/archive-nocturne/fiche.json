@@ -1,0 +1,19 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Koan)",
+ "id": "archive-nocturne",
+ "titre": "Archive nocturne : bitume mouillé, lampadaire sodium",
+ "famille": "3D stylisée",
+ "statut": "testée",
+ "compte": "Koan",
+ "verdict": "Piste 3 du mood board de Death Note, non retenue.",
+ "look": {
+  "rendu": "bitume mouillé, lampadaires au sodium, ville floue"
+ },
+ "exemples": [
+  "exemples/01_piste3.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/studio/da/mood.html"
+ ]
+}

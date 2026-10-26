@@ -1,0 +1,99 @@
+{
+ "createur": "@wealthy_path",
+ "nom_du_compte": "Simplytech",
+ "lien": "https://www.tiktok.com/@wealthy_path",
+ "genre": "da",
+ "origine": "Copiée de @wealthy_path (TikTok)",
+ "auto": {
+  "titre": "Maquettes 3D mates sur fond nuit, annotées comme un schéma technique, avec sous-titres mot à mot soulignés",
+  "famille": "3D stylisée",
+  "en_bref": [
+   "Ce sont des vidéos d'explication d'environ 1 min 40. Elles se passent dans un petit monde en 3D simple et mat (téléphones, voitures, tours relais, avions, mannequins aux membres arrondis), posé sur un fond bleu nuit. Des étiquettes y sont accrochées comme sur un schéma d'ingénieur.",
+   "Le monde est sombre et bleu-gris. Seuls quelques éléments brillent, et ce sont eux qui expliquent : des faisceaux cyan, des pastilles orange, rouges ou violettes, des tuiles d'icônes au néon. Un objet qui change de couleur à l'intérieur du plan montre qu'il change d'état.",
+   "Le montage coupe environ toutes les 2 à 3 s, toujours franc et toujours sur un mot. Il fait des rafales de plans très courts sur les réactions en chaîne et garde un long plan de 7 à 8 s pour le mécanisme clé. La caméra tourne lentement autour du sujet. De temps en temps, un mouvement de caméra rapide change de point de vue sans couper.",
+   "Une seule voix en anglais, rapide (environ 205 mots par minute), parle dès la première image et presque sans arrêt. Dessous, une musique discrète et régulière (environ 117 BPM) et de petits bruitages (clics, whoosh) dans les respirations.",
+   "On la reconnaît à son script toujours identique : accroche paradoxale, « So how…? », « Imagine you're… », « But here's where it gets clever », « But there's another problem », puis la dernière phrase qui reprend l'accroche. On la reconnaît aussi à ses sous-titres blancs où le mot prononcé est souligné."
+  ],
+  "tags": [
+   "explainer tech",
+   "3d mate",
+   "schéma annoté",
+   "fond nuit",
+   "sous-titres soulignés",
+   "voix off rapide",
+   "boucle"
+  ],
+  "pour": "Expliquer en moins de 2 minutes le mécanisme caché d'une fonction du quotidien (téléphone, voiture, avion, réseau), en partant d'un paradoxe ou d'une idée reçue, avec une mise en situation concrète et un ou deux faits datés ou chiffrés.",
+  "look": {
+   "technique": "Animation 3D de maquettes simples et mates, sans textures réalistes : téléphones, voitures, tours, avion, cabine, cockpit, mannequins. Par-dessus, une couche 2D d'interface (cartouches, pastilles, panneaux, écrans de téléphone façon iOS, faux écran de standard 911) et des effets lumineux (faisceaux, anneaux, lueur). Les outils exacts ne sont pas visibles. Probablement un logiciel 3D (type Blender/Cinema 4D) pour les décors et un logiciel de compositing ou motion design (type After Effects) pour les étiquettes et sous-titres. Format 9:16, 1080×1920.",
+   "couleurs": "Fond bleu nuit très sombre, environ #141A2A à #1B2233 (r1 et r3). Volumes en gris-bleu ardoise ou lavande mat, environ #4A5F7F, #6E7A9A, #B9BCD6, pour les objets et décors « neutres ». Blanc #FFFFFF pour les sous-titres et les titres d'étiquettes. Gris #8A8F9C pour les mots pas encore prononcés et les sous-titres d'étiquettes. Couleurs d'accent, qui portent le sens : cyan environ #3FD0E0 (signal, faisceaux, lien actif, catégorie « vitesse ») ; orange environ #F5A030 (première catégorie, tour, « motion ») ; rouge environ #E0404A à #FF4444 (échec, « NOT YOURS », « NOT A CUSTOMER », crash, interdiction) ; violet environ #8A5CF0 (Wi-Fi, « sound ») ; vert environ #3DDC84 (chrono d'appel, interrupteur activé, OK) ; jaune doré environ #FFD700 (petits points lumineux, hublots, phares). r2 emprunte aussi des scènes plus colorées (viaduc magenta #FF00FF, parc d'attractions au coucher de soleil orange #FFA500 et rose #FFB6C1), d'après les descriptions.",
+   "typo": "Une sans-serif géométrique ou grotesque moderne, type Inter ou SF Pro (famille exacte non visible), en blanc, sans contour, et une monospace en petites capitales espacées pour les infos techniques. Sous-titres : 1 à 5 mots, centrés dans le tiers inférieur (vers 75 % de la hauteur), en graisse semi-grasse. Le mot en cours est blanc et souligné d'un trait, les mots suivants sont gris. Parfois posés dans une petite boîte sombre arrondie et semi-transparente. Rarement placés en haut (r3). Étiquettes accrochées aux objets par un trait fin : un cartouche sombre avec un titre blanc gras (« Your carrier », « Radio chip », « Your phone ») et un sous-titre monospace en capitales grises (« NO TOWER IN RANGE », « EMERGENCY MODE », « SEARCHING FOR SIGNAL »). Pastilles en capitales avec une pastille de couleur devant (« ● CELL », « ● WI-FI », « ● YOUR SPOT », « ● LOOKED LIKE A CRASH »). Bulles blanches à texte noir en capitales (« YOU », « YOUR PHONE »). Carte d'info blanche en haut, avec un titre gras entre guillemets et un texte gris (« “No Service” / Your own carrier can't reach you. Other towers still can. »). Panneau-liste en monospace (« NETWORKS IT WILL USE », lignes « Carrier B  × NOT YOURS » en rouge). Mentions minuscules en bas, en monospace très espacée : « ILLUSTRATIVE CUTAWAY », « NOT TO SCALE », « ILLUSTRATIVE · NOT TO SCALE ». Les chiffres prononcés deviennent énormes à l'écran (« 911 », « 256 », « 30 », « 1991 ») ou s'affichent en chrono vert monospace (« 00:09 »). Animation : sous-titres changés mot par mot au rythme de la voix ; étiquettes qui apparaissent avec l'objet nommé.",
+   "rendu": "Matériaux mats, comme de l'argile ou un plastique sans texture. Arêtes arrondies, ombres douces, éclairage d'ambiance faible et bleuté. Lumière d'appoint par les éléments émissifs : lueur (bloom) autour des tuiles néon, des faisceaux et des anneaux, halo rouge sous un téléphone en alerte. Grilles et réseaux de points lumineux en perspective (sol quadrillé, nuage de points de ville). Un léger flou de profondeur sur certains plans. Aucun grain ni texture papier visible. Le changement d'état se montre par un changement de teinte dans le plan (anneau blanc qui devient rouge, tours vertes qui deviennent roses, icônes or qui passent au rouge).",
+   "personnages": "Des mannequins 3D anonymes et lisses, sans visage ni détails, aux membres en tubes arrondis : conducteur en pull rouge et tête blanche, mains et avant-bras lavande tenant un téléphone, pilotes avec casque, passager assis. Ils servent seulement à situer le « you ». Pas d'expression faciale. Aucun personnage récurrent ou nommé n'est visible dans les images fournies.",
+   "decors": "Un monde technique la nuit : terrain sombre et vallonné avec tours relais, maison isolée, route de campagne, voiture blanche dans un fossé ; intérieur de voiture en coupe (« ILLUSTRATIVE CUTAWAY ») avec airbags ; cabine et hublot d'avion ; cockpit ; ville vue d'avion en nuage de points ; grilles hexagonales de cellules ; globe terrestre vu de l'espace. Aussi des « vitrines » abstraites : un téléphone sur un plateau sombre, entouré de tuiles d'icônes reliées par des traits ; un dashboard ; un faux écran d'appels 911. Le décor d'ouverture revient dans le dernier plan.",
+   "mouvement": "Caméra fixe ou lente sur 76 à 87 % des plans. Mouvement par défaut : une rotation lente autour du sujet. Pas de panoramique. Zoom lent sur les plans de 3 s et plus, rapide seulement sur les plans courts d'impact. Un grand zoom arrière pour passer de l'objet au système (−24 à −53 %). Coupes franches dans environ 95 % des cas, au plus 2 coupes douces par vidéo. 3 à 4 « bascules » de caméra par vidéo (mouvement rapide d'environ 0,5 s qui change de point de vue sans couper), avec le pic de la bascule sur un nom-clé. Rythme : plan médian de 2 à 3 s, 3 à 4 coupes par 10 s, 30 à 50 % des plans au-delà de 3 s. Rafales de plans de 0,4 à 0,6 s (un mot par plan) sur les réactions en chaîne. Un mot pivot (« no », « but », « one », un chiffre) isolé dans un plan de moins d'1 s. Un long plan de 6,5 à 8 s pour le mécanisme. Coupes à 2 images ou moins d'un mot ; la coupe tombe après le 1er ou 2e mot de la phrase suivante.",
+   "son": "Une seule voix off en anglais, sur un ton posé et pédagogique. Elle est assez brillante : centroïde spectral de 1 960 à 2 160 Hz. Impossible de dire si elle est humaine ou de synthèse : non déterminé. Débit rapide de 202 à 216 mots par minute. La voix occupe 76 à 83 % de la durée et démarre dès la première image. Respirations courtes et régulières entre les phrases : 0,54 à 0,56 s en médiane, 0,7 à 0,8 s au plus (p90). Aucun silence long. Musique de fond probable : environ 117,5 BPM sur les 3 vidéos, battement très régulier (0,93–0,94), plutôt rythmique (part percussive de 0,64 à 0,72). Elle reste très en retrait : la partie harmonique hors voix est à −23 à −29 dB, le fond est 8,6 à 11,4 dB sous la voix. Genre musical non identifiable avec ces mesures. Bruitages : 22 à 43 par vidéo dans les pauses, clics ou whoosh aigus et impacts médiums, souvent en paire juste avant une nouvelle phrase ou sur une coupe, et un petit groupe sur la toute dernière seconde. Mixage autour de −14 LUFS (r2, r3) ; r1 plus fort, à −10,5 LUFS. Son « original sound » du compte."
+  },
+  "pour_refaire": [
+   "Écrire un script de 270 à 290 mots (environ 1 min 40) en suivant la trame : accroche paradoxale en 1 phrase → contre-pied (« And no… » / « But… ») → question « So how / what…? » vers 7–10 s → réponse-choc en 2 phrases très courtes → « Imagine you're… » avec un lieu précis vers 13–17 s → mécanisme → « But here's where it gets clever. » vers 37–42 s → solution → « But there's another problem. » vers 61–70 s → 2e problème avec une date, un chiffre ou un cas réel → conseil pratique → récap « So… » → dernière phrase qui reprend l'accroche mot pour mot.",
+   "Enregistrer une voix unique, posée, à environ 205 mots par minute, sans silence de plus de 0,8 s. La voix démarre à la première image.",
+   "Faire la liste de chaque nom concret, chiffre et négation du script. Chacun aura son image, calée à 3 images près de sa prononciation.",
+   "Modéliser les objets en 3D simple : formes arrondies, matériau mat gris-bleu ou lavande, aucune texture réaliste. Mannequins sans visage pour le « you ». Fond bleu nuit (#141A2A) et éclairage d'ambiance faible.",
+   "Réserver la couleur au sens : cyan = signal ou lien actif, orange et violet = catégories, rouge = échec ou interdiction, vert = OK ou chrono. Tout ce qui brille porte une lueur (bloom).",
+   "Construire 3 à 4 dispositifs visuels réutilisables (ex. téléphone central entouré de tuiles d'icônes néon, anneau de statut, carte de nuit avec tours) et y revenir chaque fois que le même concept revient dans la voix.",
+   "Ajouter la couche d'annotations : cartouches avec trait de rappel (titre blanc gras + sous-titre monospace en capitales grises), pastilles « ● LABEL », carte d'info blanche en haut, panneau-liste, mentions « ILLUSTRATIVE · NOT TO SCALE » en monospace minuscule en bas.",
+   "Afficher chaque chiffre prononcé en très grand ou en compteur. Afficher chaque verdict négatif dès le début du plan, par un badge en capitales rouges (« CALL FAILED », « NOT A CUSTOMER ») ou un pictogramme d'interdiction.",
+   "Montrer les changements d'état sans couper, en changeant la teinte de l'objet sur le mot-clé (blanc → rouge, vert → rose, or → rouge).",
+   "Animer la caméra : rotation lente autour du sujet par défaut, zoom lent sur les plans longs, zoom rapide seulement sur les plans courts. Un grand zoom arrière pour élargir de l'objet au système. 3 à 4 bascules rapides (environ 0,5 s) par vidéo, avec le pic sur un nom-clé.",
+   "Monter : plans de 2 à 3 s, 3 à 4 coupes par 10 s, coupes franches à 2 images ou moins d'un mot. Faire déborder la phrase suivante de 5 à 9 images avant de couper. Garder l'accroche dans un seul premier plan d'environ 4,5 s. Couper juste après « how/what », « Imagine », « here's » et « there's ».",
+   "Placer 1 rafale de 5 à 7 plans de 0,4 à 0,6 s (un mot par plan) sur une phrase de réaction en chaîne, isoler 2 ou 3 mots pivots dans des plans de moins d'1 s, et garder 1 à 2 plans longs de 6,5 à 8 s pour la définition du mécanisme.",
+   "Sous-titrer en continu dans le tiers inférieur, par fragments de 1 à 5 mots : sans-serif blanche semi-grasse, mot en cours souligné, mots suivants en gris, petite boîte sombre arrondie si le fond est chargé.",
+   "Finir sur le décor d'ouverture, avec un dernier plan d'environ 4,5 s qui porte la phrase d'accroche répétée.",
+   "Mixer : musique régulière vers 117 BPM, environ 9 à 11 dB sous la voix, clics et whoosh courts dans les respirations et sur les coupes, sortie autour de −14 LUFS intégrés."
+  ],
+  "apercu": [
+   "refs/r1/images/00780.jpg",
+   "refs/r1/images/01256.jpg",
+   "refs/r1/images/02313.jpg",
+   "refs/r2/images/00747.jpg",
+   "refs/r2/images/01785.jpg",
+   "refs/r2/images/02597.jpg",
+   "refs/r3/images/00268.jpg",
+   "refs/r3/images/01345.jpg"
+  ],
+  "regles": 29,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-wealthy-path\\sources\\TikTok_7696121888119999757.mp4",
+    "duree": 104.44,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "How does your phone call 911 with no bars? ",
+    "vues": 1800000,
+    "lien": "https://www.tiktok.com/@wealthy_path/video/7696121888119999757"
+   },
+   {
+    "id": "r2",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-wealthy-path\\sources\\TikTok_7696589285528538381.mp4",
+    "duree": 107.83,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "Your IPhone can call 911 by itself. So how does it know you crashed? ",
+    "vues": 1600000,
+    "lien": "https://www.tiktok.com/@wealthy_path/video/7696589285528538381"
+   },
+   {
+    "id": "r3",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-wealthy-path\\sources\\TikTok_7696947774755048718.mp4",
+    "duree": 98.17,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "Airplane mode isn't really for the plane. So who is it for? ",
+    "vues": 745600,
+    "lien": "https://www.tiktok.com/@wealthy_path/video/7696947774755048718"
+   }
+  ]
+ }
+}

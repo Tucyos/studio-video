@@ -1,0 +1,99 @@
+{
+ "createur": "@bmfbusinesss",
+ "nom_du_compte": "bmfbusiness",
+ "lien": "https://www.tiktok.com/@bmfbusinesss",
+ "genre": "da",
+ "origine": "Copiée de @bmfbusinesss (TikTok)",
+ "auto": {
+  "titre": "Personnages 3D façon pâte à modeler et cartes d'interface flottantes sur fond nuit violet-teal",
+  "famille": "3D stylisée",
+  "en_bref": [
+   "Un personnage récurrent en 3D façon jouet, Thomas (cheveux bouclés, marinière, jean, baskets jaunes), vit une petite histoire sur un fond nuit violet et vert-bleu, avec une grille légère et des étoiles.",
+   "Autour de lui flottent des cartes d'interface très propres : fenêtre de mail, fiche de paiement, extrait d'article de loi, graphiques en barres et étiquettes en forme de pilule.",
+   "Le montage ne coupe presque jamais : une seule coupe par vidéo. Les scènes changent à l'intérieur d'un même plan : les éléments apparaissent et disparaissent sur le mot qui les nomme. Au moment de la révélation, la caméra fait 2 ou 3 bascules rapides.",
+   "Une voix française rapide et presque continue (environ 220 à 250 mots par minute, voix présente 94 à 97 % du temps) raconte l'histoire. Dessous, une musique rythmée discrète à environ 117 BPM et quelques petits bruitages dans les pauses.",
+   "On reconnaît le style aux grands sous-titres blancs en majuscules au centre-bas de l'écran, avec un seul mot-clé en rouge corail, et à la formule fixe « Sauf qu'un soir, Thomas ouvre le code… Article… »."
+  ],
+  "tags": [
+   "3d stylisée",
+   "personnage récurrent",
+   "droit du quotidien",
+   "ui flottante",
+   "sous-titres majuscules",
+   "storytelling",
+   "fond nuit dégradé",
+   "vulgarisation"
+  ],
+  "pour": "Les droits méconnus et l'argent du quotidien (droit du travail, aides sociales, frais scolaires, comparatifs SMIC/RSA), racontés comme la mini-histoire d'un personnage ordinaire qui découvre un article de loi ou fait ses comptes.",
+  "look": {
+   "technique": "Personnages et objets en 3D stylisée (rendu type clay ou jouet, probablement des figurines 3D générées ou une bibliothèque d'assets 3D), détourés et posés en 2D sur un fond fixe. Les éléments d'interface (fenêtre mail façon macOS, carte « Voyage scolaire » avec étapes, fiche « Code de l'éducation », graphiques en barres, pilules d'étiquette) sont des maquettes vectorielles. Le tout est animé dans un logiciel de motion design (After Effects, ou un outil de montage avec images clés, probable) : apparitions progressives, petits zooms et bascules de caméra. Le fond reste le même sur tous les plans.",
+   "couleurs": "Fond : bleu nuit très foncé ~#0d0f2a à #1a1a3f, halo violet ~#3b2a8f en haut à gauche, halo vert-teal ~#1f5a55 / #0d4d42 en bas à droite, grille fine bleu-gris peu visible et petites étoiles blanches. Sous-titres en blanc #ffffff. Une seule couleur d'accent, rouge corail / rose ~#ff3b5c, pour le mot-clé (« MUTUELLE », « 6H », « PAIE ») et les montants négatifs (« −120 € »), ainsi que pour le prix « 350 € ». Vert vif ~#3ddc5a pour la barre gagnante et l'écran final de r3 (~#2ebd4f), gris clair ~#c8c8d0 pour la barre comparée. Cartes d'interface en blanc cassé ~#f4f4f8 avec texte gris foncé, ou en bleu-violet translucide. Violet ~#5b4bff pour le bouton « Envoyer » et la pastille « vs ». Surlignage jaune pâle ~#f5e27a sur le texte de loi. Tampon vert « EN VIGUEUR ». Accents dorés ~#d4a957 (logo du Fonds social, maison dorée).",
+   "typo": "Sous-titres en sans-serif géométrique très gras (type Inter / Montserrat / DM Sans Bold à Black, probable), TOUT EN MAJUSCULES, en blanc, sans contour ni ombre visible. Ils sont centrés horizontalement à environ 70 % de la hauteur de l'écran (et non collés au bord bas). Une ou deux lignes de 2 à 8 mots, remplacées carton par carton sans animation visible (changement sec), avec un seul mot en rouge corail. Sur les cartes : sans-serif d'interface en petit corps (mail, étiquettes « budget / autorisation / paiement »), et une serif de type édition juridique pour le texte de loi (« Article L551-1 » en serif gras, corps du texte en serif). Gros chiffres sans-serif gras au-dessus des barres (« 1519 € », « 860 € ») et chiffres très gras « 35 H » sur l'écran final.",
+   "rendu": "3D lisse et mate façon pâte à modeler ou vinyle, ombres douces, lumière chaude ponctuelle possible (lampe de bureau allumée dans la scène du code). Pas de décor 3D : les personnages flottent sur le fond nuit. Les cartes d'interface ont des coins arrondis, une ombre portée légère et parfois une transparence ; on y voit les points rouge-jaune-vert d'une fenêtre macOS. Aucun grain ni texture de film. Effet général propre, « appli premium ».",
+   "personnages": "Thomas : homme adulte, cheveux châtains bouclés, marinière blanche à rayures bleu marine, jean bleu, baskets jaunes. Il est montré debout qui se gratte la tête, assis à un petit bureau en bois avec une lampe et un livre rouge (le code), à son ordinateur portable, ou en train d'écrire à une table. La patronne : femme en tailleur gris, chemise blanche, cheveux attachés, porte-documents rouge. Lucas (r3) : homme brun en sweat vert, allongé détendu sur un canapé orange. On voit aussi des groupes de personnages (familles, métiers, amis) dans les énumérations, d'après les descriptions. Les personnages sont petits dans le cadre (environ 1/5 de la hauteur) et accompagnés d'éléments graphiques.",
+   "decors": "Pas de décor réaliste : un fond unique, nuit dégradée violet/teal avec grille et étoiles, gardé du début à la fin. Le contexte vient de quelques objets 3D (bureau, chaise, lampe, machine à laver, table, canapé) et de maquettes d'interface flottantes (mail, fiche de paiement, article de loi, tableau comparatif, pilule-étiquette comme « scandale » avec une icône de mégaphone). Exception : l'écran final de r3, coupé en deux, noir en haut (« 35 H DE BOULOT ») et vert vif en bas (« 35 H DE LIBERTÉ »), avec une pastille blanche « OU » au milieu.",
+   "mouvement": "2 plans par vidéo, une seule coupe franche placée sur un changement de statut du discours : fin de l'accroche (r1 à 1,43 s), solution nommée (r2 à 26,9 s, « Fonds social collégien ») ou question finale (r3 à 73,7 s, « Et toi »). Le reste du temps, la caméra est fixe ou bouge lentement (léger zoom avant ou arrière). Les objets entrent et sortent du cadre sur le mot dit. À la révélation (vers 14,8 s), 2 ou 3 bascules de caméra rapides s'enchaînent en environ 55 images (0,5 à 0,7 s chacune, montée au pic en 7 à 8 images). La première a son pic sur le mot « code », la dernière finit sur « Article ». Aucun fondu.",
+   "son": "Voix française off, narrative, rapide (218 à 251 mots par minute), presque continue : pause médiane de 0,36 à 0,38 s, aucune vraie respiration. Ton de conteur sûr de lui, avec de petites questions rhétoriques (« Combien ? », « Son astuce ? »). Voix humaine ou de synthèse : non déterminable avec ces données. Musique de fond probable, rythmée et percussive (part percussive 0,67 à 0,76), tempo 117,5 BPM très régulier, environ 9 dB sous la voix (harmonique hors voix vers −34 à −38 dB). Niveau global de −18,8 à −19,8 LUFS. 10 à 17 bruitages courts dans les pauses (clics, whooshs, cloches aigus ; quelques impacts graves dans r3). Il y a un regroupement autour de la révélation dans r1 (16 à 18,4 s). Silences quasi inexistants : 0,3 à 0,65 s au maximum."
+  },
+  "pour_refaire": [
+   "Écrire le script sur la trame fixe : accroche avec le prénom et un chiffre ou une injustice (« Le collège demande 350 euros… »), puis « Alors Thomas… », « En clair, … », « Sauf qu'un soir, Thomas ouvre le code [du travail / de l'éducation]. Article [référence]. », « Combien ? », le calcul, « Alors Thomas ne fait pas de scandale. Il envoie un simple mail / une simple lettre », le message cité, la réaction de l'autre partie, « [liste de personnes], ça te concerne aussi », et une chute en deux phrases opposées.",
+   "Enregistrer la voix d'une traite, rapide (environ 230 à 250 mots par minute), sans respiration audible, avec des pauses d'environ 0,35 s entre les phrases ; viser 65 à 78 s au total.",
+   "Préparer le fond unique : dégradé bleu nuit (~#0d0f2a), halo violet en haut à gauche, halo teal en bas à droite, grille fine et petites étoiles. Le garder sur toute la vidéo.",
+   "Fabriquer le personnage récurrent en 3D stylisée façon clay (même tenue d'une vidéo à l'autre) et ses quelques poses : debout perplexe, au bureau avec la lampe et le livre rouge, à l'ordinateur, en train d'écrire. Faire de même pour les personnages secondaires (patron, ami, groupes).",
+   "Dessiner les maquettes d'interface à coins arrondis : fenêtre de mail macOS avec bouton violet « Envoyer », carte de paiement avec étapes à icônes et prix en rouge, fiche « CODE DE … » avec article en serif, tampon vert « EN VIGUEUR » et surlignage jaune, pilules d'étiquette, tableaux et barres.",
+   "Monter en un seul plan long : sur chaque nom concret dit (machine, lessive, mail, voyage), faire apparaître l'objet ou la carte correspondante et retirer la précédente, sans couper.",
+   "Placer le personnage centré dans la moitié haute ou au milieu, les cartes flottantes au-dessus de lui, et garder la zone vers 70 % de la hauteur libre pour le sous-titre.",
+   "À « Sauf qu'un soir… ouvre le code » (vers 14 à 15 s), enchaîner 2 ou 3 bascules de caméra rapides (environ 0,5 à 0,7 s chacune) sur la scène du bureau avec les fiches d'articles qui flottent. Caler le pic de la première sur le mot « code » et finir la dernière sur « Article ».",
+   "Placer l'unique coupe franche sur le pivot du récit (fin de l'accroche, nom de la solution ou « Et toi »), entre 1 image après et 3 images avant le début du mot. Après la coupe, montrer le pictogramme ou le plan dédié en très gros plan.",
+   "Sous-titrer toute la voix en cartons de 2 à 8 mots : sans-serif très gras, majuscules, blanc, centré vers 70 % de la hauteur. Mettre un seul mot par carton en rouge corail (~#ff3b5c), sur le verbe d'action ou le mot de l'injustice. Continuer à changer les cartons pendant les bascules.",
+   "Afficher chaque montant en chiffres au moment où il est dit. Après « Combien ? », montrer la réponse en plein cadre (carte ou montant). Pour une comparaison, faire des barres (vert vif contre gris) dont la hauteur suit les montants, avec des lignes de frais en rouge (« −120 € »).",
+   "Pendant la lecture d'un mail ou d'une lettre, afficher la maquette du message qui se tape à l'écran.",
+   "Sur « ça te concerne aussi » ou « Et toi », passer au plan de groupe (métiers, proches) ou à un écran final dédié, par exemple un écran coupé en deux couleurs avec une pastille « OU » pour un dilemme.",
+   "Mixer une musique percussive discrète à environ 117 BPM, 9 dB sous la voix, plus des clics et whooshs courts dans les micro-pauses, surtout à la révélation. Viser environ −19 LUFS. Aucun fondu, ni à l'image ni dans les transitions."
+  ],
+  "apercu": [
+   "refs/r1/images/00022.jpg",
+   "refs/r1/images/00451.jpg",
+   "refs/r1/images/01249.jpg",
+   "refs/r2/images/00224.jpg",
+   "refs/r2/images/00650.jpg",
+   "refs/r2/images/01566.jpg",
+   "refs/r3/images/01107.jpg",
+   "refs/r3/images/02262.jpg"
+  ],
+  "regles": 25,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-bmfbusinesss\\sources\\TikTok_7698036714165587232.mp4",
+    "duree": 67.01,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "Imposition des vêtements de travail : le lavage est à la charge de l’...",
+    "vues": 1500000,
+    "lien": "https://www.tiktok.com/@bmfbusinesss/video/7698036714165587232"
+   },
+   {
+    "id": "r2",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-bmfbusinesss\\sources\\TikTok_7698405822845553953.mp4",
+    "duree": 77.47,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "Frais scolaires : parents, vous avez peut-être droit à une aide !",
+    "vues": 949300,
+    "lien": "https://www.tiktok.com/@bmfbusinesss/video/7698405822845553953"
+   },
+   {
+    "id": "r3",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-bmfbusinesss\\sources\\TikTok_7696871792144682272.mp4",
+    "duree": 77.01,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "SMIC vs Rsa, débat ouvert ",
+    "vues": 940900,
+    "lien": "https://www.tiktok.com/@bmfbusinesss/video/7696871792144682272"
+   }
+  ]
+ }
+}

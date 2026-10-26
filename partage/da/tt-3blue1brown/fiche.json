@@ -1,0 +1,90 @@
+{
+ "createur": "@3blue1brown",
+ "nom_du_compte": "Grant Sanderson",
+ "lien": "https://www.tiktok.com/@3blue1brown",
+ "genre": "da",
+ "origine": "Copiée de @3blue1brown (TikTok)",
+ "auto": {
+  "titre": "Animation mathématique sur fond noir : géométrie lumineuse, formules et pictogrammes colorés",
+  "famille": "2D vectorielle",
+  "en_bref": [
+   "Des animations mathématiques propres sur fond noir ou gris très foncé : damiers, grilles polaires, nuages de points et rayons lumineux cyan, avec des formules écrites comme dans un manuel de maths (police à empattements).",
+   "Le montage coupe très peu : une vidéo entière peut tenir en un seul plan de 51 s. L'image change sans couper : la caméra recule, les objets se transforment, des éléments s'ajoutent un par un. Un nouveau changement arrive toutes les 2,5 à 5 s.",
+   "Une seule voix humaine, celle du créateur, parle vite et presque sans arrêt (210 à 245 mots/min), sur un ton de conversation curieuse. En dessous, une musique très discrète, avec quelques bruits sourds et quelques clics dans les pauses.",
+   "Le texte apparaît à l'image au moment où le mot est dit, souvent un peu avant : « Warden », « Prisoner 1 sees key », « (r,θ) ». Une seule couleur sert à repérer chaque acteur ou chaque notion (cyan, jaune, magenta, rouge).",
+   "Ce qui la rend reconnaissable : le noir profond, la couleur cyan, les formules à empattements, et une énigme ou un motif posé puis laissé sans réponse, pour donner envie de voir la vidéo complète."
+  ],
+  "tags": [
+   "maths",
+   "animation vectorielle",
+   "fond noir",
+   "plan unique",
+   "vulgarisation",
+   "énigme",
+   "formules",
+   "cyan"
+  ],
+  "pour": "Expliquer une énigme logique, un motif mathématique ou un phénomène abstrait qu'on peut construire pas à pas à l'écran (géométrie, nombres, probabilités, physique visuelle), en posant la question sans donner la réponse.",
+  "look": {
+   "technique": "Animation générée par du code, probablement un outil d'animation mathématique de type Manim (déduction, non confirmée) : objets vectoriels, formules en LaTeX, nuages de points calculés (nombres premiers en coordonnées polaires). Dans r1, il y a aussi un vrai rendu 3D : un damier gris en perspective avec une clé dorée (image 3) et un cube filaire aux sommets jaunes. Les panneaux du type « Prisoner 1 sees key » / « Prisoner 1 flips coin » sont des cadres à bord blanc empilés à la verticale (image 4). Les sous-titres sont ajoutés au montage. Les vidéos sont des extraits verticaux de vidéos YouTube longues.",
+   "couleurs": "Fond : noir #000000 et gris très foncé #1A1A1A à #2A2A2A (fond derrière le personnage, image 2). Cyan/turquoise #00CED1, qui tire vers le vert d'eau ≈#5FD3B0 sur les rayons (image 5) : couleur principale, pour les points, les rayons, le prisonnier 1 et le mot « Prisoner 1 ». Bleu-gris clair ≈#A0C8E0 : traits fins de la grille polaire (image 6). Jaune #FFFF00 : ce qu'il faut regarder (clé, flèche, case surlignée, sommets du cube, variable r). Magenta/rose ≈#C060C0 (approximatif) : variable θ. Brun-gris #8B7355 / ≈#7A6E66 : le gardien et son étiquette. Rouge #FF0000 : le prisonnier 2 et la pièce retournée (case rouge, image 4). Rose clair #FFB6C1, beige #F5DEB3 et gris #808080 : cases du damier des schémas. Gris #808080 / #2A2A2A : damier 3D. Blanc #FFFFFF : texte, axes, cadres.",
+   "typo": "Deux familles. 1) Les étiquettes et formules sont dans une police à empattements de style LaTeX / Computer Modern, en graisse normale, sans contour. « Warden » est en grand, de la couleur du personnage, sous lui (image 2). « Prisoner 1 sees key » est au-dessus de chaque panneau, avec le nom en cyan et le reste en blanc (image 4). « (r,θ) » est en haut à gauche, avec r en jaune et θ en magenta (image 6). Les nombres premiers (13, 17, 19, 23, 29, 43) sont en petit, à côté de chaque point (image 7). Les étiquettes apparaissent au moment où le mot est dit. 2) Les sous-titres sont en sans-serif blanc, sans contour visible. Dans r1, ils sont en capitales très grasses (style Montserrat/Poppins Black, famille probable), en blocs de 3 à 4 mots (« CHESSBOARD SQUARES. », « YOU WALK ALONE INTO »), centrés vers le bas du cadre (≈80 % de la hauteur, image 3), avec un flou de mouvement à l'entrée et à la sortie (images 1 et 9 : texte très flou). Dans r2, ce sont des mots isolés en minuscules et en petit en bas, selon les descriptions ; ils ne sont pas visibles sur les images clés 5 à 8.",
+   "rendu": "Rendu plat et net, sans texture ni grain. Les points et les rayons cyan sont lumineux sur le noir et deviennent plus saturés et plus brillants en fin de séquence. Les traits sont fins, à 1 ou 2 px environ. Le damier 3D a un éclairage doux et des reflets discrets sur les pièces. Le flou directionnel n'est utilisé que pour les flashs de transition (traînée cyan de 12 images) et pour l'entrée des sous-titres. La fin se fait par perte de luminosité jusqu'au noir (0,9 s).",
+   "personnages": "Les personnages-pictogrammes du compte sont sa mascotte : ils sont exclus. Le procédé à reprendre avec votre propre pictogramme simple : une forme unique, de face, à deux yeux, en plan entier et centrée, avec l'étiquette du rôle en dessous. On ne change qu'un seul attribut d'un rôle à l'autre : la couleur (cyan = toi, brun-gris = gardien, rouge = prisonnier 2), jamais la forme. La couleur passe progressivement d'un rôle à l'autre (91 images de cyan à brun, 68 images de brun à rouge). Pour poser un concept, on aligne plusieurs exemplaires identiques à l'horizontale. Aucun humain, aucun visage réel.",
+   "decors": "Aucun décor réaliste : un vide noir ou gris très foncé. Les objets mathématiques tiennent lieu de décor : damier de 8×8 cases, cube filaire, grille polaire (cercles concentriques et rayons), axes blancs en croix (image 7), champ de rayons qui part du centre (images 5 et 8), panneaux encadrés de blanc empilés (image 4). On trouve aussi un motif répété en grille de 9 colonnes (r2, début).",
+   "mouvement": "Plans très longs : 1,17 coupe/10 s dans r1, 0 coupe dans r2 (un seul plan de 51 s). Plan médian de 3,89 s, p90 de 31,9 s. Le visuel change toutes les 2,5 à 5 s par transformation : rotation 3D, recoloration, ajout progressif de points, morphing, fondu de 0,6 à 0,8 s. Bascules de caméra rapides de 13 à 16 images, pic de vitesse atteint en 4 à 11 images, toujours en pleine phrase. La caméra fait ce que dit la voix : sur « zoom out », elle dézoome vraiment (−97 % sur le plan de r2). Coupes surtout franches, placées 2 images avant le mot. Les coupes douces sont doublées d'une bascule de 11 à 13 images. On trouve aussi des micro-plans de transition de 10 à 17 images (traînée floue cyan ou texte flou). On ouvre sur un plan qui tient toute la première phrase (5,6 à 6,2 s) et on finit sur un segment de 17 à 27 images qui s'éteint dans le noir.",
+   "son": "Voix humaine, celle du créateur (artiste crédité : Grant Sanderson), en anglais, au ton calme, curieux et conversationnel, avec des hésitations naturelles conservées (« they're We're supposed to »). Débit rapide : 243 mots/min (r1) et 213 mots/min (r2). La voix occupe 92 % et 66 % de la durée. Pauses médianes de 0,48 à 0,58 s. Dans r2, une longue respiration d'environ 8 s laisse parler l'image (de 38 à 46 s environ, plusieurs silences de 0,4 à 1,2 s). Musique probable mais très basse (≈ −36,5 dB hors voix, 16 à 21 dB sous la voix), au battement régulier (0,94) : environ 152 BPM (r1), environ 117,5 BPM (r2). Le genre n'est pas identifiable dans les données. Bruitages probables dans les pauses : clics et petits whoosh aigus aux changements de partie, impacts graves. Dans r2, une série d'environ 25 impacts graves rapprochés (≈ tous les 0,25 à 0,5 s, de 38 à 45 s) accompagne la révélation des rayons. Niveau global : −13,5 LUFS (r1), −19,7 LUFS (r2)."
+  },
+  "pour_refaire": [
+   "Écrire un texte de 45 à 60 s (120 à 225 mots) qui pose une situation ou un motif et s'arrête sur la question ou sur l'observation étrange, sans donner la solution. La première phrase est une accroche à la 2e personne ou une anecdote personnelle (« You walk alone into a room… », « I first saw this pattern… »).",
+   "Enregistrer la voix soi-même, en parlant vite (210 à 245 mots/min), sans lire mécaniquement, avec des pauses courtes de 0,5 s environ entre les phrases. Garder les petites hésitations naturelles.",
+   "Régler le projet en vertical 9:16 à 30 i/s (720×1280 mesuré ; 1080×1920 en publication). Fond noir #000000 ou gris très foncé #1A1A1A.",
+   "Animer par code (outil type Manim ou équivalent) : grilles, points, axes, formules en LaTeX. Pour un objet concret, faire un vrai rendu 3D simple, gris et sobre, avec un seul accent doré ou jaune.",
+   "Fixer un code couleur : cyan #00CED1 pour l'élément principal, jaune #FFFF00 pour ce qu'il faut regarder, magenta et rouge pour le 2e et le 3e acteur, brun-gris pour l'acteur neutre. Une couleur = un rôle, sur toute la vidéo.",
+   "Si on utilise un personnage : créer son propre pictogramme simple (pas celui du compte) et le décliner par couleur uniquement, avec l'étiquette du rôle en police à empattements de la même couleur en dessous.",
+   "Ouvrir sur un seul plan qui tient toute la première phrase, en approche progressive de la caméra vers l'objet (de 5,5 à 6 s environ).",
+   "Montrer chaque objet nommé 10 à 28 images avant le mot, et poser son étiquette (nom, formule, nombre) au moment où il est dit.",
+   "Construire le cœur de la vidéo en un ou deux plans très longs : ajouter les éléments un par un, faire pivoter, recolorer ou transformer le même objet. Prévoir un changement visuel toutes les 2,5 à 5 s, au lieu de couper.",
+   "Pour changer de sujet, faire une bascule de caméra rapide de 13 à 16 images (pic de vitesse en 4 à 11 images, puis ralentir), lancée sur un mot en pleine phrase. Quand la voix dit « zoom out », dézoomer vraiment.",
+   "S'il faut couper : coupe franche placée 2 images avant le mot. Entre deux grandes parties, insérer un flash de 10 à 12 images (traînée floue cyan ou texte très flou). Faire chaque coupe douce en même temps qu'une bascule de 11 à 13 images.",
+   "Pour une révélation visuelle forte, se taire jusqu'à environ 8 s et laisser l'image évoluer (morphing, montée de la luminosité cyan), ponctuée d'impacts graves réguliers.",
+   "Sous-titrer en blanc sans-serif : blocs de 3 à 4 mots en capitales grasses, centrés vers le bas, entrée et sortie avec un léger flou de mouvement. Variante plus discrète : mots isolés en minuscules, en petit.",
+   "Mixer une musique très discrète au battement régulier (environ 117 à 152 BPM), 16 à 21 dB sous la voix. Ajouter des clics ou whoosh aigus aux transitions et des impacts graves dans les pauses. Viser −14 à −20 LUFS.",
+   "Finir sur un segment de 17 à 27 images, sur ou juste après le dernier mot, qui perd sa netteté ou s'éteint dans le noir (≈0,9 s), sans conclusion parlée. Titre de la publication : « Sujet (full video on … YouTube channel) »."
+  ],
+  "apercu": [
+   "refs/r1/images/00191.jpg",
+   "refs/r1/images/00315.jpg",
+   "refs/r1/images/00907.jpg",
+   "refs/r1/images/01590.jpg",
+   "refs/r2/images/00085.jpg",
+   "refs/r2/images/00360.jpg",
+   "refs/r2/images/00615.jpg",
+   "refs/r2/images/01518.jpg"
+  ],
+  "regles": 27,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-3blue1brown\\sources\\TikTok_7221573768110460206.mp4",
+    "duree": 59.93,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "Chessboard and coins puzzle (full video on the 3blue1brown YouTube ch...",
+    "vues": 3800000,
+    "lien": "https://www.tiktok.com/@3blue1brown/video/7221573768110460206"
+   },
+   {
+    "id": "r2",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-3blue1brown\\sources\\TikTok_7221572330609184046.mp4",
+    "duree": 51.03,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "Prime spirals (full video on the 3blue1brown YouTube channel)",
+    "vues": 2700000,
+    "lien": "https://www.tiktok.com/@3blue1brown/video/7221572330609184046"
+   }
+  ]
+ }
+}

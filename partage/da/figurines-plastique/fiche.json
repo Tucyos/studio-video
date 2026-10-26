@@ -1,0 +1,20 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Koan)",
+ "id": "figurines-plastique",
+ "titre": "Figurines en plastique",
+ "famille": "3D stylisée",
+ "statut": "testée",
+ "compte": "Koan",
+ "verdict": "Essai des 11 accroches, non retenu.",
+ "look": {
+  "rendu": "jouets en plastique brillant, échelle de figurine"
+ },
+ "exemples": [
+  "exemples/01_hook_jouets.mp4",
+  "exemples/02_planche_jouets.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/videos/Koan/_bibliotheque-da/README.md"
+ ]
+}

@@ -1,0 +1,28 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Koan)",
+ "id": "da-koan",
+ "titre": "Papier crème, encre et trame",
+ "famille": "Papier et illustration",
+ "statut": "validée",
+ "compte": "Koan",
+ "skill": "da-koan",
+ "verdict": "Bible officielle du compte (validée par le Conseil, v2) ; sur Amis 200 h : « fond trop blanc, trop vide, pas assez d'animation ».",
+ "utilisee": [
+  "amis-200h",
+  "parents (1re version)"
+ ],
+ "look": {
+  "couleurs": "papier #EEE5D1, encre #1C1A18 / #4A4540, clair #FBF6EA, rouge #C2352B = l'idée à retenir",
+  "typo": "Playfair Display 700, VT323, sous-titres Montserrat 800",
+  "rendu": "« Pixel = les choses. Pinceau = le raisonnement. Trame = le réel. » ; mascotte lapin",
+  "mouvement": "balayage tramé, morphose, coup de pinceau"
+ },
+ "exemples": [
+  "exemples/01_cover.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/.claude/skills/da-koan/SKILL.md",
+  "C:/claude/tiktok-motion/studio/lib/koan.js"
+ ]
+}

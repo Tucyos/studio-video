@@ -1,0 +1,101 @@
+{
+ "createur": "@ansenjeo",
+ "nom_du_compte": "Ansenjeo",
+ "lien": "https://www.tiktok.com/@ansenjeo",
+ "genre": "da",
+ "origine": "Copiée de @ansenjeo (TikTok)",
+ "auto": {
+  "titre": "Jeu vidéo 3D rendu entièrement en caractères ASCII, carnet de développement muet",
+  "famille": "Écran et typographie",
+  "en_bref": [
+   "On voit un monde de jeu vidéo en 3D (forêt, herbe, eau, châteaux, cimetière) dessiné entièrement avec des lettres et des signes de clavier, sur un fond presque noir. Le vert de l'herbe domine.",
+   "Le personnage du joueur est vu de dessus, avec son pseudo en tout petit au-dessus de la tête, comme dans un jeu en ligne. Dans la vidéo « Multiplayer test », d'autres noms et des barres de vie apparaissent.",
+   "Le rythme est lent puis rapide : un long plan d'ouverture de 6 à 24 s où la caméra tourne doucement, puis des coupes plus nombreuses avec des plans-éclairs de moins d'une seconde, et pour finir un plan large et calme d'environ 5 s.",
+   "Personne ne parle. On entend une musique d'ambiance douce (tempo mesuré à 123 BPM, très peu de percussions) ou un fond d'orage et de pluie, mixé autour de -17 à -19 LUFS.",
+   "Seul texte à l'écran : un titre en deux lignes, blanc et fixe, qui revient d'une vidéo à l'autre (« Making the ASCII MMORPG of my dreams ») avec, au-dessus ou en dessous, le nom de la fonction testée (« Water reflection test », « Grass collision », « Multiplayer test »).",
+   "On la reconnaît au contraste entre une image faite de texte et un vrai mouvement de caméra 3D, et au format en épisodes d'un carnet de développement : un épisode = une fonction du jeu."
+  ],
+  "tags": [
+   "ascii",
+   "devlog",
+   "jeu indé",
+   "mmorpg",
+   "vue de dessus",
+   "sans voix",
+   "nature nocturne",
+   "3d en texte"
+  ],
+  "pour": "Montrer l'avancement d'un projet technique ou créatif, une fonction à la fois (jeu vidéo, moteur de rendu, simulation, outil génératif), quand l'image suffit à épater sans rien expliquer",
+  "look": {
+   "technique": "Moteur de jeu 3D temps réel avec un filtre de rendu qui remplace les pixels par des caractères ASCII (lettres, chiffres, signes comme / \\ ( ) $ & 0 Q). Ce sont des captures d'écran du jeu, pas une animation fabriquée à part. On voit des brins d'herbe en traits verts, des murs et façades remplis de caractères gris-bleu, une eau sombre faite de motifs « ( / \\ » et le reflet d'un croissant de lune. Les noms des personnages et les barres de vie viennent de l'interface du jeu. Le titre est ajouté au montage (outil probable : l'éditeur de TikTok ou CapCut ; non visible). Fichier analysé : 9:16, 720×1280, 30 i/s ; mis en ligne en 1080×1920.",
+   "couleurs": "Fond noir bleuté ≈ #05080C à #0A1418 (le vide et la nuit, il occupe une grande partie du cadre). Herbe : vert moyen ≈ #2D5A2D à #3A7A3A, plus vif ≈ #4CAF50 sur les brins éclairés (couleur principale). Murs, bâtiments et rochers en caractères gris-bleu ≈ #8A9AA8 / #4A5A6A. Arbres en ASCII vert-de-gris ou cyan ≈ #5A8A8A / #20B2AA (vidéo « Multiplayer »). Zones éclairées (lanternes, personnages en surbrillance) vert-jaune ≈ #BFFF00 / #C8E05A et doré ≈ #FFD700 / #D4AF37. Petites touches orange-brun ≈ #A0603A (toits ou feuillage d'automne en haut à droite de « Grass collision »). Blanc #FFFFFF pour le titre, les pseudos, les barres de vie, la pluie, les petits points dans l'herbe et le reflet de la lune.",
+   "typo": "Titre en deux lignes, blanc uni, sans serif neutre (de type Helvetica, SF Pro ou la police TikTok ; famille exacte non visible), sans contour, peut-être une ombre très légère. Ligne de la série « Making the ASCII MMORPG of my dreams » en petit corps régulier ; nom du test (« Water reflection test », « Multiplayer test », « Grass collision ») environ deux fois plus gros, graisse moyenne. Position : centrée au quart supérieur de l'écran, la série au-dessus et le test en dessous (r1, r3), ou bien centrée vers les 70 % de la hauteur avec le test au-dessus et la série en dessous (r2). Aucune animation : le titre reste au même endroit de la première à la dernière image, à travers coupes et bascules. Dans l'image, textes du jeu : pseudos en monospace blanc minuscule (« Senje », « Eloween », « Old Rod », « Skeleton », « Skald », « Skeleton Warrior »…), avec un trait blanc en dessous qui sert de barre de vie. Pas de sous-titres (pas de voix).",
+   "rendu": "Mosaïque de caractères très dense qui donne de la matière : on lit les formes de loin et on voit les lettres de près. Ambiance de nuit, contraste fort entre le fond noir et les éléments éclairés. Herbe faite de milliers de traits verts qui s'écartent autour du personnage (collision). Eau noire avec reflets en motifs de barres obliques. Pluie en traits blancs fins en diagonale (r3). Petits points blancs semés dans l'herbe, comme des particules ou des lucioles. Éclairages qui changent pendant les mouvements de caméra : virage du chaud au froid, montée en jaune-doré ou vert-jaune des structures. En r3, des grilles géométriques blanches puis vert-jaune apparaissent sous la forêt. Les passages en gros plan montrent la grille de caractères comme une couche de code ou de données.",
+   "personnages": "Un avatar de joueur en ASCII, petit et vu de dessus (silhouette sombre en cape, gris-bleu), avec son pseudo au-dessus de la tête. En « Grass collision », deux silhouettes (« Senje » et « Eloween »). En « Multiplayer test », plusieurs personnages et monstres (« Skeleton », « Skeleton Warrior », « Skald », « Old Rod »), certains éclairés en vert-jaune, avec des barres de vie blanches. Ils sont toujours petits dans le cadre, au service du décor. Visages non visibles.",
+   "decors": "Univers médiéval-fantastique de nuit : prairie d'herbe haute, étendue d'eau noire avec reflet de lune (r1) ; forteresse, arches et murs de pierre au bord d'une falaise, forêt de conifères vue d'en haut (r2) ; forêt dense sous la pluie, pierres tombales ou croix, lanternes, structures et grilles géométriques (r3). Toujours au moins un grand aplat noir (eau, ciel, ombre) qui fait ressortir le vert.",
+   "mouvement": "Caméra fixe ou lente par défaut (part « fixe ou lent » : 1 / 1 / 0,88), avec des bascules de point de vue sans couper : rotation lente autour du sujet, de 30° jusqu'à un tour complet de 360°. La durée médiane d'une bascule va de 0,77 s à 2,34 s. Structure : long plan d'ouverture sans coupe (6 à 24,3 s), en très large ou vue de dessus. Ensuite, partie montée à 2,6 à 2,92 coupes par 10 s, avec des durées en deux groupes : beaucoup de plans de moins de 1 s (jusqu'à 5 images, soit 0,17 s) et quelques plans de plus de 3 s. Rafale de 4 micro-plans (0,17 à 0,53 s) juste avant un plan final large et stable d'environ 5,3 s. L'échelle change par paliers à la coupe : large, puis gros plan, puis macro, puis retour au large. Il se passe quelque chose à l'image toutes les 1 à 3 s. Seules transitions : la coupe franche et la bascule de caméra (sauf une apparition progressive tout au début de r1). Les couches « techniques » (grille de caractères) entrent par une coupe sèche et sortent par une lente dissolution.",
+   "son": "Aucune voix (part de voix 0 ; un seul mot détecté, « you », isolé, en r1). Musique d'ambiance : r1 « In the Narnia's Forests » (William Maytook), r2 « son original », r3 bruitage d'orage et de pluie (« Heavy Thunderstorm and Light Rain… », Relaxing Guru). Tempo mesuré à 123 BPM dans les trois, battement très régulier (0,93-0,94). Part percussive très faible en r1 et r2 (0,01), donc nappe douce ; plus forte en r3 (0,39 : tonnerre et pluie). Fond autour de -18 à -21 dB. Une attaque nette au tout début (t = 0,07 s, et un son aigu en r3), puis de petits accents réguliers environ toutes les 1,1 s (r1 : 19,4 / 20,4 / 21,6 / 22,6 / 23,7 s). En r3, des accents en grappe entre 17 et 20 s (probablement le tonnerre). Courts creux de 0,3 à 1 s, pas de vrai silence. Mixage final : -19 LUFS (r1), -17,6 (r2), -16,6 (r3). Les coupes ne sont pas calées sur un son."
+  },
+  "pour_refaire": [
+   "Choisir UNE fonction ou nouveauté précise à montrer par vidéo (un reflet, une collision, le multijoueur…) et la nommer en 2 à 3 mots anglais terminés au besoin par « test ». Ce nom devient le titre.",
+   "Rendre la scène 3D avec un filtre ASCII (shader qui remplace les pixels par des caractères), dans une ambiance de nuit : fond ≈ #05080C, herbe verte ≈ #2D5A2D à #4CAF50, pierre en caractères gris-bleu ≈ #8A9AA8, éclairages vert-jaune ou doré ≈ #BFFF00 / #FFD700, blanc pur pour les détails (lune, pluie, particules).",
+   "Laisser l'interface du jeu à l'écran : pseudos en monospace blanc minuscule au-dessus des personnages, et barres de vie en trait blanc pour les ennemis.",
+   "Capturer en 9:16 (1080×1920 à la mise en ligne, 30 i/s). Le sujet nommé par le titre doit être visible dans chaque plan.",
+   "Tourner un long plan d'ouverture de 6 à 24 s, sans coupe, en vue de dessus très large ou en large paysage. Pas de démarrage à froid sur un détail.",
+   "Dans les plans longs, faire tourner la caméra lentement autour du sujet (de 30° à 360°), en lançant une bascule de point de vue toutes les 1 à 3 s pour que l'image ne reste jamais figée. Les bascules peuvent accélérer puis ralentir (écarts de 3 s à 0,4 s puis retour à 3,5 s).",
+   "Pendant chaque bascule, faire évoluer peu à peu une couche : virage de couleur chaud → froid, éclairage qui monte en doré, opacité d'une grille ou d'une superposition.",
+   "Monter la partie centrale à environ 2,6 à 2,9 coupes par 10 s, en coupes franches uniquement. Mélanger beaucoup de plans de moins de 1 s et quelques plans de plus de 3 s ; glisser des plans-éclairs de 5 images (0,17 s) entre deux angles ; lancer une bascule 2 à 3 images après une coupe.",
+   "Changer d'échelle par paliers à la coupe : large, puis gros plan, puis très gros plan où l'on voit les caractères, puis retour au large.",
+   "Faire entrer la « couche technique » (caractères ASCII en gros plan, interface de code monospace blanc et vert ≈ #00FF00) par une coupe sèche, la garder de 0,3 à 2 s, puis la faire disparaître par une lente dissolution plutôt que par une coupe.",
+   "Juste avant la fin, placer une rafale de 4 micro-plans (0,17 à 0,5 s chacun), puis finir sur le cadre le plus large de la vidéo, stable, pendant environ 5,3 s.",
+   "Poser le titre en deux lignes, blanc, sans serif neutre, sans contour ni animation : « Making the ASCII MMORPG of my dreams » (ou la phrase de série du nouveau projet) en petit, et le nom du test environ 2× plus gros. Le centrer au quart supérieur ou vers les 70 % de la hauteur, et le garder de la première à la dernière image.",
+   "Ne pas mettre de voix ni de sous-titres. Poser une musique d'ambiance douce, avec peu de percussions (autour de 123 BPM), ou un fond de pluie et d'orage si la scène est pluvieuse ; garder une attaque sonore nette dès la première image.",
+   "Mixer entre -19 et -16,6 LUFS intégrés, et ne pas caler les coupes sur la musique.",
+   "Publier avec la légende « Making the ASCII MMORPG of my dreams! [Nom du test] » et 3 hashtags de niche (#mmorpg #ascii #indiegames)."
+  ],
+  "apercu": [
+   "refs/r1/images/00026.jpg",
+   "refs/r1/images/00186.jpg",
+   "refs/r1/images/00552.jpg",
+   "refs/r2/images/00578.jpg",
+   "refs/r2/images/00902.jpg",
+   "refs/r2/images/00990.jpg",
+   "refs/r3/images/00571.jpg",
+   "refs/r3/images/00939.jpg"
+  ],
+  "regles": 29,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-ansenjeo\\sources\\TikTok_7696972526034914573.mp4",
+    "duree": 30.4,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "Making the ASCII MMORPG of my dreams! Water reflection test #mmorpg #...",
+    "vues": 789800,
+    "lien": "https://www.tiktok.com/@ansenjeo/video/7696972526034914573"
+   },
+   {
+    "id": "r2",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-ansenjeo\\sources\\TikTok_7696259565997804813.mp4",
+    "duree": 38.43,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "Making the ASCII MMORPG of my dreams! Grass collision #mmorpg #ascii ...",
+    "vues": 118900,
+    "lien": "https://www.tiktok.com/@ansenjeo/video/7696259565997804813"
+   },
+   {
+    "id": "r3",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-ansenjeo\\sources\\TikTok_7696970369915178253.mp4",
+    "duree": 51.4,
+    "format": "9:16",
+    "langue": "nn",
+    "titre": "Making the ASCII MMORPG of my dreams! Multiplayer test #mmorpg #ascii...",
+    "vues": 94100,
+    "lien": "https://www.tiktok.com/@ansenjeo/video/7696970369915178253"
+   }
+  ]
+ }
+}

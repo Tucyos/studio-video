@@ -1,0 +1,89 @@
+{
+ "createur": "@survival_rule_51",
+ "nom_du_compte": "Survival rules",
+ "lien": "https://www.tiktok.com/@survival_rule_51",
+ "genre": "da",
+ "origine": "Copiée de @survival_rule_51 (TikTok)",
+ "auto": {
+  "titre": "Infographie de survie en schémas plats sombres, avec bandeaux « Rule N » et sous-titres mot à mot",
+  "famille": "2D vectorielle",
+  "en_bref": [
+   "Une histoire de survie racontée comme un dossier technique : sur un fond presque noir, chaque scène est un schéma plat (plan vu de dessus, grille de portes, avion de profil, fiche d'inventaire) où le héros n'est qu'un rond orange avec son prénom.",
+   "Le montage est lent : on coupe à peu près une fois toutes les 8 à 15 secondes. Pendant un plan, l'image ne bouge pas de cadre ; ce sont les éléments du schéma qui s'allument, se déplacent ou changent de couleur au moment exact où la voix prononce le mot.",
+   "La voix anglaise est rapide (environ 185 à 190 mots par minute) et presque continue. Elle alterne longues phrases de faits et petites phrases-chocs (« Footsteps. », « 90 minutes. », « He jumps. »), sur une musique discrète et régulière à environ 129 BPM, avec des petits bruitages (clics, whooshs, impacts) dans les silences.",
+   "Les sous-titres en grosses capitales blanches très grasses se construisent mot à mot au milieu bas de l'écran. Un seul mot clé passe en rouge (« WON'T », « WASN'T ») ou en jaune (« 400 BOTTLES … WATER »).",
+   "Signes reconnaissables : le bandeau jaune « RULE 2 / BURN THE BRIDGE » avec son carré noir numéroté, le récit découpé en règles numérotées et en épisodes, et le carton final « PART N » suivi du titre de la prochaine règle."
+  ],
+  "tags": [
+   "infographie",
+   "survie",
+   "schéma vue de dessus",
+   "fond sombre",
+   "sous-titres mot à mot",
+   "série en épisodes",
+   "règles numérotées",
+   "storytelling"
+  ],
+  "pour": "Des récits de survie ou de crise en lieu clos (aéroport, bâtiment, véhicule, ville en panne), racontés à la troisième personne et découpés en « règles » pratiques : lieux, trajets, quantités, horaires et décisions tactiques à montrer sur des plans et des fiches.",
+  "look": {
+   "technique": "Animation 2D vectorielle plate, probablement faite dans un logiciel de motion design (type After Effects ou équivalent, outil non visible) : formes géométriques simples, pictogrammes, plans techniques, interfaces et fiches-documents. Les sous-titres sont animés mot à mot, calés sur la voix. Sur les images clés, tout est en aplats, sans rendu 3D. Le modèle qui a décrit les plans parle de « 3D » pour l'horloge, l'avion et le couloir, mais l'avion (image 6/8) et le couloir (image 4) visibles sont des aplats vectoriels, avec une perspective dessinée par rectangles emboîtés pour le couloir.",
+   "couleurs": "Fond quasi noir légèrement bleuté (~#0E1014 à #15181D) sur toute la vidéo. Gris-bleu (~#5A6678 / #4A6FA5) pour les structures : avion, plans, contours de schéma, volets (~#8A8F96 rayés). Orange (~#FF8C00 / #F5A623) pour le héros : rond « RAY », gilet. Jaune (~#F5C518 / #FFCC00) pour le bandeau « Rule N », les tracés d'itinéraire pointillés et leurs étiquettes (« SERVICE DOOR », « STAIRWELL », « STAFF CORRIDOR »), le badge de porte « 23 », les fenêtres allumées et certains mots de sous-titre. Rouge (~#E53935 / #FF3333) pour le danger : bannière « LOCKDOWN: ALL GATES CLOSED », étiquettes « EXIT » cadenassées, foule en points rouges, pastille « SEALED », mot-clé négatif dans les sous-titres, sous-titre « FOOTSTEPS. ». Blanc (#FFFFFF) pour le sous-titre de base. Beige papier (~#EDE6D6) avec texte brun-noir pour les fiches-documents (« GATE 22 MANIFEST »). Ponctuellement : bleu (#0066FF) et violet (#FF00FF) pour les lumières de secours, vert (~#00AA00 / #00CC99) pour des indicateurs ou un encadré, rouge-brun (~#8C3333) pour le flash d'urgence de fin.",
+   "typo": "Sous-titres : sans-serif géométrique très grasse (type Montserrat Black / ExtraBold, famille exacte non identifiable), tout en capitales, sans contour ni ombre visibles, blancs par défaut. Ils sont placés au centre ou à gauche, vers 62 à 72 % de la hauteur, sous l'illustration, et font environ 8 à 12 % de la hauteur pour un bloc d'une ou deux lignes. Ils se construisent mot à mot (« JUST » → « JUST SHUT ITS DOORS ») par fragments de 1 à 5 mots, puis repartent de zéro. Un mot clé passe en rouge ou en jaune (rouge : « WON'T », « WASN'T », « SOMEONE », « HIS », « SEALED GATE 23 » ; jaune : « 400 BOTTLES … WATER », avec « OF » resté blanc). On écrit en lettres les nombres sous 100 et les heures (« FOURTEEN YEARS », « TEN P.M. », « THREE A.M. »), en chiffres les grands nombres et les identifiants (« 40,000 », « 312 », « GATE 23 », « FLIGHT 718 »). Bandeau de chapitre : barre jaune horizontale en haut du schéma, avec à gauche un carré noir et le chiffre jaune (« 2 », « 3 »), puis « RULE 2 » en petit et le titre de la règle en sans-serif condensée grasse noire en capitales (« BURN THE BRIDGE », « A LIT PLANE IS A LIGHTHOUSE »). Étiquettes de schéma : petites pilules jaunes, orange ou rouges (pleines ou en contour) avec texte condensé gras (« RAY », « FLT 718 », « SEALED », « EXIT »). Données et documents : monospace (« 03:00 » dans un cadre arrondi sombre, « GATE 22 MANIFEST », « MEALS 312 », « WATER 400 »). Petit sur-titre gris en capitales sur les plans (« TERMINAL B, SERVICE LEVEL », « BRIDGE CONTROL »). Carton final : « PART N » en orange-jaune, puis titre XXL gras orange-jaune (« BURN THE BRIDGE »), centré sur fond noir.",
+   "rendu": "Aplats purs, sans texture ni grain. Coins arrondis sur les panneaux (cadres d'interface gris très foncé ~#1E2228 à fin liseré gris). Lignes fines pour les contours de plans. Tracés d'itinéraire en pointillés jaunes épais avec points d'étape. Lueurs légères seulement sur les éléments allumés (hublots jaunes, écran blanc, lumières de secours). Pas de lumière réaliste ni de dégradé marqué : la partie illustrée est parfois un peu plus claire que le reste du fond noir. Effets : particules (foule en points qui se densifient, se fragmentent ou se serrent), ondes concentriques blanches autour d'un personnage (bruit, pression de la foule), changement de couleur pour un changement d'état (véhicules qui passent au gris quand « the power dies », données qui virent à l'orange ou au rouge pour la chaleur), croix rouge sur le tableau des départs, flash teinté rouge-brun d'environ 0,9 s avant le carton final.",
+   "personnages": "Aucun visage ni personnage détaillé. Le héros est un pion abstrait : un rond orange cerclé avec une pilule « RAY », ou un point rouge sur le schéma du pont. Ailleurs, il devient une petite silhouette plate (gilet orange et bleu ; personnage minuscule tête chair et corps sombre dans le couloir) ou une silhouette noire devant une grande porte. La foule est un nuage de petits points (blancs, ou rouges près des sorties). Les antagonistes sont des points (« deux points immobiles ») ou suggérés hors champ (pas, fenêtres qui s'allument).",
+   "decors": "Lieux techniques montrés de façon schématique : plan d'aéroport vu de dessus, niveau de service avec escaliers et couloirs du personnel, rangée de volets métalliques rayés, sorties « EXIT » cadenassées, tableau des départs, pupitre « BRIDGE CONTROL » (joystick à boule rouge et cadran de clé), passerelle vue de dessus, avion de ligne de profil avec rangée de hublots, couloir de passerelle en perspective faite de rectangles emboîtés, hublot ou store en gros plan, fiche d'inventaire beige, écrans de contrôle (lumières, température, plan des sièges), horloge numérique. Le fond reste toujours noir et uni, sans décor réaliste. Chaque nouveau plan change de type de dispositif (schéma, objet, interface, document, grille).",
+   "mouvement": "Caméra fixe : aucun panoramique ni zoom mesuré ; au plus une très légère poussée ou translation décrite sur certains plans. Uniquement des coupes franches, aucun fondu entre les plans. Plans longs : médiane 7,5 s (épisode 1) et 12,3 s (épisode 2), jusqu'à 21 à 28 s pendant les énumérations ; environ 0,7 à 1,2 coupe toutes les 10 s. On ne coupe pas sur une fin de phrase mais juste après le premier mot de la phrase suivante (0 à 7 images après). Une coupe tombe exactement sur le mot « Rule ». Une phrase-choc peut être isolée dans un plan de 1,1 s (« the power dies. »). À l'intérieur du plan, 2 à 4 animations par plan sont calées sur les mots, de 0,5 à 1 s après pour les nombres et de 1 à 13 images après pour les verbes d'action. La vidéo s'ouvre sans silence, avec un premier plan d'environ 8,2 s, et se termine sur un carton muet de 2,37 s.",
+   "son": "Voix off masculine ou féminine : non déterminable par les données. Son origine (humaine ou synthèse) n'est pas déterminée non plus. Anglais, narration au présent, troisième personne, ton grave et factuel de récit à suspense. Débit soutenu : 185 à 190 mots par minute, voix sur 74 à 76 % de la durée. Pauses courtes de 0,5 à 0,6 s entre les phrases, environ 1,2 s après une phrase-choc ou avant un changement de chapitre. Musique probable sous la voix : pulsation très régulière à environ 129 BPM, à peu près moitié percussive et moitié harmonique, nettement en retrait (fond environ 3,5 dB sous la voix, harmonique hors voix vers -19,5 dB). Genre non identifiable. Elle change seulement à la toute fin (vers 127,8 s et 119,8 s). Bruitages probables dans les pauses de la voix : environ 50 par vidéo, surtout aigus (clics, whooshs, cloches), quelques médiums et impacts graves, très resserrés sur les 2 dernières secondes (stinger du carton final). Mixage final à -14,5 LUFS intégrés."
+  },
+  "pour_refaire": [
+   "Écrire le script en anglais, au présent et à la troisième personne : un héros nommé (métier qui lui donne un savoir d'initié), un lieu clos en crise, une foule qui fait l'inverse. Découper en « Rule N. » + titre court impératif, alterner phrases de faits chiffrés et fragments d'un ou deux mots. Viser environ 300 mots pour 2 minutes et finir sur une phrase en suspens (« Footsteps. », « …the door that faces his. »).",
+   "Enregistrer ou générer la voix à environ 185 à 190 mots par minute, sans blanc au début : le premier mot démarre à l'image 1. Pauses de 0,5 à 0,6 s entre les phrases et d'environ 1,2 s après une phrase-choc ou avant « Rule N ».",
+   "Créer un projet vertical 9:16 à 30 i/s, livré en 1080×1920 (les analyses ont été faites en 576×1024), sur un fond uni presque noir (~#0E1014).",
+   "Définir la charte : gris-bleu pour les structures, orange pour le héros, jaune pour les itinéraires, les chapitres et les objets utiles, rouge pour le danger et les blocages, blanc pour le texte, beige papier pour les documents. Ne jamais ajouter de couleur réaliste.",
+   "Pour chaque bloc de phrases, dessiner une illustration plate centrée dans la moitié haute de l'écran (environ 15 à 55 % de la hauteur), vue de dessus ou strictement de face ou de profil, occupant 30 à 80 % de la largeur. Changer de dispositif à chaque coupe : plan vu de dessus, grille de motifs, objet, interface, fiche, profil de véhicule.",
+   "Représenter le héros par un pion unique (rond orange + pilule avec son prénom) qui se déplace sur le schéma quand la voix décrit un mouvement. Représenter la foule par des nuages de points, les pluriels et les « every » par une rangée ou une grille d'environ 8 éléments identiques.",
+   "Dans chaque plan, animer 2 à 4 éléments sur les mots : tracé pointillé jaune avec étiquettes pour un itinéraire, changement d'état 1 à 13 images après le verbe (s'éteindre, sauter, s'allumer), affichage de chaque nombre 0,5 à 1 s après le mot (horloge, compteur, densité de points, chiffre sur une fiche).",
+   "À chaque « Rule N », couper exactement sur le mot « Rule » et faire apparaître le bandeau jaune en haut de l'illustration : carré noir avec le chiffre jaune, « RULE N » en petit, titre en condensée grasse noire. Garder ce bandeau pendant toute la règle.",
+   "Poser les sous-titres en capitales sans-serif très grasse, blanches, au centre ou à gauche vers 62 à 72 % de la hauteur, sur 1 à 2 lignes de 8 à 12 % de la hauteur. Les construire mot à mot par fragments de 1 à 5 mots, puis remettre à zéro.",
+   "Dans chaque fragment, colorer un seul mot clé : rouge pour la négation, l'exception ou la menace (« WON'T », « WASN'T », « HIS »), jaune pour une ressource. Écrire en lettres les nombres sous 100 et les heures, en chiffres les grands nombres et les identifiants.",
+   "Monter en coupes franches uniquement, avec une caméra fixe. Premier plan (accroche) d'environ 8 s. Médiane de 7,5 à 12 s par plan. Pas de coupe pendant une énumération (plans de 17 à 28 s). Couper juste après le premier mot de la phrase suivante. Isoler éventuellement une phrase-choc de 3 mots dans un plan d'environ 1,1 s.",
+   "Avant la fin, si besoin, insérer un flash d'urgence d'environ 0,9 s (même décor teinté rouge-brun, dernière phrase répétée). Terminer par un carton muet de 2,37 s (71 images) sur fond noir : « PART N+1 » puis le titre de la prochaine règle en très gros orange-jaune.",
+   "Mixer une musique à pulsation régulière vers 129 BPM, environ 3 à 4 dB sous la voix. Ajouter des clics, whooshs et impacts uniquement dans les pauses, et un amas de petits sons sur les 2 dernières secondes. Normaliser à -14,5 LUFS.",
+   "Publier en série : l'épisode suivant s'ouvre en reprenant la dernière phrase du précédent (« Footsteps on the jet bridge… ») puis enchaîne sur la règle annoncée dans le carton final."
+  ],
+  "apercu": [
+   "refs/r1/images/00391.jpg",
+   "refs/r1/images/01108.jpg",
+   "refs/r1/images/02349.jpg",
+   "refs/r1/images/03682.jpg",
+   "refs/r2/images/00430.jpg",
+   "refs/r2/images/01395.jpg",
+   "refs/r2/images/02619.jpg",
+   "refs/r2/images/03299.jpg"
+  ],
+  "regles": 28,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-survival-rule-51\\sources\\TikTok_7697724949091372310.mp4",
+    "duree": 129.77,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "Gate 23, part 1. 40,000 people ran for the exits. Ray went the other ...",
+    "vues": 1200000,
+    "lien": "https://www.tiktok.com/@survival_rule_51/video/7697724949091372310"
+   },
+   {
+    "id": "r2",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-survival-rule-51\\sources\\TikTok_7697725281326435606.mp4",
+    "duree": 121.9,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "Gate 23, part 2.  Flight 718 sits at a gate sealed hours ago. So who ...",
+    "vues": 379400,
+    "lien": "https://www.tiktok.com/@survival_rule_51/video/7697725281326435606"
+   }
+  ]
+ }
+}

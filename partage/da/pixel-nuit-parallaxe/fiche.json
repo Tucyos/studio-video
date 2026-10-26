@@ -1,0 +1,28 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Koan)",
+ "id": "pixel-nuit-parallaxe",
+ "titre": "Pixel de nuit en parallaxe",
+ "famille": "Pixel art",
+ "statut": "validée",
+ "compte": "Koan",
+ "verdict": "Vendetta (19/10) : « j'aime beaucoup », « ça tue » sur l'accroche ; mieux en ×2. Jugée ensuite « trop artistique, trop sombre » pour l'actualité.",
+ "utilisee": [
+  "vendetta"
+ ],
+ "look": {
+  "couleurs": "bleu nuit / sarcelle #04060c → #3d5664, ambre sodium #d9672e → #fff1c6 ; rouge #e0252c seulement dans les textes",
+  "typo": "VT323 crème #ecd3a2 / ambre #f8b040",
+  "rendu": "grille 270×480 agrandie (×2 préféré), plans en profondeur dans Three.js, tramage Bayer 4×4, bloom, flou de profondeur, grain"
+ },
+ "exemples": [
+  "exemples/01_cover.png",
+  "exemples/02_planche.png",
+  "exemples/03_hook_pixel_titre.png",
+  "exemples/04_ref_pixel_pont_nuit.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/videos/Koan/vendetta/docs/da.md",
+  "C:/claude/tiktok-motion/videos/Koan/vendetta/etat.md"
+ ]
+}

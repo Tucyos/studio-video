@@ -1,0 +1,29 @@
+{
+ "genre": "da",
+ "origine": "Exemple montré par le créateur de Creatorize (chaîne g russ)",
+ "id": "crz-pixel-net",
+ "titre": "Pixel art 3D rétro net (16 couleurs)",
+ "famille": "Pixel art",
+ "statut": "exemple",
+ "verdict": "Style « Pixel art », look « Crisp 640 » (chaîne Escaped : Doom sur calculatrice, Resident Evil 2 sur N64, Crash sur PS1…).",
+ "look": {
+  "couleurs": "rampes de 16 couleurs, aplats saturés, contours bleu nuit, sol quadrillé bleu nuit ; une couleur de marque (orange, corail) pour les titres",
+  "typo": "HUD 1080p en police rétro ; titres de section « 01 THE IMPOSSIBLE CARTRIDGE » (petit chiffre orange + capitales blanches)",
+  "rendu": "scènes Three.js rendues en 640×360 net, contours de profondeur et d'objet, lumière de contour, contours qui s'estompent dans le brouillard, vignette ; photos réelles détourées et créditées",
+  "mouvement": "scènes calées sur les mots, ciels et transitions tramés"
+ },
+ "exemples": [
+  "exemples/01_c_045m30.jpg",
+  "exemples/02_c_050m45.jpg",
+  "exemples/03_c_061m00.jpg",
+  "exemples/04_c_092m15.jpg",
+  "exemples/05_c_097m45.jpg",
+  "exemples/06_c_173m10.jpg",
+  "exemples/07_c_174m30.jpg",
+  "exemples/08_c_175m10.jpg"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/recherches/creatorize/SYNTHESE.md",
+  "C:/claude/tiktok-motion/recherches/creatorize/frames/haiku_frames_cours.md"
+ ]
+}

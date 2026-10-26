@@ -1,0 +1,22 @@
+{
+ "genre": "da",
+ "origine": "Exemple montré par le créateur de Creatorize (chaîne g russ)",
+ "id": "crz-reconstitution-enquete",
+ "titre": "Reconstitution d'enquête sombre, mannequins brillants",
+ "famille": "3D stylisée",
+ "statut": "exemple",
+ "verdict": "Look « Investigation » du style 3D reconstruction (attaque de l'aéroport de Riyad). Variante « tableau d'indices » (true crime) vue sans image.",
+ "look": {
+  "couleurs": "gris presque monochrome, une lumière froide ; barre rouge sur les noms",
+  "typo": "bandeau de nom en capitales blanches grasses, ligne de source en bas, « ● RECONSTRUCTION »",
+  "rendu": "« un look cinéma sombre, des mannequins sans visage brillants et une lumière froide » ; rôles (suspect, victime, témoin…) en finition mate, brillante ou lueur orange ; ombres portées douces"
+ },
+ "exemples": [
+  "exemples/01_A8C_Sw-wNok_9m30.jpg",
+  "exemples/02_juMQ_mHKbb0_2m45.jpg"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/recherches/creatorize/SYNTHESE.md",
+  "C:/claude/tiktok-motion/recherches/creatorize/frames/haiku_frames_cours.md"
+ ]
+}

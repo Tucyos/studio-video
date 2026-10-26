@@ -1,0 +1,81 @@
+{
+ "createur": "@debunk.eur",
+ "nom_du_compte": "un jour un debunk",
+ "lien": "https://www.tiktok.com/@debunk.eur",
+ "genre": "da",
+ "origine": "Copiée de @debunk.eur (TikTok)",
+ "auto": {
+  "titre": "Contre-enquête politique : archives encadrées sur fond flouté, preuves officielles et tableau d'affichage à palettes",
+  "famille": "Écran et typographie",
+  "en_bref": [
+   "C'est une vidéo verticale de 92 s qui met un responsable politique face à ses propres phrases. Au centre, on voit des extraits d'interview, de podcast ou de meeting en 16:9, entre deux fins filets jaunes. Derrière, la même image est agrandie, floutée et assombrie pour remplir le format vertical.",
+   "Au-dessus de chaque extrait, il y a un titre en capitales qui pose la question (« ET POUR LE PRÉSIDENT, IL PRÉVOIT QUOI ? »). Une étiquette jaune indique la source et la date (« MEETING • ADIDAS ARENA • 5 JUILLET 2026 »). En bas, les sous-titres sont blancs sur des bandeaux noirs, avec les mots clés soulignés en jaune.",
+   "Le rythme est posé : des plans longs (6,7 s en médiane), presque uniquement des coupes franches, aucun effet de transition. Le montage coupe juste après une question pour que le plan suivant y réponde.",
+   "Le son mélange la voix de la personne visée, tirée des archives, et une voix off qui commente (« Pour un élève, de juin à septembre, c'est trop long. Pour un président, de mai à septembre, c'est mérité. »). Dessous, une musique discrète à environ 117 BPM et des petits clics aigus dans les pauses. Le mixage est fort (-11,5 LUFS).",
+   "La preuve arrive à la fin : capture du Journal officiel avec le décret surligné en jaune et sa référence agrandie, soulignée en rouge. Puis la chute, sur un tableau d'affichage de gare à palettes jaunes (« VOYAGEUR : M. PHILIPPE / DURÉE : 1 SEMAINE ») qui reprend la phrase du début.",
+   "Ce qui la rend reconnaissable : le jaune d'accent sur le noir, le thème « tableau des départs », et la boucle « 8h30 → 17h00 » dite et affichée au début comme à la fin."
+  ],
+  "tags": [
+   "debunk",
+   "politique",
+   "archives",
+   "contradiction",
+   "tableau à palettes",
+   "jaune et noir",
+   "sous-titres soulignés",
+   "preuve documentaire"
+  ],
+  "pour": "Montrer les contradictions d'une personnalité publique (promesse contre déclaration, discours contre texte officiel signé) à partir de ses propres archives vidéo et de documents publics datés.",
+  "look": {
+   "technique": "Montage vidéo et motion design 2D (outil exact non visible ; un logiciel de montage avec animation de texte suffit, de type Premiere/After Effects/CapCut). Ingrédients : 1) extraits vidéo d'archives (reportage télé avec son bandeau d'origine, podcast filmé, meeting) posés en 16:9 au centre ; 2) fond fait de la même vidéo agrandie, floutée et assombrie ; 3) titres et étiquettes ajoutés au montage ; 4) captures d'écran de documents officiels (Journal officiel) avec surlignage ; 5) animation de tableau d'affichage à palettes (split-flap) pour les horaires et la chute.",
+   "couleurs": "Jaune d'accent ≈ #F5C518 / #FFDD00 : filets autour de la vidéo, étiquettes de source (texte noir sur jaune), deuxième ligne des titres, soulignement des mots clés, surlignage du décret, caractères du tableau à palettes. Blanc #FFFFFF : titres en capitales, texte des sous-titres. Noir / quasi-noir ≈ #000000-#111111 : bandeaux derrière les sous-titres, palettes du tableau, fond de la séquence finale. Gris foncé rayé ≈ #1A1A1A-#2A2A2A : fond du tableau des départs. Gris ≈ #666666-#999999 : étiquettes secondaires (« VOYAGEUR », « DURÉE », « HORAIRE »), pastille « TROP ? », crédit des sources. Rouge ≈ #D62828 : soulignement de la référence du décret (et rouge des bandeaux télé d'archives). Le fond flouté prend les couleurs de l'archive, assombries.",
+   "typo": "Titres du haut : sans empattement condensé et gras, en capitales, centrés, sur deux lignes (famille probable : Bebas Neue / Oswald / Barlow Condensed). Ils restent fixes pendant tout le moment, première ligne en blanc et seconde en jaune quand c'est une question (« ET POUR LE PRÉSIDENT, / IL PRÉVOIT QUOI ? »), ou une seule ligne finissant par « : » (« RAISONNABLE : », « SON PROGRAMME, EN JUILLET : »). Étiquette de source : petites capitales grasses noires sur rectangle jaune, collée au filet supérieur gauche de la vidéo (« PODCAST DE PAULINE LAIGNEAU • EN LIGNE LE 7 SEPT. 2026 »). Sous-titres : sans empattement gras (type Inter / Montserrat), blancs, sur bandeaux noirs ajustés à chaque ligne, une à deux lignes centrées sous la vidéo, citations entre « », mots clés soulignés en jaune (« 8h30-17h », « septembre », « juin et septembre », « raccourcies »). Ils avancent par fragments synchronisés à la voix. Horaires : police à chasse fixe en jaune sur palettes noires, flèche « → » entre les heures (« 8H30 → 17H00 »), puis pastille grise « TROP ? ». Séquence finale : citation en italique avec empattement, blanche (« « Bah… je crois pas. » »). En-tête de rubrique en petites capitales espacées (« HORAIRES · LYCÉENS · PRÉSIDENTS »). Référence du décret agrandie en gras noir sur carte blanche. Crédit des sources en très petit gris tout en bas.",
+   "rendu": "Plat, éditorial, sans 3D. Contraste fort entre le fond flouté sombre et la bande vidéo nette, cadrée par les filets jaunes. L'image d'archive garde sa compression et ses bandeaux d'origine (« LYCÉES : LE MOUVEMENT HORS DE CONTRÔLE ? »). Les documents sont des captures nettes avec un surlignage jaune façon stabilo. La fin est un tableau des départs : fond sombre à rayures horizontales, palettes qui défilent (caractères encore brouillés à l'image, « BZBYOKKK1KR »). Pas de grain ni de texture ajoutés (non visible).",
+   "personnages": "La personnalité politique visée, uniquement dans ses archives réelles : interview de rue face caméra avec micros, podcast en plan moyen ou gros plan face au micro (chemise blanche, cravate sombre), meeting sur scène derrière un pupitre. Le cadrage se resserre quand le propos devient plus fort. Le narrateur n'apparaît jamais à l'image.",
+   "decors": "Ceux des archives : extérieur avec camions de pompiers et stands (reportage), salon aux boiseries blanches (podcast), scène de meeting avec drapeaux français et européen et grand nom en rouge en fond. Décors ajoutés : fond flouté de l'archive, page du Journal officiel, tableau des départs sombre.",
+   "mouvement": "Caméra fixe ou lente (85 %), aucun panoramique ni zoom avant, léger zoom arrière sur 15 % du temps. Plans longs : médiane 6,67 s, 13 plans sur 92 s, 1,3 coupe par 10 s. 11 coupes franches sur 12, une seule coupe douce (entrée dans l'infographie), 3 bascules très brèves (≈0,33 s) qui marquent l'entrée dans un document. Coupes placées à 1-2 images d'un mot, souvent juste après une question ou au milieu d'une phrase. Les textes s'animent par apparition et défilement des palettes. Aucune transition décorative.",
+   "son": "Deux voix : 1) la personne visée, extraite des archives (interview, podcast, meeting) ; 2) une voix off de narrateur, ironique et posée, qui relie les extraits (« Le plus drôle, c'est ce qu'il promettait en juillet », « Alors, Monsieur le candidat… faites une semaine. »). On ne peut pas savoir si la voix off est humaine ou synthétique. Débit soutenu : 235 mots/min de voix, voix présente 80 % du temps, pauses courtes (médiane 0,45 s). Musique probable en fond, battement très régulier (0,93) autour de 117,5 BPM, niveau bas (≈ -27 dB hors voix, fond 14 dB sous la voix), avec des changements vers 5 s, 20-23 s, 46 s et 66-68 s. 28 bruitages probables dans les pauses, surtout aigus (clics, whoosh, peut-être les palettes du tableau) et quelques impacts graves, groupés vers 34 s et 87 s. Silence final de 2,2 s. Mixage fort : -11,5 LUFS."
+  },
+  "pour_refaire": [
+   "Écrire le script en « procès par les archives » : 1) l'accroche, une déclaration récente de la personne (« J'ai vu : 8h30-17h, c'est trop au lycée. ») ; 2) une question qui la retourne contre elle (« Et pour lui-même, il prévoit quoi ? ») ; 3) 2 ou 3 extraits contradictoires datés ; 4) la preuve écrite (texte officiel, date, signature) ; 5) une chute qui reprend la phrase du début.",
+   "Rassembler les archives et noter pour chacune la source et la date exactes (média, émission, lieu, jour). Garder leurs bandeaux d'origine.",
+   "Créer le gabarit 9:16 : vidéo 16:9 au centre, entre deux filets jaunes (#F5C518) ; en fond, la même vidéo agrandie, floutée fort et assombrie.",
+   "Coller sur le filet supérieur gauche une étiquette jaune à texte noir en capitales : « SOURCE • LIEU/MISE EN LIGNE • DATE ».",
+   "Placer au-dessus de la vidéo un titre de rubrique en capitales condensées grasses, fixe pendant tout le moment : soit une question (ligne 1 en blanc, ligne 2 en jaune), soit un mot ou une phrase finissant par « : » que la voix développe ensuite.",
+   "Sous-titrer toute la parole en blanc gras sur bandeaux noirs, 1 à 2 lignes, en fragments qui suivent la voix. Mettre les citations entre « » et souligner en jaune les chiffres et les mots clés.",
+   "Afficher les chiffres dits au moment où ils sont dits, en palettes jaunes sur noir à chasse fixe (« 8H30 → 17H00 »). Ajouter une pastille grise d'interpellation (« TROP ? »).",
+   "Monter en plans longs (5 à 14 s) tant qu'une même idée se développe. Couper franchement à 1-2 images d'un mot, juste après une question de la voix, pour que le plan suivant réponde. On peut aussi couper entre deux mots, la voix continuant par-dessus.",
+   "Resserrer le cadre sur la personne quand la formule devient forte (plan moyen, puis gros plan, puis très gros plan). Une formule répétée devient le titre du haut, entre guillemets.",
+   "Pour la preuve : basculer en plein écran sur la capture du document officiel avec un en-tête de rubrique en petites capitales espacées (« HORAIRES · LYCÉENS · PRÉSIDENTS »). Surligner la phrase en jaune et répéter la référence agrandie sur une carte blanche, soulignée en rouge. Ajouter une étiquette jaune « JOURNAL OFFICIEL · date ». Entrer dans le document par une bascule brève (≈0,3 s) collée 1 image après la coupe, ou par l'unique coupe douce.",
+   "Montrer l'objet au moment exact où il est nommé (« décret » → page à l'écran ; « signature » → nom du signataire).",
+   "Mettre le crédit complet des sources en très petit gris en bas du plan document (média, date, références du texte).",
+   "Finir en boucle sur le tableau des départs : l'archive d'ouverture en haut, la réplique en italique avec empattement entre « », puis des champs en palettes jaunes (« VOYAGEUR : M. X », « DURÉE : 1 SEMAINE », « HORAIRE »). La voix off reprend la formule du début (« 8h30, 17h. Vous verrez, ça ne fait pas de mal. »).",
+   "Son : voix au premier plan, musique régulière vers 115-120 BPM très basse, clics et whoosh aigus seulement dans les pauses (défilement des palettes), petit impact grave sur la preuve. Laisser environ 2 s de silence à la fin. Normaliser vers -11 / -12 LUFS.",
+   "Exporter en 9:16 (720×1280 ou plus). Viser 80 à 95 s."
+  ],
+  "apercu": [
+   "refs/r1/images/00091.jpg",
+   "refs/r1/images/00607.jpg",
+   "refs/r1/images/01309.jpg",
+   "refs/r1/images/01594.jpg",
+   "refs/r1/images/01671.jpg",
+   "refs/r1/images/02038.jpg",
+   "refs/r1/images/02359.jpg",
+   "refs/r1/images/02634.jpg"
+  ],
+  "regles": 27,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-debunk-eur\\sources\\TikTok_7694154941509782816.mp4",
+    "duree": 92.6,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "décidément edouard phillipe #blocus #france #politique #pourtoi ",
+    "vues": 3400000,
+    "lien": "https://www.tiktok.com/@debunk.eur/video/7694154941509782816"
+   }
+  ]
+ }
+}

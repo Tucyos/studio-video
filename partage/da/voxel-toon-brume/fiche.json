@@ -1,0 +1,39 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Koan)",
+ "id": "voxel-toon-brume",
+ "titre": "3D voxel en aplats, schémas pixel sur brume",
+ "famille": "3D stylisée",
+ "statut": "validée",
+ "compte": "Koan",
+ "verdict": "Validée sur « Hans Landa, le méchant parfait ? » et langage corporel (16/10), puis abandonnée le 17-18/10 : « la 3D pixel ne marche plus ».",
+ "utilisee": [
+  "landa",
+  "truman",
+  "ariane5",
+  "langage-corporel",
+  "mauvaise-personne",
+  "tdah",
+  "message-relu"
+ ],
+ "look": {
+  "couleurs": "une palette par vidéo (Ferme et fumée, Technicolor, Seahaven, Kourou 1996, Bar de nuit, Salon du soir, Chambre la nuit…) ; un seul accent pour l'idée clé, souvent rouge #E8412C",
+  "typo": "Playfair, VT323, Montserrat 800",
+  "rendu": "voxels Three.js rendus en 540×960 agrandis ×2 sans lissage, ombrage toon 3 tons ; schémas en pixel 2D toujours sur une brume animée teintée par chapitre, jamais de 2D posée sur la 3D",
+  "mouvement": "transition en blocs de pixels (pixTrans), « zap » neige de télé"
+ },
+ "exemples": [
+  "exemples/01_cover.png",
+  "exemples/02_cover.png",
+  "exemples/03_cover.png",
+  "exemples/04_cover.png",
+  "exemples/05_cover.png",
+  "exemples/06_cover.png",
+  "exemples/07_palettes.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/.claude/skills/realisateur-koan/SKILL.md",
+  "C:/claude/tiktok-motion/videos/Koan/landa/docs/da.md",
+  "C:/claude/tiktok-motion/videos/Koan/truman/docs/da.md"
+ ]
+}

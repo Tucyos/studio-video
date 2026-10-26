@@ -1,0 +1,33 @@
+{
+ "genre": "da",
+ "origine": "Exemple montré par le créateur de Creatorize (chaîne g russ)",
+ "id": "crz-shorts-mannequins",
+ "titre": "Shorts 3D de mannequins, faits insolites (façon Zack D. Films)",
+ "famille": "3D stylisée",
+ "statut": "exemple",
+ "verdict": "Trois shorts faits avec Creatorize en imitant la chaîne Zack D. Films (vidéo BVVD26jnv0M : fausse équipe de basket paralympique, sursaut d'endormissement, survivant d'Hiroshima et Nagasaki) ; d'après le créateur, ça « colle bien au style ».",
+ "look": {
+  "couleurs": "scènes simples et saturées (chambre bleue, terrain, arbre) ou sombres ; mannequins couleur chair ou rose",
+  "typo": "sous-titres blancs très gras cernés de noir, en capitales, au milieu de l'écran, mot par mot",
+  "rendu": "mannequins 3D articulés sans visage, décors réduits à l'essentiel, cartes grises avec une épingle rouge pour les lieux",
+  "mouvement": "vertical, 30 s, un geste qui illustre chaque phrase, chute et ralenti"
+ },
+ "exemples": [
+  "exemples/01_zackd_BVVD_0438.png",
+  "exemples/02_zackd_BVVD_0450.png",
+  "exemples/03_zackd_BVVD_0462.png",
+  "exemples/04_zackd_BVVD_0474.png",
+  "exemples/05_zackd_BVVD_0390.png",
+  "exemples/06_zackd_BVVD_0402.png",
+  "exemples/07_zackd_BVVD_0414.png",
+  "exemples/08_zackd_BVVD_0426.png",
+  "exemples/09_zackd_BVVD_0486.png",
+  "exemples/10_zackd_BVVD_0498.png",
+  "exemples/11_zackd_BVVD_0510.png",
+  "exemples/12_zackd_BVVD_0522.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/recherches/creatorize/SYNTHESE.md",
+  "C:/claude/tiktok-motion/recherches/creatorize/frames/haiku_frames_cours.md"
+ ]
+}

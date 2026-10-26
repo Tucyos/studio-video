@@ -1,0 +1,81 @@
+{
+ "createur": "@monsieurcortex",
+ "nom_du_compte": "Monsieur Cortex",
+ "lien": "https://www.tiktok.com/@monsieurcortex",
+ "genre": "da",
+ "origine": "Copiée de @monsieurcortex (TikTok)",
+ "auto": {
+  "titre": "Bonhommes bâtons dessinés au trait blanc sur fond noir, avec sous-titres en capitales et mots-clés rouges",
+  "famille": "2D vectorielle",
+  "en_bref": [
+   "Ça ressemble à des croquis à la craie blanche sur un tableau très sombre : des bonhommes bâtons tout simples et des pictogrammes (horloge, cerveau, engrenages, jauge, ampoule) dont le trait se dessine sous nos yeux. Le rouge vif ne sert qu'à faire ressortir les détails importants.",
+   "Le texte est très présent : des capitales blanches, grasses et étroites, en haut de l'écran. La phrase se construit mot à mot pendant qu'elle est dite, et un seul mot par groupe passe en rouge lumineux.",
+   "Le montage est très nerveux : un plan dure 1,2 s en moyenne, avec environ 6 coupes toutes les 10 secondes. Chaque coupe tombe sur un mot, et quand le plan dure, la caméra avance lentement dessus.",
+   "Une seule voix, qui tutoie le spectateur et parle très vite (232 mots par minute) presque sans pause. Une musique rythmée assez présente tourne en fond, et quelques bruitages (clic, whoosh) tombent dans les rares silences.",
+   "On la reconnaît à trois choses : le duo noir, blanc et rouge, les bonhommes bâtons au trait tremblé, et le mot « QUOI ? » rouge entre guillemets « ».",
+   "La vidéo est construite comme une explication du cerveau qui flatte le spectateur : « ton esprit fonctionne différemment »."
+  ],
+  "tags": [
+   "bonhommes bâtons",
+   "trait craie",
+   "fond noir",
+   "accent rouge",
+   "sous-titres mot à mot",
+   "psychologie",
+   "montage rapide",
+   "pictogrammes"
+  ],
+  "pour": "Expliquer en une minute un petit comportement du quotidien (tic, réflexe, gêne) par un mécanisme du cerveau ou de la psychologie. Les notions abstraites se traduisent en pictogrammes simples (temps, mémoire, attention, traitement).",
+  "look": {
+   "technique": "Animation 2D vectorielle façon « tableau » (type whiteboard animation ou After Effects avec tracés). Les traits se dessinent progressivement à l'écran : sur les images clés, on voit des bonhommes et des courbes à moitié tracés. Les pictogrammes apparaissent ou se multiplient au fil des mots. Les zooms et les coupes sont faits au montage, et le texte est incrusté par-dessus (style sous-titres animés de CapCut ou équivalent ; l'outil exact n'est pas visible).",
+   "couleurs": "Fond anthracite presque noir (#141414 à #1E1E1E), un peu plus clair au centre et plus sombre sur les bords, comme une légère vignette ; les données citent #000000. Trait et texte principal blanc cassé (#F2F2F2 / #FFFFFF). Accent rouge vif (#FF3B3B, donné comme #FF0000) avec halo lumineux : mots-clés, « QUOI ? », croix d'interdiction, coches, éclairs, bouche, cœur, ondes. Gris moyen (#5A5A5A à #8A8A8A) : fond de pastille ronde (oreille), mots secondaires comme « MAIS » ou un mot qui apparaît en flou de mouvement.",
+   "typo": "Linéale grasse condensée en capitales (famille proche d'Anton, Bebas Neue Bold ou Oswald Bold ; la police exacte n'est pas identifiable). Blanc avec une légère ombre portée sombre. Le mot-clé passe en rouge avec un halo lumineux (glow). Le bloc est centré sur 1 à 4 lignes dans le tiers haut de l'écran, avec un interlignage serré. La phrase s'écrit mot à mot : chaque nouveau mot entre avec un petit effet (sur image 1, « RÉPONDS » arrive incliné, gris et flou). Les questions sont encadrées de guillemets « QUOI ? » en rouge. Le dernier mot fort est parfois répété en bas de l'écran pendant le plan suivant. Le bloc est gardé à travers les coupes tant que la phrase continue, puis l'écran se vide pour la phrase suivante.",
+   "rendu": "Plat, sans volume ni lumière réaliste. Le trait est fin et un peu tremblé, souvent doublé comme un croquis à la craie ou au feutre. Le halo lumineux ne touche que les éléments rouges (texte, bouche, croix) ; on voit aussi une ampoule qui « brille » avec des rayons. Pas de texture de papier visible, seulement le dégradé du fond.",
+   "personnages": "Bonhommes bâtons unisexes : tête ronde, corps en rectangle arrondi, bras en traits avec des mains en petits ronds, jambes en deux traits. Le visage est réduit au minimum : deux points et un sourire, les yeux fermés (apaisé), des gouttes de sueur (effort), une bouche en trait ou un froncement. Ils sont seuls au centre, en paire, en deux groupes face à face (opposition) ou en longue rangée de 10 à 20 identiques (le « on », les gens en général). Ils sont souvent placés en bas de l'écran, sous le texte.",
+   "decors": "Pas de décor : seulement le fond sombre. Le sens est porté par des pictogrammes posés dans l'espace : horloge à aiguille rouge, sablier, cerveau en deux hémisphères, engrenages avec flèches, jauge ou barre de progression, carrés de « processeurs », ampoule, bulles de parole avec ondes, oreille dans une pastille ronde, bouche rouge, file de cercles (mémoire tampon), écran d'ordinateur, symboles + − = ×, croix rouges, coches rouges. Les pictogrammes barrés sont dans un cercle avec un grand X rouge (image 3 : oreille ; image 6 : cerveau).",
+   "mouvement": "Format vertical 9:16 à 30 i/s. 41 plans en 66 s : plan médian 1,2 s, 10 % des plans à 0,47 s ou moins, 10 % à 3,57 s ou plus. 6,02 coupes par 10 s, et 8 dans les 10 premières secondes. Les coupes sont franches et tombent environ 1 image avant un mot, souvent au milieu d'une phrase, sur un nom important. Par défaut, zoom avant lent de 4 à 7,5 %/s (49 % des plans). Les micro-plans de moins de 0,8 s restent fixes, souvent posés sur un mot de liaison (« à », « où », « et », « Donc »), et alternent avec les plans en zoom. Deux bascules de caméra rapides (environ 0,45 s) sont gardées pour les 10 dernières secondes, sur la révélation. Dans un plan, des éléments s'ajoutent au fil des mots au lieu de couper.",
+   "son": "Une seule voix narrative qui tutoie, au débit très rapide (232 mots/min) et présente sur 97 % de la durée. Les pauses sont courtes (médiane 0,41 s). Les données ne disent pas si la voix est humaine ou de synthèse (non déterminé). Musique probable sur toute la durée : 123 BPM, battement très régulier (0,94), plutôt percussive (64 %), sans changement en cours de vidéo. Le fond n'est que 5,5 dB sous la voix (voix −25,7 dB, fond −31,2 dB). Volume global −25,6 LUFS. Quatre bruitages probables dans les pauses : à 2,6 s, 31,3 s et 41,3 s (timbre médium), et à 49,8 s (aigu : clic, whoosh ou cloche). Le seul vrai trou sans voix dure 0,47 s (images 274-287), juste après « deux longues secondes »."
+  },
+  "pour_refaire": [
+   "Écrire un script de 60 à 70 s (environ 250 mots) au tutoiement, en suivant l'ordre : question-accroche « Pourquoi tu… ? » → scène vécue → fausse explication (« Tu te dis peut-être que… ») → autorité (« Des neurologues ont découvert que… ») → comparaison « les esprits moyens… mais ton esprit… » → mécanisme expliqué par une image d'ordinateur → nom savant du phénomène → réhabilitation (« Donc tu n'… pas … ») → image finale qui flatte.",
+   "Enregistrer la voix (ou la générer) avec un débit très rapide, autour de 230 mots/min, presque sans respiration. Ne garder qu'une seule pause volontaire d'environ 0,5 s après un mot qui évoque l'attente.",
+   "Pour chaque nom abstrait du script, lister un pictogramme concret (temps → horloge ou sablier, calcul → engrenages et + − =, capacité → jauge, mémoire → file de cercles, erreur → symbole barré d'un X rouge, correction → coche rouge).",
+   "Préparer un projet 9:16 (1080×1920, 30 i/s) avec un fond anthracite presque noir légèrement éclairci au centre.",
+   "Dessiner les bonhommes bâtons et les pictogrammes au trait blanc fin et un peu tremblé, façon craie. N'utiliser le rouge (#FF3B3B avec halo) que pour un ou deux détails par plan.",
+   "Animer chaque élément en tracé progressif (le trait se dessine), et faire apparaître ou multiplier les éléments au rythme des mots forts (pluriels, énumérations, surcharge).",
+   "Composer selon le sens : gros plan sur l'objet nommé, longue rangée de 10 à 20 bonhommes identiques pour « les gens » ou « tu » en général, deux groupes ou deux variantes côte à côte pour un « mais » ou une comparaison. Garder le tiers haut libre pour le texte.",
+   "Découper au montage avec un plan médian de 1,2 s (environ 6 coupes par 10 s), et 8 coupes dans les 10 premières secondes. Caler chaque coupe environ 1 image avant un mot, de préférence au milieu d'une phrase, sur le nom qui introduit un nouveau concept.",
+   "Insérer des micro-plans fixes de 0,23 à 0,67 s sur un seul mot de liaison (« à », « où », « et », « Donc ») entre deux plans plus longs.",
+   "Appliquer un zoom avant lent et continu (4 à 7,5 %/s) sur tout plan de plus de 0,8 s. Laisser les micro-plans totalement fixes et alterner zoom et plan fixe.",
+   "Utiliser uniquement des coupes franches. Garder deux bascules de caméra rapides (environ 0,45 s) pour les 10 dernières secondes, sur la phrase de révélation.",
+   "Incruster les sous-titres mot à mot : capitales en linéale grasse condensée, blanches avec ombre, centrées dans le tiers haut sur 1 à 4 lignes. Passer un seul mot-clé par groupe en rouge lumineux, mettre « QUOI ? » entre guillemets « » en rouge, garder la phrase à l'écran à travers les coupes et vider l'écran à chaque nouvelle phrase.",
+   "Sur certaines coupes, répéter en bas d'écran le dernier mot fort de la phrase pendant le plan suivant (0,5 s environ).",
+   "Poser une musique rythmée régulière vers 123 BPM, à environ 5 à 6 dB sous la voix, et ajouter 3 ou 4 bruitages courts (clic, whoosh) uniquement dans les pauses de la voix.",
+   "Publier avec une description qui reprend la question-titre et une phrase d'accroche (« Le paradoxe … expliqué. 🧠⚡ »), suivie de 4 hashtags de niche (#hautpotentiel #psychologie #cerveau #faitspsychologiques)."
+  ],
+  "apercu": [
+   "refs/r1/images/00094.jpg",
+   "refs/r1/images/00281.jpg",
+   "refs/r1/images/00621.jpg",
+   "refs/r1/images/00829.jpg",
+   "refs/r1/images/01081.jpg",
+   "refs/r1/images/01322.jpg",
+   "refs/r1/images/01574.jpg",
+   "refs/r1/images/01812.jpg"
+  ],
+  "regles": 24,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-monsieurcortex\\sources\\TikTok_7697545830458215713.mp4",
+    "duree": 66.47,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "Pourquoi les gens très intelligents disent « quoi ? » avant de répond...",
+    "vues": 1500000,
+    "lien": "https://www.tiktok.com/@monsieurcortex/video/7697545830458215713"
+   }
+  ]
+ }
+}

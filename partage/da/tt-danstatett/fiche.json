@@ -1,0 +1,90 @@
+{
+ "createur": "@danstatett",
+ "nom_du_compte": "Dans Ta Tête",
+ "lien": "https://www.tiktok.com/@danstatett",
+ "genre": "da",
+ "origine": "Copiée de @danstatett (TikTok)",
+ "auto": {
+  "titre": "Pictogrammes blancs et rouges sur fond noir étoilé, sous-titres condensés mot à mot",
+  "famille": "2D vectorielle",
+  "en_bref": [
+   "Des petits personnages en pictogramme (tête ronde, corps simple, comme sur une signalétique) et des icônes au trait blanc, sur un fond noir parsemé de points lumineux. Le rouge vif sert à la fois de couleur d'accent et de couleur émotionnelle.",
+   "En haut à gauche, un petit bandeau de chapitre (carré rouge, numéro, titre en capitales espacées) au-dessus d'une barre de progression rouge. En bas, de gros sous-titres en capitales condensées qui s'ajoutent mot par mot, avec un mot-clé en rouge.",
+   "Chaque mot important devient tout de suite une image littérale : une jauge « CALME / TEMPÊTE » pour l'émotion, un verre qui déborde, des bulles qui remplissent une tête, un calendrier « JOUR 1 » pour « des jours ».",
+   "Le rythme est soutenu mais pas haché : environ 2 coupes toutes les 10 s, des plans de 3 à 6 s qui restent fixes et s'enrichissent d'un élément à chaque mot-clé. Les coupes tombent au début d'un mot, souvent en milieu de phrase.",
+   "Une voix posée mais rapide (environ 240 mots/min) parle presque sans arrêt, avec des pauses d'une demi-seconde, sur une musique rythmée et discrète (129 à 152 BPM) et quelques petits bruitages dans les pauses.",
+   "Le format : une affirmation de psychologie en accroche, une explication en 3 à 8 parties numérotées, puis une question en « tu » et « Dis-le en commentaire »."
+  ],
+  "tags": [
+   "pictogrammes",
+   "fond noir",
+   "rouge et blanc",
+   "sous-titres mot à mot",
+   "psychologie",
+   "infographie animée",
+   "vulgarisation",
+   "minimaliste"
+  ],
+  "pour": "La vulgarisation de psychologie et de santé mentale (traits de personnalité, émotions, réactions du corps) racontée comme un phénomène que le spectateur reconnaît en lui, et plus largement tout sujet explicatif découpé en étapes ou en types numérotés.",
+  "look": {
+   "technique": "Animation 2D vectorielle de type motion design (outil probable : After Effects ou un équivalent, avec des formes et des icônes vectorielles). Pictogrammes et icônes au trait, animés par apparition, remplissage, morphing des têtes (r1, images 930 à 938), jauges dont l'aiguille bouge, lignes qui se tracent. Les sous-titres sont générés mot par mot, calés sur la voix. Le rendu est exporté en 1080×1920 (9:16).",
+   "couleurs": "Trois couleurs principales et des nuances. Noir #000000 pour le fond, avec de petits points blancs ou gris dispersés comme un ciel étoilé. Blanc #FFFFFF pour les personnages, les contours d'icônes et les sous-titres de base. Rouge vif #FF0000 (vers #E0001B à l'image) pour le mot-clé du sous-titre, le personnage « concerné », les points d'interrogation, les cœurs, les liquides, les aiguilles, les ondes et la barre de progression. Gris #808080 (et #C0C0C0) pour les personnages en retrait, les éléments passés ou à venir, le mot du sous-titre pas encore prononcé (« LES » en gris avant « GESTES ») et les grands mots fantômes en fond (« NE » gris en italique géant, r1). Rouge sombre #8B0000 à #CC0000 pour les dégradés, les anneaux concentriques fins derrière le texte, et la lueur sombre en bas de l'écran.",
+   "typo": "Trois niveaux. 1) Sous-titres : sans empattement condensée très grasse (famille probable : Anton, Bebas Neue ou Oswald Bold), toujours en capitales, sans contour visible, blanc avec 1 mot en rouge (« CHAQUE PENSÉE, », « DE SA TÊTE. »). Placés au tiers bas de l'écran (vers 65 à 70 % de la hauteur), centrés ou alignés à gauche, en 1 ou 2 lignes, de 1 à 4 mots, accumulés mot par mot puis vidés au groupe suivant. Taille constante, sauf le mot-concept qui grossit ou monte au centre (« L'HYPERSENSIBILITÉ », « L'AUTORÉGULATION » en rouge sur toute la largeur, « FIN DU MONDE » plein écran). Le mot-clé est parfois entouré d'un cercle rouge ou affiché deux fois. Des révélations par volet sont visibles (« L'AUTORÉGULATION » avec le L à moitié rouge, moitié blanc). 2) Bandeau de chapitre en haut à gauche : petit carré rouge, numéro en rouge (« 02/03 », « 03/03 », « 01 », « 08 ») puis le titre en blanc, en capitales d'une police à chasse fixe ou technique (famille probable : Space Mono ou JetBrains Mono), petit corps, lettres très espacées (« EN CONFIANCE », « DANS LEUR TÊTE », « LE RADAR », « L'EMPATHIE », « LE PIRE », « BILAN », « INTROVERTIS · ×3 »). En dessous, un filet gris sur toute la largeur, que remplit une barre rouge qui avance avec la vidéo. 3) Étiquettes d'illustration : même police technique en petit corps, en capitales espacées (« FILTRE », « CALME », « TEMPÊTE » en rouge, « VOIX », « GESTES », « JOUR », « 02 », « 03 » sous les personnages).",
+   "rendu": "Rendu plat, sans ombre, sans volume ni texture de matière. Traits blancs de largeur moyenne aux bouts arrondis, aplats blancs ou rouges, contours en pointillés pour ce qui est caché ou « non vu » (personnage rouge en pointillés sous un « ? », bulle de pensée en pointillés). Le fond noir est animé discrètement : poussière d'étoiles, grands anneaux rouges très fins et transparents derrière le sous-titre, vignettage rouge sombre en bas. Pas de lumière réaliste. Le rouge seul crée la tension.",
+   "personnages": "Pictogrammes génériques et anonymes : tête ronde pleine, corps rectangulaire aux bords arrondis, jambes séparées, sans visage ni vêtements. Blancs par défaut, rouges pour le sujet ou l'émotion, gris pour les autres ou le passé, en pointillés rouges pour l'invisible. Ils sont parfois numérotés dessous (« 02 », « 03 »). Accessoires flottants au-dessus de la tête : point d'interrogation, cœur, spirale, bulle de pensée avec une onde, bulle « … », flèche de rechargement. Variante buste au trait (tête et épaules en contour blanc) pour l'intérieur de la tête, remplie de bulles. Visages ronds avec des ondulations rouges pour « trembler » (r2, selon la description).",
+   "decors": "Aucun décor réel : un fond noir uniforme étoilé. L'espace est seulement organisé par des rangées horizontales de personnages, des duos face à face reliés par un arc rouge avec un cœur, des icônes dans des carrés aux angles arrondis (micro à ondes « VOIX », main « GESTES »), des anneaux de radar concentriques, des jauges en demi-cercle « CALME → TEMPÊTE », un entonnoir ou une grille « FILTRE », un verre qui se remplit de rouge, un calendrier « JOUR 1 », une horloge, des jauges chiffrées (100 %, -25 %, -3 %).",
+   "mouvement": "Caméra virtuelle fixe ou presque la plupart du temps (77 % en r1, 55 % en r2). Panoramique horizontal lent sur une rangée de personnages (ouverture r2), montée verticale pour « remontent à la surface », zoom avant progressif vers une tête (fin de r1). Deux bascules de caméra rapides de 0,33 s en r1 pour lancer une nouvelle sous-partie sans couper. Les transitions sont presque toutes des coupes franches (21 sur 22), avec une seule coupe douce en morphing (r1, sur « Le 3e »). Les plans durent en médiane 3,03 s (r1) et 5,67 s (r2), avec 1,8 à 1,9 coupe par 10 s. Il y a des plans longs (jusqu'à 14,3 s) pendant les énumérations, et des plans éclairs de 0,6 à 0,93 s pour une chute (« FIN DU MONDE »). Les coupes tombent sur l'attaque d'un mot (écart médian de 0 à 2,5 images), souvent au milieu d'une phrase. À l'intérieur d'un plan, un élément apparaît à chaque mot-clé, dans la seconde où il est dit.",
+   "son": "Voix off unique en français, au tutoiement dans la question finale. Humaine ou de synthèse : non déterminé par les données. Débit rapide et régulier : 244 et 240 mots par minute de voix. La voix occupe 73 % (r1) à 89 % (r2) du temps, avec des pauses médianes de 0,55 s et 0,41 s. Brillance de voix autour de 1 900 à 1 950 Hz. Musique de fond continue à battement très régulier (régularité de 0,93 à 0,94) : r1 sur « Stargazing (Slowed + Reverb) » de Marcelo De Carvalho, environ 129 BPM, sans changement ; r2 sur un son original, environ 152 BPM, avec un changement à 35,9 s (au moment de « Mais après une dispute »). Niveau : fond environ 11 à 12 dB sous la voix. Bruitages probables dans les pauses : 23 en r1, 12 en r2, médiums ou aigus (clic, whoosh, cloche), et quelques impacts graves en fin de r2 (40,5 s et 44,3 s). Sonie intégrée de -24,2 LUFS (r1) et -17,7 LUFS (r2) : pas de norme commune. Pas de vrai silence long."
+  },
+  "pour_refaire": [
+   "Écrire le script en 150 à 200 mots (50 à 65 s) : une accroche-affirmation sur un trait psychologique, avec un chiffre ou une promesse (« Les introvertis ont 3 visages. Et le troisième, presque personne ne le voit. »), puis 3 à 8 parties courtes, puis une question en « tu » et « Dis-le en commentaire ». Prévoir des énumérations dites d'un seul souffle et une formule hyperbolique (« la fin du monde »).",
+   "Découper le script en chapitres titrés pour le bandeau du haut (« 01 HYPERSENSIBLE », « 03 LE RADAR », « 02/03 EN CONFIANCE », « BILAN »). Pour chaque mot-clé, choisir une image littérale : jauge, verre qui déborde, bulle, cœur, horloge, calendrier, nombre de personnages égal au chiffre dit.",
+   "Enregistrer une voix off rapide et régulière (environ 240 mots/min), avec des pauses de 0,4 à 0,6 s, sans long silence. La voix doit couvrir 75 à 90 % de la durée.",
+   "Préparer un projet en 1080×1920, 30 i/s, sur fond noir #000000 avec une fine poussière d'étoiles animée, des anneaux rouges très transparents au centre bas et un léger vignettage rouge sombre en bas.",
+   "Construire une bibliothèque de pictogrammes plats : personnage (tête ronde et corps arrondi) en blanc, en rouge, en gris et en contour pointillé rouge, buste au trait, bulles (pleine, pointillée, « … »), point d'interrogation, cœur, jauge demi-cercle « CALME / TEMPÊTE », icônes dans des carrés arrondis avec une étiquette en police mono, horloge, calendrier « JOUR 1 ». Uniquement du noir, du blanc, du rouge #FF0000 et du gris.",
+   "Placer le bandeau de chapitre en haut à gauche (carré rouge, numéro rouge, titre blanc en police mono espacée), avec un filet gris et une barre de progression rouge qui avance sur toute la durée de la vidéo.",
+   "Monter le premier plan avec l'accroche complète sur une rangée horizontale de personnages identiques (panoramique lent ou ajout progressif), et faire correspondre le nombre d'éléments au chiffre dit.",
+   "Donner aux plans une durée par défaut de 3 à 6 s. Garder le même plan pendant une énumération ou une explication (jusqu'à 10 à 14 s), en ajoutant un élément visuel à chaque mot-clé dans la seconde où il est prononcé, pour que l'image ne soit jamais figée.",
+   "Couper franchement, sur l'attaque d'un mot (au plus 2 images d'écart), de préférence en milieu de phrase. Pour les parties numérotées, laisser l'article (« Le ») sur le plan précédent et ouvrir le nouveau plan sur l'ordinal (« premier », « deuxième », « 3e »). Ajouter si besoin une bascule de caméra rapide de 0,33 s ou un morphing des têtes pour entrer dans la dernière partie.",
+   "Passer du large au gros plan sur un seul symbole (une tête, une jauge, un visage) quand la voix parle d'un état intérieur ou d'une intensité (« tête », « émotionnelle », « trembler », « épuisée »).",
+   "Animer les sous-titres en police condensée très grasse (Anton ou Bebas Neue), en capitales et à taille constante, au tiers bas de l'écran. Ajouter les mots un à un au rythme de la voix (1 à 4 mots par carton), puis vider le carton au groupe suivant. Montrer en gris le mot qui arrive et passer 1 seul mot-clé par phrase en rouge, éventuellement entouré ou doublé.",
+   "Faire monter au centre ou en haut, en plus grand et en rouge, le terme-concept (« L'HYPERSENSIBILITÉ », « DIALOGUE INTÉRIEUR »). Pour la formule choc, isoler les 2 ou 3 derniers mots dans un plan éclair de 0,6 à 0,9 s, avec un carton typographique plein écran (« FIN DU MONDE »).",
+   "Terminer par un dernier plan d'environ 2,5 s : personnages avec des points d'interrogation rouges et des bulles ou une icône de message, sous-titres « ÇA T'ARRIVE ? » et « DIS-LE EN COMMENTAIRE », avec le mot-clé en rouge.",
+   "Mixer une musique rythmée (120 à 150 BPM, battement régulier) environ 11 à 12 dB sous la voix, avec la possibilité de changer de musique au tournant du récit. Poser de petits clics, whooshs ou cloches dans les pauses à l'apparition des icônes, et des impacts graves sur les moments durs. Viser une sonie finale entre -24 et -17 LUFS (les références ne s'accordent pas, -18 à -16 LUFS reste une hypothèse pour TikTok)."
+  ],
+  "apercu": [
+   "refs/r1/images/00128.jpg",
+   "refs/r1/images/00715.jpg",
+   "refs/r1/images/01403.jpg",
+   "refs/r1/images/01893.jpg",
+   "refs/r2/images/00225.jpg",
+   "refs/r2/images/00794.jpg",
+   "refs/r2/images/01097.jpg",
+   "refs/r2/images/01421.jpg"
+  ],
+  "regles": 27,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-danstatett\\sources\\TikTok_7694629547886628129.mp4",
+    "duree": 66.71,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "Les introvertis ont 3 visages… et le 3ᵉ, presque personne ne le voit ...",
+    "vues": 1400000,
+    "lien": "https://www.tiktok.com/@danstatett/video/7694629547886628129"
+   },
+   {
+    "id": "r2",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-danstatett\\sources\\TikTok_7695024489880472854.mp4",
+    "duree": 52.74,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "Les larmes aux yeux dès que le ton monte… même quand tu n'es pas vrai...",
+    "vues": 754600,
+    "lien": "https://www.tiktok.com/@danstatett/video/7695024489880472854"
+   }
+  ]
+ }
+}

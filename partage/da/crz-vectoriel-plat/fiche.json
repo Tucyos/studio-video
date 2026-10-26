@@ -1,0 +1,23 @@
+{
+ "genre": "da",
+ "origine": "Exemple montré par le créateur de Creatorize (chaîne g russ)",
+ "id": "crz-vectoriel-plat",
+ "titre": "Explication en dessin vectoriel plat",
+ "famille": "2D vectorielle",
+ "statut": "exemple",
+ "verdict": "Style « Flat explainer », look « Studio » (Neuralink, intérêts composés, batterie qui meurt dans le froid).",
+ "look": {
+  "couleurs": "fond violet nuit sans dégradé, personnage au pull jaune, pastilles jaunes et vert menthe",
+  "typo": "sous-titres blancs gras, mot-clé en jaune",
+  "rendu": "dessin vectoriel plat et lumineux, personnages articulés avec animations au repos ; éclairage plat ou ombrage dynamique"
+ },
+ "exemples": [
+  "exemples/01_c_067m45.jpg",
+  "exemples/02_c_076m58.jpg",
+  "exemples/03_c_077m20.jpg"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/recherches/creatorize/SYNTHESE.md",
+  "C:/claude/tiktok-motion/recherches/creatorize/frames/haiku_frames_cours.md"
+ ]
+}

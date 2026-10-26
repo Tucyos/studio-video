@@ -1,0 +1,81 @@
+{
+ "createur": "@lanotaus",
+ "nom_du_compte": "SimuLab",
+ "lien": "https://www.tiktok.com/@lanotaus",
+ "genre": "da",
+ "origine": "Copiée de @lanotaus (TikTok)",
+ "auto": {
+  "titre": "Duel de sports en 3D jouet : mannequin articulé, terrains vus de dessus et compteurs qui défilent",
+  "famille": "3D stylisée",
+  "en_bref": [
+   "Une vidéo verticale d'une minute qui compare deux sports (ici foot contre basket) avec des scènes 3D simples : un petit bonhomme articulé façon mannequin en bois, des terrains vus de dessus et des gradins faits de cubes noirs, rouges et blancs.",
+   "Le rythme est très rapide : un plan dure environ 1,4 s en moyenne, la voix parle presque sans arrêt (274 mots par minute, 96 % du temps) et commence dès la première image.",
+   "Chaque chiffre dit s'affiche en gros et défile comme un compteur (X4 → X17, 0.1 → 4.0 KM, 500 KCAL contre 1000+ KCAL, chronos verts façon écran digital).",
+   "Les textes sont des mots en capitales, dans une police étroite et grasse, souvent posés dans des étiquettes orange à contour noir. Le mot important est mis en rouge ou en vert.",
+   "Le son : une voix française rapide et familière qui tutoie, une musique rythmée discrète (environ 129 BPM) et de petits bruitages aigus (clic, whoosh) dans les pauses.",
+   "On la reconnaît à son côté « simulation pour enfants qui explique la science du sport » : le bonhomme fait littéralement ce que la voix dit (il sprinte, saute, s'effondre), avec un verdict tranché à la fin."
+  ],
+  "tags": [
+   "3d low-poly",
+   "mannequin articulé",
+   "comparatif sport",
+   "infographie",
+   "compteurs",
+   "vue zénithale",
+   "voix off rapide",
+   "verdict"
+  ],
+  "pour": "Les comparaisons « X contre Y » qui se chiffrent (effort physique, distances, surfaces, durées, calories) et se terminent par un gagnant : sports, métiers, animaux, modes de vie.",
+  "look": {
+   "technique": "Animation 3D (logiciel non visible ; un outil comme Blender ou Cinema 4D est probable). Les personnages sont des mannequins aux membres cylindriques animés pose par pose. Les terrains et les objets (ballon, burgers, socles) sont des modèles simples. Les textes, compteurs, chronos et barres de santé sont des calques 2D posés par-dessus au montage. Livré en 9:16 (1080×1920 pour la version publiée).",
+   "couleurs": "Fond noir ou très sombre (#000000 à #111111) presque partout. Orange vif (#FF6600 / ~#FF7A1A) pour les étiquettes, les chiffres et les mots-clés, côté basket. Vert néon (#00FF00 / ~#3CFF6A) pour les chronos, le côté foot et les chiffres « gagnants » (1000+). Rouge (#d32f2f / ~#E0213A) pour les mots de souffrance (SOUFFRIR) et les chaussures. Blanc (#ffffff) pour le gros des titres, le t-shirt et les lignes du terrain. Bois clair (#c4a574) pour le parquet, raquette rouge-orange (#d32f2f), pelouse verte (#2d5016 / vert plus clair à l'image) pour le foot, marron (#8B4513) pour les zones remplies. Gradins faits de pixels noirs, gris, rouges et blancs.",
+   "typo": "Une linéale étroite et très grasse, toujours en CAPITALES (famille de type Anton, Bebas Neue ou Oswald Bold ; la police exacte n'est pas visible). Trois façons de l'utiliser : 1) une étiquette, c'est-à-dire un rectangle orange plein, avec un contour noir et du texte noir (« ET POURTANT… », « SAUT », « CHANGEMENTS ILLIMITÉS », « BASKET »), ou vert plein avec du texte noir (« FOOT ») ; 2) un gros titre blanc ombré, avec le mot-clé dans une couleur d'accent et un peu plus grand (« OÙ IL VA LE PLUS / SOUFFRIR ? », avec SOUFFRIR en rouge) ; 3) un gros chiffre orange cerné de noir (« X17 », environ 180 px) ou vert (« 1000+ »), qui défile comme un compteur. Les chronos utilisent une police d'afficheur digital vert, dans une case noire au contour vert (« 38:12 »). Une étiquette blanche, légèrement penchée, avec du texte noir, sert de titre-carton (« LE CALCUL »). Les textes sont placés en haut ou au centre-haut, et les phrases de conclusion en bas (« AU FOOT : IL ABANDONNE », dans une case verte semi-transparente). Sous-titres mot à mot en bas seulement au début. Apparition franche, sans animation sophistiquée (le détail de l'animation n'est pas visible).",
+   "rendu": "3D propre et mate, un peu « jouet ». Éclairage studio doux venant du haut, ombres portées nettes au sol, fond qui se fond dans le noir (vignettage). Matières simples : parquet aux lattes visibles, pelouse unie, peau bois clair mate. Effets : halo ou aura lumineuse (verte ou orange) qui grandit autour du personnage ou du panier, anneaux lumineux colorés sous les socles, zones du terrain qui se remplissent de couleur. Pas de grain, pas de texture papier.",
+   "personnages": "Un seul héros, le « mec lambda » : un mannequin articulé aux membres cylindriques couleur bois clair, avec des rotules visibles. Il porte des cheveux bruns en casque, un t-shirt blanc ample, un short bleu marine, de petites chaussettes blanches dentelées et des chaussures en blocs rouges. Il n'a pas de visage détaillé. Il peut être dupliqué (rangées de clones, clones en demi-cercle avec chacun un chrono). Il montre son état par sa posture : penché mains sur les genoux, courbé, assis sur le banc, allongé au sol, en train de tomber en arrière.",
+   "decors": "Le parquet de basket, avec ses lignes blanches et sa raquette rouge-orange. Une pelouse de foot vue de dessus, sur laquelle s'aligne une grille de terrains de basket (17 terrains de basket = 1 terrain de foot). Des gradins sombres faits de cubes en pixels, qui évoquent une foule. Un banc de touche en marches noires. Des socles cylindriques noirs avec des burgers 3D pour parler de calories. Souvent un simple fond noir.",
+   "mouvement": "Caméra fixe ou lente dans 83 % des plans. Zoom arrière dans 14 % des plans, zoom avant dans 3 %. Suivi de profil pour les actions (sprint, saut, chute). Vue zénithale pour les surfaces et les distances, plan moyen de face pour l'état du personnage. 35 plans en 60 s (5,6 coupes par 10 s) : médiane 1,37 s, plans de 0,17 à 0,6 s pendant les comptages et les énumérations, plans de plus de 3 s réservés à l'ouverture, aux chiffres expliqués et au verdict. Coupes franches presque partout (31 sur 34), calées sur le début d'un mot. 9 bascules de caméra rapides (environ 0,4 s) à la place de coupes. Pas de fondu.",
+   "son": "Voix off masculine française, probablement humaine (synthèse non vérifiable), rapide (274 mots/min), sur un ton familier et complice qui tutoie (« prends un mec normal », « tu changes d'action »), avec une voix plutôt brillante (~1 200 Hz). Pauses très courtes (médiane 0,38 s, jamais plus d'environ 0,5 s). Musique probable sous la voix : rythmée, battement très régulier, environ 129 BPM, à un niveau bas (fond environ 10 dB sous la voix ; genre exact non mesuré). 11 bruitages aigus probables (clic, whoosh, cloche) dans les pauses, surtout sur les chiffres et à la toute fin. Mixage final à -19,4 LUFS."
+  },
+  "pour_refaire": [
+   "Écrire un script d'environ 260 mots pour 60 s. Structure : un fait-choc spatial en première phrase, un « Et pourtant », la question au spectateur (« Où est-ce qu'il va le plus souffrir ? »), puis 3 ou 4 rounds chiffrés annoncés par un mot de liaison (« Résultat », « Mais », « Sauf qu' », « Et le calcul »), un verdict, et une dernière phrase courte qui donne le gagnant.",
+   "Enregistrer la voix d'une traite, rapide (environ 270 mots/min), en tutoyant, sans laisser plus de 0,5 s entre deux phrases. Le premier mot doit tomber sur la première image.",
+   "Modéliser (ou réutiliser) un décor 3D simple : terrains vus de dessus avec leurs vraies proportions, gradins en cubes pixel noirs, rouges et blancs, fond noir. Lumière douce venant du haut, avec des ombres nettes.",
+   "Créer ton propre mannequin articulé neutre (membres cylindriques couleur bois, t-shirt blanc, short marine, chaussures en blocs de couleur) et un jeu de poses : debout, mains sur les genoux, sprint, freinage, saut, demi-tour, assis, chute, allongé. Ne pas copier le personnage du créateur.",
+   "Découper le script mot par mot et prévoir une image littérale pour chaque mot-clé : le personnage fait l'action dite, une surface est comparée en vue de dessus, son état est montré de face.",
+   "Pour chaque chiffre, animer un compteur qui monte jusqu'à la valeur dite (X4 → X17, 0.1 → 4.0 KM, 364 → 1000+), avec des micro-plans de 5 à 17 images, même là où la voix se tait.",
+   "Poser les textes en capitales, dans une police étroite et grasse (type Anton ou Bebas). Mots-clés dans des étiquettes orange à contour noir, en haut ; chiffres géants orange cernés de noir ; chronos dans une case digitale verte.",
+   "Code couleur fixe : orange = camp A (et accents), vert néon = camp B et chiffres gagnants, rouge = douleur, blanc = titres neutres.",
+   "Ouvrir avec des sous-titres mot à mot en bas sur les deux premières phrases, puis passer aux mots-clés seuls.",
+   "Poser la question en titre centré en haut, en blanc, avec le mot-clé en rouge et plus grand.",
+   "Annoncer chaque partie par un titre-carton (« Résultat », « LE CALCUL », « LE VERDICT ») qui apparaît environ 8 images avant le mot dit.",
+   "Dans les énumérations, mettre un plan par mot, d'environ 13 à 19 images, avec le mot en étiquette en haut et une caméra qui suit le personnage de profil.",
+   "Monter en coupes franches calées sur le début des mots (à 2 images près). Remplacer quelques coupes par une bascule de caméra rapide (environ 12 images) dont le pic tombe sur le mot-révélation. Garder la coupe douce pour les étapes d'un comptage dans le même décor.",
+   "Finir par la phrase de conclusion écrite en entier en bas (« AU FOOT : IL ABANDONNE »), le personnage allongé vu de dessus, et un dernier plan qui ne dure que le temps du dernier mot.",
+   "Mixer une musique rythmée vers 129 BPM loin sous la voix, ajouter des clics et whooshs aigus dans les pauses sur les chiffres et à la fin, et exporter autour de -19 LUFS en 1080×1920."
+  ],
+  "apercu": [
+   "refs/r1/images/00159.jpg",
+   "refs/r1/images/00348.jpg",
+   "refs/r1/images/00468.jpg",
+   "refs/r1/images/00732.jpg",
+   "refs/r1/images/00866.jpg",
+   "refs/r1/images/01178.jpg",
+   "refs/r1/images/01488.jpg",
+   "refs/r1/images/01752.jpg"
+  ],
+  "regles": 26,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-lanotaus\\sources\\TikTok_7696128503632235808.mp4",
+    "duree": 60.49,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "FOOTBALL VS BASKETBALL 🏀⚽ abonne toi stp #football #basketball #sport...",
+    "vues": 308900,
+    "lien": "https://www.tiktok.com/@lanotaus/video/7696128503632235808"
+   }
+  ]
+ }
+}

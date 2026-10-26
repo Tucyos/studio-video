@@ -1,0 +1,20 @@
+{
+  "name": "studio-video",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node --no-warnings studio.mjs",
+    "partager": "node outils/partager.mjs",
+    "render": "node render.mjs",
+    "check": "node check.mjs"
+  },
+  "dependencies": {
+    "@gltf-transform/core": "4.5.1",
+    "@gltf-transform/extensions": "4.5.1",
+    "@gltf-transform/functions": "4.5.1",
+    "meshoptimizer": "1.3.0",
+    "playwright": "1.63.0",
+    "sharp": "0.35.5",
+    "three": "0.186.1"
+  }
+}

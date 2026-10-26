@@ -1,0 +1,28 @@
+{
+ "genre": "da",
+ "origine": "Exemple montré par le créateur de Creatorize (chaîne g russ)",
+ "id": "crz-pixel-hi-bit",
+ "titre": "Pixel art haute définition (Hi-Bit)",
+ "famille": "Pixel art",
+ "statut": "exemple",
+ "verdict": "Look « Hi-Bit 640 » du style Pixel art (GTA V sur Android, vidéo a-HK6Wu0PSU) : comparaison avec l'ancien look 16 couleurs, cartes de titre, traitements des photos réelles (CRT, net, pixel).",
+ "look": {
+  "couleurs": "~100 couleurs au lieu de 16, 5 niveaux d'ombrage, ciel jusqu'à 4 couleurs ; écrans et néons lumineux",
+  "rendu": "toujours 640×360 ; photos réelles traitées CRT (lignes de balayage), nettes ou redessinées en pixels ; plein écran, carte ou écran ; photo verticale en affiche encadrée",
+  "mouvement": "B-roll plein écran dès qu'un objet réel est cité, transitions pixelisées"
+ },
+ "exemples": [
+  "exemples/01_hibit_0999.png",
+  "exemples/02_hibit_1008.png",
+  "exemples/03_hibit_1020.png",
+  "exemples/04_hibit_1023.png",
+  "exemples/05_hibit_1390.png",
+  "exemples/06_hibit_1393.png",
+  "exemples/07_hibit_0609.png",
+  "exemples/08_hibit_1354.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/recherches/creatorize/SYNTHESE.md",
+  "C:/claude/tiktok-motion/recherches/creatorize/frames/haiku_frames_cours.md"
+ ]
+}

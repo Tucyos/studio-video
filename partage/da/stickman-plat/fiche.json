@@ -1,0 +1,27 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Survie)",
+ "id": "stickman-plat",
+ "titre": "Personnages bâtons en 2D plate + vues 3D",
+ "famille": "2D vectorielle",
+ "statut": "utilisée",
+ "compte": "Survie",
+ "verdict": "En cours (Survie, « The 101 ») ; pas de validation notée.",
+ "utilisee": [
+  "Survie/station"
+ ],
+ "look": {
+  "couleurs": "tons sourds (sauge, brun, crème), un seul rouge vif pour le danger",
+  "typo": "Roboto Condensed gras",
+  "rendu": "2D vectorielle plate, personnages bâtons, faible profondeur de champ, vignettage marqué ; vues aériennes Three.js ; HUD de jeu"
+ },
+ "exemples": [
+  "exemples/01_cover.png",
+  "exemples/02_planche_v2.jpg",
+  "exemples/03_planche_3d.jpg"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/recherches/brainextends/DA.md",
+  "C:/claude/tiktok-motion/videos/Survie/station/da/da2.html"
+ ]
+}

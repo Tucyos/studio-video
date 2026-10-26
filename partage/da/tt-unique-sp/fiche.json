@@ -1,0 +1,85 @@
+{
+ "createur": "@unique_sp",
+ "nom_du_compte": "unique",
+ "lien": "https://www.tiktok.com/@unique_sp",
+ "genre": "da",
+ "origine": "Copiée de @unique_sp (TikTok)",
+ "auto": {
+  "titre": "Pictogrammes au trait blanc sur fond sombre quadrillé, avec un seul accent rouge",
+  "famille": "2D vectorielle",
+  "en_bref": [
+   "On voit des bonshommes pictogrammes dessinés au trait blanc (tête ronde, corps rectangulaire), debout sur une ligne d'horizon, au centre d'un fond gris presque noir avec un léger quadrillage et une lumière douce venue du haut.",
+   "Le rouge est la seule couleur vive. Il sert aux symboles : nœud rouge lumineux dans la poitrine, escalier, badge, barres de pourcentage. Plus le mot est fort, plus il y a de rouge.",
+   "En haut, un titre en majuscules sur deux niveaux : une petite ligne grise espacée qui reprend le début de la phrase, puis une grande ligne blanche en gras serré qui reprend le mot-clé. Les descriptions signalent aussi un sous-titre d'un seul mot en bas à gauche, mais il n'est pas visible sur les 2 images clés.",
+   "La vidéo dure 61 s en un seul plan, sans coupe ni mouvement de caméra. Le décor reste le même ; ce sont les éléments qui apparaissent, disparaissent ou se transforment, au moins toutes les 8 à 9 s.",
+   "Une voix en français parle sans arrêt, vite (195 à 226 mots par minute), de la 1re image jusqu'à environ 1 s de la fin. Dessous, une musique rythmée très discrète (environ 108 à 112 BPM) et quelques petits bruitages (clic, whoosh, impact) dans les rares pauses.",
+   "Ce qui la rend reconnaissable : un concept de psychologie au nom savant, expliqué avec des pictogrammes neutres et un rouge qui montre l'émotion ou la pression, dans une ambiance sombre de fiche clinique ou d'interface."
+  ],
+  "tags": [
+   "pictogrammes",
+   "trait blanc",
+   "fond sombre",
+   "accent rouge",
+   "psychologie",
+   "plan unique",
+   "interface",
+   "voix off"
+  ],
+  "pour": "Expliquer un concept de psychologie, de relation ou de santé mentale (un nom savant suivi de « pourquoi tu… »), en rendant visible un état intérieur abstrait comme le stress, la peur ou le désir.",
+  "look": {
+   "technique": "Animation 2D vectorielle, probablement dans After Effects ou un outil de motion design équivalent (outil non visible). Les pictogrammes sont faits de formes simples au contour blanc. Des éléments d'interface (cadres, étiquettes, pourcentages, petit écran) sont posés à côté du sujet. Le rouge lumineux est un trait avec une lueur (glow). Une description de r2 parle de « 3D stylisé » avec des silhouettes grises, mais l'image clé de r2 montre le même pictogramme blanc au trait que r1. Un seul plan de 61 s : tout se passe par animation à l'intérieur du cadre.",
+   "couleurs": "Fond gris très foncé #1a1a1a à #2a2a2a, avec un quadrillage à peine plus clair (≈ #2f2f2f) et un vignettage plus sombre sur les bords. Traits des personnages, cadres et grand titre en blanc #ffffff (ou #f5f5f5). Petite ligne de titre et étiquettes en gris clair (≈ #9a9a9a, approximatif). Accent unique en rouge : #c84444 ou #d64d4d en aplat dans r1 (barres, badge, escalier), #ff2020 lumineux avec halo dans r2 (nœud dans la poitrine). Ombre portée au sol : ellipse noire floue. Bulle de dialogue (r2) : fond #ffffff, texte #000000.",
+   "typo": "Le titre en haut au centre a deux niveaux. Ligne 1 : petite, en majuscules, gris clair, lettres très espacées, d'allure monospace (ex. « BEAUCOUP D'HOMMES FONCTIONNENT », « TU »). Ligne 2 : grande sans-serif grasse et serrée, blanche, en majuscules (famille probable Bebas Neue, Oswald ou Anton), qui reprend le groupe-clé (« SOUS TENSION PERMANENTE, »), ponctuation comprise. Aucun contour, aucune ombre. Sur un mot absolu, la ligne 2 devient énorme et occupe tout le haut (« JAMAIS. »). Le titre apparaît au plus tard 3 images après le début du mot. Les étiquettes d'interface sont en monospace très petit (« 24 H / 24 · » dans un cadre blanc fin ; « REPRISE » ; « CŒUR », « ÉMOTIONS », « PEUR »). Sous-titre : selon les descriptions, un seul mot, celui qui est prononcé, en sans-serif blanc en bas à gauche, qui change à chaque mot (non visible sur les 2 images clés). Animation d'entrée des textes : non visible.",
+   "rendu": "Rendu plat au trait fin et régulier, sans texture. La lumière vient d'une douce zone claire en haut du cadre, avec un vignettage sombre autour. Une ligne d'horizon fine coupe le cadre vers 72 % de la hauteur, avec une ombre elliptique floue sous les pieds. Le seul effet est la lueur rouge (glow) autour des éléments chargés d'émotion. Une sphère blanche très lumineuse apparaît une fois dans r1 (« mieux »). L'ensemble évoque un écran de laboratoire ou une fiche clinique.",
+   "personnages": "Pictogrammes humains génériques, tous identiques : tête ronde, buste rectangulaire avec un petit col, bras le long du corps, deux jambes droites, contour blanc et intérieur du même gris que le fond. Pas de visage, pas de vêtements, aucun individu reconnaissable. Selon la phrase, on en voit 1, 2 face à face ou côte à côte en symétrie, ou une rangée de 5 à 6. L'émotion se montre par le rouge dans la poitrine (nœud ou zone qui grandit), par des bulles de pensée (3 ronds de taille croissante) ou par une bulle de dialogue.",
+   "decors": "Aucun décor réel. Un fond uni sombre quadrillé et une ligne de sol, identiques du début à la fin. Les accessoires symboliques sont posés autour du sujet : escalier rouge (discipline), badge ou cercle rouge (encaisser la pression), barres et pastille en % (concentré, connecté), petit écran schématique avec deux pictogrammes et une flèche (« REPRISE »), liste d'étiquettes, ellipse blanche qui isole la figure, cadre de compteur « 24 H / 24 ».",
+   "mouvement": "Caméra fixe pendant 61 s : 0 coupe, 0 panoramique, 0 zoom, 0 bascule. Le cadre change de composition au moins toutes les ≈ 261 images (8,7 s) par apparition, disparition ou transformation d'éléments (fondus doux probables ; les fondus ne sont pas mesurés). Le sujet lui-même peut tourner légèrement (r2). Cadrage : figure centrée, de face, en plan moyen. Les plans de groupe sont en plan large, parfois en légère contre-plongée (r2). Le tiers haut reste libre pour le titre. La vidéo ouvre et ferme sur une rangée symétrique de figures identiques.",
+   "son": "Voix off en français, unique, du début à la fin (part de voix 0,99 dans r1 et 0,83 dans r2). Débit rapide de 195 à 226 mots par minute, ton explicatif et posé. Humaine ou de synthèse : non déterminable avec les données. Brillance de la voix ≈ 1 570 à 1 610 Hz. Niveau final ≈ -14 LUFS. Musique probable sous la voix, très basse (fond à -26 dB dans r1 et -38 dB dans r2, soit 12 à 23 dB sous la voix), au battement régulier (régularité 0,92 à 0,93), tempo 108 BPM (r1) et 112 BPM (r2), peu percussive (26 à 30 %). Genre : non déterminable. Bruitages légers seulement repérables dans les pauses : 4 à 5 par vidéo, aigus (clic, whoosh, cloche), médiums ou graves (impact). Silences très courts (0,3 à 0,74 s), en fin de phrase."
+  },
+  "pour_refaire": [
+   "Écrire un texte d'environ 190 à 200 mots pour 61 s. Ouvrir par une affirmation choc (« Il est prouvé que… ») ou une question (« Pourquoi certaines personnes… ? »). Nommer ensuite le concept savant. Expliquer le mécanisme, décrire la situation vécue (« tu… » ou « beaucoup d'hommes… »), recadrer avec « Ce n'est pas X, c'est Y », puis conclure (abonnement en option).",
+   "Enregistrer la voix d'une traite, débit soutenu (195 à 226 mots par minute), pauses de 0,3 à 0,5 s seulement en fin de phrase. Le 1er mot tombe à l'image 1 et le dernier commence 20 à 26 images avant la fin.",
+   "Préparer un projet en 9:16 à 30 i/s de 61 s, avec un seul plan et aucune coupe.",
+   "Construire le décor fixe : fond #1a1a1a à #2a2a2a avec un quadrillage très discret, vignettage, halo clair en haut, ligne d'horizon fine vers 72 % de la hauteur. Ne plus jamais le changer.",
+   "Dessiner un pictogramme humain unique au trait blanc (tête ronde, buste rectangulaire, jambes droites) avec une ombre elliptique floue au sol, puis le dupliquer pour les groupes. Pas de visage, pas de vêtement.",
+   "Découper le texte en idées et prévoir une composition différente au moins toutes les 8 à 9 s. Alterner groupe (le général : « les gens », « le couple ») et figure isolée (le cas individuel), en restant centré, de face, en plan moyen.",
+   "Pour chaque nom ou verbe abstrait, poser un symbole simple au moment où il est dit : escalier (discipline), badge ou cercle (encaisser), zone rouge qui envahit le corps (« prend »), ellipse qui isole (« sort »), bulle de dialogue (dire ou expliquer), petit écran schématique ou liste d'étiquettes (mot technique).",
+   "Utiliser le rouge (#c84444 en aplat, ou #ff2020 avec lueur) seulement pour l'élément symbolique, et agrandir sa surface quand l'intensité du mot monte. Le reste reste blanc ou gris.",
+   "Pour un état mesurable (concentré, connecté), ajouter des chiffres graphiques : barres ou pastille en %, ou un compteur en monospace dans un cadre fin (« 24 H / 24 · »).",
+   "Placer le titre en haut au centre, en deux lignes : petite ligne grise espacée en monospace pour le début de la phrase, puis grande ligne blanche en sans-serif grasse et serrée pour le mot-clé (1 à 4 mots), visible au plus tard 3 images après le début du mot.",
+   "Pour un mot absolu (« jamais », « toujours »), passer le titre en taille maximale sur toute la largeur du haut.",
+   "Ajouter le sous-titre d'un mot, synchronisé mot à mot sur la voix, en sans-serif blanc en bas à gauche.",
+   "Faire entrer et sortir les éléments par fondus ou petites animations, sans mouvement de caméra. On peut faire pivoter légèrement la figure isolée.",
+   "Mixer la voix vers -14 LUFS, avec une musique rythmée de 105 à 115 BPM entre 12 et 23 dB sous la voix, et 4 ou 5 petits bruitages (whoosh, clic, impact) placés dans les pauses.",
+   "Finir sur la même composition qu'au début : une rangée symétrique de pictogrammes identiques."
+  ],
+  "apercu": [
+   "refs/r1/images/00916.jpg",
+   "refs/r2/images/00916.jpg"
+  ],
+  "regles": 27,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-unique-sp\\sources\\TikTok_7696550243772534048.mp4",
+    "duree": 61.01,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "L'apaisement parasympathique : Pourquoi dans un couple qui a de l'int...",
+    "vues": 1100000,
+    "lien": "https://www.tiktok.com/@unique_sp/video/7696550243772534048"
+   },
+   {
+    "id": "r2",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-unique-sp\\sources\\TikTok_7698035739337968928.mp4",
+    "duree": 61,
+    "format": "9:16",
+    "langue": "fr",
+    "titre": "L’alexithymie : pourquoi tu n’arrive pas à identifier et exprimer tes...",
+    "vues": 225600,
+    "lien": "https://www.tiktok.com/@unique_sp/video/7698035739337968928"
+   }
+  ]
+ }
+}

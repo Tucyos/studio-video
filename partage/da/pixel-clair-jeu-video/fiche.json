@@ -1,0 +1,26 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Koan)",
+ "id": "pixel-clair-jeu-video",
+ "titre": "Pixel clair façon jeu vidéo",
+ "famille": "Pixel art",
+ "statut": "validée",
+ "compte": "Koan",
+ "verdict": "20/10 : « cette DA est bien, on part là-dessus pour toute la vidéo » (V1 « pas assez détaillée », V2 un décor détaillé par plan).",
+ "utilisee": [
+  "bouc-emissaire"
+ ],
+ "look": {
+  "couleurs": "aplats vifs, contour sombre #2b2d42 de 1 px, 2 tons par matière ; ciel de fin d'après-midi ; schémas sur fond clair #eef2f5 à points ; rouge #e0252c pour les mots clés",
+  "typo": "VT323 blanc cerné d'encre",
+  "rendu": "grille 540×960 ×2, pas de brume, de bloom ni de flou"
+ },
+ "exemples": [
+  "exemples/01_couverture.png",
+  "exemples/02_planche_v2.png",
+  "exemples/03_planche_da.png"
+ ],
+ "sources": [
+  "C:/claude/tiktok-motion/videos/Koan/bouc-emissaire/etat.md"
+ ]
+}

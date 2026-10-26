@@ -1,0 +1,19 @@
+{
+ "genre": "da",
+ "origine": "Tes vidéos (Koan)",
+ "id": "mixed-media",
+ "titre": "Mixed media minimaliste (photos découpées, grain)",
+ "famille": "Collage",
+ "statut": "idée",
+ "compte": "Koan",
+ "verdict": "Jamais utilisée : valeurs tirées d'une analyse de Gemini (« approximations »).",
+ "look": {
+  "couleurs": "nuit #12151B / papier #F1EDE4 ; bleu #3B6FB6 contre rouge #D94848 pour A/B ; surligneur jaune #EBC94B ; menthe #46B29A pour la science",
+  "typo": "Inter, Playfair, JetBrains Mono",
+  "rendu": "grain permanent qui « bout » à 24 i/s ; photos découpées avec ombre douce et léger angle ; objets 3D mats façon argile (références : Vox, Johnny Harris, 3Blue1Brown)"
+ },
+ "exemples": [],
+ "sources": [
+  "C:/claude/tiktok-motion/studio/da-mixed-media.md"
+ ]
+}

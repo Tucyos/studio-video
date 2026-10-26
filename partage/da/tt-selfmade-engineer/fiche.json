@@ -1,0 +1,90 @@
+{
+ "createur": "@selfmade.engineer",
+ "nom_du_compte": "selfmade.engineer",
+ "lien": "https://www.tiktok.com/@selfmade.engineer",
+ "genre": "da",
+ "origine": "Copiée de @selfmade.engineer (TikTok)",
+ "auto": {
+  "titre": "Maquette 3D low-poly qu'on construit pièce par pièce, sous-titrée mot à mot",
+  "famille": "3D stylisée",
+  "en_bref": [
+   "La vidéo montre un petit monde en 3D simplifiée, comme un jouet : arbres en boules à facettes, ciel dégradé violet-rose-orange, atelier beige avec un panneau perforé et des outils, et une machine qu'on assemble au fil de la vidéo.",
+   "Une voix off anglaise parle sans s'arrêter et très vite (environ 210 mots par minute). À chaque étape elle répète la même logique : un problème, « So, you add… », puis « This is the… » pour donner le nom de la pièce. Elle termine toujours par « Look at you! You just built a … ».",
+   "Au centre de l'écran, un seul mot blanc en gras s'affiche à la fois : le mot que la voix prononce à cet instant.",
+   "Le rythme dépend de la vidéo. Soit on garde un long plan continu où la caméra pivote environ toutes les 1,8 s, soit on enchaîne des coupes sèches très rapides, de 0,8 s à 0,25 s par plan, quand on énumère des étapes.",
+   "Sous la voix, on mesure une musique rythmée discrète (123 à 144 BPM) et quelques bruitages aigus (clics, whoosh) dans les rares respirations. Une seule coupe douce par film, et aucun effet graphique de transition.",
+   "Ce qui la rend reconnaissable : partir d'un objet ridicule (une boîte de soupe avec un pétard, une Honda Civic sur un looping), puis ajouter les vraies pièces une à une jusqu'à obtenir l'objet réel, et revenir à la fin sur un grand plan large de l'ensemble."
+  ],
+  "tags": [
+   "3d low-poly",
+   "vulgarisation",
+   "ingénierie",
+   "sous-titres mot à mot",
+   "voix off rapide",
+   "construction pas à pas",
+   "vertical 9:16"
+  ],
+  "pour": "Expliquer comment marche une machine ou un système technique (moteur, véhicule, fusée, appareil du quotidien, prouesse vue dans l'actualité) en le reconstruisant pièce par pièce, chaque pièce répondant au problème laissé par la précédente.",
+  "look": {
+   "technique": "3D temps réel ou rendu 3D simple, avec des modèles low-poly (outil exact non visible ; un logiciel comme Blender ou un moteur de jeu est probable). Les pièces sont animées pour de vrai : roues qui tournent, piston qui monte et descend, vilebrequin qui tourne, vue éclatée qui s'ouvre, jets d'air, voiture qui se retourne. La caméra virtuelle est animée en continu (bascules d'environ 1 s). Les sous-titres sont ajoutés au montage, synchronisés mot à mot sur la voix (sous-titrage automatique probable). Export en 9:16, 720×1280 mesuré, 30 i/s.",
+   "couleurs": "Univers extérieur (r1) : ciel en dégradé du violet-bleu (#6B5B95 / #7B6BB0 environ) au rose (#D8A5FF / #E8A8D8) puis à l'orange pêche (#E8A8A8 / #F0A07A) près de l'horizon, avec des nuages roses flous. Le ciel sert d'ambiance de coucher de soleil. Arbres low-poly vert franc (#7CB342 / #6BA83A environ), herbe vert clair. Structures en treillis métallique gris clair (#BFBFBF). Piste du looping gris-beige avec une bordure orange. Voiture blanche, châssis et batterie bleus (#3B5BDB) en vue éclatée. Afficheur « SPEED 23 MPH » : fond noir, chiffres orange. Univers atelier (r2) : mur beige-rosé clair (#E8DCD8 environ), panneau perforé couleur bois (#D4A574), clés à outils rouges, vertes, jaunes et noires, sol en dalles gris-lavande (#A8A0B0), socles et bâti noir mat (#1A1A1A / #2A2A2A), cylindres en verre transparent, pistons gris métal (#A9A9A9), boîte de soupe rouge et blanche (#FF3333 / #FFFFFF), capuchons de bougies bleus. Climax : éclats jaune or (#FFD700) et rouge-orangé (#FF6347) pour l'explosion. Texte : toujours blanc (#FFFFFF).",
+   "typo": "Une seule police sans-serif géométrique arrondie, en très gras (style Montserrat / Poppins ExtraBold ; nom exact non visible). Blanc pur, en minuscules sur les images (« this », « crankshaft », « cold », « edges »), avec une légère ombre ou un contour sombre très fin pour rester lisible sur fond clair. Taille petite à moyenne (environ 1/8 de la largeur de l'écran pour un mot court). Position : pile au centre de l'image dans les captures. Les descriptions signalent aussi des mots en haut-centre, posés sur l'objet qu'ils nomment, ou placés selon leur sens (« up » en haut, « down » en bas). Un seul mot à la fois (parfois 2 à 3), qui change exactement au rythme de la voix, sans animation d'entrée visible. Texte agrandi au climax (« explosion », « hits », « dozens ») et sur la phrase finale. Symbole « ~ » devant les valeurs approximatives (« ~60 »). Pas de titre ni de bandeau fixe. Seul texte intégré au décor : l'afficheur de vitesse « SPEED / 23 MPH » (lettres blanches et chiffres orange sur fond noir).",
+   "rendu": "Low-poly propre aux arêtes nettes, couleurs unies sans texture photo, ombrage doux, ombres portées légères. Lumière chaude et diffuse de fin de journée en extérieur, lumière neutre et douce d'intérieur dans l'atelier. Matières simples : métal gris mat, plastique noir mat, verre transparent (cylindres), bois clair. Flou d'arrière-plan léger sur certains gros plans (ciel et nuages flous). Effets : jets d'air bleu clair et petites flammes blanches sur les propulseurs (image 4), éclats jaunes et orange de l'explosion, vue éclatée de la voiture qui laisse voir batterie, réservoirs et ventilateurs (images 2-3). Pas de grain ni de filtre.",
+   "personnages": "Aucun personnage visible. Le héros est l'objet (voiture, moteur). Le spectateur est interpellé à la deuxième personne (« you », « Look at you! »).",
+   "decors": "Deux décors types. 1) Circuit d'essai en extérieur : looping géant gris à bord orange, portiques en treillis métallique, lampadaires, plots, petit véhicule jaune, arbres low-poly, pelouse, ciel au coucher du soleil, piste vue par-dessous quand la voiture roule à l'envers. 2) Atelier minimaliste : mur clair, panneau perforé avec 4 à 5 clés colorées accrochées, sol en dalles, socle noir sur lequel la machine grandit (cylindre en verre → piston → roue et vilebrequin → quatre cylindres avec bougies). Le décor ne change pas et reste en fond pendant que l'objet se complète. Les descriptions signalent aussi une ouverture en paysage (vue aérienne d'une route et de ponts en r1, terrain vert avec maison en r2). Ce n'est pas visible sur les images clés fournies.",
+   "mouvement": "Format vertical plein cadre. Ouverture : un plan continu de 3 à 6 s sur toute la phrase d'accroche, avec un fort mouvement en profondeur (zoom arrière de -12,9 %/s en r1, zoom avant de +24,9 %/s en r2). La première coupe tombe sur le mot de relance (« how », « built »). Ensuite, un mode dominant par vidéo. Mode A, plan long + bascules (r1) : 0,5 coupe et 3,6 bascules par 10 s, un plan de 46 s, la caméra tourne autour de l'objet. Mode B, rafales de coupes (r2) : 6,3 coupes par 10 s, plan médian de 0,63 s, caméra fixe dans les rafales, paliers de 24 images puis de 13-14 images, et la phrase « This is a four-cylinder » montée un mot par plan (7-8 images). Une bascule dure environ 1 s, atteint sa vitesse maximale vers 0,5 s, et démarre sur l'attaque du mot illustré. Les coupes tombent sur le début d'un mot (écart médian 0,5 image). Un flash de 5 images marque le passage d'un bloc au suivant. Uniquement des coupes franches et des bascules, une seule coupe douce par film. Pas de fondu décrit. Le mouvement illustre les verbes (roues qui tournent sur « spinning », rebond sur « bouncing », retournement sur « flip »). Fin : grand recul stabilisé sur l'objet entier (jusqu'à 20 s en r2).",
+   "son": "Voix off masculine ou féminine non déterminable par les données, en anglais. Impossible de dire si c'est une voix humaine ou une synthèse vocale. Débit très rapide et continu (209 à 215 mots/min), aucune pause mesurée (un seul silence de 0,37 s en r1, quatre de 0,3 à 0,39 s en r2). Mixage fort : -16,2 et -14 LUFS, voix environ 6 à 8 dB au-dessus du fond. Ton enjoué et complice, tutoiement (« you »), exclamation finale. Musique probable sous la voix, régulière et percussive (123 BPM en r1, 143,6 BPM en r2, régularité 0,93-0,94), mixée bas (-32,8 / -27,8 dB hors voix). Genre non mesuré. Un seul changement de musique, en r2 à 65,9 s (fin). Bruitages probables dans les micro-pauses : 9 (r1) et 11 (r2), surtout aigus (clic, whoosh, cloche), quelques médiums. Son d'origine (« original sound »)."
+  },
+  "pour_refaire": [
+   "Écrire le script en anglais court et parlé, au tutoiement, sur cette trame : accroche absurde ou fait d'actu (« If you put a firecracker under a soup can… » / « Last night, Tesla drove… ») → « Here's how that actually works. » → essai naïf qui échoue → boucles « But [problème]. So, you [ajout]. This is the [nom de la pièce]. » → « Look at you! You just built a [objet]. » Viser 240 à 275 mots pour 67 à 79 s.",
+   "Choisir un décor 3D low-poly unique qui reste en place tout le film : circuit extérieur au coucher du soleil (ciel dégradé violet → rose → orange, arbres à facettes verts) ou atelier clair (mur beige, panneau perforé et outils colorés, sol en dalles gris-lavande, socle noir).",
+   "Modéliser l'objet en pièces séparées, couleurs unies et matières simples (métal gris, plastique noir mat, verre transparent, une couleur d'accent comme le bleu batterie ou le rouge de la boîte de soupe), pour pouvoir ajouter les pièces une par une et faire une vue éclatée.",
+   "Animer chaque pièce pour qu'elle fasse ce que dit la voix : rotation sur « spin/spinning », rebond sur « bouncing », jets d'air, retournement sur « flip », explosion aux éclats jaune or #FFD700 et orange #FF6347 sur « explosion ».",
+   "Enregistrer ou générer la voix off d'une traite, très rapide (environ 210 mots/min), sans blancs. Normaliser autour de -14 à -16 LUFS.",
+   "Ouvrir sur un plan continu de 3 à 6 s qui couvre toute la première phrase, avec un net zoom avant ou arrière, puis couper au milieu de la phrase sur le mot de relance.",
+   "Choisir UN mode de montage pour toute la vidéo : soit un long plan où la caméra pivote environ toutes les 1,8 s (bascule d'environ 1 s, vitesse maximale à 0,5 s), soit des rafales de coupes sèches caméra fixe (paliers de 0,8 s puis 0,45 s). Garder au moins un plan continu très long (plus de 20 s) pour la démonstration ou la fin.",
+   "Caler chaque coupe ou départ de bascule sur l'attaque du mot qu'il illustre (0 à 2 images d'écart). À chaque pièce nommée, passer en très gros plan dessus, puis revenir au plan d'ensemble.",
+   "Monter la phrase de définition clé (« This is a four-cylinder ») en staccato, un mot par plan de 7 à 8 images, avec la pièce entière à l'image sur le dernier mot.",
+   "Placer un flash de 5 images (mouvement rapide) entre deux grands blocs ou juste avant le climax, suivi de la seule coupe douce du film. Pour changer de grande partie, faire une coupe franche au milieu des bascules. Aucune autre transition, aucun effet graphique.",
+   "Sous-titrer mot à mot : un mot (parfois 2-3) affiché seulement pendant qu'il est dit, sans-serif arrondie très grasse, blanc pur, minuscules, légère ombre sombre, centré. Répéter le terme technique sur plusieurs images (« tube, tube, tube »), placer les mots de direction dans leur sens (« up » en haut, « down » en bas), mettre « ~ » devant les chiffres approximatifs, grossir le texte au climax et sur la phrase finale.",
+   "Ajouter un afficheur intégré au décor si un chiffre compte (ex. compteur « SPEED 23 MPH », chiffres orange sur fond noir).",
+   "Glisser une musique rythmée régulière (120 à 145 BPM) très bas sous la voix, et de petits bruitages aigus (clic, whoosh) dans les micro-respirations.",
+   "Finir par un grand recul stabilisé qui montre l'objet entier, voire un retour au décor du début, sur « You just built a … », avec le texte plus grand.",
+   "Exporter en 9:16, 30 i/s, sans logo. Titre de publication au format « how a [objet] works the simple way », suivi des hashtags #engineering #howitworks #science #learnontiktok."
+  ],
+  "apercu": [
+   "refs/r1/images/00267.jpg",
+   "refs/r1/images/01132.jpg",
+   "refs/r1/images/01751.jpg",
+   "refs/r1/images/02126.jpg",
+   "refs/r2/images/00319.jpg",
+   "refs/r2/images/00614.jpg",
+   "refs/r2/images/01120.jpg",
+   "refs/r2/images/01275.jpg"
+  ],
+  "regles": 29,
+  "date": "2026-10-20",
+  "videos": [
+   {
+    "id": "r1",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-selfmade-engineer\\sources\\TikTok_7697426565847600397.mp4",
+    "duree": 78.69,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "how a Tesla roadster works the simple way #engineering #howitworks #s...",
+    "vues": 10500000,
+    "lien": "https://www.tiktok.com/@selfmade.engineer/video/7697426565847600397"
+   },
+   {
+    "id": "r2",
+    "video": "C:\\claude\\studio-projets\\_styles\\tt-selfmade-engineer\\sources\\TikTok_7696139106492960031.mp4",
+    "duree": 67.08,
+    "format": "9:16",
+    "langue": "en",
+    "titre": "how a car works the simple way #engineering #howitworks #science #lea...",
+    "vues": 4000000,
+    "lien": "https://www.tiktok.com/@selfmade.engineer/video/7696139106492960031"
+   }
+  ]
+ }
+}
